@@ -1,0 +1,32 @@
+ScrY: Sucrose-Specific Porin (PDB:1A0S) 
+
+OmpA: Outer Membrane Protein A (PDB:1BXW)
+cmd.png('''/Users/davidjm/public_html/bbtmst/images/b1BXW.png''',quiet=0)
+
+Omp32: Anion-selective porin (PDB:1E54)
+cmd.png('''/Users/davidjm/public_html/bbtmst/images/c1E54.png''',quiet=0)
+
+FepA: Ferric enterobactin receptor (PDB:1FEP)
+cmd.png('''/Users/davidjm/public_html/bbtmst/images/d1FEP.png''',quiet=0)
+
+OmpT: Outer membrane protease (PDB:1I78)
+cmd.png('''/Users/davidjm/public_html/bbtmst/images/e1I78.png''',quiet=0)
+
+FecA: Outer membrane transporter (PDB:1KMO)
+cmd.png('''/Users/davidjm/public_html/bbtmst/images/f1KMO.png''',quiet=0)
+
+BtuB: Outer membrane cobalamin transporter (PDB:1NQE)
+cmd.png('''/Users/davidjm/public_html/bbtmst/images/g1NQE.png''',quiet=0)
+
+Outer membrane phospholipase A (PDB: 1QD6)
+cmd.png('''/Users/davidjm/public_html/bbtmst/images/h1QD6.png''',quiet=0)
+
+
+OMPX: Outer membrane protein X (PDB: 1QJ8)
+cmd.png('''/Users/davidjm/public_html/bbtmst/images/i1QJ8.png''',quiet=0)
+
+lamB: Maltoporin (PDB:2MPR)
+cmd.png('''/Users/davidjm/public_html/bbtmst/images/j2MPR.png''',quiet=0)
+
+OmpF: Porin (PDB:2OMF)  
+cmd.png('''/Users/davidjm/public_html/bbtmst/images/k2OMF.png''',quiet=0)

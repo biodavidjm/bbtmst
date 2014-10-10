@@ -1,0 +1,1647 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> 2F1C.strands
+         (136 letters)
+
+<b>Database:</b> All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           13,135,398 sequences; 4,494,708,239 total letters
+
+Searching..................................................done<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320089678&dopt=GenPept" >pdb|2X9K|A</a>  Chain A, Structure Of A E.Coli Porin                  <a href = #320089678>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300916441&dopt=GenPept" >ref|ZP_07133179.1|</a>  outer membrane insertion signal [Escheri...   <a href = #300916441>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=159164722&dopt=GenPept" >pdb|2JQY|A</a>  Chain A, Outer Membrane Protein G                     <a href = #159164722>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114794814&dopt=GenPept" >pdb|2IWV|A</a>  Chain A, Structure Of The Monomeric Outer Membra...   <a href = #114794814>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110591316&dopt=GenPept" >pdb|2F1C|X</a>  Chain X, Crystal Structure Of The Monomeric Pori...   <a href = #110591316>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193067135&dopt=GenPept" >ref|ZP_03048104.1|</a>  monomeric porin OmpG [Escherichia coli E...   <a href = #193067135>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=191165040&dopt=GenPept" >ref|ZP_03026884.1|</a>  monomeric porin OmpG [Escherichia coli B...   <a href = #191165040>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16129280&dopt=GenPept" >ref|NP_415835.1|</a>  outer membrane porin G [Escherichia coli s...   <a href = #16129280>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=187733557&dopt=GenPept" >ref|YP_001880152.1|</a>  monomeric porin OmpG [Shigella boydii C...   <a href = #187733557>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315619402&dopt=GenPept" >gb|EFU99946.1|</a>  outer membrane protein G [Escherichia coli 3...   <a href = #315619402>188</a>   3e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320195667&dopt=GenPept" >gb|EFW70292.1|</a>  Outer membrane protein G precursor [Escheric...   <a href = #320195667>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=306813656&dopt=GenPept" >ref|ZP_07447837.1|</a>  outer membrane porin [Escherichia coli N...   <a href = #306813656>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300935428&dopt=GenPept" >ref|ZP_07150425.1|</a>  outer membrane insertion signal [Escheri...   <a href = #300935428>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=281178510&dopt=GenPept" >dbj|BAI54840.1|</a>  conserved hypothetical protein [Escherichia...   <a href = #281178510>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291282413&dopt=GenPept" >ref|YP_003499231.1|</a>  outer membrane protein G [Escherichia c...   <a href = #291282413>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227886245&dopt=GenPept" >ref|ZP_04004050.1|</a>  OmpG family porin [Escherichia coli 8397...   <a href = #227886245>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=222033123&dopt=GenPept" >emb|CAP75863.1|</a>  Outer membrane protein G [Escherichia coli ...   <a href = #222033123>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218689309&dopt=GenPept" >ref|YP_002397521.1|</a>  outer membrane porin [Escherichia coli ...   <a href = #218689309>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218700042&dopt=GenPept" >ref|YP_002407671.1|</a>  outer membrane porin [Escherichia coli ...   <a href = #218700042>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170683200&dopt=GenPept" >ref|YP_001743857.1|</a>  monomeric porin OmpG [Escherichia coli ...   <a href = #170683200>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91210613&dopt=GenPept" >ref|YP_540599.1|</a>  outer membrane protein G precursor [Escher...   <a href = #91210613>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26247655&dopt=GenPept" >ref|NP_753695.1|</a>  Outer membrane protein G precursor [Escher...   <a href = #26247655>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15801851&dopt=GenPept" >ref|NP_287869.1|</a>  outer membrane protein [Escherichia coli O...   <a href = #15801851>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194433844&dopt=GenPept" >ref|ZP_03066118.1|</a>  monomeric porin OmpG [Shigella dysenteri...   <a href = #194433844>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110641554&dopt=GenPept" >ref|YP_669284.1|</a>  outer membrane protein G precursor [Escher...   <a href = #110641554>187</a>   4e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307220865&dopt=GenPept" >ref|ZP_07507289.1|</a>  outer membrane porin [Escherichia coli M...   <a href = #307220865>186</a>   8e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307348823&dopt=GenPept" >ref|ZP_07618428.1|</a>  outer membrane porin [Escherichia coli T...   <a href = #307348823>185</a>   2e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215486616&dopt=GenPept" >ref|YP_002329047.1|</a>  outer membrane porin OmpG [Escherichia ...   <a href = #215486616>184</a>   3e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300508336&dopt=GenPept" >pdb|2WVP|A</a>  Chain A, Synthetically Modified Ompg                  <a href = #300508336>184</a>   5e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157160830&dopt=GenPept" >ref|YP_001458148.1|</a>  outer membrane protein G [Escherichia c...   <a href = #157160830>184</a>   5e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=237705349&dopt=GenPept" >ref|ZP_04535830.1|</a>  outer membrane protein G [Escherichia sp...   <a href = #237705349>182</a>   2e-44
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=117623572&dopt=GenPept" >ref|YP_852485.1|</a>  outer membrane protein G precursor [Escher...   <a href = #117623572>182</a>   2e-44
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313649518&dopt=GenPept" >gb|EFS13949.1|</a>  outer membrane protein G [Shigella flexneri ...   <a href = #313649518>157</a>   5e-37
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323168185&dopt=GenPept" >gb|EFZ53871.1|</a>  outer membrane protein G [Shigella sonnei 53G]    <a href = #323168185>140</a>   6e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=283832958&dopt=GenPept" >ref|ZP_06352699.1|</a>  outer membrane protein G [Citrobacter yo...   <a href = #283832958>130</a>   9e-29
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=297517595&dopt=GenPept" >ref|ZP_06935981.1|</a>  outer membrane protein G [Escherichia co...   <a href = #297517595>129</a>   1e-28
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161503226&dopt=GenPept" >ref|YP_001570338.1|</a>  hypothetical protein SARI_01294 [Salmon...   <a href = #161503226>126</a>   9e-28
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=283785393&dopt=GenPept" >ref|YP_003365258.1|</a>  outer membrane protein G precursor [Cit...   <a href = #283785393>120</a>   6e-26
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323185516&dopt=GenPept" >gb|EFZ70877.1|</a>  outer membrane protein G [Escherichia coli 1...   <a href = #323185516>112</a>   2e-23
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288549686&dopt=GenPept" >ref|ZP_05967843.2|</a>  outer membrane protein G [Enterobacter c...   <a href = #288549686> 96</a>   1e-18
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146311808&dopt=GenPept" >ref|YP_001176882.1|</a>  outer membrane protein G precursor [Ent...   <a href = #146311808> 95</a>   4e-18
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296102151&dopt=GenPept" >ref|YP_003612297.1|</a>  outer membrane protein G precursor [Ent...   <a href = #296102151> 83</a>   1e-14
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=195940854&dopt=GenPept" >ref|ZP_03086236.1|</a>  outer membrane protein G precursor [Esch...   <a href = #195940854> 83</a>   2e-14
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=297521044&dopt=GenPept" >ref|ZP_06939430.1|</a>  outer membrane porin OmpG [Escherichia c...   <a href = #297521044> 77</a>   1e-12
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323185515&dopt=GenPept" >gb|EFZ70876.1|</a>  outer membrane protein G domain protein [Esc...   <a href = #323185515> 72</a>   2e-11
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320173726&dopt=GenPept" >gb|EFW48910.1|</a>  Outer membrane protein G precursor [Shigella...   <a href = #320173726> 72</a>   2e-11
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315619473&dopt=GenPept" >gb|EFV00009.1|</a>  outer membrane G domain protein [Escherichia...   <a href = #315619473> 51</a>   7e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313649519&dopt=GenPept" >gb|EFS13950.1|</a>  outer membrane G domain protein [Shigella fl...   <a href = #313649519> 47</a>   8e-04
+</PRE>
+<PRE>
+><a name = 320089678></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320089678&dopt=GenPept" >pdb|2X9K|A</a> Chain A, Structure Of A E.Coli Porin
+          Length = 280
+
+ Score =  189 bits (664), Expect = 1e-46
+ Identities = 136/275 (49%), Positives = 136/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 6   WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 65
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 66  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 125
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 126 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 185
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 186 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGADFNRVGLFYGYDFQ 245
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 246 NGLSVSLEYAFEWQDADEGDSDKFHYAGVGVNYSF 280
+</PRE>
+
+
+<PRE>
+><a name = 300916441></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300916441&dopt=GenPept" >ref|ZP_07133179.1|</a> outer membrane insertion signal [Escherichia coli MS 115-1]
+ <a name = 300416242></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300416242&dopt=GenPept" >gb|EFJ99552.1|</a> outer membrane insertion signal [Escherichia coli MS 115-1]
+          Length = 301
+
+ Score =  189 bits (664), Expect = 1e-46
+ Identities = 136/275 (49%), Positives = 136/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 159164722></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=159164722&dopt=GenPept" >pdb|2JQY|A</a> Chain A, Outer Membrane Protein G
+          Length = 280
+
+ Score =  189 bits (664), Expect = 1e-46
+ Identities = 136/275 (49%), Positives = 136/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 6   WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 65
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 66  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 125
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 126 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 185
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 186 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 245
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 246 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 280
+</PRE>
+
+
+<PRE>
+><a name = 114794814></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114794814&dopt=GenPept" >pdb|2IWV|A</a> Chain A, Structure Of The Monomeric Outer Membrane Porin Ompg In
+           The Open And Closed Conformation
+ <a name = 114794815></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114794815&dopt=GenPept" >pdb|2IWV|B</a> Chain B, Structure Of The Monomeric Outer Membrane Porin Ompg In
+           The Open And Closed Conformation
+ <a name = 114794816></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114794816&dopt=GenPept" >pdb|2IWV|C</a> Chain C, Structure Of The Monomeric Outer Membrane Porin Ompg In
+           The Open And Closed Conformation
+ <a name = 114794817></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114794817&dopt=GenPept" >pdb|2IWV|D</a> Chain D, Structure Of The Monomeric Outer Membrane Porin Ompg In
+           The Open And Closed Conformation
+ <a name = 114794818></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114794818&dopt=GenPept" >pdb|2IWW|A</a> Chain A, Structure Of The Monomeric Outer Membrane Porin Ompg In
+           The Open And Closed Conformation
+ <a name = 114794819></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114794819&dopt=GenPept" >pdb|2IWW|B</a> Chain B, Structure Of The Monomeric Outer Membrane Porin Ompg In
+           The Open And Closed Conformation
+          Length = 281
+
+ Score =  189 bits (664), Expect = 1e-46
+ Identities = 136/275 (49%), Positives = 136/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 7   WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 66
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 67  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 126
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 127 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 186
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 187 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 246
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 247 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 281
+</PRE>
+
+
+<PRE>
+><a name = 110591316></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110591316&dopt=GenPept" >pdb|2F1C|X</a> Chain X, Crystal Structure Of The Monomeric Porin Ompg
+          Length = 286
+
+ Score =  189 bits (664), Expect = 1e-46
+ Identities = 136/275 (49%), Positives = 136/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 6   WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 65
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 66  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 125
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 126 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 185
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 186 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 245
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 246 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 280
+</PRE>
+
+
+<PRE>
+><a name = 193067135></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193067135&dopt=GenPept" >ref|ZP_03048104.1|</a> monomeric porin OmpG [Escherichia coli E110019]
+ <a name = 192959725></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=192959725&dopt=GenPept" >gb|EDV90159.1|</a> monomeric porin OmpG [Escherichia coli E110019]
+          Length = 301
+
+ Score =  189 bits (664), Expect = 1e-46
+ Identities = 136/275 (49%), Positives = 136/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVNEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 191165040></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=191165040&dopt=GenPept" >ref|ZP_03026884.1|</a> monomeric porin OmpG [Escherichia coli B7A]
+ <a name = 300904971></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300904971&dopt=GenPept" >ref|ZP_07122789.1|</a> outer membrane insertion signal [Escherichia coli MS 84-1]
+ <a name = 301304333></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301304333&dopt=GenPept" >ref|ZP_07210446.1|</a> outer membrane insertion signal [Escherichia coli MS 124-1]
+ <a name = 309796935></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=309796935&dopt=GenPept" >ref|ZP_07691336.1|</a> outer membrane insertion signal [Escherichia coli MS 145-7]
+ <a name = 190904812></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=190904812&dopt=GenPept" >gb|EDV64517.1|</a> monomeric porin OmpG [Escherichia coli B7A]
+ <a name = 300403120></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300403120&dopt=GenPept" >gb|EFJ86658.1|</a> outer membrane insertion signal [Escherichia coli MS 84-1]
+ <a name = 300840320></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300840320&dopt=GenPept" >gb|EFK68080.1|</a> outer membrane insertion signal [Escherichia coli MS 124-1]
+ <a name = 308119463></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=308119463&dopt=GenPept" >gb|EFO56725.1|</a> outer membrane insertion signal [Escherichia coli MS 145-7]
+ <a name = 315254362></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315254362&dopt=GenPept" >gb|EFU34330.1|</a> outer membrane insertion signal [Escherichia coli MS 85-1]
+ <a name = 320199359></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320199359&dopt=GenPept" >gb|EFW73950.1|</a> Outer membrane protein G precursor [Escherichia coli EC4100B]
+          Length = 301
+
+ Score =  189 bits (664), Expect = 1e-46
+ Identities = 136/275 (49%), Positives = 136/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 16129280></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16129280&dopt=GenPept" >ref|NP_415835.1|</a> outer membrane porin G [Escherichia coli str. K-12 substr. MG1655]
+ <a name = 89108166></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89108166&dopt=GenPept" >ref|AP_001946.1|</a> outer membrane porin [Escherichia coli str. K-12 substr. W3110]
+ <a name = 157158763></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157158763&dopt=GenPept" >ref|YP_001462627.1|</a> outer membrane protein G [Escherichia coli E24377A]
+ <a name = 170020314></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170020314&dopt=GenPept" >ref|YP_001725268.1|</a> outer membrane protein G precursor [Escherichia coli ATCC 8739]
+ <a name = 170080997></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170080997&dopt=GenPept" >ref|YP_001730317.1|</a> outer membrane porin [Escherichia coli str. K-12 substr. DH10B]
+ <a name = 188492878></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=188492878&dopt=GenPept" >ref|ZP_03000148.1|</a> outer membrane protein G [Escherichia coli 53638]
+ <a name = 193062539></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193062539&dopt=GenPept" >ref|ZP_03043633.1|</a> monomeric porin OmpG [Escherichia coli E22]
+ <a name = 194425824></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194425824&dopt=GenPept" >ref|ZP_03058380.1|</a> monomeric porin OmpG [Escherichia coli B171]
+ <a name = 209918562></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209918562&dopt=GenPept" >ref|YP_002292646.1|</a> hypothetical protein ECSE_1371 [Escherichia coli SE11]
+ <a name = 218553877></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218553877&dopt=GenPept" >ref|YP_002386790.1|</a> outer membrane porin [Escherichia coli IAI1]
+ <a name = 218694894></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218694894&dopt=GenPept" >ref|YP_002402561.1|</a> outer membrane porin [Escherichia coli 55989]
+ <a name = 238900554></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238900554&dopt=GenPept" >ref|YP_002926350.1|</a> outer membrane porin [Escherichia coli BW2952]
+ <a name = 253773679></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253773679&dopt=GenPept" >ref|YP_003036510.1|</a> hypothetical protein ECBD_2298 [Escherichia coli
+           BL21-Gold(DE3)pLysS AG]
+ <a name = 254161399></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254161399&dopt=GenPept" >ref|YP_003044507.1|</a> outer membrane porin [Escherichia coli B str. REL606]
+ <a name = 256018430></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=256018430&dopt=GenPept" >ref|ZP_05432295.1|</a> outer membrane porin [Shigella sp. D9]
+ <a name = 256022968></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=256022968&dopt=GenPept" >ref|ZP_05436833.1|</a> outer membrane porin [Escherichia sp. 4_1_40B]
+ <a name = 260855017></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260855017&dopt=GenPept" >ref|YP_003228908.1|</a> outer membrane porin OmpG [Escherichia coli O26:H11 str. 11368]
+ <a name = 260867766></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260867766&dopt=GenPept" >ref|YP_003234168.1|</a> outer membrane porin OmpG [Escherichia coli O111:H- str. 11128]
+ <a name = 293433681></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=293433681&dopt=GenPept" >ref|ZP_06662109.1|</a> outer membrane protein G [Escherichia coli B088]
+ <a name = 300818962></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300818962&dopt=GenPept" >ref|ZP_07099166.1|</a> outer membrane insertion signal [Escherichia coli MS 107-1]
+ <a name = 300822512></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300822512&dopt=GenPept" >ref|ZP_07102651.1|</a> outer membrane insertion signal [Escherichia coli MS 119-7]
+ <a name = 300926707></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300926707&dopt=GenPept" >ref|ZP_07142482.1|</a> outer membrane insertion signal [Escherichia coli MS 182-1]
+ <a name = 300927834></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300927834&dopt=GenPept" >ref|ZP_07143396.1|</a> outer membrane insertion signal [Escherichia coli MS 187-1]
+ <a name = 300948405></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300948405&dopt=GenPept" >ref|ZP_07162508.1|</a> outer membrane insertion signal [Escherichia coli MS 116-1]
+ <a name = 300954572></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300954572&dopt=GenPept" >ref|ZP_07167018.1|</a> outer membrane insertion signal [Escherichia coli MS 175-1]
+ <a name = 301022712></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301022712&dopt=GenPept" >ref|ZP_07186562.1|</a> outer membrane insertion signal [Escherichia coli MS 196-1]
+ <a name = 301326946></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301326946&dopt=GenPept" >ref|ZP_07220238.1|</a> outer membrane insertion signal [Escherichia coli MS 78-1]
+ <a name = 301647179></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301647179&dopt=GenPept" >ref|ZP_07247000.1|</a> outer membrane insertion signal [Escherichia coli MS 146-1]
+ <a name = 307137961></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307137961&dopt=GenPept" >ref|ZP_07497317.1|</a> outer membrane porin OmpG [Escherichia coli H736]
+ <a name = 307235481></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307235481&dopt=GenPept" >ref|ZP_07521892.1|</a> outer membrane porin OmpG [Escherichia coli TA271]
+ <a name = 307309924></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307309924&dopt=GenPept" >ref|ZP_07589574.1|</a> Outer membrane protein G [Escherichia coli W]
+ <a name = 307336979></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307336979&dopt=GenPept" >ref|ZP_07613091.1|</a> outer membrane porin OmpG [Escherichia coli H591]
+ <a name = 312971515></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312971515&dopt=GenPept" >ref|ZP_07785690.1|</a> outer membrane protein G [Escherichia coli 1827-70]
+ <a name = 2497710></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=02497710&dopt=GenPept" >sp|P76045|OMPG_ECOLI</a> RecName: Full=Outer membrane protein G; Flags: Precursor
+ <a name = 1787579></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01787579&dopt=GenPept" >gb|AAC74401.1|</a> outer membrane porin G [Escherichia coli str. K-12 substr. MG1655]
+ <a name = 1806593></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01806593&dopt=GenPept" >gb|AAC34720.1|</a> porin [Escherichia coli]
+ <a name = 85674903></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=85674903&dopt=GenPept" >dbj|BAE76401.1|</a> outer membrane porin [Escherichia coli str. K12 substr. W3110]
+ <a name = 157080793></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157080793&dopt=GenPept" >gb|ABV20501.1|</a> outer membrane protein G [Escherichia coli E24377A]
+ <a name = 169755242></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169755242&dopt=GenPept" >gb|ACA77941.1|</a> outer membrane protein G precursor [Escherichia coli ATCC 8739]
+ <a name = 169888832></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169888832&dopt=GenPept" >gb|ACB02539.1|</a> outer membrane porin [Escherichia coli str. K-12 substr. DH10B]
+ <a name = 188488077></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=188488077&dopt=GenPept" >gb|EDU63180.1|</a> outer membrane protein G [Escherichia coli 53638]
+ <a name = 192931661></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=192931661&dopt=GenPept" >gb|EDV84261.1|</a> monomeric porin OmpG [Escherichia coli E22]
+ <a name = 194415879></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194415879&dopt=GenPept" >gb|EDX32145.1|</a> monomeric porin OmpG [Escherichia coli B171]
+ <a name = 209911821></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209911821&dopt=GenPept" >dbj|BAG76895.1|</a> conserved hypothetical protein [Escherichia coli SE11]
+ <a name = 218351626></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218351626&dopt=GenPept" >emb|CAU97340.1|</a> outer membrane porin [Escherichia coli 55989]
+ <a name = 218360645></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218360645&dopt=GenPept" >emb|CAQ98203.1|</a> outer membrane porin [Escherichia coli IAI1]
+ <a name = 238861954></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238861954&dopt=GenPept" >gb|ACR63952.1|</a> outer membrane porin [Escherichia coli BW2952]
+ <a name = 242377097></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242377097&dopt=GenPept" >emb|CAQ31824.1|</a> outer membrane porin OmpG [Escherichia coli BL21(DE3)]
+ <a name = 253324723></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253324723&dopt=GenPept" >gb|ACT29325.1|</a> hypothetical protein ECBD_2298 [Escherichia coli
+           'BL21-Gold(DE3)pLysS AG']
+ <a name = 253973300></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253973300&dopt=GenPept" >gb|ACT38971.1|</a> outer membrane porin [Escherichia coli B str. REL606]
+ <a name = 253977514></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253977514&dopt=GenPept" >gb|ACT43184.1|</a> outer membrane porin [Escherichia coli BL21(DE3)]
+ <a name = 257753666></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=257753666&dopt=GenPept" >dbj|BAI25168.1|</a> outer membrane porin OmpG [Escherichia coli O26:H11 str. 11368]
+ <a name = 257764122></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=257764122&dopt=GenPept" >dbj|BAI35617.1|</a> outer membrane porin OmpG [Escherichia coli O111:H- str. 11128]
+ <a name = 260449549></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260449549&dopt=GenPept" >gb|ACX39971.1|</a> monomeric porin OmpG [Escherichia coli DH1]
+ <a name = 291324500></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291324500&dopt=GenPept" >gb|EFE63922.1|</a> outer membrane protein G [Escherichia coli B088]
+ <a name = 299881157></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=299881157&dopt=GenPept" >gb|EFI89368.1|</a> outer membrane insertion signal [Escherichia coli MS 196-1]
+ <a name = 300318482></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300318482&dopt=GenPept" >gb|EFJ68266.1|</a> outer membrane insertion signal [Escherichia coli MS 175-1]
+ <a name = 300417283></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300417283&dopt=GenPept" >gb|EFK00594.1|</a> outer membrane insertion signal [Escherichia coli MS 182-1]
+ <a name = 300452080></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300452080&dopt=GenPept" >gb|EFK15700.1|</a> outer membrane insertion signal [Escherichia coli MS 116-1]
+ <a name = 300464119></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300464119&dopt=GenPept" >gb|EFK27612.1|</a> outer membrane insertion signal [Escherichia coli MS 187-1]
+ <a name = 300524928></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300524928&dopt=GenPept" >gb|EFK45997.1|</a> outer membrane insertion signal [Escherichia coli MS 119-7]
+ <a name = 300528423></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300528423&dopt=GenPept" >gb|EFK49485.1|</a> outer membrane insertion signal [Escherichia coli MS 107-1]
+ <a name = 300846417></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300846417&dopt=GenPept" >gb|EFK74177.1|</a> outer membrane insertion signal [Escherichia coli MS 78-1]
+ <a name = 301074665></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301074665&dopt=GenPept" >gb|EFK89471.1|</a> outer membrane insertion signal [Escherichia coli MS 146-1]
+ <a name = 306909642></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=306909642&dopt=GenPept" >gb|EFN40136.1|</a> Outer membrane protein G [Escherichia coli W]
+ <a name = 309701619></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=309701619&dopt=GenPept" >emb|CBJ00926.1|</a> putative outer membrane porin [Escherichia coli ETEC H10407]
+ <a name = 310336112></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=310336112&dopt=GenPept" >gb|EFQ01312.1|</a> outer membrane protein G [Escherichia coli 1827-70]
+ <a name = 315060573></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315060573&dopt=GenPept" >gb|ADT74900.1|</a> outer membrane porin [Escherichia coli W]
+ <a name = 315135959></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315135959&dopt=GenPept" >dbj|BAJ43118.1|</a> outer membrane porin [Escherichia coli DH1]
+ <a name = 323153329></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323153329&dopt=GenPept" >gb|EFZ39586.1|</a> outer membrane protein G [Escherichia coli EPECa14]
+ <a name = 323162471></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323162471&dopt=GenPept" >gb|EFZ48323.1|</a> outer membrane protein G [Escherichia coli E128010]
+ <a name = 323172318></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323172318&dopt=GenPept" >gb|EFZ57955.1|</a> outer membrane protein G [Escherichia coli LT-68]
+ <a name = 323179719></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323179719&dopt=GenPept" >gb|EFZ65280.1|</a> outer membrane protein G [Escherichia coli 1180]
+ <a name = 323378865></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323378865&dopt=GenPept" >gb|ADX51133.1|</a> Outer membrane protein G [Escherichia coli KO11]
+          Length = 301
+
+ Score =  189 bits (664), Expect = 1e-46
+ Identities = 136/275 (49%), Positives = 136/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 187733557></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=187733557&dopt=GenPept" >ref|YP_001880152.1|</a> monomeric porin OmpG [Shigella boydii CDC 3083-94]
+ <a name = 187430549></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=187430549&dopt=GenPept" >gb|ACD09823.1|</a> monomeric porin OmpG [Shigella boydii CDC 3083-94]
+          Length = 301
+
+ Score =  189 bits (662), Expect = 1e-46
+ Identities = 135/275 (49%), Positives = 136/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANHLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HS+TPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSLTPYTRIGLDRWSNWDWQDDIECEGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 315619402></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315619402&dopt=GenPept" >gb|EFU99946.1|</a> outer membrane protein G [Escherichia coli 3431]
+          Length = 301
+
+ Score =  188 bits (658), Expect = 3e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGENMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEY FE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYTFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 320195667></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320195667&dopt=GenPept" >gb|EFW70292.1|</a> Outer membrane protein G precursor [Escherichia coli WV_060327]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGLWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 306813656></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=306813656&dopt=GenPept" >ref|ZP_07447837.1|</a> outer membrane porin [Escherichia coli NC101]
+ <a name = 305852930></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=305852930&dopt=GenPept" >gb|EFM53375.1|</a> outer membrane porin [Escherichia coli NC101]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETLALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 300935428></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300935428&dopt=GenPept" >ref|ZP_07150425.1|</a> outer membrane insertion signal [Escherichia coli MS 21-1]
+ <a name = 300459364></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300459364&dopt=GenPept" >gb|EFK22857.1|</a> outer membrane insertion signal [Escherichia coli MS 21-1]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSADKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 281178510></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=281178510&dopt=GenPept" >dbj|BAI54840.1|</a> conserved hypothetical protein [Escherichia coli SE15]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 291282413></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291282413&dopt=GenPept" >ref|YP_003499231.1|</a> outer membrane protein G [Escherichia coli O55:H7 str. CB9615]
+ <a name = 209771554></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209771554&dopt=GenPept" >gb|ACI84089.1|</a> outer membrane protein [Escherichia coli]
+ <a name = 290762286></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=290762286&dopt=GenPept" >gb|ADD56247.1|</a> Outer membrane protein G [Escherichia coli O55:H7 str. CB9615]
+ <a name = 320653542></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320653542&dopt=GenPept" >gb|EFX21647.1|</a> outer membrane porin [Escherichia coli O55:H7 str. 3256-97 TW
+           07815]
+ <a name = 320659133></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320659133&dopt=GenPept" >gb|EFX26725.1|</a> outer membrane porin [Escherichia coli O55:H7 str. USDA 5905]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 134/275 (48%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVECYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LS+SLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSISLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 227886245></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227886245&dopt=GenPept" >ref|ZP_04004050.1|</a> OmpG family porin [Escherichia coli 83972]
+ <a name = 300971668></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300971668&dopt=GenPept" >ref|ZP_07171541.1|</a> outer membrane insertion protein [Escherichia coli MS 45-1]
+ <a name = 301046166></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301046166&dopt=GenPept" >ref|ZP_07193340.1|</a> outer membrane insertion signal [Escherichia coli MS 185-1]
+ <a name = 227836449></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227836449&dopt=GenPept" >gb|EEJ46915.1|</a> OmpG family porin [Escherichia coli 83972]
+ <a name = 300301823></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300301823&dopt=GenPept" >gb|EFJ58208.1|</a> outer membrane insertion signal [Escherichia coli MS 185-1]
+ <a name = 300411154></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300411154&dopt=GenPept" >gb|EFJ94692.1|</a> outer membrane insertion protein [Escherichia coli MS 45-1]
+ <a name = 307553380></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307553380&dopt=GenPept" >gb|ADN46155.1|</a> monomeric porin OmpG [Escherichia coli ABU 83972]
+ <a name = 315295371></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315295371&dopt=GenPept" >gb|EFU54701.1|</a> outer membrane insertion signal [Escherichia coli MS 153-1]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLLLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 222033123></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=222033123&dopt=GenPept" >emb|CAP75863.1|</a> Outer membrane protein G [Escherichia coli LF82]
+ <a name = 312945955></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312945955&dopt=GenPept" >gb|ADR26782.1|</a> outer membrane protein G precursor [Escherichia coli O83:H1 str.
+           NRG 857C]
+ <a name = 315297237></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315297237&dopt=GenPept" >gb|EFU56517.1|</a> outer membrane insertion signal [Escherichia coli MS 16-3]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 218689309></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218689309&dopt=GenPept" >ref|YP_002397521.1|</a> outer membrane porin [Escherichia coli ED1a]
+ <a name = 307225621></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307225621&dopt=GenPept" >ref|ZP_07512032.1|</a> outer membrane porin [Escherichia coli TA206]
+ <a name = 218426873></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218426873&dopt=GenPept" >emb|CAR07725.2|</a> outer membrane porin [Escherichia coli ED1a]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERAFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 218700042></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218700042&dopt=GenPept" >ref|YP_002407671.1|</a> outer membrane porin [Escherichia coli IAI39]
+ <a name = 218370028></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218370028&dopt=GenPept" >emb|CAR17802.1|</a> outer membrane porin [Escherichia coli IAI39]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSVGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 170683200></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170683200&dopt=GenPept" >ref|YP_001743857.1|</a> monomeric porin OmpG [Escherichia coli SMS-3-5]
+ <a name = 170520918></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170520918&dopt=GenPept" >gb|ACB19096.1|</a> monomeric porin OmpG [Escherichia coli SMS-3-5]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWLDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 91210613></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91210613&dopt=GenPept" >ref|YP_540599.1|</a> outer membrane protein G precursor [Escherichia coli UTI89]
+ <a name = 91072187></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91072187&dopt=GenPept" >gb|ABE07068.1|</a> outer membrane protein G precursor [Escherichia coli UTI89]
+          Length = 318
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 44  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 103
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 104 FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 163
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 164 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETLALRVNYYLERGFNMDDSRNN 223
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 224 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 283
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 284 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 318
+</PRE>
+
+
+<PRE>
+><a name = 26247655></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26247655&dopt=GenPept" >ref|NP_753695.1|</a> Outer membrane protein G precursor [Escherichia coli CFT073]
+ <a name = 26108057></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26108057&dopt=GenPept" >gb|AAN80257.1|AE016760_116</a> Outer membrane protein G precursor [Escherichia coli CFT073]
+          Length = 318
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 44  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 103
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 104 FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 163
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 164 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 223
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 224 GEFSTQEIRAYLLLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 283
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 284 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 318
+</PRE>
+
+
+<PRE>
+><a name = 15801851></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15801851&dopt=GenPept" >ref|NP_287869.1|</a> outer membrane protein [Escherichia coli O157:H7 EDL933]
+ <a name = 15831152></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15831152&dopt=GenPept" >ref|NP_309925.1|</a> outer membrane protein [Escherichia coli O157:H7 str. Sakai]
+ <a name = 168749041></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168749041&dopt=GenPept" >ref|ZP_02774063.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4113]
+ <a name = 168756000></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168756000&dopt=GenPept" >ref|ZP_02781007.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4401]
+ <a name = 168762667></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168762667&dopt=GenPept" >ref|ZP_02787674.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4501]
+ <a name = 168769401></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168769401&dopt=GenPept" >ref|ZP_02794408.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4486]
+ <a name = 168775144></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168775144&dopt=GenPept" >ref|ZP_02800151.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4196]
+ <a name = 168782848></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168782848&dopt=GenPept" >ref|ZP_02807855.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4076]
+ <a name = 168788355></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168788355&dopt=GenPept" >ref|ZP_02813362.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC869]
+ <a name = 168799629></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168799629&dopt=GenPept" >ref|ZP_02824636.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC508]
+ <a name = 195937985></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=195937985&dopt=GenPept" >ref|ZP_03083367.1|</a> outer membrane protein [Escherichia coli O157:H7 str. EC4024]
+ <a name = 208811121></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208811121&dopt=GenPept" >ref|ZP_03252954.1|</a> outer membrane protein G [Escherichia coli O157:H7 str. EC4206]
+ <a name = 208814829></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208814829&dopt=GenPept" >ref|ZP_03256008.1|</a> outer membrane protein G [Escherichia coli O157:H7 str. EC4045]
+ <a name = 208820732></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208820732&dopt=GenPept" >ref|ZP_03261052.1|</a> outer membrane protein G [Escherichia coli O157:H7 str. EC4042]
+ <a name = 209395715></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209395715&dopt=GenPept" >ref|YP_002270379.1|</a> outer membrane protein G [Escherichia coli O157:H7 str. EC4115]
+ <a name = 217329331></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=217329331&dopt=GenPept" >ref|ZP_03445411.1|</a> outer membrane protein G [Escherichia coli O157:H7 str. TW14588]
+ <a name = 254792912></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254792912&dopt=GenPept" >ref|YP_003077749.1|</a> outer membrane porin [Escherichia coli O157:H7 str. TW14359]
+ <a name = 261224310></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261224310&dopt=GenPept" >ref|ZP_05938591.1|</a> outer membrane porin [Escherichia coli O157:H7 str. FRIK2000]
+ <a name = 261257434></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261257434&dopt=GenPept" >ref|ZP_05949967.1|</a> outer membrane porin [Escherichia coli O157:H7 str. FRIK966]
+ <a name = 12515450></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=12515450&dopt=GenPept" >gb|AAG56483.1|AE005375_1</a> outer membrane protein [Escherichia coli O157:H7 str. EDL933]
+ <a name = 13361363></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13361363&dopt=GenPept" >dbj|BAB35321.1|</a> outer membrane protein [Escherichia coli O157:H7 str. Sakai]
+ <a name = 187769233></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=187769233&dopt=GenPept" >gb|EDU33077.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4196]
+ <a name = 188016634></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=188016634&dopt=GenPept" >gb|EDU54756.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4113]
+ <a name = 188999664></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=188999664&dopt=GenPept" >gb|EDU68650.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4076]
+ <a name = 189356830></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189356830&dopt=GenPept" >gb|EDU75249.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4401]
+ <a name = 189361549></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189361549&dopt=GenPept" >gb|EDU79968.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4486]
+ <a name = 189367046></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189367046&dopt=GenPept" >gb|EDU85462.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC4501]
+ <a name = 189371818></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189371818&dopt=GenPept" >gb|EDU90234.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC869]
+ <a name = 189377918></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189377918&dopt=GenPept" >gb|EDU96334.1|</a> monomeric porin OmpG [Escherichia coli O157:H7 str. EC508]
+ <a name = 208724627></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208724627&dopt=GenPept" >gb|EDZ74335.1|</a> outer membrane protein G [Escherichia coli O157:H7 str. EC4206]
+ <a name = 208731477></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208731477&dopt=GenPept" >gb|EDZ80165.1|</a> outer membrane protein G [Escherichia coli O157:H7 str. EC4045]
+ <a name = 208740855></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208740855&dopt=GenPept" >gb|EDZ88537.1|</a> outer membrane protein G [Escherichia coli O157:H7 str. EC4042]
+ <a name = 209157115></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209157115&dopt=GenPept" >gb|ACI34548.1|</a> outer membrane protein G [Escherichia coli O157:H7 str. EC4115]
+ <a name = 209771548></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209771548&dopt=GenPept" >gb|ACI84086.1|</a> outer membrane protein [Escherichia coli]
+ <a name = 209771550></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209771550&dopt=GenPept" >gb|ACI84087.1|</a> outer membrane protein [Escherichia coli]
+ <a name = 209771552></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209771552&dopt=GenPept" >gb|ACI84088.1|</a> outer membrane protein [Escherichia coli]
+ <a name = 209771556></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209771556&dopt=GenPept" >gb|ACI84090.1|</a> outer membrane protein [Escherichia coli]
+ <a name = 217317770></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=217317770&dopt=GenPept" >gb|EEC26198.1|</a> outer membrane protein G [Escherichia coli O157:H7 str. TW14588]
+ <a name = 254592312></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254592312&dopt=GenPept" >gb|ACT71673.1|</a> outer membrane porin [Escherichia coli O157:H7 str. TW14359]
+ <a name = 320189921></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320189921&dopt=GenPept" >gb|EFW64573.1|</a> Outer membrane protein G precursor [Escherichia coli O157:H7 str.
+           EC1212]
+ <a name = 320637222></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320637222&dopt=GenPept" >gb|EFX07048.1|</a> outer membrane porin [Escherichia coli O157:H7 str. G5101]
+ <a name = 320642589></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320642589&dopt=GenPept" >gb|EFX11837.1|</a> outer membrane porin [Escherichia coli O157:H- str. 493-89]
+ <a name = 320647942></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320647942&dopt=GenPept" >gb|EFX16650.1|</a> outer membrane porin [Escherichia coli O157:H- str. H 2687]
+ <a name = 320664036></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320664036&dopt=GenPept" >gb|EFX31223.1|</a> outer membrane porin [Escherichia coli O157:H7 str. LSU-61]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 134/275 (48%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LS+SLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSISLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 194433844></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194433844&dopt=GenPept" >ref|ZP_03066118.1|</a> monomeric porin OmpG [Shigella dysenteriae 1012]
+ <a name = 301017590></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301017590&dopt=GenPept" >ref|ZP_07182264.1|</a> outer membrane insertion signal [Escherichia coli MS 69-1]
+ <a name = 307143435></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307143435&dopt=GenPept" >ref|ZP_07501867.1|</a> outer membrane porin [Escherichia coli M605]
+ <a name = 307559937></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307559937&dopt=GenPept" >ref|ZP_07623704.1|</a> outer membrane porin [Escherichia coli H299]
+ <a name = 194417947></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194417947&dopt=GenPept" >gb|EDX34042.1|</a> monomeric porin OmpG [Shigella dysenteriae 1012]
+ <a name = 300400084></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300400084&dopt=GenPept" >gb|EFJ83622.1|</a> outer membrane insertion signal [Escherichia coli MS 69-1]
+ <a name = 320180242></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320180242&dopt=GenPept" >gb|EFW55177.1|</a> Outer membrane protein G precursor [Shigella boydii ATCC 9905]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 110641554></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110641554&dopt=GenPept" >ref|YP_669284.1|</a> outer membrane protein G precursor [Escherichia coli 536]
+ <a name = 191171073></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=191171073&dopt=GenPept" >ref|ZP_03032624.1|</a> monomeric porin OmpG [Escherichia coli F11]
+ <a name = 300972010></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300972010&dopt=GenPept" >ref|ZP_07171770.1|</a> outer membrane insertion signal [Escherichia coli MS 200-1]
+ <a name = 110343146></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110343146&dopt=GenPept" >gb|ABG69383.1|</a> outer membrane protein G precursor [Escherichia coli 536]
+ <a name = 190908805></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=190908805&dopt=GenPept" >gb|EDV68393.1|</a> monomeric porin OmpG [Escherichia coli F11]
+ <a name = 294493928></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=294493928&dopt=GenPept" >gb|ADE92684.1|</a> outer membrane protein G [Escherichia coli IHE3034]
+ <a name = 300309232></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300309232&dopt=GenPept" >gb|EFJ63752.1|</a> outer membrane insertion signal [Escherichia coli MS 200-1]
+ <a name = 307627107></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307627107&dopt=GenPept" >gb|ADN71411.1|</a> outer membrane protein G precursor [Escherichia coli UM146]
+          Length = 301
+
+ Score =  187 bits (657), Expect = 4e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETLALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 307220865></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307220865&dopt=GenPept" >ref|ZP_07507289.1|</a> outer membrane porin [Escherichia coli M718]
+          Length = 301
+
+ Score =  186 bits (653), Expect = 8e-46
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEI--------------EPSVYFNAAN--WRIALAYYQ-------------- 30
+           WHFNIGAMYEI              EPSVYFNAAN  WRIALAYYQ              
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 86
+
+Query: 31  ----ELEVHYQFL----FSFGLTGGF-------------------RWKIAPDWDVK---- 59
+               ELEVHYQFL    FSFGLTGGF                   RWKIAP WDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPNWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 307348823></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307348823&dopt=GenPept" >ref|ZP_07618428.1|</a> outer membrane porin [Escherichia coli TA280]
+          Length = 301
+
+ Score =  185 bits (649), Expect = 2e-45
+ Identities = 133/275 (48%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ++RVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVGVRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFATQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHYEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 215486616></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215486616&dopt=GenPept" >ref|YP_002329047.1|</a> outer membrane porin OmpG [Escherichia coli O127:H6 str. E2348/69]
+ <a name = 312966748></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312966748&dopt=GenPept" >ref|ZP_07780966.1|</a> outer membrane protein G [Escherichia coli 2362-75]
+ <a name = 215264688></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215264688&dopt=GenPept" >emb|CAS09060.1|</a> outer membrane porin OmpG [Escherichia coli O127:H6 str. E2348/69]
+ <a name = 312288212></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312288212&dopt=GenPept" >gb|EFR16114.1|</a> outer membrane protein G [Escherichia coli 2362-75]
+ <a name = 323187552></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323187552&dopt=GenPept" >gb|EFZ72861.1|</a> outer membrane protein G [Escherichia coli RN587/1]
+          Length = 301
+
+ Score =  184 bits (646), Expect = 3e-45
+ Identities = 134/275 (48%), Positives = 134/275 (48%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVG NYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGGNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 300508336></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300508336&dopt=GenPept" >pdb|2WVP|A</a> Chain A, Synthetically Modified Ompg
+          Length = 286
+
+ Score =  184 bits (644), Expect = 5e-45
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 6   WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 65
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 66  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 125
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 126 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 185
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTP TRIGL                   NRVGLFYGYD  
+Sbjct: 186 GEFSTQEIRAYLPLTLGNHSVTPCTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 245
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 246 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 280
+</PRE>
+
+
+<PRE>
+><a name = 157160830></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157160830&dopt=GenPept" >ref|YP_001458148.1|</a> outer membrane protein G [Escherichia coli HS]
+ <a name = 157066510></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157066510&dopt=GenPept" >gb|ABV05765.1|</a> outer membrane protein G [Escherichia coli HS]
+          Length = 301
+
+ Score =  184 bits (644), Expect = 5e-45
+ Identities = 135/275 (49%), Positives = 135/275 (49%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGL GGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLENDDFSFGLPGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 237705349></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=237705349&dopt=GenPept" >ref|ZP_04535830.1|</a> outer membrane protein G [Escherichia sp. 3_2_53FAA]
+ <a name = 226900106></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=226900106&dopt=GenPept" >gb|EEH86365.1|</a> outer membrane protein G [Escherichia sp. 3_2_53FAA]
+          Length = 318
+
+ Score =  182 bits (638), Expect = 2e-44
+ Identities = 134/275 (48%), Positives = 134/275 (48%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 44  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 103
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 104 FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 163
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETG QYT     ALRVNYYLE           
+Sbjct: 164 LRFNGWLSMYKFANDLNTTGYADTRVETETGPQYTFNETLALRVNYYLERGFNMDDSRNN 223
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 224 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 283
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 284 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 318
+</PRE>
+
+
+<PRE>
+><a name = 117623572></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=117623572&dopt=GenPept" >ref|YP_852485.1|</a> outer membrane protein G precursor [Escherichia coli APEC O1]
+ <a name = 218558306></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218558306&dopt=GenPept" >ref|YP_002391219.1|</a> outer membrane porin [Escherichia coli S88]
+ <a name = 115512696></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115512696&dopt=GenPept" >gb|ABJ00771.1|</a> outer membrane protein G precursor [Escherichia coli APEC O1]
+ <a name = 218365075></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218365075&dopt=GenPept" >emb|CAR02781.1|</a> outer membrane porin [Escherichia coli S88]
+ <a name = 315289162></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315289162&dopt=GenPept" >gb|EFU48560.1|</a> outer membrane insertion signal [Escherichia coli MS 110-3]
+          Length = 301
+
+ Score =  182 bits (638), Expect = 2e-44
+ Identities = 134/275 (48%), Positives = 134/275 (48%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRI LAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETG QYT     ALRVNYYLE           
+Sbjct: 147 LRFNGWLSMYKFANDLNTTGYADTRVETETGPQYTFNETLALRVNYYLERGFNMDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD  
+Sbjct: 207 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 267 NGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 301
+</PRE>
+
+
+<PRE>
+><a name = 313649518></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313649518&dopt=GenPept" >gb|EFS13949.1|</a> outer membrane protein G [Shigella flexneri 2a str. 2457T]
+          Length = 222
+
+ Score =  157 bits (548), Expect = 5e-37
+ Identities = 106/211 (50%), Positives = 106/211 (50%), Gaps = 104/211 (49%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 12  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTR 71
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 72  FDRPELEVHYQFLESDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 131
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRFNGWLSMY               VETETGLQYT     ALRVNYYLE           
+Sbjct: 132 LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNN 191
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGLNR 107
+                QEIRAY       HSVTPYTRIGL R
+Sbjct: 192 GEFSTQEIRAYLPLTLGNHSVTPYTRIGLDR 222
+</PRE>
+
+
+<PRE>
+><a name = 323168185></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323168185&dopt=GenPept" >gb|EFZ53871.1|</a> outer membrane protein G [Shigella sonnei 53G]
+          Length = 208
+
+ Score =  140 bits (488), Expect = 6e-32
+ Identities = 102/207 (49%), Positives = 102/207 (49%), Gaps = 105/207 (50%)
+
+Query: 35  HYQFL----FSFGLTGGFR-------------------WKIAPDWDVK----LRFNGWLS 67
+           HYQFL    FSFGLTGGFR                   WKIAPDWDVK    LRFNGWLS
+Sbjct: 2   HYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDDLRFNGWLS 61
+
+Query: 68  MY---------------VETETGLQYT-----ALRVNYYLE----------------QEI 91
+           MY               VETETGLQYT     ALRVNYYLE                QEI
+Sbjct: 62  MYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNNGEFSTQEI 121
+
+Query: 92  RAY-------HSVTPYTRIGL-------------------NRVGLFYGYD----LSVSLE 121
+           RAY       HSVTPYTRIGL                   NRVGLFYGYD    LSVSLE
+Sbjct: 122 RAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQNGLSVSLE 181
+
+Query: 122 YAFE------------HYAGVGVNYSF 136
+           YAFE            HYAGVGVNYSF
+Sbjct: 182 YAFEWQDHDEGDSDKFHYAGVGVNYSF 208
+</PRE>
+
+
+<PRE>
+><a name = 283832958></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=283832958&dopt=GenPept" >ref|ZP_06352699.1|</a> outer membrane protein G [Citrobacter youngae ATCC 29220]
+ <a name = 291071564></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291071564&dopt=GenPept" >gb|EFE09673.1|</a> outer membrane protein G [Citrobacter youngae ATCC 29220]
+          Length = 301
+
+ Score =  130 bits (450), Expect = 9e-29
+ Identities = 111/275 (40%), Positives = 122/275 (44%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEI--------------EPSVYFNAAN--WRIALAYYQ-------------- 30
+           WHFNIGAMYEI              EPSVYFNA N  W I LAYYQ              
+Sbjct: 27  WHFNIGAMYEIENVEGQGEDMDGLAEPSVYFNASNGPWKISLAYYQEGPVDYSAGKRGTW 86
+
+Query: 31  ----ELEVHYQFL----FSFGLTGGF-------------------RWKIAPDWDVK---- 59
+               ELEV YQFL      FGLTGGF                   RWKV PDWDVK    
+Sbjct: 87  FDRPELEVRYQFLESEDVNFGLTGGFRNYGYHYVNEPGKDTANMQRWKVQPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           LRF GWL MY               VE+ETGL YT     +L VNYYLE           
+Sbjct: 147 LRFSGWLAMYQFVNDLSTTGYSDSRVESETGLNYTFNETVGLTVNYYLERGFNIDDSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY        ++TPYTRIGL                   NR+GL+Y+YD  
+Sbjct: 207 GEFSTQEIRAYLPLSLGNTTLTPYTRIGLDRWTNWDWQDDPEREGHDFNRLGLLYAYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LS +LEYA+E            HYAG+GVNY F
+Sbjct: 267 NGLSMTLEYAYEWENHDEGERDRFHYAGIGVNYAF 301
+</PRE>
+
+
+<PRE>
+><a name = 297517595></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=297517595&dopt=GenPept" >ref|ZP_06935981.1|</a> outer membrane protein G [Escherichia coli OP50]
+          Length = 196
+
+ Score =  129 bits (449), Expect = 1e-28
+ Identities = 95/196 (48%), Positives = 95/196 (48%), Gaps = 101/196 (51%)
+
+Query: 42  FGLTGGF-------------------RWKIAPDWDVK----LRFNGWLSMY--------- 69
+           FGLTGGF                   RWKIAPDWDVK    LRFNGWLSMY         
+Sbjct: 1   FGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDDLRFNGWLSMYKFANDLNTT 60
+
+Query: 70  ------VETETGLQYT-----ALRVNYYLE----------------QEIRAY-------H 95
+                 VETETGLQYT     ALRVNYYLE                QEIRAY       H
+Sbjct: 61  GYADTRVETETGLQYTFNETVALRVNYYLERGFNMDDSRNNGEFSTQEIRAYLPLTLGNH 120
+
+Query: 96  SVTPYTRIGL-------------------NRVGLFYGYD----LSVSLEYAFE------- 125
+           SVTPYTRIGL                   NRVGLFYGYD    LSVSLEYAFE       
+Sbjct: 121 SVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQNGLSVSLEYAFEWQDHDEG 180
+
+Query: 126 -----HYAGVGVNYSF 136
+                HYAGVGVNYSF
+Sbjct: 181 DSDKFHYAGVGVNYSF 196
+</PRE>
+
+
+<PRE>
+><a name = 161503226></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161503226&dopt=GenPept" >ref|YP_001570338.1|</a> hypothetical protein SARI_01294 [Salmonella enterica subsp.
+           arizonae serovar 62:z4,z23:-- str. RSK2980]
+ <a name = 160864573></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160864573&dopt=GenPept" >gb|ABX21196.1|</a> hypothetical protein SARI_01294 [Salmonella enterica subsp.
+           arizonae serovar 62:z4,z23:--]
+          Length = 301
+
+ Score =  126 bits (438), Expect = 9e-28
+ Identities = 108/275 (39%), Positives = 122/275 (44%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEI--------------EPSVYFNAAN--WRIALAYYQ-------------- 30
+           WHFNVGAMYEI              EPS+YFNA N  W IALAYYQ              
+Sbjct: 27  WHFNVGAMYEIENVESQSEDMDGLGEPSIYFNASNGPWSIALAYYQEGPVDYSAGNRGTW 86
+
+Query: 31  ----ELEVHYQFL----FSFGLTGGF-------------------RWKIAPDWDVK---- 59
+               ELEV YQFL    F FGLTGGF                   RWKI PDWD K    
+Sbjct: 87  FDRPELEVRYQFLESADFNFGLTGGFRNYGYHYVNEEGKDTANMQRWKIQPDWDAKLNDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           L F GWL MY               +ETETGL YT     ++ VNYYLE           
+Sbjct: 147 LHFSGWLAMYQFVNDLSITGYSDSRIETETGLNYTFNETVGFTVNYYLERGFNLAEHRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY        ++TPYTR+GL                   NR+GL+Y+YD  
+Sbjct: 207 GEFSTQEIRAYLPISLGNTTLTPYTRLGLDRWTNWDWQDDPEREGHDFNRLGLLYAYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LS +LEYA+E            HYAG+GVNY F
+Sbjct: 267 NGLSMTLEYAYEWEDHDEGESDRFHYAGIGVNYAF 301
+</PRE>
+
+
+<PRE>
+><a name = 283785393></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=283785393&dopt=GenPept" >ref|YP_003365258.1|</a> outer membrane protein G precursor [Citrobacter rodentium ICC168]
+ <a name = 282948847></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=282948847&dopt=GenPept" >emb|CBG88448.1|</a> outer membrane protein G precursor [Citrobacter rodentium ICC168]
+          Length = 301
+
+ Score =  120 bits (416), Expect = 6e-26
+ Identities = 105/275 (38%), Positives = 119/275 (43%), Gaps = 139/275 (50%)
+
+Query: 1   WHFNIGAMYEI--------------EPSVYFNAAN--WRIALAYYQ-------------- 30
+           WHFNVGAMYEI              EPS+YFNAAN  W I L YYQ              
+Sbjct: 27  WHFNVGAMYEIENVEGQGEDMDGLAEPSIYFNAANGPWKISLTYYQEGPVDYSAGTRGSW 86
+
+Query: 31  ----ELEVHYQFL----FSFGLTGGF-------------------RWKIAPDWDVK---- 59
+               ELEV YQFL     S GLTGGF                   RWKV PDWD+K    
+Sbjct: 87  FDRPELEVRYQFLESDAVSIGLTGGFRNYGYHYVNEPGKDTANMQRWKVQPDWDIKISDD 146
+
+Query: 60  LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE----------- 88
+           +RF GWLSMY               VETETG+  +      +  NYYLE           
+Sbjct: 147 VRFGGWLSMYQFVNDLSTTGYADSRVETETGFTWSINDTFSVVTNYYLERGFNLDSSRNN 206
+
+Query: 89  -----QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD-- 115
+                QEIRAY        ++TPYTRIGL                   NR+G +Y+YD  
+Sbjct: 207 GEFSTQEIRAYLPIALGNTTLTPYTRIGLDRWSNWDWQDDIAREGHDFNRLGMLYAYDFQ 266
+
+Query: 116 --LSVSLEYAFE------------HYAGVGVNYSF 136
+             LS +LEYAFE            HYAGVGVNY F
+Sbjct: 267 NGLSMTLEYAFEWQDHDEGDSDKFHYAGVGVNYAF 301
+</PRE>
+
+
+<PRE>
+><a name = 323185516></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323185516&dopt=GenPept" >gb|EFZ70877.1|</a> outer membrane protein G [Escherichia coli 1357]
+          Length = 189
+
+ Score =  112 bits (387), Expect = 2e-23
+ Identities = 69/130 (53%), Positives = 69/130 (53%), Gaps = 61/130 (46%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAAN--WRIALAYYQE------------- 31
+           WHFNIGAMYEIE              PSVYFNAAN  WRIALAYYQE             
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 86
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR-------------------WKIAPDWDVK---- 59
+                LEVHYQFL    FSFGLTGGFR                   WKIAPDWDVK    
+Sbjct: 87  FDRPELEVHYQFLENDDFSFGLTGGFRNYGYHYVDEPGKDTANMQRWKIAPDWDVKLTDD 146
+
+Query: 60  LRFNGWLSMY 69
+           LRFNGWLSMY
+Sbjct: 147 LRFNGWLSMY 156
+</PRE>
+
+
+<PRE>
+><a name = 288549686></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288549686&dopt=GenPept" >ref|ZP_05967843.2|</a> outer membrane protein G [Enterobacter cancerogenus ATCC 35316]
+ <a name = 288317903></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288317903&dopt=GenPept" >gb|EFC56841.1|</a> outer membrane protein G [Enterobacter cancerogenus ATCC 35316]
+          Length = 304
+
+ Score = 96.4 bits (329), Expect = 1e-18
+ Identities = 101/277 (36%), Positives = 115/277 (41%), Gaps = 141/277 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAA--NWRIALAYYQE------------- 31
+           W FNIGAMYEIE              PSV FNA    W I LA YQE             
+Sbjct: 28  WDFNIGAMYEIENVEGQGDDKDGLYEPSVWFNATWDAWTISLAMYQEGPVDYSSMTRGTY 87
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR---------------------WKIAPDWDVKL- 60
+                +E+ Y F+    F+FGLTGGFR                      KI PDWD+KL 
+Sbjct: 88  FDRPEIELRYRFIGTDDFTFGLTGGFRNYGYHFKDEHGAKDGSANMQRYKIQPDWDIKLT 147
+
+Query: 61  ---RFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE--------- 88
+              RF GWLS Y               VETETG+  T        VNYYLE         
+Sbjct: 148 DDWRFGGWLSLYQFANDLEKTGYADSRVETETGFTWTLNETFSAKVNYYLERGFNMDSSR 207
+
+Query: 89  -------QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD 115
+                  QEIRAY        ++TPYTR+GL                   NR+GL+Y+YD
+Sbjct: 208 NNGEFSTQEIRAYLPVSLGQTTLTPYTRLGLDRWSNWDWRDDPEREGHDFNRLGLLYAYD 267
+
+Query: 116 ----LSVSLEYAFE------------HYAGVGVNYSF 136
+               LS +LEYA+E            HYAGVGVNY F
+Sbjct: 268 FNNGLSMTLEYAYEWENHDEGDSDRFHYAGVGVNYAF 304
+</PRE>
+
+
+<PRE>
+><a name = 146311808></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146311808&dopt=GenPept" >ref|YP_001176882.1|</a> outer membrane protein G precursor [Enterobacter sp. 638]
+ <a name = 145318684></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145318684&dopt=GenPept" >gb|ABP60831.1|</a> outer membrane protein G precursor [Enterobacter sp. 638]
+          Length = 304
+
+ Score = 94.8 bits (323), Expect = 4e-18
+ Identities = 97/277 (35%), Positives = 115/277 (41%), Gaps = 141/277 (50%)
+
+Query: 1   WHFNIGAMYEIE--------------PSVYFNAA--NWRIALAYYQE------------- 31
+           W FNIGAMYEIE              PSV FNA    W V +A YQE             
+Sbjct: 28  WDFNIGAMYEIENVEGQGDDKDGLYEPSVWFNATYDAWTVSVAMYQEGPVDYSSMTRGTY 87
+
+Query: 32  -----LEVHYQFL----FSFGLTGGFR---------------------WKIAPDWDVKL- 60
+                +E+ Y F+    F++GLTGGFR                      KI PDWD+KL 
+Sbjct: 88  FDRPEFELRYRFIGSDDFTLGLTGGFRNYGYHFKDEHGAKDGSANMQRYKIQPDWDLKLS 147
+
+Query: 61  ---RFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE--------- 88
+              RFNGW+ MY               VETETG+  T      +  NYYLE         
+Sbjct: 148 DNWRFNGWFAMYQFANDLEKTGYSDSRVETETGVTWTINKTFSFKTNYYLERGFNIDGGR 207
+
+Query: 89  -------QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD 115
+                  QEIRAY        ++TPYTRIGL                   NR+G +Y+YD
+Sbjct: 208 NNGEFSTQEIRAYLPIAMGQTTLTPYTRIGLDRWSNWDWQDDPEREGHDFNRLGMLYAYD 267
+
+Query: 116 ----LSVSLEYAFE------------HYAGVGVNYSF 136
+               LS +LEYA+E            HYAGVGVNY F
+Sbjct: 268 FANGLSMTLEYAYEWQNHDEGKNDRFHYAGVGVNYAF 304
+</PRE>
+
+
+<PRE>
+><a name = 296102151></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296102151&dopt=GenPept" >ref|YP_003612297.1|</a> outer membrane protein G precursor [Enterobacter cloacae subsp.
+           cloacae ATCC 13047]
+ <a name = 295056610></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=295056610&dopt=GenPept" >gb|ADF61348.1|</a> outer membrane protein G precursor [Enterobacter cloacae subsp.
+           cloacae ATCC 13047]
+          Length = 270
+
+ Score = 83.4 bits (282), Expect = 1e-14
+ Identities = 89/252 (35%), Positives = 105/252 (41%), Gaps = 127/252 (50%)
+
+Query: 12  EPSVYFNAA--NWRIALAYYQE------------------LEVHYQFL----FSFGLTGG 47
+           EPSV FNA    W I LA YQE                  +E+ Y F+    F++GLTGG
+Sbjct: 19  EPSVWFNATWDAWAISLAMYQEGPVDYSSMTRGTYFDRPEFELRYRFIGTDDFTLGLTGG 78
+
+Query: 48  FR---------------------WKIAPDWDVKL----RFNGWLSMY------------- 69
+           FR                      KI PDWD+KL    RF GW+ MY             
+Sbjct: 79  FRNYGYHFKDEHGAKDGSANMQRYKIQPDWDIKLSDDWRFGGWFAMYQFANDLEKTGYAD 138
+
+Query: 70  --VETETGLQYT-----ALRVNYYLE----------------QEIRAY-------HSVTP 99
+             VETETG+  T     A  VNYYLE                QEIR Y        ++TP
+Sbjct: 139 SRVETETGFTWTINETFAAKVNYYLERGFNMDSSRNNGEFSTQEIRTYLPISLGNTTLTP 198
+
+Query: 100 YTRIGL-------------------NRVGLFYGYD----LSVSLEYAFE----------- 125
+           YTR+GL                   NR+GL+Y+YD    LS +LEYA+E           
+Sbjct: 199 YTRLGLDRWSNWDWQDDPEREGHDFNRLGLLYAYDFNNGLSMTLEYAYEWENHDEGESDR 258
+
+Query: 126 -HYAGVGVNYSF 136
+            HYAGVGVNY F
+Sbjct: 259 FHYAGVGVNYAF 270
+</PRE>
+
+
+<PRE>
+><a name = 195940854></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=195940854&dopt=GenPept" >ref|ZP_03086236.1|</a> outer membrane protein G precursor [Escherichia coli O157:H7 str.
+           EC4024]
+          Length = 264
+
+ Score = 82.5 bits (279), Expect = 2e-14
+ Identities = 87/252 (34%), Positives = 104/252 (41%), Gaps = 127/252 (50%)
+
+Query: 12  EPSVYFNAA--NWRIALAYYQE------------------LEVHYQFL----FSFGLTGG 47
+           EPSV FNA    W + LA YQE                  +E+ Y F+    F+FGLTGG
+Sbjct: 13  EPSVWFNATWDAWTLSLAMYQEGPVDYSSMTRGTYFDRPEFELRYRFIGTDDFTFGLTGG 72
+
+Query: 48  FR---------------------WKIAPDWDVKL----RFNGWLSMY------------- 69
+           FR                      KV PDWD+KL    RF GW+ MY             
+Sbjct: 73  FRNYGYHFKDEHGAKDGSANMQRYKVQPDWDIKLTDDWRFGGWFAMYQFANDLEKTGYSD 132
+
+Query: 70  --VETETGLQYT-----ALRVNYYLE----------------QEIRAY-------HSVTP 99
+             VETETG+  T        VNYYLE                QEIRAY        ++TP
+Sbjct: 133 SRVETETGFTWTINETVSAKVNYYLERGFNMDGSRNNGEFATQEIRAYLPISLGQTTLTP 192
+
+Query: 100 YTRIGL-------------------NRVGLFYGYD----LSVSLEYAFE----------- 125
+           YTR+GL                   NR+G +Y+YD    LS +LEYA+E           
+Sbjct: 193 YTRLGLDRWSNWDWQDDPEREGHDFNRLGMLYAYDFNNGLSMTLEYAYEWENHDEGDSDR 252
+
+Query: 126 -HYAGVGVNYSF 136
+            HYAGVGVNY F
+Sbjct: 253 FHYAGVGVNYAF 264
+</PRE>
+
+
+<PRE>
+><a name = 297521044></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=297521044&dopt=GenPept" >ref|ZP_06939430.1|</a> outer membrane porin OmpG [Escherichia coli OP50]
+          Length = 111
+
+ Score = 76.7 bits (258), Expect = 1e-12
+ Identities = 47/85 (55%), Positives = 47/85 (55%), Gaps = 38/85 (44%)
+
+Query: 1   WHFNIGAMYEI--------------EPSVYFNAAN--WRIALAYYQ-------------- 30
+           WHFNIGAMYEI              EPSVYFNAAN  WRIALAYYQ              
+Sbjct: 27  WHFNIGAMYEIENVEGYGEDMDGLAEPSVYFNAANGPWRIALAYYQEGPVDYSAGKRGTW 86
+
+Query: 31  ----ELEVHYQFL----FSFGLTGG 47
+               ELEVHYQFL    FSFGLTGG
+Sbjct: 87  FDRPELEVHYQFLENDDFSFGLTGG 111
+</PRE>
+
+
+<PRE>
+><a name = 323185515></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323185515&dopt=GenPept" >gb|EFZ70876.1|</a> outer membrane protein G domain protein [Escherichia coli 1357]
+          Length = 112
+
+ Score = 72.2 bits (242), Expect = 2e-11
+ Identities = 48/90 (53%), Positives = 48/90 (53%), Gaps = 42/90 (46%)
+
+Query: 89  QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD----LSV 118
+           QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD    LSV
+Sbjct: 23  QEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIEREGHDFNRVGLFYGYDFQNGLSV 82
+
+Query: 119 SLEYAFE------------HYAGVGVNYSF 136
+           SLEYAFE            HYAGVGVNYSF
+Sbjct: 83  SLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 112
+</PRE>
+
+
+<PRE>
+><a name = 320173726></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320173726&dopt=GenPept" >gb|EFW48910.1|</a> Outer membrane protein G precursor [Shigella dysenteriae CDC
+           74-1112]
+          Length = 112
+
+ Score = 72.2 bits (242), Expect = 2e-11
+ Identities = 48/90 (53%), Positives = 48/90 (53%), Gaps = 42/90 (46%)
+
+Query: 89  QEIRAY-------HSVTPYTRIGL-------------------NRVGLFYGYD----LSV 118
+           QEIRAY       HSVTPYTRIGL                   NRVGLFYGYD    LSV
+Sbjct: 23  QEIRAYLPLTLGNHSVTPYTRIGLDRWSNWDWQDDIECEGHDFNRVGLFYGYDFQNGLSV 82
+
+Query: 119 SLEYAFE------------HYAGVGVNYSF 136
+           SLEYAFE            HYAGVGVNYSF
+Sbjct: 83  SLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 112
+</PRE>
+
+
+<PRE>
+><a name = 315619473></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315619473&dopt=GenPept" >gb|EFV00009.1|</a> outer membrane G domain protein [Escherichia coli 3431]
+          Length = 62
+
+ Score = 50.8 bits (165), Expect = 7e-05
+ Identities = 29/49 (59%), Positives = 29/49 (59%), Gaps = 20/49 (40%)
+
+Query: 60 LRFNGWLSMY---------------VETETGLQYT-----ALRVNYYLE 88
+          LRFNGWLSMY               VETETGLQYT     ALRVNYYLE
+Sbjct: 4  LRFNGWLSMYKFANDLNTTGYADTRVETETGLQYTFNETVALRVNYYLE 52
+</PRE>
+
+
+<PRE>
+><a name = 313649519></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313649519&dopt=GenPept" >gb|EFS13950.1|</a> outer membrane G domain protein [Shigella flexneri 2a str. 2457T]
+          Length = 45
+
+ Score = 47.2 bits (152), Expect = 8e-04
+ Identities = 28/44 (63%), Positives = 28/44 (63%), Gaps = 16/44 (36%)
+
+Query: 109 GLFYGYD----LSVSLEYAFE------------HYAGVGVNYSF 136
+           GLFYGYD    LSVSLEYAFE            HYAGVGVNYSF
+Sbjct: 2   GLFYGYDFQNGLSVSLEYAFEWQDHDEGDSDKFHYAGVGVNYSF 45
+</PRE>
+
+
+<PRE>
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 861,928,619
+  Number of sequences in database:  2,557,525
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.01
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 910,730,992
+  Number of sequences in database:  2,615,592
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.02
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 965,803,591
+  Number of sequences in database:  2,808,441
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.03
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 983,507,158
+  Number of sequences in database:  2,947,407
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.04
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 772,737,879
+  Number of sequences in database:  2,206,433
+  
+Lambda     K      H
+   0.302    0.284     2.03 
+
+Gapped
+Lambda     K      H
+   0.193   0.0350    0.120 
+
+
+Matrix: bbTMall
+Gap Penalties: Existence: 13, Extension: 2
+Number of Hits to DB: 4,511,912,242
+Number of Sequences: 13135398
+Number of extensions: 776580219
+Number of successful extensions: 133501
+Number of sequences better than 10.0: 48
+Number of HSP's better than 10.0 without gapping: 40
+Number of HSP's successfully gapped in prelim test: 8
+Number of HSP's that attempted gapping in prelim test: 132920
+Number of HSP's gapped (non-prelim): 56
+length of query: 136
+length of database: 4,494,708,239
+effective HSP length: 96
+effective length of query: 40
+effective length of database: 3,233,710,031
+effective search space: 129348401240
+effective search space used: 129348401240
+T: 11
+A: 40
+X1: 17 ( 7.4 bits)
+X2: 53 (14.8 bits)
+X3: 89 (24.8 bits)
+S1: 46 (21.9 bits)
+S2: 104 (33.8 bits)
+</PRE>
+<P><HR><BR>
+<PRE></PRE>
+</BODY>
+</HTML>

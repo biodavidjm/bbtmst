@@ -1,0 +1,432 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> 1PRN_bb|length 156
+         (156 letters)
+
+<b>Database:</b> All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           13,135,398 sequences; 4,494,708,239 total letters
+
+Searching..................................................done<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157837153&dopt=GenPept" >pdb|7PRN|A</a>  Chain A, E1m, D97a, E99a Mutant Of Rh. Blastica ...   <a href = #157837153>169</a>   9e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157837118&dopt=GenPept" >pdb|6PRN|A</a>  Chain A, E1m, K50a, R52a Mutant Of Rh. Blastica ...   <a href = #157837118>169</a>   9e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157835756&dopt=GenPept" >pdb|2PRN|A</a>  Chain A, Rhodopseudomonas Blastica Porin, Triple...   <a href = #157835756>169</a>   9e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157837068&dopt=GenPept" >pdb|5PRN|A</a>  Chain A, E1m, Y96w, S119w Mutant Of Rh. Blastica...   <a href = #157837068>169</a>   9e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00730355&dopt=GenPept" >sp|P39767|PORI_RHOBL</a>  RecName: Full=Porin >gi|157833558|pdb|...   <a href = #730355>169</a>   9e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157836874&dopt=GenPept" >pdb|3PRN|A</a>  Chain A, E1m, A104w Mutant Of Rh. Blastica Porin      <a href = #157836874>169</a>   9e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157837180&dopt=GenPept" >pdb|8PRN|A</a>  Chain A, E1m, K50a, R52a, D97a, E99a Mutant Of R...   <a href = #157837180>169</a>   9e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157830310&dopt=GenPept" >pdb|1BH3|A</a>  Chain A, E1m, A116k Mutant Of Rh. Blastica Porin      <a href = #157830310>169</a>   9e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=27573634&dopt=GenPept" >pdb|1H6S|1</a>  Chain 1, Asymmetric Conductivity Of Engineered P...   <a href = #27573634>159</a>   9e-38
+</PRE>
+<PRE>
+><a name = 157837153></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157837153&dopt=GenPept" >pdb|7PRN|A</a> Chain A, E1m, D97a, E99a Mutant Of Rh. Blastica Porin
+          Length = 289
+
+ Score =  169 bits (593), Expect = 9e-41
+ Identities = 105/159 (66%), Positives = 105/159 (66%), Gaps = 54/159 (33%)
+
+Query: 52  NGIAVTYSI--VNLYLSYVD------------EFGIAADWS---ISLAAAYTT------- 87
+           NGIAVTYSI  VNLYLSYVD            EFGIAADWS   ISLAAAYTT       
+Sbjct: 131 NGIAVTYSISGVNLYLSYVDPDQTVDSSLVTEEFGIAADWSNDMISLAAAYTTDAGGIVD 190
+
+Query: 88  --IAFVGAAYK----GTVGLNWYD-------DQVTLYGNYAF--TTVRAYVSD------- 125
+             IAFVGAAYK    GTVGLNWYD       DQVTLYGNYAF  TTVRAYVSD       
+Sbjct: 191 NDIAFVGAAYKFNDAGTVGLNWYDNGLSTAGDQVTLYGNYAFGATTVRAYVSDIDRAGAD 250
+
+Query: 126 -AYGIGADYQF---VKVSGSVQSG----TVADVGVRFDF 156
+            AYGIGADYQF   VKVSGSVQSG    TVADVGVRFDF
+Sbjct: 251 TAYGIGADYQFAEGVKVSGSVQSGFANETVADVGVRFDF 289
+</PRE>
+
+
+<PRE>
+
+ Score = 93.9 bits (320), Expect = 7e-18
+ Identities = 51/83 (61%), Positives = 51/83 (61%), Gaps = 32/83 (38%)
+
+Query: 1  ISLNGYGRFGLQY----------TIISSRLRINIVGT-------TFGAKLRMQWD----- 38
+          ISLNGYGRFGLQY          TIISSRLRINIVGT       TFGAKLRMQWD     
+Sbjct: 2  ISLNGYGRFGLQYVEDRGVGLEDTIISSRLRINIVGTTETDQGVTFGAKLRMQWDDGDAF 61
+
+Query: 39 -------AQFWTS---VTVSVGN 51
+                 AQFWTS   VTVSVGN
+Sbjct: 62 AGTAGNAAQFWTSYNGVTVSVGN 84
+</PRE>
+
+
+<PRE>
+><a name = 157837118></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157837118&dopt=GenPept" >pdb|6PRN|A</a> Chain A, E1m, K50a, R52a Mutant Of Rh. Blastica Porin
+          Length = 289
+
+ Score =  169 bits (593), Expect = 9e-41
+ Identities = 105/159 (66%), Positives = 105/159 (66%), Gaps = 54/159 (33%)
+
+Query: 52  NGIAVTYSI--VNLYLSYVD------------EFGIAADWS---ISLAAAYTT------- 87
+           NGIAVTYSI  VNLYLSYVD            EFGIAADWS   ISLAAAYTT       
+Sbjct: 131 NGIAVTYSISGVNLYLSYVDPDQTVDSSLVTEEFGIAADWSNDMISLAAAYTTDAGGIVD 190
+
+Query: 88  --IAFVGAAYK----GTVGLNWYD-------DQVTLYGNYAF--TTVRAYVSD------- 125
+             IAFVGAAYK    GTVGLNWYD       DQVTLYGNYAF  TTVRAYVSD       
+Sbjct: 191 NDIAFVGAAYKFNDAGTVGLNWYDNGLSTAGDQVTLYGNYAFGATTVRAYVSDIDRAGAD 250
+
+Query: 126 -AYGIGADYQF---VKVSGSVQSG----TVADVGVRFDF 156
+            AYGIGADYQF   VKVSGSVQSG    TVADVGVRFDF
+Sbjct: 251 TAYGIGADYQFAEGVKVSGSVQSGFANETVADVGVRFDF 289
+</PRE>
+
+
+<PRE>
+
+ Score = 79.2 bits (267), Expect = 2e-13
+ Identities = 49/83 (59%), Positives = 49/83 (59%), Gaps = 32/83 (38%)
+
+Query: 1  ISLNGYGRFGLQY----------TIISSRLRINIVGT-------TFGAKLRMQWD----- 38
+          ISLNGYGRFGLQY          TIISSRLRINIVGT       TFGA L MQWD     
+Sbjct: 2  ISLNGYGRFGLQYVEDRGVGLEDTIISSRLRINIVGTTETDQGVTFGAALAMQWDDGDAF 61
+
+Query: 39 -------AQFWTS---VTVSVGN 51
+                 AQFWTS   VTVSVGN
+Sbjct: 62 AGTAGNAAQFWTSYNGVTVSVGN 84
+</PRE>
+
+
+<PRE>
+><a name = 157835756></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157835756&dopt=GenPept" >pdb|2PRN|A</a> Chain A, Rhodopseudomonas Blastica Porin, Triple Mutant E1m, E99w,
+           A116w
+          Length = 289
+
+ Score =  169 bits (593), Expect = 9e-41
+ Identities = 105/159 (66%), Positives = 105/159 (66%), Gaps = 54/159 (33%)
+
+Query: 52  NGIAVTYSI--VNLYLSYVD------------EFGIAADWS---ISLAAAYTT------- 87
+           NGIAVTYSI  VNLYLSYVD            EFGIAADWS   ISLAAAYTT       
+Sbjct: 131 NGIAVTYSISGVNLYLSYVDPDQTVDSSLVTEEFGIAADWSNDMISLAAAYTTDAGGIVD 190
+
+Query: 88  --IAFVGAAYK----GTVGLNWYD-------DQVTLYGNYAF--TTVRAYVSD------- 125
+             IAFVGAAYK    GTVGLNWYD       DQVTLYGNYAF  TTVRAYVSD       
+Sbjct: 191 NDIAFVGAAYKFNDAGTVGLNWYDNGLSTAGDQVTLYGNYAFGATTVRAYVSDIDRAGAD 250
+
+Query: 126 -AYGIGADYQF---VKVSGSVQSG----TVADVGVRFDF 156
+            AYGIGADYQF   VKVSGSVQSG    TVADVGVRFDF
+Sbjct: 251 TAYGIGADYQFAEGVKVSGSVQSGFANETVADVGVRFDF 289
+</PRE>
+
+
+<PRE>
+
+ Score = 93.9 bits (320), Expect = 7e-18
+ Identities = 51/83 (61%), Positives = 51/83 (61%), Gaps = 32/83 (38%)
+
+Query: 1  ISLNGYGRFGLQY----------TIISSRLRINIVGT-------TFGAKLRMQWD----- 38
+          ISLNGYGRFGLQY          TIISSRLRINIVGT       TFGAKLRMQWD     
+Sbjct: 2  ISLNGYGRFGLQYVEDRGVGLEDTIISSRLRINIVGTTETDQGVTFGAKLRMQWDDGDAF 61
+
+Query: 39 -------AQFWTS---VTVSVGN 51
+                 AQFWTS   VTVSVGN
+Sbjct: 62 AGTAGNAAQFWTSYNGVTVSVGN 84
+</PRE>
+
+
+<PRE>
+><a name = 157837068></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157837068&dopt=GenPept" >pdb|5PRN|A</a> Chain A, E1m, Y96w, S119w Mutant Of Rh. Blastica Porin
+          Length = 289
+
+ Score =  169 bits (593), Expect = 9e-41
+ Identities = 105/159 (66%), Positives = 105/159 (66%), Gaps = 54/159 (33%)
+
+Query: 52  NGIAVTYSI--VNLYLSYVD------------EFGIAADWS---ISLAAAYTT------- 87
+           NGIAVTYSI  VNLYLSYVD            EFGIAADWS   ISLAAAYTT       
+Sbjct: 131 NGIAVTYSISGVNLYLSYVDPDQTVDSSLVTEEFGIAADWSNDMISLAAAYTTDAGGIVD 190
+
+Query: 88  --IAFVGAAYK----GTVGLNWYD-------DQVTLYGNYAF--TTVRAYVSD------- 125
+             IAFVGAAYK    GTVGLNWYD       DQVTLYGNYAF  TTVRAYVSD       
+Sbjct: 191 NDIAFVGAAYKFNDAGTVGLNWYDNGLSTAGDQVTLYGNYAFGATTVRAYVSDIDRAGAD 250
+
+Query: 126 -AYGIGADYQF---VKVSGSVQSG----TVADVGVRFDF 156
+            AYGIGADYQF   VKVSGSVQSG    TVADVGVRFDF
+Sbjct: 251 TAYGIGADYQFAEGVKVSGSVQSGFANETVADVGVRFDF 289
+</PRE>
+
+
+<PRE>
+
+ Score = 93.9 bits (320), Expect = 7e-18
+ Identities = 51/83 (61%), Positives = 51/83 (61%), Gaps = 32/83 (38%)
+
+Query: 1  ISLNGYGRFGLQY----------TIISSRLRINIVGT-------TFGAKLRMQWD----- 38
+          ISLNGYGRFGLQY          TIISSRLRINIVGT       TFGAKLRMQWD     
+Sbjct: 2  ISLNGYGRFGLQYVEDRGVGLEDTIISSRLRINIVGTTETDQGVTFGAKLRMQWDDGDAF 61
+
+Query: 39 -------AQFWTS---VTVSVGN 51
+                 AQFWTS   VTVSVGN
+Sbjct: 62 AGTAGNAAQFWTSYNGVTVSVGN 84
+</PRE>
+
+
+<PRE>
+><a name = 730355></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00730355&dopt=GenPept" >sp|P39767|PORI_RHOBL</a> RecName: Full=Porin
+ <a name = 157833558></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157833558&dopt=GenPept" >pdb|1PRN|A</a> Chain A, Refined Structure Of Porin From Rhodopseudomonas Blastica
+           And Comparison With The Porin From Rhodobacter
+           Capsulatus
+          Length = 289
+
+ Score =  169 bits (593), Expect = 9e-41
+ Identities = 105/159 (66%), Positives = 105/159 (66%), Gaps = 54/159 (33%)
+
+Query: 52  NGIAVTYSI--VNLYLSYVD------------EFGIAADWS---ISLAAAYTT------- 87
+           NGIAVTYSI  VNLYLSYVD            EFGIAADWS   ISLAAAYTT       
+Sbjct: 131 NGIAVTYSISGVNLYLSYVDPDQTVDSSLVTEEFGIAADWSNDMISLAAAYTTDAGGIVD 190
+
+Query: 88  --IAFVGAAYK----GTVGLNWYD-------DQVTLYGNYAF--TTVRAYVSD------- 125
+             IAFVGAAYK    GTVGLNWYD       DQVTLYGNYAF  TTVRAYVSD       
+Sbjct: 191 NDIAFVGAAYKFNDAGTVGLNWYDNGLSTAGDQVTLYGNYAFGATTVRAYVSDIDRAGAD 250
+
+Query: 126 -AYGIGADYQF---VKVSGSVQSG----TVADVGVRFDF 156
+            AYGIGADYQF   VKVSGSVQSG    TVADVGVRFDF
+Sbjct: 251 TAYGIGADYQFAEGVKVSGSVQSGFANETVADVGVRFDF 289
+</PRE>
+
+
+<PRE>
+
+ Score = 93.9 bits (320), Expect = 7e-18
+ Identities = 51/83 (61%), Positives = 51/83 (61%), Gaps = 32/83 (38%)
+
+Query: 1  ISLNGYGRFGLQY----------TIISSRLRINIVGT-------TFGAKLRMQWD----- 38
+          ISLNGYGRFGLQY          TIISSRLRINIVGT       TFGAKLRMQWD     
+Sbjct: 2  ISLNGYGRFGLQYVEDRGVGLEDTIISSRLRINIVGTTETDQGVTFGAKLRMQWDDGDAF 61
+
+Query: 39 -------AQFWTS---VTVSVGN 51
+                 AQFWTS   VTVSVGN
+Sbjct: 62 AGTAGNAAQFWTSYNGVTVSVGN 84
+</PRE>
+
+
+<PRE>
+><a name = 157836874></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157836874&dopt=GenPept" >pdb|3PRN|A</a> Chain A, E1m, A104w Mutant Of Rh. Blastica Porin
+          Length = 289
+
+ Score =  169 bits (593), Expect = 9e-41
+ Identities = 105/159 (66%), Positives = 105/159 (66%), Gaps = 54/159 (33%)
+
+Query: 52  NGIAVTYSI--VNLYLSYVD------------EFGIAADWS---ISLAAAYTT------- 87
+           NGIAVTYSI  VNLYLSYVD            EFGIAADWS   ISLAAAYTT       
+Sbjct: 131 NGIAVTYSISGVNLYLSYVDPDQTVDSSLVTEEFGIAADWSNDMISLAAAYTTDAGGIVD 190
+
+Query: 88  --IAFVGAAYK----GTVGLNWYD-------DQVTLYGNYAF--TTVRAYVSD------- 125
+             IAFVGAAYK    GTVGLNWYD       DQVTLYGNYAF  TTVRAYVSD       
+Sbjct: 191 NDIAFVGAAYKFNDAGTVGLNWYDNGLSTAGDQVTLYGNYAFGATTVRAYVSDIDRAGAD 250
+
+Query: 126 -AYGIGADYQF---VKVSGSVQSG----TVADVGVRFDF 156
+            AYGIGADYQF   VKVSGSVQSG    TVADVGVRFDF
+Sbjct: 251 TAYGIGADYQFAEGVKVSGSVQSGFANETVADVGVRFDF 289
+</PRE>
+
+
+<PRE>
+
+ Score = 93.9 bits (320), Expect = 7e-18
+ Identities = 51/83 (61%), Positives = 51/83 (61%), Gaps = 32/83 (38%)
+
+Query: 1  ISLNGYGRFGLQY----------TIISSRLRINIVGT-------TFGAKLRMQWD----- 38
+          ISLNGYGRFGLQY          TIISSRLRINIVGT       TFGAKLRMQWD     
+Sbjct: 2  ISLNGYGRFGLQYVEDRGVGLEDTIISSRLRINIVGTTETDQGVTFGAKLRMQWDDGDAF 61
+
+Query: 39 -------AQFWTS---VTVSVGN 51
+                 AQFWTS   VTVSVGN
+Sbjct: 62 AGTAGNAAQFWTSYNGVTVSVGN 84
+</PRE>
+
+
+<PRE>
+><a name = 157837180></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157837180&dopt=GenPept" >pdb|8PRN|A</a> Chain A, E1m, K50a, R52a, D97a, E99a Mutant Of Rh. Blastica Porin
+          Length = 289
+
+ Score =  169 bits (593), Expect = 9e-41
+ Identities = 105/159 (66%), Positives = 105/159 (66%), Gaps = 54/159 (33%)
+
+Query: 52  NGIAVTYSI--VNLYLSYVD------------EFGIAADWS---ISLAAAYTT------- 87
+           NGIAVTYSI  VNLYLSYVD            EFGIAADWS   ISLAAAYTT       
+Sbjct: 131 NGIAVTYSISGVNLYLSYVDPDQTVDSSLVTEEFGIAADWSNDMISLAAAYTTDAGGIVD 190
+
+Query: 88  --IAFVGAAYK----GTVGLNWYD-------DQVTLYGNYAF--TTVRAYVSD------- 125
+             IAFVGAAYK    GTVGLNWYD       DQVTLYGNYAF  TTVRAYVSD       
+Sbjct: 191 NDIAFVGAAYKFNDAGTVGLNWYDNGLSTAGDQVTLYGNYAFGATTVRAYVSDIDRAGAD 250
+
+Query: 126 -AYGIGADYQF---VKVSGSVQSG----TVADVGVRFDF 156
+            AYGIGADYQF   VKVSGSVQSG    TVADVGVRFDF
+Sbjct: 251 TAYGIGADYQFAEGVKVSGSVQSGFANETVADVGVRFDF 289
+</PRE>
+
+
+<PRE>
+
+ Score = 79.2 bits (267), Expect = 2e-13
+ Identities = 49/83 (59%), Positives = 49/83 (59%), Gaps = 32/83 (38%)
+
+Query: 1  ISLNGYGRFGLQY----------TIISSRLRINIVGT-------TFGAKLRMQWD----- 38
+          ISLNGYGRFGLQY          TIISSRLRINIVGT       TFGA L MQWD     
+Sbjct: 2  ISLNGYGRFGLQYVEDRGVGLEDTIISSRLRINIVGTTETDQGVTFGAALAMQWDDGDAF 61
+
+Query: 39 -------AQFWTS---VTVSVGN 51
+                 AQFWTS   VTVSVGN
+Sbjct: 62 AGTAGNAAQFWTSYNGVTVSVGN 84
+</PRE>
+
+
+<PRE>
+><a name = 157830310></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157830310&dopt=GenPept" >pdb|1BH3|A</a> Chain A, E1m, A116k Mutant Of Rh. Blastica Porin
+          Length = 289
+
+ Score =  169 bits (593), Expect = 9e-41
+ Identities = 105/159 (66%), Positives = 105/159 (66%), Gaps = 54/159 (33%)
+
+Query: 52  NGIAVTYSI--VNLYLSYVD------------EFGIAADWS---ISLAAAYTT------- 87
+           NGIAVTYSI  VNLYLSYVD            EFGIAADWS   ISLAAAYTT       
+Sbjct: 131 NGIAVTYSISGVNLYLSYVDPDQTVDSSLVTEEFGIAADWSNDMISLAAAYTTDAGGIVD 190
+
+Query: 88  --IAFVGAAYK----GTVGLNWYD-------DQVTLYGNYAF--TTVRAYVSD------- 125
+             IAFVGAAYK    GTVGLNWYD       DQVTLYGNYAF  TTVRAYVSD       
+Sbjct: 191 NDIAFVGAAYKFNDAGTVGLNWYDNGLSTAGDQVTLYGNYAFGATTVRAYVSDIDRAGAD 250
+
+Query: 126 -AYGIGADYQF---VKVSGSVQSG----TVADVGVRFDF 156
+            AYGIGADYQF   VKVSGSVQSG    TVADVGVRFDF
+Sbjct: 251 TAYGIGADYQFAEGVKVSGSVQSGFANETVADVGVRFDF 289
+</PRE>
+
+
+<PRE>
+
+ Score = 93.9 bits (320), Expect = 7e-18
+ Identities = 51/83 (61%), Positives = 51/83 (61%), Gaps = 32/83 (38%)
+
+Query: 1  ISLNGYGRFGLQY----------TIISSRLRINIVGT-------TFGAKLRMQWD----- 38
+          ISLNGYGRFGLQY          TIISSRLRINIVGT       TFGAKLRMQWD     
+Sbjct: 2  ISLNGYGRFGLQYVEDRGVGLEDTIISSRLRINIVGTTETDQGVTFGAKLRMQWDDGDAF 61
+
+Query: 39 -------AQFWTS---VTVSVGN 51
+                 AQFWTS   VTVSVGN
+Sbjct: 62 AGTAGNAAQFWTSYNGVTVSVGN 84
+</PRE>
+
+
+<PRE>
+><a name = 27573634></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=27573634&dopt=GenPept" >pdb|1H6S|1</a> Chain 1, Asymmetric Conductivity Of Engineered Proteins
+          Length = 307
+
+ Score =  159 bits (557), Expect = 9e-38
+ Identities = 105/177 (59%), Positives = 105/177 (59%), Gaps = 72/177 (40%)
+
+Query: 52  NGIAVTYSI--VNLYLSYVD------------EFGIAADWS---ISLAAAYTT------- 87
+           NGIAVTYSI  VNLYLSYVD            EFGIAADWS   ISLAAAYTT       
+Sbjct: 131 NGIAVTYSISGVNLYLSYVDPDQTVDSSLVTEEFGIAADWSNDMISLAAAYTTDAGGIVD 190
+
+Query: 88  --IAFVGAAYK----------------------GTVGLNWYD-------DQVTLYGNYAF 116
+             IAFVGAAYK                      GTVGLNWYD       DQVTLYGNYAF
+Sbjct: 191 NDIAFVGAAYKFNGGGGPKLAKMEKARGGGGDAGTVGLNWYDNGLSTAGDQVTLYGNYAF 250
+
+Query: 117 --TTVRAYVSD--------AYGIGADYQF---VKVSGSVQSG----TVADVGVRFDF 156
+             TTVRAYVSD        AYGIGADYQF   VKVSGSVQSG    TVADVGVRFDF
+Sbjct: 251 GATTVRAYVSDIDRAGADTAYGIGADYQFAEGVKVSGSVQSGFANETVADVGVRFDF 307
+</PRE>
+
+
+<PRE>
+
+ Score = 93.9 bits (320), Expect = 7e-18
+ Identities = 51/83 (61%), Positives = 51/83 (61%), Gaps = 32/83 (38%)
+
+Query: 1  ISLNGYGRFGLQY----------TIISSRLRINIVGT-------TFGAKLRMQWD----- 38
+          ISLNGYGRFGLQY          TIISSRLRINIVGT       TFGAKLRMQWD     
+Sbjct: 2  ISLNGYGRFGLQYVEDRGVGLEDTIISSRLRINIVGTTETDQGVTFGAKLRMQWDDGDAF 61
+
+Query: 39 -------AQFWTS---VTVSVGN 51
+                 AQFWTS   VTVSVGN
+Sbjct: 62 AGTAGNAAQFWTSYNGVTVSVGN 84
+</PRE>
+
+
+<PRE>
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 861,928,619
+  Number of sequences in database:  2,557,525
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.01
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 910,730,992
+  Number of sequences in database:  2,615,592
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.02
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 965,803,591
+  Number of sequences in database:  2,808,441
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.03
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 983,507,158
+  Number of sequences in database:  2,947,407
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.04
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 772,737,879
+  Number of sequences in database:  2,206,433
+  
+Lambda     K      H
+   0.263    0.246     1.98 
+
+Gapped
+Lambda     K      H
+   0.193   0.0350    0.120 
+
+
+Matrix: bbTMout
+Gap Penalties: Existence: 13, Extension: 2
+Number of Hits to DB: 7,261,533,036
+Number of Sequences: 13135398
+Number of extensions: 1499607811
+Number of successful extensions: 112836
+Number of sequences better than 10.0: 9
+Number of HSP's better than 10.0 without gapping: 9
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 112694
+Number of HSP's gapped (non-prelim): 19
+length of query: 156
+length of database: 4,494,708,239
+effective HSP length: 113
+effective length of query: 43
+effective length of database: 3,010,408,265
+effective search space: 129447555395
+effective search space used: 129447555395
+T: 11
+A: 40
+X1: 19 ( 7.2 bits)
+X2: 53 (14.8 bits)
+X3: 89 (24.8 bits)
+S1: 52 (21.7 bits)
+S2: 104 (33.8 bits)
+</PRE>
+<P><HR><BR>
+<PRE></PRE>
+</BODY>
+</HTML>

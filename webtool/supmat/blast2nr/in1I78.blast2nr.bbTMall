@@ -1,0 +1,2966 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> 1I78_bb|length 102
+         (102 letters)
+
+<b>Database:</b> All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           13,135,398 sequences; 4,494,708,239 total letters
+
+Searching..................................................done<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323191201&dopt=GenPept" >gb|EFZ76465.1|</a>  coagulase/fibrinolysin [Escherichia coli RN5...   <a href = #323191201> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320654468&dopt=GenPept" >gb|EFX22512.1|</a>  outer membrane protease [Escherichia coli O5...   <a href = #320654468> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320194254&dopt=GenPept" >gb|EFW68886.1|</a>  outer membrane protease [Escherichia coli WV...   <a href = #320194254> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320194249&dopt=GenPept" >gb|EFW68881.1|</a>  outer membrane protease [Escherichia coli WV...   <a href = #320194249> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315299102&dopt=GenPept" >gb|EFU58356.1|</a>  outer membrane protease [Escherichia coli MS...   <a href = #315299102> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315287011&dopt=GenPept" >gb|EFU46426.1|</a>  outer membrane protease [Escherichia coli MS...   <a href = #315287011> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307627996&dopt=GenPept" >gb|ADN72300.1|</a>  outer membrane protease [Escherichia coli UM...   <a href = #307627996> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=306813002&dopt=GenPept" >ref|ZP_07447195.1|</a>  outer membrane protease [Escherichia col...   <a href = #306813002> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300902048&dopt=GenPept" >ref|ZP_07120070.1|</a>  outer membrane protease [Escherichia col...   <a href = #300902048> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291281507&dopt=GenPept" >ref|YP_003498325.1|</a>  Protease VII [Escherichia coli O55:H7 s...   <a href = #291281507> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=281177706&dopt=GenPept" >dbj|BAI54036.1|</a>  putative phage protease [Escherichia coli S...   <a href = #281177706> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260866709&dopt=GenPept" >ref|YP_003233111.1|</a>  putative outer membrane protease precur...   <a href = #260866709> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=256023823&dopt=GenPept" >ref|ZP_05437688.1|</a>  outer membrane protease [Escherichia sp....   <a href = #256023823> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227884456&dopt=GenPept" >ref|ZP_04002261.1|</a>  outer membrane protease [Escherichia col...   <a href = #227884456> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=222032326&dopt=GenPept" >emb|CAP75065.1|</a>  Protease 7 [Escherichia coli LF82] >gi|3129...   <a href = #222032326> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218703881&dopt=GenPept" >ref|YP_002411400.1|</a>  outer membrane protease [Escherichia co...   <a href = #218703881> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218557503&dopt=GenPept" >ref|YP_002390416.1|</a>  outer membrane protease [Escherichia co...   <a href = #218557503> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193063338&dopt=GenPept" >ref|ZP_03044428.1|</a>  protease 7 [Escherichia coli E22] >gi|19...   <a href = #193063338> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91209611&dopt=GenPept" >ref|YP_539597.1|</a>  outer membrane protease [Escherichia coli ...   <a href = #91209611> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26246544&dopt=GenPept" >ref|NP_752583.1|</a>  outer membrane protease [Escherichia coli ...   <a href = #26246544> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16128548&dopt=GenPept" >ref|NP_415097.1|</a>  DLP12 prophage; outer membrane protease VI...   <a href = #16128548> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15988003&dopt=GenPept" >pdb|1I78|A</a>  Chain A, Crystal Structure Of Outer Membrane Pro...   <a href = #15988003> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15801391&dopt=GenPept" >ref|NP_287408.1|</a>  outer membrane protease [Escherichia coli ...   <a href = #15801391> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110640796&dopt=GenPept" >ref|YP_668524.1|</a>  outer membrane protease [Escherichia coli ...   <a href = #110640796> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=162317578&dopt=GenPept" >ref|YP_852560.2|</a>  outer membrane protease [Escherichia coli ...   <a href = #162317578> 61</a>   5e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115512771&dopt=GenPept" >gb|ABJ00846.1|</a>  outer membrane protease [Escherichia coli AP...   <a href = #115512771> 61</a>   5e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=50983081&dopt=GenPept" >gb|AAT92051.1|</a>  hypothetical protein [Escherichia coli]           <a href = #50983081> 61</a>   5e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215485608&dopt=GenPept" >ref|YP_002328039.1|</a>  outer membrane protease [Escherichia co...   <a href = #215485608> 61</a>   6e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194306026&dopt=GenPept" >dbj|BAG55464.1|</a>  outer membrane protease T [Escherichia coli]     <a href = #194306026> 60</a>   1e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307563034&dopt=GenPept" >ref|ZP_07626801.1|</a>  outer membrane protease [Escherichia col...   <a href = #307563034> 59</a>   3e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307350748&dopt=GenPept" >ref|ZP_07620353.1|</a>  outer membrane protease [Escherichia col...   <a href = #307350748> 58</a>   4e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300922119&dopt=GenPept" >ref|ZP_07138258.1|</a>  outer membrane protease [Escherichia col...   <a href = #300922119> 58</a>   4e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161503662&dopt=GenPept" >ref|YP_001570774.1|</a>  outer membrane protease [Salmonella ent...   <a href = #161503662> 56</a>   3e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307235848&dopt=GenPept" >ref|ZP_07522259.1|</a>  outer membrane protease [Escherichia col...   <a href = #307235848> 52</a>   3e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=09507742&dopt=GenPept" >ref|NP_061408.1|</a>  outer membrane protease [Plasmid F] >gi|11...   <a href = #9507742> 52</a>   3e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253800991&dopt=GenPept" >ref|YP_003033992.1|</a>  outer membrane protease [Escherichia co...   <a href = #253800991> 50</a>   1e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170768229&dopt=GenPept" >ref|ZP_02902682.1|</a>  protease 7 [Escherichia albertii TW07627...   <a href = #170768229> 49</a>   3e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84060870&dopt=GenPept" >ref|YP_444072.1|</a>  outer membrane protease [Escherichia coli]...   <a href = #84060870> 49</a>   3e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=283785705&dopt=GenPept" >ref|YP_003365570.1|</a>  protease 7 precursor [Citrobacter roden...   <a href = #283785705> 48</a>   5e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312170804&dopt=GenPept" >emb|CBX79065.1|</a>  outer membrane protease precursor [Erwinia ...   <a href = #312170804> 44</a>   0.007
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=310766085&dopt=GenPept" >gb|ADP11035.1|</a>  outer membrane protease [Erwinia sp. Ejp617]      <a href = #310766085> 44</a>   0.007
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=259906940&dopt=GenPept" >ref|YP_002647296.1|</a>  outer membrane protease [Erwinia pyrifo...   <a href = #259906940> 44</a>   0.007
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292486737&dopt=GenPept" >ref|YP_003529607.1|</a>  outer membrane protease [Erwinia amylov...   <a href = #292486737> 43</a>   0.018
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=68304108&dopt=GenPept" >gb|AAY89712.1|</a>  OmpT [Escherichia coli LW1655F+]                  <a href = #68304108> 41</a>   0.048
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323166357&dopt=GenPept" >gb|EFZ52126.1|</a>  coagulase/fibrinolysin [Shigella sonnei 53G]      <a href = #323166357> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320181853&dopt=GenPept" >gb|EFW56761.1|</a>  outer membrane protease [Shigella boydii ATC...   <a href = #320181853> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320176155&dopt=GenPept" >gb|EFW51221.1|</a>  outer membrane protease [Shigella dysenteria...   <a href = #320176155> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194435390&dopt=GenPept" >ref|ZP_03067584.1|</a>  protease 7 [Shigella dysenteriae 1012] >...   <a href = #194435390> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=187734391&dopt=GenPept" >ref|YP_001883312.1|</a>  protease 7 [Shigella boydii CDC 3083-94...   <a href = #187734391> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161986648&dopt=GenPept" >ref|YP_406225.2|</a>  outer membrane protease [Shigella dysenter...   <a href = #161986648> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15485223&dopt=GenPept" >emb|CAC67468.1|</a>  SopA protein [Escherichia coli]                  <a href = #15485223> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=32306984&dopt=GenPept" >gb|AAP78966.1|</a>  IcsP [Shigella flexneri]                          <a href = #32306984> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=81244028&dopt=GenPept" >gb|ABB64737.1|</a>  IcsP [Shigella dysenteriae Sd197]                 <a href = #81244028> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=82524812&dopt=GenPept" >ref|YP_406373.1|</a>  outer membrane protease [Shigella boydii S...   <a href = #82524812> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74315076&dopt=GenPept" >ref|YP_313494.1|</a>  outer membrane protease [Shigella sonnei S...   <a href = #74315076> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296100145&dopt=GenPept" >ref|NP_085447.3|</a>  VirG-specific protease [Shigella flexneri ...   <a href = #296100145> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=56404036&dopt=GenPept" >ref|NP_858404.2|</a>  outer membrane protease [Shigella flexneri...   <a href = #56404036> 41</a>   0.058
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312174384&dopt=GenPept" >emb|CBX82631.1|</a>  IcsP/SopA [Erwinia amylovora ATCC BAA-2158]      <a href = #312174384> 40</a>   0.10 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312173480&dopt=GenPept" >emb|CBX81734.1|</a>  IcsP/SopA [Erwinia amylovora ATCC BAA-2158]      <a href = #312173480> 40</a>   0.10 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307559110&dopt=GenPept" >ref|ZP_07622877.1|</a>  outer membrane protease [Escherichia col...   <a href = #307559110> 40</a>   0.10 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292489316&dopt=GenPept" >ref|YP_003532203.1|</a>  IcsP/SopA [Erwinia amylovora CFBP1430] ...   <a href = #292489316> 40</a>   0.10 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292489312&dopt=GenPept" >ref|YP_003532199.1|</a>  IcsP/SopA [Erwinia amylovora CFBP1430] ...   <a href = #292489312> 40</a>   0.10 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292898463&dopt=GenPept" >ref|YP_003537832.1|</a>  outer membrane protease [Erwinia amylov...   <a href = #292898463> 40</a>   0.10 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292898461&dopt=GenPept" >ref|YP_003537830.1|</a>  outer membrane protease [Erwinia amylov...   <a href = #292898461> 40</a>   0.10 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206575691&dopt=GenPept" >ref|YP_002235876.1|</a>  protease VII [Klebsiella pneumoniae 342...   <a href = #206575691> 39</a>   0.22 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156936553&dopt=GenPept" >ref|YP_001440467.1|</a>  outer membrane protease [Cronobacter sa...   <a href = #156936553> 39</a>   0.33 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322614169&dopt=GenPept" >gb|EFY11104.1|</a>  outer membrane protease [Salmonella enterica...   <a href = #322614169> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315269894&dopt=GenPept" >gb|ADU02093.1|</a>  plasminogen activator Pla [uncultured bacter...   <a href = #315269894> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307143728&dopt=GenPept" >ref|ZP_07502160.1|</a>  outer membrane protease [Escherichia col...   <a href = #307143728> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=304394999&dopt=GenPept" >ref|ZP_07376883.1|</a>  Plasminogen activator Pla [Pantoea sp. a...   <a href = #304394999> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301598392&dopt=GenPept" >pdb|2X55|A</a>  Chain A, Yersinia Pestis Plasminogen Activator P...   <a href = #301598392> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301598388&dopt=GenPept" >pdb|2X4M|A</a>  Chain A, Yersinia Pestis Plasminogen Activator P...   <a href = #301598388> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301598393&dopt=GenPept" >pdb|2X56|A</a>  Chain A, Yersinia Pestis Plasminogen Activator P...   <a href = #301598393> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=289812336&dopt=GenPept" >ref|ZP_06542965.1|</a>  outer membrane protease [Salmonella ente...   <a href = #289812336> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=213609086&dopt=GenPept" >ref|ZP_03368912.1|</a>  outer membrane protease [Salmonella ente...   <a href = #213609086> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=213416633&dopt=GenPept" >ref|ZP_03349777.1|</a>  outer membrane protease [Salmonella ente...   <a href = #213416633> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=213163380&dopt=GenPept" >ref|ZP_03349090.1|</a>  outer membrane protease [Salmonella ente...   <a href = #213163380> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=213022460&dopt=GenPept" >ref|ZP_03336907.1|</a>  outer membrane protease [Salmonella ente...   <a href = #213022460> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=205353509&dopt=GenPept" >ref|YP_002227310.1|</a>  outer membrane protease [Salmonella ent...   <a href = #205353509> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168817864&dopt=GenPept" >ref|ZP_02829864.1|</a>  protease 7 [Salmonella enterica subsp. e...   <a href = #168817864> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168261577&dopt=GenPept" >ref|ZP_02683550.1|</a>  protease 7 [Salmonella enterica subsp. e...   <a href = #168261577> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168242535&dopt=GenPept" >ref|ZP_02667467.1|</a>  protease 7 [Salmonella enterica subsp. e...   <a href = #168242535> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=204928945&dopt=GenPept" >ref|ZP_03220088.1|</a>  protease 7 [Salmonella enterica subsp. e...   <a href = #204928945> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168237423&dopt=GenPept" >ref|ZP_02662481.1|</a>  protease 7 (outermembrane protein 3B) [S...   <a href = #168237423> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=197249873&dopt=GenPept" >ref|YP_002147352.1|</a>  outer membrane protease [Salmonella ent...   <a href = #197249873> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168465889&dopt=GenPept" >ref|ZP_02699759.1|</a>  protease 7 [Salmonella enterica subsp. e...   <a href = #168465889> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167471087&dopt=GenPept" >ref|ZP_02335791.1|</a>  outer membrane protease [Yersinia pestis...   <a href = #167471087> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=165940405&dopt=GenPept" >ref|ZP_02228911.1|</a>  protease 7 (Protease VII) (Omptin) (Oute...   <a href = #165940405> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161612865&dopt=GenPept" >ref|YP_001586830.1|</a>  outer membrane protease [Salmonella ent...   <a href = #161612865> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00155525&dopt=GenPept" >gb|AAA27667.1|</a>  plasminogen activator [Yersinia pestis]           <a href = #155525> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00154256&dopt=GenPept" >gb|AAA27185.1|</a>  e protein [Salmonella enterica subsp. enteri...   <a href = #154256> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=62180966&dopt=GenPept" >ref|YP_217383.1|</a>  outer membrane protease [Salmonella enteri...   <a href = #62180966> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=56412706&dopt=GenPept" >ref|YP_149781.1|</a>  outer membrane protease [Salmonella enteri...   <a href = #56412706> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=45478719&dopt=GenPept" >ref|NP_995574.1|</a>  outer membrane protease [Yersinia pestis b...   <a href = #45478719> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16761320&dopt=GenPept" >ref|NP_456937.1|</a>  outer membrane protease [Salmonella enteri...   <a href = #16761320> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16082686&dopt=GenPept" >ref|NP_395233.1|</a>  outer membrane protease [Yersinia pestis C...   <a href = #16082686> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16765721&dopt=GenPept" >ref|NP_461336.1|</a>  outer membrane protease [Salmonella enteri...   <a href = #16765721> 37</a>   0.71 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=298717579&dopt=GenPept" >ref|YP_003730221.1|</a>  outer membrane protease [Pantoea vagans...   <a href = #298717579> 36</a>   1.9  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146311554&dopt=GenPept" >ref|YP_001176628.1|</a>  outer membrane protease [Enterobacter s...   <a href = #146311554> 36</a>   1.9  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=228879508&dopt=GenPept" >ref|YP_001569565.2|</a>  outer membrane protease [Salmonella ent...   <a href = #228879508> 36</a>   2.3  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160863800&dopt=GenPept" >gb|ABX20423.1|</a>  hypothetical protein SARI_00495 [Salmonella ...   <a href = #160863800> 36</a>   2.3  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238794252&dopt=GenPept" >ref|ZP_04637866.1|</a>  Outer membrane protease [Yersinia interm...   <a href = #238794252> 35</a>   2.8  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296102467&dopt=GenPept" >ref|YP_003612613.1|</a>  outer membrane protease [Enterobacter c...   <a href = #296102467> 35</a>   3.3  
+</PRE>
+<PRE>
+><a name = 323191201></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323191201&dopt=GenPept" >gb|EFZ76465.1|</a> coagulase/fibrinolysin [Escherichia coli RN587/1]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNKPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 40/79 (50%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVY+EGAWN VT
+Sbjct: 259 YYVTPNAKVYIEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 320654468></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320654468&dopt=GenPept" >gb|EFX22512.1|</a> outer membrane protease [Escherichia coli O55:H7 str. 3256-97 TW
+           07815]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 320194254></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320194254&dopt=GenPept" >gb|EFW68886.1|</a> outer membrane protease [Escherichia coli WV_060327]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKECVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVESSDNDEHYDPGKRITYRSEVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 320194249></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320194249&dopt=GenPept" >gb|EFW68881.1|</a> outer membrane protease [Escherichia coli WV_060327]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDRDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 40/79 (50%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVY+EGAWN VT
+Sbjct: 259 YYVTPNAKVYIEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 315299102></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315299102&dopt=GenPept" >gb|EFU58356.1|</a> outer membrane protease [Escherichia coli MS 16-3]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 40/79 (50%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVY+EGAWN VT
+Sbjct: 259 YYVTPNAKVYIEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 315287011></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315287011&dopt=GenPept" >gb|EFU46426.1|</a> outer membrane protease [Escherichia coli MS 110-3]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 56.3 bits (185), Expect = 1e-06
+ Identities = 40/79 (50%), Positives = 41/79 (51%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGG FKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGIFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 307627996></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307627996&dopt=GenPept" >gb|ADN72300.1|</a> outer membrane protease [Escherichia coli UM146]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWXDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 306813002></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=306813002&dopt=GenPept" >ref|ZP_07447195.1|</a> outer membrane protease [Escherichia coli NC101]
+ <a name = 307224884></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307224884&dopt=GenPept" >ref|ZP_07511295.1|</a> outer membrane protease [Escherichia coli TA206]
+ <a name = 305853765></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=305853765&dopt=GenPept" >gb|EFM54204.1|</a> outer membrane protease [Escherichia coli NC101]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 40/79 (50%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEAFDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVY+EGAWN VT
+Sbjct: 259 YYVTPNAKVYIEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 300902048></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300902048&dopt=GenPept" >ref|ZP_07120070.1|</a> outer membrane protease [Escherichia coli MS 84-1]
+ <a name = 301307096></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301307096&dopt=GenPept" >ref|ZP_07213130.1|</a> outer membrane protease [Escherichia coli MS 124-1]
+ <a name = 300405835></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300405835&dopt=GenPept" >gb|EFJ89373.1|</a> outer membrane protease [Escherichia coli MS 84-1]
+ <a name = 300837695></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300837695&dopt=GenPept" >gb|EFK65455.1|</a> outer membrane protease [Escherichia coli MS 124-1]
+ <a name = 315252806></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315252806&dopt=GenPept" >gb|EFU32774.1|</a> outer membrane protease [Escherichia coli MS 85-1]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 291281507></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291281507&dopt=GenPept" >ref|YP_003498325.1|</a> Protease VII [Escherichia coli O55:H7 str. CB9615]
+ <a name = 293418661></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=293418661&dopt=GenPept" >ref|ZP_06661096.1|</a> omptin [Escherichia coli B088]
+ <a name = 307142554></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307142554&dopt=GenPept" >ref|ZP_07500986.1|</a> outer membrane protease [Escherichia coli M605]
+ <a name = 290761380></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=290761380&dopt=GenPept" >gb|ADD55341.1|</a> Protease VII [Escherichia coli O55:H7 str. CB9615]
+ <a name = 291325189></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291325189&dopt=GenPept" >gb|EFE64604.1|</a> omptin [Escherichia coli B088]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 281177706></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=281177706&dopt=GenPept" >dbj|BAI54036.1|</a> putative phage protease [Escherichia coli SE15]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMSQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 40/79 (50%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVY+EGAWN VT
+Sbjct: 259 YYVTPNAKVYIEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 260866709></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260866709&dopt=GenPept" >ref|YP_003233111.1|</a> putative outer membrane protease precursor [Escherichia coli
+           O111:H- str. 11128]
+ <a name = 257763065></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=257763065&dopt=GenPept" >dbj|BAI34560.1|</a> putative outer membrane protease precursor [Escherichia coli
+           O111:H- str. 11128]
+ <a name = 323178543></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323178543&dopt=GenPept" >gb|EFZ64120.1|</a> coagulase/fibrinolysin [Escherichia coli 1180]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 256023823></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=256023823&dopt=GenPept" >ref|ZP_05437688.1|</a> outer membrane protease [Escherichia sp. 4_1_40B]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNTAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 227884456></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227884456&dopt=GenPept" >ref|ZP_04002261.1|</a> outer membrane protease [Escherichia coli 83972]
+ <a name = 300990253></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300990253&dopt=GenPept" >ref|ZP_07179169.1|</a> outer membrane protease [Escherichia coli MS 45-1]
+ <a name = 301049749></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301049749&dopt=GenPept" >ref|ZP_07196693.1|</a> outer membrane protease [Escherichia coli MS 185-1]
+ <a name = 227838542></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227838542&dopt=GenPept" >gb|EEJ49008.1|</a> outer membrane protease [Escherichia coli 83972]
+ <a name = 300298481></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300298481&dopt=GenPept" >gb|EFJ54866.1|</a> outer membrane protease [Escherichia coli MS 185-1]
+ <a name = 300407141></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300407141&dopt=GenPept" >gb|EFJ90679.1|</a> outer membrane protease [Escherichia coli MS 45-1]
+ <a name = 307552437></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307552437&dopt=GenPept" >gb|ADN45212.1|</a> putative outer membrane protease Omptin family [Escherichia coli
+           ABU 83972]
+ <a name = 315291374></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315291374&dopt=GenPept" >gb|EFU50734.1|</a> outer membrane protease [Escherichia coli MS 153-1]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDRDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 40/79 (50%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEAFDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVY+EGAWN VT
+Sbjct: 259 YYVTPNAKVYIEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 222032326></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=222032326&dopt=GenPept" >emb|CAP75065.1|</a> Protease 7 [Escherichia coli LF82]
+ <a name = 312945111></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312945111&dopt=GenPept" >gb|ADR25938.1|</a> outer membrane protease [Escherichia coli O83:H1 str. NRG 857C]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 218703881></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218703881&dopt=GenPept" >ref|YP_002411400.1|</a> outer membrane protease [Escherichia coli UMN026]
+ <a name = 293403814></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=293403814&dopt=GenPept" >ref|ZP_06647808.1|</a> outer membrane protease [Escherichia coli FVEC1412]
+ <a name = 298379592></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=298379592&dopt=GenPept" >ref|ZP_06989197.1|</a> protease 7 [Escherichia coli FVEC1302]
+ <a name = 300897443></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300897443&dopt=GenPept" >ref|ZP_07115866.1|</a> outer membrane protease [Escherichia coli MS 198-1]
+ <a name = 218430978></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218430978&dopt=GenPept" >emb|CAR11852.1|</a> outer membrane protease VII (outer membrane protein 3b); DLP12
+           prophage [Escherichia coli UMN026]
+ <a name = 291428400></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291428400&dopt=GenPept" >gb|EFF01425.1|</a> outer membrane protease [Escherichia coli FVEC1412]
+ <a name = 298279290></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=298279290&dopt=GenPept" >gb|EFI20798.1|</a> protease 7 [Escherichia coli FVEC1302]
+ <a name = 300358791></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300358791&dopt=GenPept" >gb|EFJ74661.1|</a> outer membrane protease [Escherichia coli MS 198-1]
+ <a name = 320198317></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320198317&dopt=GenPept" >gb|EFW72921.1|</a> outer membrane protease [Escherichia coli EC4100B]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVESSDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 218557503></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218557503&dopt=GenPept" >ref|YP_002390416.1|</a> outer membrane protease [Escherichia coli S88]
+ <a name = 218364272></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218364272&dopt=GenPept" >emb|CAR01941.1|</a> outer membrane protease VII (outer membrane protein 3b); DLP12
+           prophage [Escherichia coli S88]
+ <a name = 294490967></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=294490967&dopt=GenPept" >gb|ADE89723.1|</a> protease VII [Escherichia coli IHE3034]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLDSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 193063338></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193063338&dopt=GenPept" >ref|ZP_03044428.1|</a> protease 7 [Escherichia coli E22]
+ <a name = 193069043></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193069043&dopt=GenPept" >ref|ZP_03050001.1|</a> protease 7 [Escherichia coli E110019]
+ <a name = 194428012></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194428012&dopt=GenPept" >ref|ZP_03060557.1|</a> protease 7 [Escherichia coli B171]
+ <a name = 209917812></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209917812&dopt=GenPept" >ref|YP_002291896.1|</a> outer membrane protease [Escherichia coli SE11]
+ <a name = 218698938></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218698938&dopt=GenPept" >ref|YP_002406567.1|</a> outer membrane protease [Escherichia coli IAI39]
+ <a name = 260842787></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260842787&dopt=GenPept" >ref|YP_003220565.1|</a> putative outer membrane protease OmpT precursor [Escherichia coli
+           O103:H2 str. 12009]
+ <a name = 260853811></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260853811&dopt=GenPept" >ref|YP_003227702.1|</a> putative outer membrane protease OmpT precursor [Escherichia coli
+           O26:H11 str. 11368]
+ <a name = 293413851></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=293413851&dopt=GenPept" >ref|ZP_06656500.1|</a> omptin [Escherichia coli B185]
+ <a name = 307220094></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307220094&dopt=GenPept" >ref|ZP_07506518.1|</a> outer membrane protease [Escherichia coli M718]
+ <a name = 192930922></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=192930922&dopt=GenPept" >gb|EDV83526.1|</a> protease 7 [Escherichia coli E22]
+ <a name = 192957587></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=192957587&dopt=GenPept" >gb|EDV88032.1|</a> protease 7 [Escherichia coli E110019]
+ <a name = 194413987></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194413987&dopt=GenPept" >gb|EDX30264.1|</a> protease 7 [Escherichia coli B171]
+ <a name = 195182773></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=195182773&dopt=GenPept" >dbj|BAG66354.1|</a> outer membrane protease precursor OmpT [Escherichia coli O111:H-]
+ <a name = 209911071></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209911071&dopt=GenPept" >dbj|BAG76145.1|</a> putative phage protease [Escherichia coli SE11]
+ <a name = 218368924></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218368924&dopt=GenPept" >emb|CAR16676.1|</a> outer membrane protease VII (outer membrane protein 3b); DLP12
+           prophage [Escherichia coli IAI39]
+ <a name = 257752460></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=257752460&dopt=GenPept" >dbj|BAI23962.1|</a> putative outer membrane protease OmpT precursor [Escherichia coli
+           O26:H11 str. 11368]
+ <a name = 257757934></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=257757934&dopt=GenPept" >dbj|BAI29431.1|</a> putative outer membrane protease OmpT precursor [Escherichia coli
+           O103:H2 str. 12009]
+ <a name = 291433909></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291433909&dopt=GenPept" >gb|EFF06882.1|</a> omptin [Escherichia coli B185]
+ <a name = 323152475></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323152475&dopt=GenPept" >gb|EFZ38761.1|</a> coagulase/fibrinolysin [Escherichia coli EPECa14]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 91209611></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91209611&dopt=GenPept" >ref|YP_539597.1|</a> outer membrane protease [Escherichia coli UTI89]
+ <a name = 117622789></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=117622789&dopt=GenPept" >ref|YP_851702.1|</a> outer membrane protease [Escherichia coli APEC O1]
+ <a name = 218557506></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218557506&dopt=GenPept" >ref|YP_002390419.1|</a> outer membrane protease [Escherichia coli S88]
+ <a name = 237707464></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=237707464&dopt=GenPept" >ref|ZP_04537945.1|</a> outer membrane protein 3b [Escherichia sp. 3_2_53FAA]
+ <a name = 91071185></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91071185&dopt=GenPept" >gb|ABE06066.1|</a> outer membrane protein 3b (a), protease VII [Escherichia coli
+           UTI89]
+ <a name = 115511913></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115511913&dopt=GenPept" >gb|ABI99987.1|</a> outer membrane protein 3b (a), protease VII [Escherichia coli APEC
+           O1]
+ <a name = 218364275></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218364275&dopt=GenPept" >emb|CAR01946.1|</a> outer membrane protease VII (outer membrane protein 3b); DLP12
+           prophage [Escherichia coli S88]
+ <a name = 226898674></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=226898674&dopt=GenPept" >gb|EEH84933.1|</a> outer membrane protein 3b [Escherichia sp. 3_2_53FAA]
+ <a name = 294490785></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=294490785&dopt=GenPept" >gb|ADE89541.1|</a> protease VII [Escherichia coli IHE3034]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 26246544></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26246544&dopt=GenPept" >ref|NP_752583.1|</a> outer membrane protease [Escherichia coli CFT073]
+ <a name = 26106943></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26106943&dopt=GenPept" >gb|AAN79127.1|AE016757_31</a> Protease VII precursor [Escherichia coli CFT073]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDRDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 40/79 (50%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEAFDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVY+EGAWN VT
+Sbjct: 259 YYVTPNAKVYIEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 16128548></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16128548&dopt=GenPept" >ref|NP_415097.1|</a> DLP12 prophage; outer membrane protease VII (outer membrane protein
+           3b) [Escherichia coli str. K-12 substr. MG1655]
+ <a name = 89107430></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89107430&dopt=GenPept" >ref|AP_001210.1|</a> outer membrane protease VII [Escherichia coli str. K-12 substr.
+           W3110]
+ <a name = 170080144></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170080144&dopt=GenPept" >ref|YP_001729464.1|</a> DLP12 prophage; outer membrane protease VII (outer membrane protein
+           3b) [Escherichia coli str. K-12 substr. DH10B]
+ <a name = 170080245></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170080245&dopt=GenPept" >ref|YP_001729565.1|</a> DLP12 prophage; outer membrane protease VII (outer membrane protein
+           3b) [Escherichia coli str. K-12 substr. DH10B]
+ <a name = 238899842></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238899842&dopt=GenPept" >ref|YP_002925638.1|</a> DLP12 prophage; outer membrane protease VII (outer membrane protein
+           3b) [Escherichia coli BW2952]
+ <a name = 254160635></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254160635&dopt=GenPept" >ref|YP_003043743.1|</a> outer membrane protease [Escherichia coli B str. REL606]
+ <a name = 297516478></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=297516478&dopt=GenPept" >ref|ZP_06934864.1|</a> outer membrane protease [Escherichia coli OP50]
+ <a name = 129161></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00129161&dopt=GenPept" >sp|P09169|OMPT_ECOLI</a> RecName: Full=Protease 7; AltName: Full=Omptin; AltName: Full=Outer
+           membrane protein 3B; AltName: Full=Protease A; AltName:
+           Full=Protease VII; Flags: Precursor
+ <a name = 42166></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00042166&dopt=GenPept" >emb|CAA30008.1|</a> unnamed protein product [Escherichia coli K-12]
+ <a name = 147377></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00147377&dopt=GenPept" >gb|AAA24430.1|</a> protease [Escherichia coli str. K-12 substr. W3110]
+ <a name = 1778478></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01778478&dopt=GenPept" >gb|AAB40761.1|</a> protease VII precursor [Escherichia coli]
+ <a name = 1786777></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01786777&dopt=GenPept" >gb|AAC73666.1|</a> DLP12 prophage; outer membrane protease VII (outer membrane protein
+           3b) [Escherichia coli str. K-12 substr. MG1655]
+ <a name = 85674700></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=85674700&dopt=GenPept" >dbj|BAA35199.2|</a> outer membrane protease VII [Escherichia coli str. K12 substr.
+           W3110]
+ <a name = 169887979></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169887979&dopt=GenPept" >gb|ACB01686.1|</a> DLP12 prophage; outer membrane protease VII (outer membrane protein
+           3b) [Escherichia coli str. K-12 substr. DH10B]
+ <a name = 169888080></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169888080&dopt=GenPept" >gb|ACB01787.1|</a> DLP12 prophage; outer membrane protease VII (outer membrane protein
+           3b) [Escherichia coli str. K-12 substr. DH10B]
+ <a name = 238860792></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238860792&dopt=GenPept" >gb|ACR62790.1|</a> DLP12 prophage; outer membrane protease VII (outer membrane protein
+           3b) [Escherichia coli BW2952]
+ <a name = 253972536></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253972536&dopt=GenPept" >gb|ACT38207.1|</a> outer membrane protease VII (outer membrane protein 3b)
+           [Escherichia coli B str. REL606]
+ <a name = 260450270></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260450270&dopt=GenPept" >gb|ACX40692.1|</a> Plasminogen activator Pla [Escherichia coli DH1]
+ <a name = 315135230></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315135230&dopt=GenPept" >dbj|BAJ42389.1|</a> outer membrane protease [Escherichia coli DH1]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVESSDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 15988003></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15988003&dopt=GenPept" >pdb|1I78|A</a> Chain A, Crystal Structure Of Outer Membrane Protease Ompt From
+           Escherichia Coli
+ <a name = 15988004></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15988004&dopt=GenPept" >pdb|1I78|B</a> Chain B, Crystal Structure Of Outer Membrane Protease Ompt From
+           Escherichia Coli
+          Length = 297
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 12  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 71
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 72  TTLGSRGGNMVDQDWMDSSNPGTWTDEARHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 131
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 132 AGYQ 135
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 179 PYIGLTGSYRYEDFELGGTFKYSGWVESSDNDEHYDPKGRITYRSKVKDQNYYSVAVNAG 238
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 239 YYVTPNAKVYVEGAWNRVT 257
+</PRE>
+
+
+<PRE>
+><a name = 15801391></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15801391&dopt=GenPept" >ref|NP_287408.1|</a> outer membrane protease [Escherichia coli O157:H7 EDL933]
+ <a name = 15830917></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15830917&dopt=GenPept" >ref|NP_309690.1|</a> outer membrane protease [Escherichia coli O157:H7 str. Sakai]
+ <a name = 168749793></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168749793&dopt=GenPept" >ref|ZP_02774815.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4113]
+ <a name = 168756531></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168756531&dopt=GenPept" >ref|ZP_02781538.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4401]
+ <a name = 168762608></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168762608&dopt=GenPept" >ref|ZP_02787615.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4501]
+ <a name = 168771060></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168771060&dopt=GenPept" >ref|ZP_02796067.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4486]
+ <a name = 168775996></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168775996&dopt=GenPept" >ref|ZP_02801003.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4196]
+ <a name = 168782526></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168782526&dopt=GenPept" >ref|ZP_02807533.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4076]
+ <a name = 168787668></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168787668&dopt=GenPept" >ref|ZP_02812675.1|</a> protease 7 [Escherichia coli O157:H7 str. EC869]
+ <a name = 168800393></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168800393&dopt=GenPept" >ref|ZP_02825400.1|</a> protease 7 [Escherichia coli O157:H7 str. EC508]
+ <a name = 195938822></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=195938822&dopt=GenPept" >ref|ZP_03084204.1|</a> outer membrane protease [Escherichia coli O157:H7 str. EC4024]
+ <a name = 208807951></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208807951&dopt=GenPept" >ref|ZP_03250288.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4206]
+ <a name = 208816305></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208816305&dopt=GenPept" >ref|ZP_03257484.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4045]
+ <a name = 208822442></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208822442&dopt=GenPept" >ref|ZP_03262761.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4042]
+ <a name = 209400792></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209400792&dopt=GenPept" >ref|YP_002270107.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4115]
+ <a name = 217328006></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=217328006&dopt=GenPept" >ref|ZP_03444088.1|</a> protease 7 [Escherichia coli O157:H7 str. TW14588]
+ <a name = 254792647></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254792647&dopt=GenPept" >ref|YP_003077484.1|</a> outer membrane protease VII (outer membrane protein 3b)
+           [Escherichia coli O157:H7 str. TW14359]
+ <a name = 261224907></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261224907&dopt=GenPept" >ref|ZP_05939188.1|</a> outer membrane protease VII (outer membrane protein 3b)
+           [Escherichia coli O157:H7 str. FRIK2000]
+ <a name = 261257237></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261257237&dopt=GenPept" >ref|ZP_05949770.1|</a> outer membrane protease VII (outer membrane protein 3b)
+           [Escherichia coli O157:H7 str. FRIK966]
+ <a name = 20138916></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=20138916&dopt=GenPept" >sp|P58603|OMPT_ECO57</a> RecName: Full=Protease 7; AltName: Full=Omptin; AltName: Full=Outer
+           membrane protein 3B; AltName: Full=Protease A; AltName:
+           Full=Protease VII; Flags: Precursor
+ <a name = 12514863></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=12514863&dopt=GenPept" >gb|AAG56020.1|AE005334_7</a> outer membrane protein 3b (a), protease VII [Escherichia coli
+           O157:H7 str. EDL933]
+ <a name = 13361127></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13361127&dopt=GenPept" >dbj|BAB35086.1|</a> outer membrane protease precursor [Escherichia coli O157:H7 str.
+           Sakai]
+ <a name = 187768501></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=187768501&dopt=GenPept" >gb|EDU32345.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4196]
+ <a name = 188016021></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=188016021&dopt=GenPept" >gb|EDU54143.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4113]
+ <a name = 189000019></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189000019&dopt=GenPept" >gb|EDU69005.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4076]
+ <a name = 189356419></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189356419&dopt=GenPept" >gb|EDU74838.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4401]
+ <a name = 189360169></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189360169&dopt=GenPept" >gb|EDU78588.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4486]
+ <a name = 189367149></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189367149&dopt=GenPept" >gb|EDU85565.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4501]
+ <a name = 189372473></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189372473&dopt=GenPept" >gb|EDU90889.1|</a> protease 7 [Escherichia coli O157:H7 str. EC869]
+ <a name = 189377299></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189377299&dopt=GenPept" >gb|EDU95715.1|</a> protease 7 [Escherichia coli O157:H7 str. EC508]
+ <a name = 208727752></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208727752&dopt=GenPept" >gb|EDZ77353.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4206]
+ <a name = 208732953></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208732953&dopt=GenPept" >gb|EDZ81641.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4045]
+ <a name = 208737927></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208737927&dopt=GenPept" >gb|EDZ85610.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4042]
+ <a name = 209162192></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209162192&dopt=GenPept" >gb|ACI39625.1|</a> protease 7 [Escherichia coli O157:H7 str. EC4115]
+ <a name = 217318433></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=217318433&dopt=GenPept" >gb|EEC26859.1|</a> protease 7 [Escherichia coli O157:H7 str. TW14588]
+ <a name = 254592047></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254592047&dopt=GenPept" >gb|ACT71408.1|</a> outer membrane protease VII (outer membrane protein 3b)
+           [Escherichia coli O157:H7 str. TW14359]
+ <a name = 320187916></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320187916&dopt=GenPept" >gb|EFW62584.1|</a> outer membrane protease [Escherichia coli O157:H7 str. EC1212]
+ <a name = 320638143></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320638143&dopt=GenPept" >gb|EFX07904.1|</a> outer membrane protease [Escherichia coli O157:H7 str. G5101]
+ <a name = 320643563></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320643563&dopt=GenPept" >gb|EFX12728.1|</a> outer membrane protease [Escherichia coli O157:H- str. 493-89]
+ <a name = 320648882></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320648882&dopt=GenPept" >gb|EFX17506.1|</a> outer membrane protease [Escherichia coli O157:H- str. H 2687]
+ <a name = 320664958></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320664958&dopt=GenPept" >gb|EFX32088.1|</a> outer membrane protease [Escherichia coli O157:H7 str. LSU-61]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 56.3 bits (185), Expect = 1e-06
+ Identities = 39/79 (49%), Positives = 40/79 (50%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSV VNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVSVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEG WN VT
+Sbjct: 259 YYVTPNAKVYVEGTWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 110640796></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110640796&dopt=GenPept" >ref|YP_668524.1|</a> outer membrane protease [Escherichia coli 536]
+ <a name = 191172294></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=191172294&dopt=GenPept" >ref|ZP_03033836.1|</a> protease 7 [Escherichia coli F11]
+ <a name = 300996929></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300996929&dopt=GenPept" >ref|ZP_07181594.1|</a> outer membrane protease [Escherichia coli MS 200-1]
+ <a name = 110342388></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110342388&dopt=GenPept" >gb|ABG68625.1|</a> protease VII precursor [Escherichia coli 536]
+ <a name = 190907393></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=190907393&dopt=GenPept" >gb|EDV66990.1|</a> protease 7 [Escherichia coli F11]
+ <a name = 300304384></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300304384&dopt=GenPept" >gb|EFJ58904.1|</a> outer membrane protease [Escherichia coli MS 200-1]
+          Length = 317
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/124 (41%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDRDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWLLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 41/79 (51%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 259 YYVTPNAKVYVEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 162317578></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=162317578&dopt=GenPept" >ref|YP_852560.2|</a> outer membrane protease [Escherichia coli APEC O1]
+          Length = 316
+
+ Score = 61.1 bits (202), Expect = 5e-08
+ Identities = 49/124 (39%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     VSVGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGQKVSQLDWKFNNAAIIKGAINWDLMPQVSVGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 92  TTLGQKGGNMIDRDWQDPDKPGIWTDESRHPDTRLNFANEFDLNIKGWLLNESNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 58.6 bits (193), Expect = 3e-07
+ Identities = 39/79 (49%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FE+GGTFKYS                             YS+AVNAG
+Sbjct: 198 PYIGLTGSYRYEDFEFGGTFKYSGWVEASDNDEHYARVKRITYRSKVKDQNYYSIAVNAG 257
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 258 YYVTPNAKVYVEGAWNRVT 276
+</PRE>
+
+
+<PRE>
+><a name = 115512771></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115512771&dopt=GenPept" >gb|ABJ00846.1|</a> outer membrane protease [Escherichia coli APEC O1]
+          Length = 320
+
+ Score = 61.1 bits (202), Expect = 5e-08
+ Identities = 49/124 (39%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     VSVGAAGW
+Sbjct: 36  INADISLGTLSGKTKERVYLAEEGGQKVSQLDWKFNNAAIIKGAINWDLMPQVSVGAAGW 95
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 96  TTLGQKGGNMIDRDWQDPDKPGIWTDESRHPDTRLNFANEFDLNIKGWLLNESNYRLGLM 155
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 156 AGYQ 159
+</PRE>
+
+
+<PRE>
+
+ Score = 58.6 bits (193), Expect = 3e-07
+ Identities = 39/79 (49%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FE+GGTFKYS                             YS+AVNAG
+Sbjct: 202 PYIGLTGSYRYEDFEFGGTFKYSGWVEASDNDEHYARVKRITYRSKVKDQNYYSIAVNAG 261
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 262 YYVTPNAKVYVEGAWNRVT 280
+</PRE>
+
+
+<PRE>
+><a name = 50983081></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=50983081&dopt=GenPept" >gb|AAT92051.1|</a> hypothetical protein [Escherichia coli]
+          Length = 299
+
+ Score = 61.1 bits (202), Expect = 5e-08
+ Identities = 49/124 (39%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     VSVGAAGW
+Sbjct: 15  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQVSVGAAGW 74
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGWLL   NYRLGLM
+Sbjct: 75  TTLGQKGGNMIDRDWQDPDKPGIWTDESRHPDTRLNFANEFDLNIKGWLLNESNYRLGLM 134
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 135 AGYQ 138
+</PRE>
+
+
+<PRE>
+
+ Score = 58.6 bits (193), Expect = 3e-07
+ Identities = 39/79 (49%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FE+GGTFKYS                             YS+AVNAG
+Sbjct: 181 PYIGLTGSYRYEDFEFGGTFKYSGWVEASDNDEHYARVKRITYRSNVKDQNYYSIAVNAG 240
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 241 YYVTPNAKVYVEGAWNRVT 259
+</PRE>
+
+
+<PRE>
+><a name = 215485608></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215485608&dopt=GenPept" >ref|YP_002328039.1|</a> outer membrane protease [Escherichia coli O127:H6 str. E2348/69]
+ <a name = 312964397></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312964397&dopt=GenPept" >ref|ZP_07778691.1|</a> coagulase/fibrinolysin [Escherichia coli 2362-75]
+ <a name = 215263680></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215263680&dopt=GenPept" >emb|CAS08014.1|</a> putative outer membrane protease precursor OmpT [Escherichia coli
+           O127:H6 str. E2348/69]
+ <a name = 312290874></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312290874&dopt=GenPept" >gb|EFR18750.1|</a> coagulase/fibrinolysin [Escherichia coli 2362-75]
+          Length = 317
+
+ Score = 60.8 bits (201), Expect = 6e-08
+ Identities = 50/124 (40%), Positives = 51/124 (41%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28  TT-------------------------------------EFDLNIKGWLL---NYRLGLM 47
+           TT                                     EFDLNIKGW+L   NYRLGLM
+Sbjct: 92  TTLGSRGGNMVDQDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIKGWFLNEPNYRLGLM 151
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 152 AGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 40/79 (50%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVEASDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVY+EGAWN VT
+Sbjct: 259 YYVTPNAKVYIEGAWNRVT 277
+</PRE>
+
+
+<PRE>
+><a name = 194306026></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194306026&dopt=GenPept" >dbj|BAG55464.1|</a> outer membrane protease T [Escherichia coli]
+          Length = 306
+
+ Score = 60.0 bits (198), Expect = 1e-07
+ Identities = 40/79 (50%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVAVNAG
+Sbjct: 193 PYIGLTGSYRYEDFELGGTFKYSGWVEAFDNDEHYDPGKRITYRSKVKDQNYYSVAVNAG 252
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVY+EGAWN VT
+Sbjct: 253 YYVTPNAKVYIEGAWNRVT 271
+</PRE>
+
+
+<PRE>
+
+ Score = 53.6 bits (175), Expect = 1e-05
+ Identities = 49/124 (39%), Positives = 49/124 (39%), Gaps = 73/124 (58%)
+
+Query: 1   INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+           INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 26  INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 85
+
+Query: 28  TT-------------------------------------EFDLNIKGWLLN---YRLGLM 47
+           TT                                     EFDLNI GWL N   YRLGLM
+Sbjct: 86  TTLGSRGGNMVDRDWMDSSNPGTWTDESRHPDTQLNYANEFDLNIRGWLPNEPNYRLGLM 145
+
+Query: 48  AGYQ 51
+           AGYQ
+Sbjct: 146 AGYQ 149
+</PRE>
+
+
+<PRE>
+><a name = 307563034></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307563034&dopt=GenPept" >ref|ZP_07626801.1|</a> outer membrane protease [Escherichia coli H299]
+          Length = 216
+
+ Score = 58.6 bits (193), Expect = 3e-07
+ Identities = 39/79 (49%), Positives = 42/79 (53%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FE+GGTFKYS                             YS+AVNAG
+Sbjct: 98  PYIGLTGSYRYEDFEFGGTFKYSGWVEASDNDEHYARVKRITYRSKVKDQNYYSIAVNAG 157
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEGAWN VT
+Sbjct: 158 YYVTPNAKVYVEGAWNRVT 176
+</PRE>
+
+
+<PRE>
+
+ Score = 49.9 bits (162), Expect = 1e-04
+ Identities = 22/25 (88%), Positives = 22/25 (88%), Gaps = 3/25 (12%)
+
+Query: 30 EFDLNIKGWLLN---YRLGLMAGYQ 51
+          EFDLNIKGWLLN   YRLGLMAGYQ
+Sbjct: 31 EFDLNIKGWLLNEPDYRLGLMAGYQ 55
+</PRE>
+
+
+<PRE>
+><a name = 307350748></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307350748&dopt=GenPept" >ref|ZP_07620353.1|</a> outer membrane protease [Escherichia coli TA280]
+          Length = 317
+
+ Score = 58.3 bits (192), Expect = 4e-07
+ Identities = 39/79 (49%), Positives = 41/79 (51%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVA+NAG
+Sbjct: 199 PYIGLTGSYRYEDFELGGTFKYSGWVESSDNDEHYDPSKRITYREKVKDQNYYSVAINAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEG WN VT
+Sbjct: 259 YYVTPNAKVYVEGTWNRVT 277
+</PRE>
+
+
+<PRE>
+
+ Score = 54.4 bits (178), Expect = 5e-06
+ Identities = 36/86 (41%), Positives = 39/86 (45%), Gaps = 45/86 (52%)
+
+Query: 11  AIIKGAINW-----ISIGAAGWTT------------------------------------ 29
+           AIIKG INW     +SVGA GWTT                                    
+Sbjct: 70  AIIKGTINWDLLPRLSVGASGWTTLDHKGGNMVDSDWLDKNKPDIWTHESRHPDTRLNFA 129
+
+Query: 30  -EFDLNIKGWLL---NYRLGLMAGYQ 51
+            EFDLNVKGWLL   NYRLGLMAGYQ
+Sbjct: 130 NEFDLNVKGWLLNEPNYRLGLMAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 300922119></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300922119&dopt=GenPept" >ref|ZP_07138258.1|</a> outer membrane protease [Escherichia coli MS 182-1]
+ <a name = 300421521></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300421521&dopt=GenPept" >gb|EFK04832.1|</a> outer membrane protease [Escherichia coli MS 182-1]
+          Length = 332
+
+ Score = 58.3 bits (192), Expect = 4e-07
+ Identities = 39/79 (49%), Positives = 41/79 (51%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTGSYR   FELGGTFKYS                             YSVA+NAG
+Sbjct: 214 PYIGLTGSYRYEDFELGGTFKYSGWVESSDNDEHYDPSKRITYREKVKDQNYYSVAINAG 273
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEG WN VT
+Sbjct: 274 YYVTPNAKVYVEGTWNRVT 292
+</PRE>
+
+
+<PRE>
+
+ Score = 54.7 bits (179), Expect = 5e-06
+ Identities = 37/86 (43%), Positives = 39/86 (45%), Gaps = 45/86 (52%)
+
+Query: 11  AIIKGAINW-----ISIGAAGWTT------------------------------------ 29
+           AIIKG INW     +SVGA GWTT                                    
+Sbjct: 85  AIIKGSINWDLFPRLSVGASGWTTLGHKGGNMVDSDWLDKNKPDIWTDKSRHPDTRLNFA 144
+
+Query: 30  -EFDLNIKGWLLN---YRLGLMAGYQ 51
+            EFDLNIKGWLLN   YRLGLMAGYQ
+Sbjct: 145 NEFDLNIKGWLLNEPDYRLGLMAGYQ 170
+</PRE>
+
+
+<PRE>
+><a name = 161503662></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161503662&dopt=GenPept" >ref|YP_001570774.1|</a> outer membrane protease [Salmonella enterica subsp. arizonae
+           serovar 62:z4,z23:-- str. RSK2980]
+ <a name = 160865009></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160865009&dopt=GenPept" >gb|ABX21632.1|</a> hypothetical protein SARI_01746 [Salmonella enterica subsp.
+           arizonae serovar 62:z4,z23:--]
+          Length = 322
+
+ Score = 55.5 bits (182), Expect = 3e-06
+ Identities = 37/86 (43%), Positives = 41/86 (47%), Gaps = 45/86 (52%)
+
+Query: 11  AIIKGAINW-----ISIGAAGWTT------------------------------------ 29
+           AIIKGAINW     +SVGAAGW+T                                    
+Sbjct: 77  AIIKGAINWDLMPWLSVGAAGWSTIDSRGANMVDKDWQDASHAGTWTDESRHPNTHLNYA 136
+
+Query: 30  -EFDLNIKGWLLN---YRLGLMAGYQ 51
+            EFDLNIKGW+LN   YRLGLMAGYQ
+Sbjct: 137 NEFDLNIKGWFLNEPDYRLGLMAGYQ 162
+</PRE>
+
+
+<PRE>
+
+ Score = 51.3 bits (167), Expect = 5e-05
+ Identities = 34/77 (44%), Positives = 38/77 (49%), Gaps = 34/77 (44%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS---------------------------YSVAVNAGYY 81
+           PYVGLTGSYR   FE+ G FKYS                           YS+A NAGYY
+Sbjct: 206 PYVGLTGSYRYDNFEFSGAFKYSGWVRASDNDEHYAREITFRSKVKDQNYYSIAANAGYY 265
+
+Query: 82  ----AKVYVEGAWNFIT 94
+               AK+YVEG WN IT
+Sbjct: 266 VTPNAKLYVEGTWNRIT 282
+</PRE>
+
+
+<PRE>
+><a name = 307235848></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307235848&dopt=GenPept" >ref|ZP_07522259.1|</a> outer membrane protease [Escherichia coli TA271]
+          Length = 315
+
+ Score = 52.2 bits (170), Expect = 3e-05
+ Identities = 44/116 (37%), Positives = 47/116 (40%), Gaps = 66/116 (56%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS---------------------------YSVAVNAGYY 81
+           PYVGLTG YR   FE+GG FKYS                           YSVAVNAGYY
+Sbjct: 199 PYVGLTGNYRYDNFEFGGAFKYSGWVRGSDNDEHYVRQTTFRSKVKNQNYYSVAVNAGYY 258
+
+Query: 82  ----AKVYVEGAW--------------------------------NFITTAGLKYT 101
+               AKVY+EG W                                NFITTAGLKYT
+Sbjct: 259 ITPEAKVYIEGVWSRLTNKKGDTSLYDRSDNTSEHNNNGAGIENYNFITTAGLKYT 314
+</PRE>
+
+
+<PRE>
+
+ Score = 49.7 bits (161), Expect = 1e-04
+ Identities = 32/86 (37%), Positives = 40/86 (46%), Gaps = 45/86 (52%)
+
+Query: 11  AIIKGAINW-----ISIGAAGWTT------------------------------------ 29
+           AI+KGAVNW     +SVGAAGWTT                                    
+Sbjct: 70  AILKGAVNWELNPWLSVGAAGWTTLNSRGGNMVDQDWMDSGTPGTWTDESRHPDTRLNYA 129
+
+Query: 30  -EFDLNIKGWLL---NYRLGLMAGYQ 51
+            EFDLNVKGW+L    YRL++MAGYQ
+Sbjct: 130 NEFDLNVKGWFLKESDYRLAIMAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 9507742></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=09507742&dopt=GenPept" >ref|NP_061408.1|</a> outer membrane protease [Plasmid F]
+ <a name = 1171903></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01171903&dopt=GenPept" >sp|P34210|OMPP_ECOLI</a> RecName: Full=Outer membrane protease ompP; Flags: Precursor
+ <a name = 550102></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00550102&dopt=GenPept" >emb|CAA52338.1|</a> outer membrane proease P [Escherichia coli K-12]
+ <a name = 8918852></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=08918852&dopt=GenPept" >dbj|BAA97899.1|</a> ompP [Plasmid F]
+ <a name = 323184035></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323184035&dopt=GenPept" >gb|EFZ69414.1|</a> coagulase/fibrinolysin [Escherichia coli 1357]
+          Length = 315
+
+ Score = 52.2 bits (170), Expect = 3e-05
+ Identities = 44/116 (37%), Positives = 47/116 (40%), Gaps = 66/116 (56%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS---------------------------YSVAVNAGYY 81
+           PYVGLTG YR   FE+GG FKYS                           YSVAVNAGYY
+Sbjct: 199 PYVGLTGNYRYDNFEFGGAFKYSGWVRGSDNDEHYVRQTTFRSKVINQNYYSVAVNAGYY 258
+
+Query: 82  ----AKVYVEGAW--------------------------------NFITTAGLKYT 101
+               AKVY+EG W                                NFITTAGLKYT
+Sbjct: 259 ITPEAKVYIEGVWSRLTNKKGDTSLYDRSDNTSEHNNNGAGIENYNFITTAGLKYT 314
+</PRE>
+
+
+<PRE>
+
+ Score = 49.7 bits (161), Expect = 1e-04
+ Identities = 32/86 (37%), Positives = 40/86 (46%), Gaps = 45/86 (52%)
+
+Query: 11  AIIKGAINW-----ISIGAAGWTT------------------------------------ 29
+           AI+KGAVNW     +SVGAAGWTT                                    
+Sbjct: 70  AILKGAVNWELNPWLSVGAAGWTTLNSRGGNMVDQDWMDSGTPGTWTDESRHPDTRLNYA 129
+
+Query: 30  -EFDLNIKGWLL---NYRLGLMAGYQ 51
+            EFDLNVKGW+L    YRL++MAGYQ
+Sbjct: 130 NEFDLNVKGWFLKESDYRLAIMAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 253800991></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253800991&dopt=GenPept" >ref|YP_003033992.1|</a> outer membrane protease [Escherichia coli Vir68]
+ <a name = 253721168></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253721168&dopt=GenPept" >gb|ACT33477.1|</a> outer membrane protease P [Escherichia coli Vir68]
+          Length = 253
+
+ Score = 49.7 bits (161), Expect = 1e-04
+ Identities = 32/86 (37%), Positives = 40/86 (46%), Gaps = 45/86 (52%)
+
+Query: 11  AIIKGAINW-----ISIGAAGWTT------------------------------------ 29
+           AI+KGAVNW     +SVGAAGWTT                                    
+Sbjct: 70  AILKGAVNWELNPWLSVGAAGWTTLNSRGGDMVDQDWMDSGTPGTWTDESRHPDTRLNYA 129
+
+Query: 30  -EFDLNIKGWLL---NYRLGLMAGYQ 51
+            EFDLNVKGW+L    YRL++MAGYQ
+Sbjct: 130 NEFDLNVKGWFLKESDYRLAIMAGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 38.0 bits (119), Expect = 0.48
+ Identities = 16/23 (69%), Positives = 18/23 (78%), Gaps = 3/23 (13%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS 71
+           PYVGLTG YR   FE+GG FKYS
+Sbjct: 199 PYVGLTGNYRYDNFEFGGAFKYS 221
+</PRE>
+
+
+<PRE>
+><a name = 170768229></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170768229&dopt=GenPept" >ref|ZP_02902682.1|</a> protease 7 [Escherichia albertii TW07627]
+ <a name = 170122995></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170122995&dopt=GenPept" >gb|EDS91926.1|</a> protease 7 [Escherichia albertii TW07627]
+          Length = 315
+
+ Score = 48.6 bits (157), Expect = 3e-04
+ Identities = 34/77 (44%), Positives = 39/77 (50%), Gaps = 34/77 (44%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS---------------------------YSVAVNAGYY 81
+           PYIG+ GSYR   FE+GG+FKYS                           YS+A NAGYY
+Sbjct: 199 PYIGFIGSYRYDSFEFGGSFKYSGWVEASDNDEHYARAITFRSKVKNQNYYSIAANAGYY 258
+
+Query: 82  ----AKVYVEGAWNFIT 94
+               AKV+VEG WN IT
+Sbjct: 259 VTPHAKVFVEGSWNRIT 275
+</PRE>
+
+
+<PRE>
+
+ Score = 47.2 bits (152), Expect = 8e-04
+ Identities = 34/86 (39%), Positives = 39/86 (45%), Gaps = 45/86 (52%)
+
+Query: 11  AIIKGAINW-----ISIGAAGWTT------------------------------------ 29
+           AIIKGAINW     +S+GA GW+T                                    
+Sbjct: 70  AIIKGAINWDLMPWLSLGANGWSTIDSRSSNMVDKDWLDPHNVGTWTDESKHPNTRLNYA 129
+
+Query: 30  -EFDLNIKGWLLN---YRLGLMAGYQ 51
+            EFDLNIKGW+LN   Y LG+MAGYQ
+Sbjct: 130 NEFDLNIKGWILNEPEYQLGVMAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 84060870></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84060870&dopt=GenPept" >ref|YP_444072.1|</a> outer membrane protease [Escherichia coli]
+ <a name = 169546429></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169546429&dopt=GenPept" >ref|YP_001711870.1|</a> outer membrane protease [Escherichia coli]
+ <a name = 170650768></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170650768&dopt=GenPept" >ref|YP_001739985.1|</a> outer membrane protease 7 [Escherichia coli SMS-3-5]
+ <a name = 218534611></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218534611&dopt=GenPept" >ref|YP_002401141.1|</a> outer membrane protease [Escherichia coli S88]
+ <a name = 222104911></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=222104911&dopt=GenPept" >ref|YP_002539400.1|</a> protease 7 [Escherichia coli]
+ <a name = 300904906></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300904906&dopt=GenPept" >ref|ZP_07122728.1|</a> outer membrane protease [Escherichia coli MS 84-1]
+ <a name = 301305714></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301305714&dopt=GenPept" >ref|ZP_07211802.1|</a> outer membrane protease [Escherichia coli MS 124-1]
+ <a name = 307220970></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307220970&dopt=GenPept" >ref|ZP_07507394.1|</a> outer membrane protease [Escherichia coli M718]
+ <a name = 307563003></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307563003&dopt=GenPept" >ref|ZP_07626770.1|</a> outer membrane protease [Escherichia coli H299]
+ <a name = 76781961></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=76781961&dopt=GenPept" >gb|ABA54754.1|</a> OmpT [Escherichia coli]
+ <a name = 168830981></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168830981&dopt=GenPept" >gb|ACA34762.1|</a> OmpT [Escherichia coli]
+ <a name = 170522044></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170522044&dopt=GenPept" >gb|ACB20221.1|</a> outer membrane protease 7 [Escherichia coli SMS-3-5]
+ <a name = 218349815></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218349815&dopt=GenPept" >emb|CAQ87215.1|</a> outer membrane protease (omptin) [Escherichia coli S88]
+ <a name = 221589336></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=221589336&dopt=GenPept" >gb|ACM18333.1|</a> protease 7 [Escherichia coli]
+ <a name = 300403186></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300403186&dopt=GenPept" >gb|EFJ86724.1|</a> outer membrane protease [Escherichia coli MS 84-1]
+ <a name = 300839054></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300839054&dopt=GenPept" >gb|EFK66814.1|</a> outer membrane protease [Escherichia coli MS 124-1]
+ <a name = 301322697></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301322697&dopt=GenPept" >gb|ADK70174.1|</a> omptin [Escherichia coli]
+ <a name = 312949175></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312949175&dopt=GenPept" >gb|ADR30001.1|</a> outer membrane protease [Escherichia coli O83:H1 str. NRG 857C]
+ <a name = 315252695></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315252695&dopt=GenPept" >gb|EFU32663.1|</a> outer membrane protease [Escherichia coli MS 85-1]
+ <a name = 315286820></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315286820&dopt=GenPept" >gb|EFU46239.1|</a> outer membrane protease [Escherichia coli MS 110-3]
+ <a name = 315297085></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315297085&dopt=GenPept" >gb|EFU56365.1|</a> outer membrane protease [Escherichia coli MS 16-3]
+          Length = 317
+
+ Score = 48.6 bits (157), Expect = 3e-04
+ Identities = 34/85 (40%), Positives = 37/85 (43%), Gaps = 45/85 (52%)
+
+Query: 12  IIKGAINW-----ISIGAAGWTT------------------------------------- 29
+           IVKGA NW     VSVGA GWTT                                     
+Sbjct: 71  IVKGAFNWDLLPRVSVGASGWTTLAGRGGNMVDRDWLDTSNPGTWTDESKHPNTRLNFAN 130
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EFDLNIKGWLLN   Y LGLMAGYQ
+Sbjct: 131 EFDLNIKGWLLNQPDYQLGLMAGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 46.6 bits (150), Expect = 0.001
+ Identities = 35/79 (44%), Positives = 38/79 (48%), Gaps = 36/79 (45%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS-----------------------------YSVAVNAG 79
+           PYIGLTG YR   FE+GG+FKYS                             YSV + AG
+Sbjct: 199 PYIGLTGNYRYDSFEFGGSFKYSGWVKASDNDEHYNPEKRITYRSDVNNQNYYSVSLHAG 258
+
+Query: 80  YY----AKVYVEGAWNFIT 94
+           YY    AKVYVEG WN IT
+Sbjct: 259 YYITPAAKVYVEGTWNRIT 277
+</PRE>
+
+
+<PRE>
+><a name = 283785705></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=283785705&dopt=GenPept" >ref|YP_003365570.1|</a> protease 7 precursor [Citrobacter rodentium ICC168]
+ <a name = 282949159></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=282949159&dopt=GenPept" >emb|CBG88767.1|</a> protease 7 precursor [Citrobacter rodentium ICC168]
+          Length = 315
+
+ Score = 48.0 bits (155), Expect = 5e-04
+ Identities = 34/86 (39%), Positives = 39/86 (45%), Gaps = 45/86 (52%)
+
+Query: 11  AIIKGAINW-----ISIGAAGWTT------------------------------------ 29
+           AIIKGAINW     +SVGAAGW+T                                    
+Sbjct: 70  AIIKGAINWDLMPWLSVGAAGWSTIAGRGANMVDKDWLDASNAGTWTDESRHPNTRLNYA 129
+
+Query: 30  -EFDLNIKGWLLN---YRLGLMAGYQ 51
+            EFDLN KGW+LN   Y +GLMAGYQ
+Sbjct: 130 NEFDLNMKGWILNQPDYQFGLMAGYQ 155
+</PRE>
+
+
+<PRE>
+
+ Score = 43.8 bits (140), Expect = 0.008
+ Identities = 31/77 (40%), Positives = 36/77 (46%), Gaps = 34/77 (44%)
+
+Query: 52  PYIGLTGSYRF---ELGGTFKYS---------------------------YSVAVNAGYY 81
+           PYIGLTG YR+   E+GG FKYS                           YSV  NAGY+
+Sbjct: 199 PYIGLTGNYRYDSIEVGGAFKYSGWVRASDNDEHYARGITFRSKVKDQNYYSVSANAGYF 258
+
+Query: 82  ----AKVYVEGAWNFIT 94
+               AKVY+EG W  VT
+Sbjct: 259 ITPDAKVYLEGVWSRVT 275
+</PRE>
+
+
+<PRE>
+><a name = 312170804></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312170804&dopt=GenPept" >emb|CBX79065.1|</a> outer membrane protease precursor [Erwinia amylovora ATCC BAA-2158]
+          Length = 313
+
+ Score = 44.1 bits (141), Expect = 0.007
+ Identities = 20/25 (80%), Positives = 21/25 (84%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EFDLNIK WLLN   YRLG+MAGYQ
+Sbjct: 129 EFDLNIKQWLLNEPDYRLGVMAGYQ 153
+</PRE>
+
+
+<PRE>
+
+ Score = 34.6 bits (107), Expect = 4.9
+ Identities = 16/23 (69%), Positives = 18/23 (78%), Gaps = 3/23 (13%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS 71
+           PY GLTG YR   FE+GGTFK+S
+Sbjct: 197 PYMGLTGRYRYERFEFGGTFKFS 219
+</PRE>
+
+
+<PRE>
+><a name = 310766085></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=310766085&dopt=GenPept" >gb|ADP11035.1|</a> outer membrane protease [Erwinia sp. Ejp617]
+          Length = 313
+
+ Score = 44.1 bits (141), Expect = 0.007
+ Identities = 20/25 (80%), Positives = 21/25 (84%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EFDLNIK WLLN   YRLG+MAGYQ
+Sbjct: 129 EFDLNIKEWLLNEPDYRLGVMAGYQ 153
+</PRE>
+
+
+<PRE>
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 17/23 (73%), Positives = 19/23 (82%), Gaps = 3/23 (13%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS 71
+           PYIGLTG YR   FE+GGTFK+S
+Sbjct: 197 PYIGLTGRYRYERFEFGGTFKFS 219
+</PRE>
+
+
+<PRE>
+><a name = 259906940></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=259906940&dopt=GenPept" >ref|YP_002647296.1|</a> outer membrane protease [Erwinia pyrifoliae Ep1/96]
+ <a name = 224962562></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=224962562&dopt=GenPept" >emb|CAX54017.1|</a> Protease VII [Erwinia pyrifoliae Ep1/96]
+ <a name = 283476733></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=283476733&dopt=GenPept" >emb|CAY72568.1|</a> outer membrane protease precursor [Erwinia pyrifoliae DSM 12163]
+          Length = 313
+
+ Score = 44.1 bits (141), Expect = 0.007
+ Identities = 20/25 (80%), Positives = 21/25 (84%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EFDLNIK WLLN   YRLG+MAGYQ
+Sbjct: 129 EFDLNIKEWLLNEPDYRLGVMAGYQ 153
+</PRE>
+
+
+<PRE>
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 17/23 (73%), Positives = 19/23 (82%), Gaps = 3/23 (13%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS 71
+           PYIGLTG YR   FE+GGTFK+S
+Sbjct: 197 PYIGLTGRYRYERFEFGGTFKFS 219
+</PRE>
+
+
+<PRE>
+><a name = 292486737></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292486737&dopt=GenPept" >ref|YP_003529607.1|</a> outer membrane protease [Erwinia amylovora CFBP1430]
+ <a name = 292897970></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292897970&dopt=GenPept" >ref|YP_003537339.1|</a> outer membrane protease [Erwinia amylovora ATCC 49946]
+ <a name = 291197818></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291197818&dopt=GenPept" >emb|CBJ44913.1|</a> outer membrane protease [Erwinia amylovora ATCC 49946]
+ <a name = 291552154></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291552154&dopt=GenPept" >emb|CBA19191.1|</a> outer membrane protease precursor [Erwinia amylovora CFBP1430]
+          Length = 313
+
+ Score = 42.7 bits (136), Expect = 0.018
+ Identities = 19/25 (76%), Positives = 21/25 (84%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EFDLNIK WLLN   YRLG+M+GYQ
+Sbjct: 129 EFDLNIKQWLLNEPDYRLGVMGGYQ 153
+</PRE>
+
+
+<PRE>
+
+ Score = 34.6 bits (107), Expect = 4.9
+ Identities = 16/23 (69%), Positives = 18/23 (78%), Gaps = 3/23 (13%)
+
+Query: 52  PYIGLTGSYR---FELGGTFKYS 71
+           PY GLTG YR   FE+GGTFK+S
+Sbjct: 197 PYMGLTGRYRYERFEFGGTFKFS 219
+</PRE>
+
+
+<PRE>
+><a name = 68304108></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=68304108&dopt=GenPept" >gb|AAY89712.1|</a> OmpT [Escherichia coli LW1655F+]
+          Length = 116
+
+ Score = 41.3 bits (131), Expect = 0.048
+ Identities = 29/62 (46%), Positives = 29/62 (46%), Gaps = 33/62 (53%)
+
+Query: 1  INADISLGTL----------------------------AIIKGAINW-----ISIGAAGW 27
+          INADISLGTL                            AIIKGAINW     ISIGAAGW
+Sbjct: 32 INADISLGTLSGKTKERVYLAEEGGRKVSQLDWKFNNAAIIKGAINWDLMPQISIGAAGW 91
+
+Query: 28 TT 29
+          TT
+Sbjct: 92 TT 93
+</PRE>
+
+
+<PRE>
+><a name = 323166357></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323166357&dopt=GenPept" >gb|EFZ52126.1|</a> coagulase/fibrinolysin [Shigella sonnei 53G]
+          Length = 266
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 131 EFELNLKGWLLNNLDYRLGLIAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 320181853></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320181853&dopt=GenPept" >gb|EFW56761.1|</a> outer membrane protease [Shigella boydii ATCC 9905]
+          Length = 326
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 142 EFELNLKGWLLNNLDYRLGLIAGYQ 166
+</PRE>
+
+
+<PRE>
+><a name = 320176155></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320176155&dopt=GenPept" >gb|EFW51221.1|</a> outer membrane protease [Shigella dysenteriae CDC 74-1112]
+          Length = 326
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 142 EFELNLKGWLLNNLDYRLGLIAGYQ 166
+</PRE>
+
+
+<PRE>
+><a name = 194435390></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194435390&dopt=GenPept" >ref|ZP_03067584.1|</a> protease 7 [Shigella dysenteriae 1012]
+ <a name = 194416369></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194416369&dopt=GenPept" >gb|EDX32544.1|</a> protease 7 [Shigella dysenteriae 1012]
+          Length = 326
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 142 EFELNLKGWLLNNLDYRLGLIAGYQ 166
+</PRE>
+
+
+<PRE>
+><a name = 187734391></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=187734391&dopt=GenPept" >ref|YP_001883312.1|</a> protease 7 [Shigella boydii CDC 3083-94]
+ <a name = 187426887></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=187426887&dopt=GenPept" >gb|ACD06162.1|</a> protease 7 [Shigella boydii CDC 3083-94]
+ <a name = 320184587></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320184587&dopt=GenPept" >gb|EFW59386.1|</a> outer membrane protease [Shigella flexneri CDC 796-83]
+          Length = 326
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 142 EFELNLKGWLLNNLDYRLGLIAGYQ 166
+</PRE>
+
+
+<PRE>
+><a name = 161986648></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161986648&dopt=GenPept" >ref|YP_406225.2|</a> outer membrane protease [Shigella dysenteriae Sd197]
+          Length = 315
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 131 EFELNLKGWLLNNLDYRLGLIAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 15485223></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15485223&dopt=GenPept" >emb|CAC67468.1|</a> SopA protein [Escherichia coli]
+          Length = 315
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 131 EFELNLKGWLLNNLDYRLGLIAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 32306984></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=32306984&dopt=GenPept" >gb|AAP78966.1|</a> IcsP [Shigella flexneri]
+          Length = 315
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 131 EFELNLKGWLLNNLDYRLGLIAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 81244028></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=81244028&dopt=GenPept" >gb|ABB64737.1|</a> IcsP [Shigella dysenteriae Sd197]
+          Length = 326
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 142 EFELNLKGWLLNNLDYRLGLIAGYQ 166
+</PRE>
+
+
+<PRE>
+><a name = 82524812></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=82524812&dopt=GenPept" >ref|YP_406373.1|</a> outer membrane protease [Shigella boydii Sb227]
+ <a name = 81248314></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=81248314&dopt=GenPept" >gb|ABB69021.1|</a> IcsP (SopA) [Shigella boydii Sb227]
+          Length = 315
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 131 EFELNLKGWLLNNLDYRLGLIAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 74315076></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74315076&dopt=GenPept" >ref|YP_313494.1|</a> outer membrane protease [Shigella sonnei Ss046]
+ <a name = 73858553></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=73858553&dopt=GenPept" >gb|AAZ91259.1|</a> IcsP/SopA [Shigella sonnei Ss046]
+          Length = 315
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 131 EFELNLKGWLLNNLDYRLGLIAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 296100145></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296100145&dopt=GenPept" >ref|NP_085447.3|</a> VirG-specific protease [Shigella flexneri 5a]
+ <a name = 13310779></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13310779&dopt=GenPept" >gb|AAK18603.1|AF348706_292</a> VirG-specific protease [Shigella flexneri 5a]
+ <a name = 2226333></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=02226333&dopt=GenPept" >gb|AAB61737.1|</a> IcsA-cleaving protease [Shigella flexneri 2a]
+ <a name = 58045155></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=58045155&dopt=GenPept" >gb|AAW64925.1|</a> IcsP/SopA [Shigella flexneri]
+ <a name = 281604043></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=281604043&dopt=GenPept" >gb|ADA77026.1|</a> outer membrane protease [Shigella flexneri 2002017]
+          Length = 326
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 142 EFELNLKGWLLNNLDYRLGLIAGYQ 166
+</PRE>
+
+
+<PRE>
+><a name = 56404036></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=56404036&dopt=GenPept" >ref|NP_858404.2|</a> outer membrane protease [Shigella flexneri 2a str. 301]
+ <a name = 59797641></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=59797641&dopt=GenPept" >sp|O33641|ICSP_SHIFL</a> RecName: Full=Outer membrane protease icsP; Flags: Precursor
+ <a name = 1809307></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01809307&dopt=GenPept" >gb|AAC45084.1|</a> SopA [Shigella flexneri]
+ <a name = 12329038></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=12329038&dopt=GenPept" >emb|CAC05769.2|</a> IcsP (SopA), outermembrane protease of the OmpP family, involved in
+           cleavage of surface exposed IcsA [Shigella flexneri]
+ <a name = 56383114></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=56383114&dopt=GenPept" >gb|AAL72459.2|</a> IcsP (SopA), outermembrane protease of the OmpP family, involved in
+           cleavage of surface exposed IcsA [Shigella flexneri 2a
+           str. 301]
+          Length = 315
+
+ Score = 41.0 bits (130), Expect = 0.058
+ Identities = 19/25 (76%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLLN---YRLGLMAGYQ 51
+           EF LN+KGWLLN   YRLGL AGYQ
+Sbjct: 131 EFELNLKGWLLNNLDYRLGLIAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 312174384></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312174384&dopt=GenPept" >emb|CBX82631.1|</a> IcsP/SopA [Erwinia amylovora ATCC BAA-2158]
+          Length = 312
+
+ Score = 40.2 bits (127), Expect = 0.10
+ Identities = 32/87 (36%), Positives = 39/87 (44%), Gaps = 46/87 (52%)
+
+Query: 31  FDLNIKGWLLN---YRLGLMAGYQ--------------------------PY-------- 53
+           FDLNIK+W+LN   YRLG+ AGYQ                          PY        
+Sbjct: 132 FDLNIKAWFLNEPGYRLGVTAGYQESRYSFKSNGGFGFYNDGGTRVSYTVPYDVLNGYNQ 191
+
+Query: 54  ------IGLTGSY---RFELGGTFKYS 71
+                 VGL GSY   R+ELGG++KYS
+Sbjct: 192 RFKMPYVGLVGSYRYERYELGGSLKYS 218
+</PRE>
+
+
+<PRE>
+><a name = 312173480></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312173480&dopt=GenPept" >emb|CBX81734.1|</a> IcsP/SopA [Erwinia amylovora ATCC BAA-2158]
+          Length = 312
+
+ Score = 40.2 bits (127), Expect = 0.10
+ Identities = 32/87 (36%), Positives = 39/87 (44%), Gaps = 46/87 (52%)
+
+Query: 31  FDLNIKGWLLN---YRLGLMAGYQ--------------------------PY-------- 53
+           FDLNIK+W+LN   YRLG+ AGYQ                          PY        
+Sbjct: 132 FDLNIKAWFLNEPGYRLGVTAGYQESRYSFKTNGGFGFDNDGSTRVSYTVPYDVVGGYNQ 191
+
+Query: 54  ------IGLTGSY---RFELGGTFKYS 71
+                 VGL GSY   R+ELGG++KYS
+Sbjct: 192 RFKMPYVGLVGSYRYERYELGGSLKYS 218
+</PRE>
+
+
+<PRE>
+><a name = 307559110></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307559110&dopt=GenPept" >ref|ZP_07622877.1|</a> outer membrane protease [Escherichia coli H299]
+          Length = 86
+
+ Score = 40.2 bits (127), Expect = 0.10
+ Identities = 20/27 (74%), Positives = 22/27 (81%), Gaps = 4/27 (14%)
+
+Query: 72 YSVAVNAGYY----AKVYVEGAWNFIT 94
+          YSVAVNAGYY    AKVY+EGAWN VT
+Sbjct: 20 YSVAVNAGYYVTPNAKVYIEGAWNRVT 46
+</PRE>
+
+
+<PRE>
+><a name = 292489316></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292489316&dopt=GenPept" >ref|YP_003532203.1|</a> IcsP/SopA [Erwinia amylovora CFBP1430]
+ <a name = 291554750></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291554750&dopt=GenPept" >emb|CBA22532.1|</a> IcsP/SopA [Erwinia amylovora CFBP1430]
+          Length = 312
+
+ Score = 40.2 bits (127), Expect = 0.10
+ Identities = 32/87 (36%), Positives = 39/87 (44%), Gaps = 46/87 (52%)
+
+Query: 31  FDLNIKGWLLN---YRLGLMAGYQ--------------------------PY-------- 53
+           FDLNIK+W+LN   YRLG+ AGYQ                          PY        
+Sbjct: 132 FDLNIKAWFLNEPGYRLGVTAGYQESRYSFKTNGGFGFYNDGGTRVSYTVPYDVVNGYNQ 191
+
+Query: 54  ------IGLTGSY---RFELGGTFKYS 71
+                 VGL GSY   R+ELGG++KYS
+Sbjct: 192 RFKMPYVGLVGSYRYERYELGGSLKYS 218
+</PRE>
+
+
+<PRE>
+><a name = 292489312></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292489312&dopt=GenPept" >ref|YP_003532199.1|</a> IcsP/SopA [Erwinia amylovora CFBP1430]
+ <a name = 291554746></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291554746&dopt=GenPept" >emb|CBA22524.1|</a> IcsP/SopA [Erwinia amylovora CFBP1430]
+          Length = 312
+
+ Score = 40.2 bits (127), Expect = 0.10
+ Identities = 32/87 (36%), Positives = 39/87 (44%), Gaps = 46/87 (52%)
+
+Query: 31  FDLNIKGWLLN---YRLGLMAGYQ--------------------------PY-------- 53
+           FDLNIK+W+LN   YRLG+ AGYQ                          PY        
+Sbjct: 132 FDLNIKAWFLNEPGYRLGVTAGYQESRYSFKSNGGFGFYNDGGTRVSYTVPYDVLNGYNQ 191
+
+Query: 54  ------IGLTGSY---RFELGGTFKYS 71
+                 VGL GSY   R+ELGG++KYS
+Sbjct: 192 RFKMPYVGLVGSYRYERYELGGSLKYS 218
+</PRE>
+
+
+<PRE>
+><a name = 292898463></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292898463&dopt=GenPept" >ref|YP_003537832.1|</a> outer membrane protease [Erwinia amylovora ATCC 49946]
+ <a name = 291198311></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291198311&dopt=GenPept" >emb|CBJ45417.1|</a> outer membrane protease [Erwinia amylovora ATCC 49946]
+          Length = 313
+
+ Score = 40.2 bits (127), Expect = 0.10
+ Identities = 32/87 (36%), Positives = 39/87 (44%), Gaps = 46/87 (52%)
+
+Query: 31  FDLNIKGWLLN---YRLGLMAGYQ--------------------------PY-------- 53
+           FDLNIK+W+LN   YRLG+ AGYQ                          PY        
+Sbjct: 133 FDLNIKAWFLNEPGYRLGVTAGYQESRYSFKSNGGFGFYNDGGTRVSYTVPYNVLNGYNQ 192
+
+Query: 54  ------IGLTGSY---RFELGGTFKYS 71
+                 VGL GSY   R+ELGG++KYS
+Sbjct: 193 RFKMPYVGLVGSYRYERYELGGSLKYS 219
+</PRE>
+
+
+<PRE>
+><a name = 292898461></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292898461&dopt=GenPept" >ref|YP_003537830.1|</a> outer membrane protease [Erwinia amylovora ATCC 49946]
+ <a name = 291198309></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291198309&dopt=GenPept" >emb|CBJ45415.1|</a> outer membrane protease [Erwinia amylovora ATCC 49946]
+          Length = 313
+
+ Score = 40.2 bits (127), Expect = 0.10
+ Identities = 32/87 (36%), Positives = 39/87 (44%), Gaps = 46/87 (52%)
+
+Query: 31  FDLNIKGWLLN---YRLGLMAGYQ--------------------------PY-------- 53
+           FDLNIK+W+LN   YRLG+ AGYQ                          PY        
+Sbjct: 133 FDLNIKAWFLNEPGYRLGVTAGYQESRYSFKTNGGFGFYNDGGTRVSYTVPYDVVNGYNQ 192
+
+Query: 54  ------IGLTGSY---RFELGGTFKYS 71
+                 VGL GSY   R+ELGG++KYS
+Sbjct: 193 RFKMPYVGLVGSYRYERYELGGSLKYS 219
+</PRE>
+
+
+<PRE>
+><a name = 206575691></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206575691&dopt=GenPept" >ref|YP_002235876.1|</a> protease VII [Klebsiella pneumoniae 342]
+ <a name = 206570535></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206570535&dopt=GenPept" >gb|ACI12181.1|</a> protease VII [Klebsiella pneumoniae 342]
+          Length = 311
+
+ Score = 39.1 bits (123), Expect = 0.22
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           EFDLN KGW++   NY  G+MAGYQ
+Sbjct: 130 EFDLNAKGWVFQNENYKAGVMAGYQ 154
+</PRE>
+
+
+<PRE>
+><a name = 156936553></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156936553&dopt=GenPept" >ref|YP_001440467.1|</a> outer membrane protease [Cronobacter sakazakii ATCC BAA-894]
+ <a name = 156534807></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156534807&dopt=GenPept" >gb|ABU79631.1|</a> hypothetical protein ESA_pESA3p05434 [Cronobacter sakazakii ATCC
+           BAA-894]
+          Length = 271
+
+ Score = 38.5 bits (121), Expect = 0.33
+ Identities = 15/25 (60%), Positives = 20/25 (80%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLN+KGW+L    Y +G+MAGYQ
+Sbjct: 90  EYDLNLKGWVLKGDDYKVGVMAGYQ 114
+</PRE>
+
+
+<PRE>
+><a name = 322614169></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322614169&dopt=GenPept" >gb|EFY11104.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 315996572]
+ <a name = 322617470></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322617470&dopt=GenPept" >gb|EFY14369.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 495297-1]
+ <a name = 322624900></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322624900&dopt=GenPept" >gb|EFY21729.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 495297-3]
+ <a name = 322630450></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322630450&dopt=GenPept" >gb|EFY27220.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 495297-4]
+ <a name = 322634630></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322634630&dopt=GenPept" >gb|EFY31363.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 515920-1]
+ <a name = 322639341></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322639341&dopt=GenPept" >gb|EFY36033.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 515920-2]
+ <a name = 322640012></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322640012&dopt=GenPept" >gb|EFY36680.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 531954]
+ <a name = 322646196></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322646196&dopt=GenPept" >gb|EFY42711.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. NC_MB110209-0054]
+ <a name = 322652178></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322652178&dopt=GenPept" >gb|EFY48540.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. OH_2009072675]
+ <a name = 322656281></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322656281&dopt=GenPept" >gb|EFY52577.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. CASC_09SCPH15965]
+ <a name = 322660358></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322660358&dopt=GenPept" >gb|EFY56595.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 19N]
+ <a name = 322665725></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322665725&dopt=GenPept" >gb|EFY61908.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 81038-01]
+ <a name = 322670037></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322670037&dopt=GenPept" >gb|EFY66178.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. MD_MDA09249507]
+ <a name = 322672817></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322672817&dopt=GenPept" >gb|EFY68927.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 414877]
+ <a name = 322678782></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322678782&dopt=GenPept" >gb|EFY74838.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 366867]
+ <a name = 322683422></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322683422&dopt=GenPept" >gb|EFY79436.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 413180]
+ <a name = 322686595></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322686595&dopt=GenPept" >gb|EFY82575.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 446600]
+ <a name = 323194517></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323194517&dopt=GenPept" >gb|EFZ79711.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 609458-1]
+ <a name = 323196527></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323196527&dopt=GenPept" >gb|EFZ81676.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 556150-1]
+ <a name = 323203595></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323203595&dopt=GenPept" >gb|EFZ88618.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 609460]
+ <a name = 323206552></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323206552&dopt=GenPept" >gb|EFZ91511.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 507440-20]
+ <a name = 323214033></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323214033&dopt=GenPept" >gb|EFZ98797.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 556152]
+ <a name = 323217149></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323217149&dopt=GenPept" >gb|EGA01871.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. MB101509-0077]
+ <a name = 323219778></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323219778&dopt=GenPept" >gb|EGA04259.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. MB102109-0047]
+ <a name = 323224610></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323224610&dopt=GenPept" >gb|EGA08886.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. MB110209-0055]
+ <a name = 323232445></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323232445&dopt=GenPept" >gb|EGA16548.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. MB111609-0052]
+ <a name = 323235522></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323235522&dopt=GenPept" >gb|EGA19606.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 2009083312]
+ <a name = 323241320></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323241320&dopt=GenPept" >gb|EGA25356.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 2009085258]
+ <a name = 323245061></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323245061&dopt=GenPept" >gb|EGA29063.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. 315731156]
+ <a name = 323246211></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323246211&dopt=GenPept" >gb|EGA30195.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. IA_2009159199]
+ <a name = 323253198></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323253198&dopt=GenPept" >gb|EGA37029.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. IA_2010008282]
+ <a name = 323257103></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323257103&dopt=GenPept" >gb|EGA40810.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. IA_2010008283]
+ <a name = 323263440></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323263440&dopt=GenPept" >gb|EGA46970.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. IA_2010008284]
+ <a name = 323264668></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323264668&dopt=GenPept" >gb|EGA48171.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. IA_2010008285]
+ <a name = 323271377></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323271377&dopt=GenPept" >gb|EGA54802.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Montevideo str. IA_2010008287]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 315269894></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315269894&dopt=GenPept" >gb|ADU02093.1|</a> plasminogen activator Pla [uncultured bacterium]
+          Length = 294
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 120 EYDLNVKGWLLQDENYKAGITAGYQ 144
+</PRE>
+
+
+<PRE>
+><a name = 307143728></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307143728&dopt=GenPept" >ref|ZP_07502160.1|</a> outer membrane protease [Escherichia coli M605]
+          Length = 339
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQDENYKAGITAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 304394999></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=304394999&dopt=GenPept" >ref|ZP_07376883.1|</a> Plasminogen activator Pla [Pantoea sp. aB]
+ <a name = 304357252></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=304357252&dopt=GenPept" >gb|EFM21615.1|</a> Plasminogen activator Pla [Pantoea sp. aB]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGW+L   NY  GL AGYQ
+Sbjct: 131 EYDLNVKGWVLQGDNYKAGLTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 301598392></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301598392&dopt=GenPept" >pdb|2X55|A</a> Chain A, Yersinia Pestis Plasminogen Activator Pla (Native)
+          Length = 293
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 111 EYDLNVKGWLLQDENYKAGITAGYQ 135
+</PRE>
+
+
+<PRE>
+><a name = 301598388></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301598388&dopt=GenPept" >pdb|2X4M|A</a> Chain A, Yersinia Pestis Plasminogen Activator Pla
+ <a name = 301598389></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301598389&dopt=GenPept" >pdb|2X4M|B</a> Chain B, Yersinia Pestis Plasminogen Activator Pla
+ <a name = 301598390></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301598390&dopt=GenPept" >pdb|2X4M|C</a> Chain C, Yersinia Pestis Plasminogen Activator Pla
+ <a name = 301598391></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301598391&dopt=GenPept" >pdb|2X4M|D</a> Chain D, Yersinia Pestis Plasminogen Activator Pla
+          Length = 298
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 111 EYDLNVKGWLLQDENYKAGITAGYQ 135
+</PRE>
+
+
+<PRE>
+><a name = 301598393></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301598393&dopt=GenPept" >pdb|2X56|A</a> Chain A, Yersinia Pestis Plasminogen Activator Pla (Native)
+          Length = 292
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 111 EYDLNVKGWLLQDENYKAGITAGYQ 135
+</PRE>
+
+
+<PRE>
+><a name = 289812336></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=289812336&dopt=GenPept" >ref|ZP_06542965.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+          serovar Typhi str. AG3]
+          Length = 208
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30 EFDLNIKGWLL---NYRLGLMAGYQ 51
+          E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 27 EYDLNVKGWLLQGDNYKAGVTAGYQ 51
+</PRE>
+
+
+<PRE>
+><a name = 213609086></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=213609086&dopt=GenPept" >ref|ZP_03368912.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Typhi str. E98-2068]
+          Length = 180
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 213416633></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=213416633&dopt=GenPept" >ref|ZP_03349777.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+          serovar Typhi str. E01-6750]
+          Length = 232
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30 EFDLNIKGWLL---NYRLGLMAGYQ 51
+          E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 51 EYDLNVKGWLLQGDNYKAGVTAGYQ 75
+</PRE>
+
+
+<PRE>
+><a name = 213163380></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=213163380&dopt=GenPept" >ref|ZP_03349090.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+          serovar Typhi str. E00-7866]
+          Length = 228
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30 EFDLNIKGWLL---NYRLGLMAGYQ 51
+          E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 47 EYDLNVKGWLLQGDNYKAGVTAGYQ 71
+</PRE>
+
+
+<PRE>
+><a name = 213022460></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=213022460&dopt=GenPept" >ref|ZP_03336907.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+          serovar Typhi str. 404ty]
+          Length = 99
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30 EFDLNIKGWLL---NYRLGLMAGYQ 51
+          E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 61 EYDLNVKGWLLQGDNYKAGVTAGYQ 85
+</PRE>
+
+
+<PRE>
+><a name = 205353509></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=205353509&dopt=GenPept" >ref|YP_002227310.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Gallinarum str. 287/91]
+ <a name = 205273290></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=205273290&dopt=GenPept" >emb|CAR38259.1|</a> outer membrane protease E [Salmonella enterica subsp. enterica
+           serovar Gallinarum str. 287/91]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 168817864></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168817864&dopt=GenPept" >ref|ZP_02829864.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Weltevreden
+           str. HI_N05-537]
+ <a name = 205345141></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=205345141&dopt=GenPept" >gb|EDZ31905.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Weltevreden
+           str. HI_N05-537]
+ <a name = 320086885></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320086885&dopt=GenPept" >emb|CBY96656.1|</a> outer membrane protease E [Salmonella enterica subsp. enterica
+           serovar Weltevreden str. 2007-60-3289-1]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 168261577></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168261577&dopt=GenPept" >ref|ZP_02683550.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Hadar str.
+           RI_05P066]
+ <a name = 205349662></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=205349662&dopt=GenPept" >gb|EDZ36293.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Hadar str.
+           RI_05P066]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 168242535></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168242535&dopt=GenPept" >ref|ZP_02667467.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Heidelberg
+           str. SL486]
+ <a name = 194442992></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194442992&dopt=GenPept" >ref|YP_002041658.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Newport str. SL254]
+ <a name = 194450989></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194450989&dopt=GenPept" >ref|YP_002046460.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Heidelberg str. SL476]
+ <a name = 194401655></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194401655&dopt=GenPept" >gb|ACF61877.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Newport
+           str. SL254]
+ <a name = 194409293></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194409293&dopt=GenPept" >gb|ACF69512.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Heidelberg
+           str. SL476]
+ <a name = 205338357></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=205338357&dopt=GenPept" >gb|EDZ25121.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Heidelberg
+           str. SL486]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 204928945></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=204928945&dopt=GenPept" >ref|ZP_03220088.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Javiana
+           str. GA_MM04042433]
+ <a name = 204321489></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=204321489&dopt=GenPept" >gb|EDZ06688.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Javiana
+           str. GA_MM04042433]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 168237423></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168237423&dopt=GenPept" >ref|ZP_02662481.1|</a> protease 7 (outermembrane protein 3B) [Salmonella enterica subsp.
+           enterica serovar Schwarzengrund str. SL480]
+ <a name = 194736399></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194736399&dopt=GenPept" >ref|YP_002115463.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Schwarzengrund str. CVM19633]
+ <a name = 194711901></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194711901&dopt=GenPept" >gb|ACF91122.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar
+           Schwarzengrund str. CVM19633]
+ <a name = 197289658></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=197289658&dopt=GenPept" >gb|EDY29021.1|</a> protease 7 (outermembrane protein 3B) [Salmonella enterica subsp.
+           enterica serovar Schwarzengrund str. SL480]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 197249873></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=197249873&dopt=GenPept" >ref|YP_002147352.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Agona str. SL483]
+ <a name = 198245159></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=198245159&dopt=GenPept" >ref|YP_002216468.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Dublin str. CT_02021853]
+ <a name = 200388161></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=200388161&dopt=GenPept" >ref|ZP_03214773.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Virchow
+           str. SL491]
+ <a name = 207857814></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=207857814&dopt=GenPept" >ref|YP_002244465.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Enteritidis str. P125109]
+ <a name = 238912815></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238912815&dopt=GenPept" >ref|ZP_04656652.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Tennessee str. CDC07-0191]
+ <a name = 197213576></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=197213576&dopt=GenPept" >gb|ACH50973.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Agona str.
+           SL483]
+ <a name = 197939675></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=197939675&dopt=GenPept" >gb|ACH77008.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Dublin str.
+           CT_02021853]
+ <a name = 199605259></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=199605259&dopt=GenPept" >gb|EDZ03804.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Virchow
+           str. SL491]
+ <a name = 206709617></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206709617&dopt=GenPept" >emb|CAR33967.1|</a> outer membrane protease E [Salmonella enterica subsp. enterica
+           serovar Enteritidis str. P125109]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 168465889></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168465889&dopt=GenPept" >ref|ZP_02699759.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Newport
+           str. SL317]
+ <a name = 197264042></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=197264042&dopt=GenPept" >ref|ZP_03164116.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Saintpaul
+           str. SARA23]
+ <a name = 195631408></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=195631408&dopt=GenPept" >gb|EDX49968.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Newport
+           str. SL317]
+ <a name = 197242297></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=197242297&dopt=GenPept" >gb|EDY24917.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Saintpaul
+           str. SARA23]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 167471087></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167471087&dopt=GenPept" >ref|ZP_02335791.1|</a> outer membrane protease [Yersinia pestis FV-1]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQDENYKAGITAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 165940405></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=165940405&dopt=GenPept" >ref|ZP_02228911.1|</a> protease 7 (Protease VII) (Omptin) (Outermembrane protein 3B)
+           (Protease A) [Yersinia pestis biovar Orientalis str.
+           IP275]
+ <a name = 165911664></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=165911664&dopt=GenPept" >gb|EDR30335.1|</a> protease 7 (Protease VII) (Omptin) (Outermembrane protein 3B)
+           (Protease A) [Yersinia pestis biovar Orientalis str.
+           IP275]
+          Length = 282
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQDENYKAGITAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 161612865></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161612865&dopt=GenPept" >ref|YP_001586830.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Paratyphi B str. SPB7]
+ <a name = 161362229></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161362229&dopt=GenPept" >gb|ABX65997.1|</a> hypothetical protein SPAB_00570 [Salmonella enterica subsp.
+           enterica serovar Paratyphi B str. SPB7]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 155525></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00155525&dopt=GenPept" >gb|AAA27667.1|</a> plasminogen activator [Yersinia pestis]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQNENYKAGITAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 154256></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00154256&dopt=GenPept" >gb|AAA27185.1|</a> e protein [Salmonella enterica subsp. enterica serovar Typhimurium]
+          Length = 296
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 148 EYDLNVKGWLLQGDNYKAGVTAGYQ 172
+</PRE>
+
+
+<PRE>
+><a name = 62180966></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=62180966&dopt=GenPept" >ref|YP_217383.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Choleraesuis str. SC-B67]
+ <a name = 168229773></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168229773&dopt=GenPept" >ref|ZP_02654831.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Kentucky
+           str. CDC 191]
+ <a name = 194469237></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194469237&dopt=GenPept" >ref|ZP_03075221.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Kentucky
+           str. CVM29188]
+ <a name = 224583070></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=224583070&dopt=GenPept" >ref|YP_002636868.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Paratyphi C strain RKS4594]
+ <a name = 62128599></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=62128599&dopt=GenPept" >gb|AAX66302.1|</a> Phosphoglycerate transport: outer membrane protein E [Salmonella
+           enterica subsp. enterica serovar Choleraesuis str.
+           SC-B67]
+ <a name = 194455601></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194455601&dopt=GenPept" >gb|EDX44440.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Kentucky
+           str. CVM29188]
+ <a name = 205335748></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=205335748&dopt=GenPept" >gb|EDZ22512.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar Kentucky
+           str. CDC 191]
+ <a name = 224467597></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=224467597&dopt=GenPept" >gb|ACN45427.1|</a> outer membrane protease E [Salmonella enterica subsp. enterica
+           serovar Paratyphi C strain RKS4594]
+ <a name = 322715446></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322715446&dopt=GenPept" >gb|EFZ07017.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Choleraesuis str. A50]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 56412706></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=56412706&dopt=GenPept" >ref|YP_149781.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Paratyphi A str. ATCC 9150]
+ <a name = 197361640></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=197361640&dopt=GenPept" >ref|YP_002141276.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Paratyphi A str. AKU_12601]
+ <a name = 56126963></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=56126963&dopt=GenPept" >gb|AAV76469.1|</a> outer membrane protease E [Salmonella enterica subsp. enterica
+           serovar Paratyphi A str. ATCC 9150]
+ <a name = 197093116></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=197093116&dopt=GenPept" >emb|CAR58557.1|</a> outer membrane protease E [Salmonella enterica subsp. enterica
+           serovar Paratyphi A str. AKU_12601]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 45478719></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=45478719&dopt=GenPept" >ref|NP_995574.1|</a> outer membrane protease [Yersinia pestis biovar Microtus str.
+           91001]
+ <a name = 162417870></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=162417870&dopt=GenPept" >ref|YP_001604542.1|</a> outer membrane protease [Yersinia pestis Angola]
+ <a name = 162417902></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=162417902&dopt=GenPept" >ref|YP_001604531.1|</a> outer membrane protease [Yersinia pestis Angola]
+ <a name = 229897057></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=229897057&dopt=GenPept" >ref|ZP_04512215.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis Pestoides A]
+ <a name = 45357372></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=45357372&dopt=GenPept" >gb|AAS58765.1|</a> plasminogen activator [Yersinia pestis biovar Microtus str. 91001]
+ <a name = 162350842></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=162350842&dopt=GenPept" >gb|ABX84791.1|</a> plasminogen activator Pla [Yersinia pestis Angola]
+ <a name = 162350874></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=162350874&dopt=GenPept" >gb|ABX84823.1|</a> plasminogen activator Pla [Yersinia pestis Angola]
+ <a name = 229699957></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=229699957&dopt=GenPept" >gb|EEO87998.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis Pestoides A]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQDENYKAGITAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 16761320></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16761320&dopt=GenPept" >ref|NP_456937.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Typhi str. CT18]
+ <a name = 29140984></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=29140984&dopt=GenPept" >ref|NP_804326.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Typhi str. Ty2]
+ <a name = 213427324></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=213427324&dopt=GenPept" >ref|ZP_03360074.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Typhi str. E02-1180]
+ <a name = 213585638></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=213585638&dopt=GenPept" >ref|ZP_03367464.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Typhi str. E98-0664]
+ <a name = 289826768></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=289826768&dopt=GenPept" >ref|ZP_06545713.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Typhi str. E98-3139]
+ <a name = 25292960></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=25292960&dopt=GenPept" >pir||AF0806</a> outer membrane protease E (EC 3.4.21.-) [imported] - Salmonella
+           enterica subsp. enterica serovar Typhi (strain CT18)
+ <a name = 16503619></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16503619&dopt=GenPept" >emb|CAD07632.1|</a> outer membrane protease E [Salmonella enterica subsp. enterica
+           serovar Typhi]
+ <a name = 29136609></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=29136609&dopt=GenPept" >gb|AAO68175.1|</a> outer membrane protease E [Salmonella enterica subsp. enterica
+           serovar Typhi str. Ty2]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 16082686></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16082686&dopt=GenPept" >ref|NP_395233.1|</a> outer membrane protease [Yersinia pestis CO92]
+ <a name = 31795332></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=31795332&dopt=GenPept" >ref|NP_857784.1|</a> outer membrane protease [Yersinia pestis KIM]
+ <a name = 108793637></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=108793637&dopt=GenPept" >ref|YP_636788.1|</a> outer membrane protease [Yersinia pestis Antiqua]
+ <a name = 108793842></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=108793842&dopt=GenPept" >ref|YP_636680.1|</a> outer membrane protease [Yersinia pestis Nepal516]
+ <a name = 153997686></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153997686&dopt=GenPept" >ref|ZP_02022781.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis CA88-4125]
+ <a name = 165928468></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=165928468&dopt=GenPept" >ref|ZP_02224300.1|</a> plasminogen activator Pla [Yersinia pestis biovar Orientalis str.
+           F1991016]
+ <a name = 166012194></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166012194&dopt=GenPept" >ref|ZP_02233092.1|</a> plasminogen activator Pla [Yersinia pestis biovar Antiqua str.
+           E1979001]
+ <a name = 166214611></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166214611&dopt=GenPept" >ref|ZP_02240646.1|</a> protease 7 (Protease VII) (Omptin) (Outermembrane protein 3B)
+           (Protease A) [Yersinia pestis biovar Antiqua str.
+           B42003004]
+ <a name = 167402545></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167402545&dopt=GenPept" >ref|ZP_02307993.1|</a> protease 7 (Protease VII) (Omptin) (Outermembrane protein 3B)
+           (Protease A) [Yersinia pestis biovar Antiqua str.
+           UG05-0454]
+ <a name = 167423015></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167423015&dopt=GenPept" >ref|ZP_02314768.1|</a> protease 7 (Protease VII) (Omptin) (Outermembrane protein 3B)
+           (Protease A) [Yersinia pestis biovar Orientalis str.
+           MG05-1020]
+ <a name = 167470800></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167470800&dopt=GenPept" >ref|ZP_02335504.1|</a> outer membrane protease [Yersinia pestis FV-1]
+ <a name = 167470914></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167470914&dopt=GenPept" >ref|ZP_02335618.1|</a> outer membrane protease [Yersinia pestis FV-1]
+ <a name = 229897822></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=229897822&dopt=GenPept" >ref|ZP_04512976.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis biovar Orientalis
+           str. PEXU2]
+ <a name = 229900381></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=229900381&dopt=GenPept" >ref|ZP_04515513.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis biovar Orientalis
+           str. India 195]
+ <a name = 229904887></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=229904887&dopt=GenPept" >ref|ZP_04519995.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis Nepal516]
+ <a name = 270491184></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=270491184&dopt=GenPept" >ref|ZP_06208252.1|</a> outer membrane protease [Yersinia pestis KIM D27]
+ <a name = 294509200></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=294509200&dopt=GenPept" >ref|YP_003566133.1|</a> plasminogen activator protease precursor [Yersinia pestis Z176003]
+ <a name = 322836730></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322836730&dopt=GenPept" >ref|YP_004209986.1|</a> protease [Yersinia pestis Java 9]
+ <a name = 116897></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00116897&dopt=GenPept" >sp|P17811|COLY_YERPE</a> RecName: Full=Coagulase/fibrinolysin; AltName: Full=Plasminogen
+           activator; Flags: Precursor
+ <a name = 48630></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00048630&dopt=GenPept" >emb|CAA33235.1|</a> precursor protein (AA -20 to 292) [Yersinia pestis]
+ <a name = 2996221></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=02996221&dopt=GenPept" >gb|AAC62545.1|</a> plasminogen activator [Yersinia pestis KIM 10]
+ <a name = 5763817></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05763817&dopt=GenPept" >emb|CAB53170.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis CO92]
+ <a name = 108777906></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=108777906&dopt=GenPept" >gb|ABG20423.1|</a> plasminogen activator Pla. Aspartic peptidase. MEROPS family A26
+           [Yersinia pestis Nepal516]
+ <a name = 108782184></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=108782184&dopt=GenPept" >gb|ABG16240.1|</a> plasminogen activator Pla. Aspartic peptidase. MEROPS family A26
+           [Yersinia pestis Antiqua]
+ <a name = 149288878></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=149288878&dopt=GenPept" >gb|EDM38959.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis CA88-4125]
+ <a name = 165919520></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=165919520&dopt=GenPept" >gb|EDR36853.1|</a> plasminogen activator Pla [Yersinia pestis biovar Orientalis str.
+           F1991016]
+ <a name = 165988899></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=165988899&dopt=GenPept" >gb|EDR41200.1|</a> plasminogen activator Pla [Yersinia pestis biovar Antiqua str.
+           E1979001]
+ <a name = 166204201></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166204201&dopt=GenPept" >gb|EDR48681.1|</a> protease 7 (Protease VII) (Omptin) (Outermembrane protein 3B)
+           (Protease A) [Yersinia pestis biovar Antiqua str.
+           B42003004]
+ <a name = 166957076></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166957076&dopt=GenPept" >gb|EDR55097.1|</a> protease 7 (Protease VII) (Omptin) (Outermembrane protein 3B)
+           (Protease A) [Yersinia pestis biovar Orientalis str.
+           MG05-1020]
+ <a name = 167048075></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167048075&dopt=GenPept" >gb|EDR59483.1|</a> protease 7 (Protease VII) (Omptin) (Outermembrane protein 3B)
+           (Protease A) [Yersinia pestis biovar Antiqua str.
+           UG05-0454]
+ <a name = 229678063></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=229678063&dopt=GenPept" >gb|EEO74171.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis Nepal516]
+ <a name = 229686571></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=229686571&dopt=GenPept" >gb|EEO78655.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis biovar Orientalis
+           str. India 195]
+ <a name = 229693282></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=229693282&dopt=GenPept" >gb|EEO83333.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis biovar Orientalis
+           str. PEXU2]
+ <a name = 262363970></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262363970&dopt=GenPept" >gb|ACY60688.1|</a> plasminogen activator protease precursor [Yersinia pestis D106004]
+ <a name = 262364130></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262364130&dopt=GenPept" >gb|ACY64465.1|</a> plasminogen activator protease precursor [Yersinia pestis D182038]
+ <a name = 270334798></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=270334798&dopt=GenPept" >gb|EFA45581.1|</a> outer membrane protease [Yersinia pestis KIM D27]
+ <a name = 294352547></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=294352547&dopt=GenPept" >gb|ADE66602.1|</a> plasminogen activator protease precursor [Yersinia pestis Z176003]
+ <a name = 311902123></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=311902123&dopt=GenPept" >gb|ADQ19610.1|</a> plasminogen activator protease precursor [Yersinia pestis]
+ <a name = 311902133></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=311902133&dopt=GenPept" >gb|ADQ19619.1|</a> plasminogen activator protease precursor [Yersinia pestis]
+ <a name = 311902143></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=311902143&dopt=GenPept" >gb|ADQ19628.1|</a> plasminogen activator protease precursor [Yersinia pestis]
+ <a name = 320017646></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320017646&dopt=GenPept" >gb|ADW01215.1|</a> coagulase/fibrinolysin precursor [Yersinia pestis biovar Medievalis
+           str. Harbin 35]
+ <a name = 321161211></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=321161211&dopt=GenPept" >gb|ADW66919.1|</a> protease 7 [Yersinia pestis Java 9]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQDENYKAGITAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 16765721></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16765721&dopt=GenPept" >ref|NP_461336.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Typhimurium str. LT2]
+ <a name = 167993087></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167993087&dopt=GenPept" >ref|ZP_02574182.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar
+           4,[5],12:i:- str. CVM23701]
+ <a name = 20141675></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=20141675&dopt=GenPept" >sp|P06185|PGTE_SALTY</a> RecName: Full=Outer membrane protease E; Short=E protein; Flags:
+           Precursor
+ <a name = 9230677></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=09230677&dopt=GenPept" >gb|AAF85951.1|AF239770_1</a> outer membrane serine protease PgtE [Salmonella enterica subsp.
+           enterica serovar Typhimurium]
+ <a name = 16420939></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16420939&dopt=GenPept" >gb|AAL21295.1|</a> outer membrane protein E [Salmonella enterica subsp. enterica
+           serovar Typhimurium str. LT2]
+ <a name = 205328833></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=205328833&dopt=GenPept" >gb|EDZ15597.1|</a> protease 7 [Salmonella enterica subsp. enterica serovar
+           4,[5],12:i:- str. CVM23701]
+ <a name = 261247600></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261247600&dopt=GenPept" >emb|CBG25427.1|</a> outer membrane protease E [Salmonella enterica subsp. enterica
+           serovar Typhimurium str. D23580]
+ <a name = 267994499></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=267994499&dopt=GenPept" >gb|ACY89384.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Typhimurium str. 14028S]
+ <a name = 301158952></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301158952&dopt=GenPept" >emb|CBW18465.1|</a> outer membrane protease E [Salmonella enterica subsp. enterica
+           serovar Typhimurium str. SL1344]
+ <a name = 312913385></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312913385&dopt=GenPept" >dbj|BAJ37359.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Typhimurium str. T000240]
+ <a name = 321222906></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=321222906&dopt=GenPept" >gb|EFX47977.1|</a> Protease VII Omptin precursor [Salmonella enterica subsp. enterica
+           serovar Typhimurium str. TN061786]
+ <a name = 323130727></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323130727&dopt=GenPept" >gb|ADX18157.1|</a> outer membrane protease [Salmonella enterica subsp. enterica
+           serovar Typhimurium str. 4/74]
+          Length = 312
+
+ Score = 37.4 bits (117), Expect = 0.71
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 298717579></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=298717579&dopt=GenPept" >ref|YP_003730221.1|</a> outer membrane protease [Pantoea vagans C9-1]
+ <a name = 298361768></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=298361768&dopt=GenPept" >gb|ADI78549.1|</a> Outer membrane protease [Pantoea vagans C9-1]
+          Length = 302
+
+ Score = 36.0 bits (112), Expect = 1.9
+ Identities = 16/25 (64%), Positives = 18/25 (72%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGW L   NY  GL AGYQ
+Sbjct: 121 EYDLNVKGWALQGDNYKAGLTAGYQ 145
+</PRE>
+
+
+<PRE>
+><a name = 146311554></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146311554&dopt=GenPept" >ref|YP_001176628.1|</a> outer membrane protease [Enterobacter sp. 638]
+ <a name = 145318430></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145318430&dopt=GenPept" >gb|ABP60577.1|</a> plasminogen activator Pla, Aspartic peptidase, MEROPS family A26
+           [Enterobacter sp. 638]
+          Length = 312
+
+ Score = 36.0 bits (112), Expect = 1.9
+ Identities = 15/25 (60%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGW++   NY  GL AGYQ
+Sbjct: 131 EYDLNVKGWVFQDENYKAGLTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 228879508></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=228879508&dopt=GenPept" >ref|YP_001569565.2|</a> outer membrane protease [Salmonella enterica subsp. arizonae
+           serovar 62:z4,z23:-- str. RSK2980]
+          Length = 312
+
+ Score = 35.7 bits (111), Expect = 2.3
+ Identities = 15/25 (60%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   N+  G+ AGYQ
+Sbjct: 131 EYDLNVKGWLLQGDNFKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+><a name = 160863800></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160863800&dopt=GenPept" >gb|ABX20423.1|</a> hypothetical protein SARI_00495 [Salmonella enterica subsp.
+           arizonae serovar 62:z4,z23:--]
+          Length = 347
+
+ Score = 35.7 bits (111), Expect = 2.3
+ Identities = 15/25 (60%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGWLL   N+  G+ AGYQ
+Sbjct: 166 EYDLNVKGWLLQGDNFKAGVTAGYQ 190
+</PRE>
+
+
+<PRE>
+><a name = 238794252></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238794252&dopt=GenPept" >ref|ZP_04637866.1|</a> Outer membrane protease [Yersinia intermedia ATCC 29909]
+ <a name = 238726434></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238726434&dopt=GenPept" >gb|EEQ17974.1|</a> Outer membrane protease [Yersinia intermedia ATCC 29909]
+          Length = 314
+
+ Score = 35.5 bits (110), Expect = 2.8
+ Identities = 16/25 (64%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E DLN K W+L   NYR+GLM+GYQ
+Sbjct: 134 EIDLNTKFWFLKQKNYRIGLMGGYQ 158
+</PRE>
+
+
+<PRE>
+><a name = 296102467></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296102467&dopt=GenPept" >ref|YP_003612613.1|</a> outer membrane protease [Enterobacter cloacae subsp. cloacae ATCC
+           13047]
+ <a name = 295056926></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=295056926&dopt=GenPept" >gb|ADF61664.1|</a> outer membrane protease [Enterobacter cloacae subsp. cloacae ATCC
+           13047]
+          Length = 312
+
+ Score = 35.2 bits (109), Expect = 3.3
+ Identities = 14/25 (56%), Positives = 19/25 (76%), Gaps = 3/25 (12%)
+
+Query: 30  EFDLNIKGWLL---NYRLGLMAGYQ 51
+           E+DLNVKGW++   NY  G+ AGYQ
+Sbjct: 131 EYDLNVKGWIFQGDNYKAGVTAGYQ 155
+</PRE>
+
+
+<PRE>
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 861,928,619
+  Number of sequences in database:  2,557,525
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.01
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 910,730,992
+  Number of sequences in database:  2,615,592
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.02
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 965,803,591
+  Number of sequences in database:  2,808,441
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.03
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 983,507,158
+  Number of sequences in database:  2,947,407
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.04
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 772,737,879
+  Number of sequences in database:  2,206,433
+  
+Lambda     K      H
+   0.307    0.291     1.84 
+
+Gapped
+Lambda     K      H
+   0.193   0.0350    0.120 
+
+
+Matrix: bbTMall
+Gap Penalties: Existence: 13, Extension: 2
+Number of Hits to DB: 3,374,859,635
+Number of Sequences: 13135398
+Number of extensions: 524801356
+Number of successful extensions: 211019
+Number of sequences better than 10.0: 103
+Number of HSP's better than 10.0 without gapping: 0
+Number of HSP's successfully gapped in prelim test: 103
+Number of HSP's that attempted gapping in prelim test: 210422
+Number of HSP's gapped (non-prelim): 478
+length of query: 102
+length of database: 4,494,708,239
+effective HSP length: 66
+effective length of query: 36
+effective length of database: 3,627,771,971
+effective search space: 130599790956
+effective search space used: 130599790956
+T: 11
+A: 40
+X1: 16 ( 7.1 bits)
+X2: 53 (14.8 bits)
+X3: 89 (24.8 bits)
+S1: 45 (21.7 bits)
+S2: 104 (33.8 bits)
+</PRE>
+<P><HR><BR>
+<PRE></PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,651 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> 1E54_bb|length 139
+         (139 letters)
+
+<b>Database:</b> All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           13,135,398 sequences; 4,494,708,239 total letters
+
+Searching..................................................done<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=88193000&dopt=GenPept" >pdb|2FGQ|X</a>  Chain X, High Resolution X-Ray Structure Of Omp3...   <a href = #88193000>140</a>   6e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=88193001&dopt=GenPept" >pdb|2FGR|A</a>  Chain A, High Resolution Xray Structure Of Omp32      <a href = #88193001>140</a>   6e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00129102&dopt=GenPept" >sp|P24305|OMP32_DELAC</a>  RecName: Full=Outer membrane porin pr...   <a href = #129102>140</a>   6e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15826302&dopt=GenPept" >pdb|1E54|A</a>  Chain A, Anion-Selective Porin From Comamonas Ac...   <a href = #15826302>140</a>   6e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160901113&dopt=GenPept" >ref|YP_001566695.1|</a>  porin [Delftia acidovorans SPH-1] >gi|1...   <a href = #160901113>137</a>   6e-31
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=222109877&dopt=GenPept" >ref|YP_002552141.1|</a>  porin gram-negative type [Acidovorax eb...   <a href = #222109877> 77</a>   9e-13
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=121593107&dopt=GenPept" >ref|YP_985003.1|</a>  porin [Acidovorax sp. JS42] >gi|120605187|...   <a href = #121593107> 71</a>   8e-11
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=222838537&dopt=GenPept" >gb|EEE76902.1|</a>  predicted protein [Populus trichocarpa]           <a href = #222838537> 70</a>   9e-11
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=299529599&dopt=GenPept" >ref|ZP_07043036.1|</a>  porin [Comamonas testosteroni S44] >gi|2...   <a href = #299529599> 70</a>   1e-10
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=221069090&dopt=GenPept" >ref|ZP_03545195.1|</a>  porin Gram-negative type [Comamonas test...   <a href = #221069090> 67</a>   6e-10
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=120609626&dopt=GenPept" >ref|YP_969304.1|</a>  porin [Acidovorax avenae subsp. citrulli A...   <a href = #120609626> 66</a>   1e-09
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323372538&dopt=GenPept" >gb|ADX44807.1|</a>  porin [Acidovorax avenae subsp. avenae ATCC ...   <a href = #323372538> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=319761523&dopt=GenPept" >ref|YP_004125460.1|</a>  porin gram-negative type [Alicycliphilu...   <a href = #319761523> 58</a>   5e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=264676777&dopt=GenPept" >ref|YP_003276683.1|</a>  gram-negative type outer membrane porin...   <a href = #264676777> 47</a>   7e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=196015702&dopt=GenPept" >ref|XP_002117707.1|</a>  hypothetical protein TRIADDRAFT_61706 [...   <a href = #196015702> 36</a>   2.3  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=239820613&dopt=GenPept" >ref|YP_002947798.1|</a>  porin Gram-negative type [Variovorax pa...   <a href = #239820613> 35</a>   2.8  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=319791860&dopt=GenPept" >ref|YP_004153500.1|</a>  porin [Variovorax paradoxus EPS] >gi|31...   <a href = #319791860> 35</a>   3.4  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=319791857&dopt=GenPept" >ref|YP_004153497.1|</a>  porin [Variovorax paradoxus EPS] >gi|31...   <a href = #319791857> 35</a>   3.4  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269958843&dopt=GenPept" >ref|YP_003328631.1|</a>  hypothetical protein ACIS_00764 [Anapla...   <a href = #269958843> 34</a>   6.0  
+</PRE>
+<PRE>
+><a name = 88193000></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=88193000&dopt=GenPept" >pdb|2FGQ|X</a> Chain X, High Resolution X-Ray Structure Of Omp32 In Complex With
+           Malate
+          Length = 332
+
+ Score =  140 bits (488), Expect = 6e-32
+ Identities = 101/196 (51%), Positives = 101/196 (51%), Gaps = 95/196 (48%)
+
+Query: 39  LISYY------FNAGFGYA---------------YIGGYVAYD---LSASLGLAQQ---- 70
+           LISYY      FNAGFGYA               YIGGYVAYD   LSASLGLAQQ    
+Sbjct: 137 LISYYTPNFGGFNAGFGYAFDEKQTIGTADSVGRYIGGYVAYDNGPLSASLGLAQQKTAV 196
+
+Query: 71  -------DEITLGASYN----KLSGLLQQ------------TNSYMLGASA------EVK 101
+                  DEITLGASYN    KLSGLLQQ            TNSYMLGASA      EVK
+Sbjct: 197 GGLATDRDEITLGASYNFGVAKLSGLLQQTKFKRDIGGDIKTNSYMLGASAPVGGVGEVK 256
+
+Query: 102 LQYALY---------HQITLGYVH-----TALYGNLAFLK-------------------- 127
+           LQYALY         HQITLGYVH     TALYGNLAFLK                    
+Sbjct: 257 LQYALYDQKAIDSKAHQITLGYVHNLSKRTALYGNLAFLKNKDASTLGLQAKGVYAGGVQ 316
+
+Query: 128 ----QTGVQVGIRHAF 139
+               QTGVQVGIRHAF
+Sbjct: 317 AGESQTGVQVGIRHAF 332
+</PRE>
+
+
+<PRE>
+
+ Score = 53.6 bits (175), Expect = 1e-05
+ Identities = 38/85 (44%), Positives = 38/85 (44%), Gaps = 47/85 (55%)
+
+Query: 1  LFGIVDTNVAYV--------------------RLGLRG---------AGFWLEGE----- 26
+          LFGIVDTNVAYV                    RLGLRG         AGFWLEGE     
+Sbjct: 6  LFGIVDTNVAYVNKDAAGDSRYGLGTSGASTSRLGLRGTEDLGGGLKAGFWLEGEIFGDD 65
+
+Query: 27 ----------RSTVSLS---GEVRL 38
+                    RSTVSLS   GEVRL
+Sbjct: 66 GNASGFNFKRRSTVSLSGNFGEVRL 90
+</PRE>
+
+
+<PRE>
+><a name = 88193001></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=88193001&dopt=GenPept" >pdb|2FGR|A</a> Chain A, High Resolution Xray Structure Of Omp32
+          Length = 332
+
+ Score =  140 bits (488), Expect = 6e-32
+ Identities = 101/196 (51%), Positives = 101/196 (51%), Gaps = 95/196 (48%)
+
+Query: 39  LISYY------FNAGFGYA---------------YIGGYVAYD---LSASLGLAQQ---- 70
+           LISYY      FNAGFGYA               YIGGYVAYD   LSASLGLAQQ    
+Sbjct: 137 LISYYTPNFGGFNAGFGYAFDEKQTIGTADSVGRYIGGYVAYDNGPLSASLGLAQQKTAV 196
+
+Query: 71  -------DEITLGASYN----KLSGLLQQ------------TNSYMLGASA------EVK 101
+                  DEITLGASYN    KLSGLLQQ            TNSYMLGASA      EVK
+Sbjct: 197 GGLATDRDEITLGASYNFGVAKLSGLLQQTKFKRDIGGDIKTNSYMLGASAPVGGVGEVK 256
+
+Query: 102 LQYALY---------HQITLGYVH-----TALYGNLAFLK-------------------- 127
+           LQYALY         HQITLGYVH     TALYGNLAFLK                    
+Sbjct: 257 LQYALYDQKAIDSKAHQITLGYVHNLSKRTALYGNLAFLKNKDASTLGLQAKGVYAGGVQ 316
+
+Query: 128 ----QTGVQVGIRHAF 139
+               QTGVQVGIRHAF
+Sbjct: 317 AGESQTGVQVGIRHAF 332
+</PRE>
+
+
+<PRE>
+
+ Score = 53.6 bits (175), Expect = 1e-05
+ Identities = 38/85 (44%), Positives = 38/85 (44%), Gaps = 47/85 (55%)
+
+Query: 1  LFGIVDTNVAYV--------------------RLGLRG---------AGFWLEGE----- 26
+          LFGIVDTNVAYV                    RLGLRG         AGFWLEGE     
+Sbjct: 6  LFGIVDTNVAYVNKDAAGDSRYGLGTSGASTSRLGLRGTEDLGGGLKAGFWLEGEIFGDD 65
+
+Query: 27 ----------RSTVSLS---GEVRL 38
+                    RSTVSLS   GEVRL
+Sbjct: 66 GNASGFNFKRRSTVSLSGNFGEVRL 90
+</PRE>
+
+
+<PRE>
+><a name = 129102></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00129102&dopt=GenPept" >sp|P24305|OMP32_DELAC</a> RecName: Full=Outer membrane porin protein 32; Short=OMP32; Flags:
+           Precursor
+          Length = 351
+
+ Score =  140 bits (488), Expect = 6e-32
+ Identities = 101/196 (51%), Positives = 101/196 (51%), Gaps = 95/196 (48%)
+
+Query: 39  LISYY------FNAGFGYA---------------YIGGYVAYD---LSASLGLAQQ---- 70
+           LISYY      FNAGFGYA               YIGGYVAYD   LSASLGLAQQ    
+Sbjct: 156 LISYYTPNFGGFNAGFGYAFDEKQTIGTADSVGRYIGGYVAYDNGPLSASLGLAQQKTAV 215
+
+Query: 71  -------DEITLGASYN----KLSGLLQQ------------TNSYMLGASA------EVK 101
+                  DEITLGASYN    KLSGLLQQ            TNSYMLGASA      EVK
+Sbjct: 216 GGLATDRDEITLGASYNFGVAKLSGLLQQTKFKRDIGGDIKTNSYMLGASAPVGGVGEVK 275
+
+Query: 102 LQYALY---------HQITLGYVH-----TALYGNLAFLK-------------------- 127
+           LQYALY         HQITLGYVH     TALYGNLAFLK                    
+Sbjct: 276 LQYALYDQKAIDSKAHQITLGYVHNLSKRTALYGNLAFLKNKDASTLGLQAKGVYAGGVQ 335
+
+Query: 128 ----QTGVQVGIRHAF 139
+               QTGVQVGIRHAF
+Sbjct: 336 AGESQTGVQVGIRHAF 351
+</PRE>
+
+
+<PRE>
+
+ Score = 53.6 bits (175), Expect = 1e-05
+ Identities = 38/85 (44%), Positives = 38/85 (44%), Gaps = 47/85 (55%)
+
+Query: 1   LFGIVDTNVAYV--------------------RLGLRG---------AGFWLEGE----- 26
+           LFGIVDTNVAYV                    RLGLRG         AGFWLEGE     
+Sbjct: 25  LFGIVDTNVAYVNKDAAGDSRYGLGTSGASTSRLGLRGTEDLGGGLKAGFWLEGEIFGDD 84
+
+Query: 27  ----------RSTVSLS---GEVRL 38
+                     RSTVSLS   GEVRL
+Sbjct: 85  GNASGFNFKRRSTVSLSGNFGEVRL 109
+</PRE>
+
+
+<PRE>
+><a name = 15826302></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15826302&dopt=GenPept" >pdb|1E54|A</a> Chain A, Anion-Selective Porin From Comamonas Acidovorans
+          Length = 332
+
+ Score =  140 bits (488), Expect = 6e-32
+ Identities = 101/196 (51%), Positives = 101/196 (51%), Gaps = 95/196 (48%)
+
+Query: 39  LISYY------FNAGFGYA---------------YIGGYVAYD---LSASLGLAQQ---- 70
+           LISYY      FNAGFGYA               YIGGYVAYD   LSASLGLAQQ    
+Sbjct: 137 LISYYTPNFGGFNAGFGYAFDEKQTIGTADSVGRYIGGYVAYDNGPLSASLGLAQQKTAV 196
+
+Query: 71  -------DEITLGASYN----KLSGLLQQ------------TNSYMLGASA------EVK 101
+                  DEITLGASYN    KLSGLLQQ            TNSYMLGASA      EVK
+Sbjct: 197 GGLATDRDEITLGASYNFGVAKLSGLLQQTKFKRDIGGDIKTNSYMLGASAPVGGVGEVK 256
+
+Query: 102 LQYALY---------HQITLGYVH-----TALYGNLAFLK-------------------- 127
+           LQYALY         HQITLGYVH     TALYGNLAFLK                    
+Sbjct: 257 LQYALYDQKAIDSKAHQITLGYVHNLSKRTALYGNLAFLKNKDASTLGLQAKGVYAGGVQ 316
+
+Query: 128 ----QTGVQVGIRHAF 139
+               QTGVQVGIRHAF
+Sbjct: 317 AGESQTGVQVGIRHAF 332
+</PRE>
+
+
+<PRE>
+
+ Score = 53.6 bits (175), Expect = 1e-05
+ Identities = 38/85 (44%), Positives = 38/85 (44%), Gaps = 47/85 (55%)
+
+Query: 1  LFGIVDTNVAYV--------------------RLGLRG---------AGFWLEGE----- 26
+          LFGIVDTNVAYV                    RLGLRG         AGFWLEGE     
+Sbjct: 6  LFGIVDTNVAYVNKDAAGDSRYGLGTSGASTSRLGLRGTEDLGGGLKAGFWLEGEIFGDD 65
+
+Query: 27 ----------RSTVSLS---GEVRL 38
+                    RSTVSLS   GEVRL
+Sbjct: 66 GNASGFNFKRRSTVSLSGNFGEVRL 90
+</PRE>
+
+
+<PRE>
+><a name = 160901113></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160901113&dopt=GenPept" >ref|YP_001566695.1|</a> porin [Delftia acidovorans SPH-1]
+ <a name = 160366697></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160366697&dopt=GenPept" >gb|ABX38310.1|</a> porin, gram-negative type [Delftia acidovorans SPH-1]
+          Length = 351
+
+ Score =  137 bits (476), Expect = 6e-31
+ Identities = 100/196 (51%), Positives = 100/196 (51%), Gaps = 95/196 (48%)
+
+Query: 39  LISYY------FNAGFGYA---------------YIGGYVAYD---LSASLGLAQQ---- 70
+           LISYY      FNAGFGYA               YIGGYVAYD   LSASLGLAQQ    
+Sbjct: 156 LISYYTPNFGGFNAGFGYAFDEKQTIGTADSVGRYIGGYVAYDNGPLSASLGLAQQKTAV 215
+
+Query: 71  -------DEITLGASYN----KLSGLLQQ------------TNSYMLGASA------EVK 101
+                  DEITLGASYN    KL GLLQQ            TNSYMLGASA      EVK
+Sbjct: 216 GGLATDRDEITLGASYNFGVAKLTGLLQQTKFKRDIGGDIKTNSYMLGASAPVGGVGEVK 275
+
+Query: 102 LQYALY---------HQITLGYVH-----TALYGNLAFLK-------------------- 127
+           LQYALY         HQITLGYVH     TALYGNLAFLK                    
+Sbjct: 276 LQYALYDQKAIDSKAHQITLGYVHNLSKRTALYGNLAFLKNKDLSTLGLQAKGVYAGGVQ 335
+
+Query: 128 ----QTGVQVGIRHAF 139
+               QTGVQVGIRHAF
+Sbjct: 336 AGESQTGVQVGIRHAF 351
+</PRE>
+
+
+<PRE>
+
+ Score = 53.6 bits (175), Expect = 1e-05
+ Identities = 38/85 (44%), Positives = 38/85 (44%), Gaps = 47/85 (55%)
+
+Query: 1   LFGIVDTNVAYV--------------------RLGLRG---------AGFWLEGE----- 26
+           LFGIVDTNVAYV                    RLGLRG         AGFWLEGE     
+Sbjct: 25  LFGIVDTNVAYVNKDAAGDSRYGLGTSGASTSRLGLRGTEDLGGGLKAGFWLEGEIFGDD 84
+
+Query: 27  ----------RSTVSLS---GEVRL 38
+                     RSTVSLS   GEVRL
+Sbjct: 85  GNASGFNFKRRSTVSLSGNFGEVRL 109
+</PRE>
+
+
+<PRE>
+><a name = 222109877></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=222109877&dopt=GenPept" >ref|YP_002552141.1|</a> porin gram-negative type [Acidovorax ebreus TPSY]
+ <a name = 221729321></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=221729321&dopt=GenPept" >gb|ACM32141.1|</a> porin Gram-negative type [Acidovorax ebreus TPSY]
+          Length = 362
+
+ Score = 77.0 bits (259), Expect = 9e-13
+ Identities = 67/170 (39%), Positives = 74/170 (43%), Gaps = 85/170 (50%)
+
+Query: 52  YIGGYVAYD---LSASLGLAQQDE--------------------ITLGASYN----KLSG 84
+           Y+GGYVAYD   LS  L     DE                    +TLG+SYN    KL +
+Sbjct: 196 YVGGYVAYDNGPLSVALSY---DESSALTLGSGATAVNGADRNRLTLGGSYNLNVVKLNA 252
+
+Query: 85  LLQQT------------NSYMLGASA-----EVKLQYALY---------HQITLGYVH-- 116
+           +LQQT            N YMLGASA     EVK QYALY         HQI LGYVH  
+Sbjct: 253 ILQQTKDDVPGGSERKVNAYMLGASAPVGAGEVKAQYALYDQKFIDSKAHQISLGYVHNL 312
+
+Query: 117 ---TALYGNLAFLK------------------------QTGVQVGIRHAF 139
+              TALYG +A LK                        QTGVQ+GIRH F
+Sbjct: 313 SKRTALYGTVAYLKNKDASNLGLNAKNLSTGGPGAGENQTGVQLGIRHSF 362
+</PRE>
+
+
+<PRE>
+
+ Score = 40.5 bits (128), Expect = 0.086
+ Identities = 24/53 (45%), Positives = 25/53 (47%), Gaps = 27/53 (50%)
+
+Query: 13  RLGLRG---------AGFWLEGE---------------RSTVSLS---GEVRL 38
+           RLG+RG         AGFWLEGE               RSTVSL    GEVRL
+Sbjct: 58  RLGFRGVEDLGGGLKAGFWLEGEIFGDNGNAAGFNFQRRSTVSLAGGFGEVRL 110
+</PRE>
+
+
+<PRE>
+><a name = 121593107></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=121593107&dopt=GenPept" >ref|YP_985003.1|</a> porin [Acidovorax sp. JS42]
+ <a name = 120605187></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=120605187&dopt=GenPept" >gb|ABM40927.1|</a> porin, Gram-negative type [Acidovorax sp. JS42]
+          Length = 362
+
+ Score = 70.5 bits (236), Expect = 8e-11
+ Identities = 55/128 (42%), Positives = 60/128 (46%), Gaps = 59/128 (46%)
+
+Query: 71  DEITLGASY--N--KLSGLLQQT------------NSYMLGASA-----EVKLQYALY-- 107
+           D +T+GASY  N  KLS +LQQ             N Y LGASA     EVKLQYALY  
+Sbjct: 235 DTLTVGASYDLNVVKLSTILQQSKYKIDGAGSDKFNAYALGASAPLGAGEVKLQYALYDQ 294
+
+Query: 108 -------HQITLGYVH-----TALYGNLAFLK------------------------QTGV 131
+                  HQI LGYVH     TALYG +A LK                        QTGV
+Sbjct: 295 KAIDSKAHQISLGYVHNLSKRTALYGTVAYLKNKDASNLALPTKGLTVDGPGAGENQTGV 354
+
+Query: 132 QVGIRHAF 139
+           Q+GIRH F
+Sbjct: 355 QLGIRHSF 362
+</PRE>
+
+
+<PRE>
+
+ Score = 35.5 bits (110), Expect = 2.8
+ Identities = 19/38 (50%), Positives = 19/38 (50%), Gaps = 18/38 (47%)
+
+Query: 19  AGFWLEGE---------------RSTVSLS---GEVRL 38
+           AGFWLEGE               RSTVSL    GEVRL
+Sbjct: 73  AGFWLEGEIFGDDGNASGFNFKRRSTVSLAGGFGEVRL 110
+</PRE>
+
+
+<PRE>
+><a name = 222838537></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=222838537&dopt=GenPept" >gb|EEE76902.1|</a> predicted protein [Populus trichocarpa]
+          Length = 91
+
+ Score = 70.3 bits (235), Expect = 9e-11
+ Identities = 47/91 (51%), Positives = 47/91 (51%), Gaps = 44/91 (48%)
+
+Query: 93  MLGASA------EVKLQYALY---------HQITLGYVH-----TALYGNLAFLK----- 127
+           MLGASA      EVKLQYALY         HQITLGYVH     TALYGNLAFLK     
+Sbjct: 1   MLGASAPVGGVGEVKLQYALYDQKAIDSKAHQITLGYVHNLSKRTALYGNLAFLKNKDLS 60
+
+Query: 128 -------------------QTGVQVGIRHAF 139
+                              QTGVQVGIRHAF
+Sbjct: 61  TLGLQAKGVYAGGVQAGESQTGVQVGIRHAF 91
+</PRE>
+
+
+<PRE>
+><a name = 299529599></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=299529599&dopt=GenPept" >ref|ZP_07043036.1|</a> porin [Comamonas testosteroni S44]
+ <a name = 298722462></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=298722462&dopt=GenPept" >gb|EFI63382.1|</a> porin [Comamonas testosteroni S44]
+          Length = 350
+
+ Score = 70.0 bits (234), Expect = 1e-10
+ Identities = 62/163 (38%), Positives = 69/163 (42%), Gaps = 75/163 (46%)
+
+Query: 52  YIGGYVAYD---LSASLG-----LAQQ---DEITLGASYN----KLSGLLQQT------- 89
+           Y+GG V+YD   LS   +     L+ Q   DE  +GASYN    K+ GL QQ        
+Sbjct: 188 YVGGNVGYDNGPLSVTAAYGELLLGSQNKRDEMSIGASYNFGVAKVAGLAQQVKYKWDGA 247
+
+Query: 90  -----NSYMLGASA------EVKLQYALY---------HQITLGYVH-----TALYGNLA 124
+                N Y LG SA      EVK QYA Y         HQ  LGYVH     TALYG +A
+Sbjct: 248 GSDKYNTYLLGVSAPVGGVGEVKAQYAMYDQKANDAKAHQFSLGYVHNLSKRTALYGTVA 307
+
+Query: 125 FLK----------------------------QTGVQVGIRHAF 139
+            LK                            QTGVQVGIRHAF
+Sbjct: 308 YLKNKEGSFMSLNAKGVSNQIGLKDSGAARNQTGVQVGIRHAF 350
+</PRE>
+
+
+<PRE>
+
+ Score = 35.5 bits (110), Expect = 2.8
+ Identities = 25/53 (47%), Positives = 25/53 (47%), Gaps = 27/53 (50%)
+
+Query: 13  RLGLRG---------AGFWLEGE-------------R--STVSLS---GEVRL 38
+           RLGLRG         AGFWLEGE             R  STV LS   GEVRL
+Sbjct: 57  RLGLRGTEDLGGGLKAGFWLEGEIFGDSGNTGGFNFRRESTVRLSGNFGEVRL 109
+</PRE>
+
+
+<PRE>
+><a name = 221069090></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=221069090&dopt=GenPept" >ref|ZP_03545195.1|</a> porin Gram-negative type [Comamonas testosteroni KF-1]
+ <a name = 220714113></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=220714113&dopt=GenPept" >gb|EED69481.1|</a> porin Gram-negative type [Comamonas testosteroni KF-1]
+          Length = 356
+
+ Score = 67.5 bits (225), Expect = 6e-10
+ Identities = 53/135 (39%), Positives = 56/135 (41%), Gaps = 66/135 (48%)
+
+Query: 71  DEITLGASYN----KLSGLLQQT--------------NSYMLGASA------EVKLQYAL 106
+           DE  +GASYN    K+ GL QQ               N Y LG SA      EVK QYAL
+Sbjct: 222 DEMSIGASYNFGMAKVVGLAQQIKYKADASGVPSQKYNNYLLGVSAPVGGVGEVKAQYAL 281
+
+Query: 107 Y---------HQITLGYVH-----TALYGNLAFLK------------------------- 127
+           Y         HQ  LGYVH     TALYG +A LK                         
+Sbjct: 282 YDQKANDAKAHQFSLGYVHNLSKRTALYGTVAYLKNKEGSFMALDAKGVSNTVGLKDSGA 341
+
+Query: 128 ---QTGVQVGIRHAF 139
+              QTGVQVGIRHAF
+Sbjct: 342 ARNQTGVQVGIRHAF 356
+</PRE>
+
+
+<PRE>
+><a name = 120609626></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=120609626&dopt=GenPept" >ref|YP_969304.1|</a> porin [Acidovorax avenae subsp. citrulli AAC00-1]
+ <a name = 120588090></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=120588090&dopt=GenPept" >gb|ABM31530.1|</a> porin, Gram-negative type [Acidovorax citrulli AAC00-1]
+          Length = 344
+
+ Score = 66.4 bits (221), Expect = 1e-09
+ Identities = 56/139 (40%), Positives = 64/139 (46%), Gaps = 62/139 (44%)
+
+Query: 60  DLSASLGLAQQDEITLGASY--N--KLSGLLQQT------------NSYMLGASA----- 98
+           DL +S+     D + +G+SY  N  KLS +LQQ             N Y LGASA     
+Sbjct: 209 DLAGSVS---RDTLSVGGSYDLNVVKLSTILQQSKYEAPGVADAKFNAYSLGASAPVGAG 265
+
+Query: 99  EVKLQYALY---------HQITLGYVH-----TALYGNLAFLK----------------- 127
+           E KLQYALY         HQ+ LGYVH     TALYG +A LK                 
+Sbjct: 266 EFKLQYALYDQKAIDSKAHQLSLGYVHNLSKRTALYGTVAYLKNKDSSNLGLATKGLTVA 325
+
+Query: 128 -------QTGVQVGIRHAF 139
+                  QTGVQVGIRHAF
+Sbjct: 326 GPGAGNNQTGVQVGIRHAF 344
+</PRE>
+
+
+<PRE>
+
+ Score = 39.9 bits (126), Expect = 0.13
+ Identities = 23/53 (43%), Positives = 25/53 (47%), Gaps = 27/53 (50%)
+
+Query: 13  RLGLRG---------AGFWLEGE---------------RSTVSLS---GEVRL 38
+           RLG+RG         AGFWLEGE               RST+SL    GEVRL
+Sbjct: 58  RLGFRGTEDLGGGLKAGFWLEGEIFGDNGNASGFNFQRRSTLSLAGNFGEVRL 110
+</PRE>
+
+
+<PRE>
+><a name = 323372538></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323372538&dopt=GenPept" >gb|ADX44807.1|</a> porin [Acidovorax avenae subsp. avenae ATCC 19860]
+          Length = 357
+
+ Score = 62.2 bits (206), Expect = 2e-08
+ Identities = 51/127 (40%), Positives = 58/127 (45%), Gaps = 60/127 (47%)
+
+Query: 73  ITLGASY--N--KLSGLLQQT-------------NSYMLGAS-----AEVKLQYALY--- 107
+           +T+GASY  N  KL ++ QQ              N Y LGAS     +E KLQYALY   
+Sbjct: 231 LTVGASYDLNVAKLIAIAQQSKYEADGFSGDAKFNNYALGASMPVGAGEFKLQYALYDQK 290
+
+Query: 108 ------HQITLGYVH-----TALYGNLAFLK------------------------QTGVQ 132
+                 HQ+ LGYVH     TALYG +A LK                        QTGVQ
+Sbjct: 291 AIDSKAHQLSLGYVHNLSKRTALYGTVAYLKNKDNSNLGLATKGLTVAGPGIGNNQTGVQ 350
+
+Query: 133 VGIRHAF 139
+           VGIRHAF
+Sbjct: 351 VGIRHAF 357
+</PRE>
+
+
+<PRE>
+
+ Score = 40.2 bits (127), Expect = 0.10
+ Identities = 32/85 (37%), Positives = 35/85 (41%), Gaps = 48/85 (56%)
+
+Query: 2   FGIVDTNVAYV---------------------RLGLRG---------AGFWLEGE----- 26
+           FGIVDT VAY+                     RLG+RG         AGFWLEGE     
+Sbjct: 26  FGIVDTGVAYINNANSAGQNVYGLTTSGNATSRLGFRGTEDLGGGLKAGFWLEGEIFGDN 85
+
+Query: 27  ----------RSTVSLS---GEVRL 38
+                     RST+SL    GEVRL
+Sbjct: 86  GNANGFNFQRRSTLSLAGNFGEVRL 110
+</PRE>
+
+
+<PRE>
+><a name = 319761523></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=319761523&dopt=GenPept" >ref|YP_004125460.1|</a> porin gram-negative type [Alicycliphilus denitrificans BC]
+ <a name = 317116084></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=317116084&dopt=GenPept" >gb|ADU98572.1|</a> porin Gram-negative type [Alicycliphilus denitrificans BC]
+          Length = 346
+
+ Score = 58.0 bits (191), Expect = 5e-07
+ Identities = 48/134 (35%), Positives = 57/134 (42%), Gaps = 59/134 (44%)
+
+Query: 65  LGLAQQDEITLGASYN----KLSGLLQQT------------NSYMLGASA-----EVKLQ 103
+           LG +  D +T+G+SY     K+ +LLQQ             NSY LG  A     E+K Q
+Sbjct: 213 LGAGTKDNLTVGGSYDLSVVKINALLQQAKYKDVGAASGKYNSYGLGLTAPVGAGEIKAQ 272
+
+Query: 104 YALY---------HQITLGYVH-----TALYGNLAFLK---------------------- 127
+           Y  Y         HQ  LGYVH     TALYG +A LK                      
+Sbjct: 273 YVMYDQKAIDSKAHQFALGYVHNLSKRTALYGTVAYLKNKDASNMALQAKQVSTTGPGAG 332
+
+Query: 128 --QTGVQVGIRHAF 139
+             QTGVQ+GIRH F
+Sbjct: 333 ENQTGVQLGIRHSF 346
+</PRE>
+
+
+<PRE>
+
+ Score = 39.6 bits (125), Expect = 0.15
+ Identities = 33/86 (38%), Positives = 36/86 (41%), Gaps = 48/86 (55%)
+
+Query: 1   LFGIVDTNVAYV---------------------RLGLRG---------AGFWLEGE---- 26
+           LFGI+DTN +YV                     RLG+RG         AGFWLEGE    
+Sbjct: 25  LFGIIDTNFGYVDNTNAAGDSKYGIGTSGNATSRLGFRGVEDLGGGLKAGFWLEGEIFGD 84
+
+Query: 27  ----------R-STVSLS---GEVRL 38
+                     R STV LS   GEVRL
+Sbjct: 85  NGNASGFNFQRESTVRLSGNFGEVRL 110
+</PRE>
+
+
+<PRE>
+><a name = 264676777></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=264676777&dopt=GenPept" >ref|YP_003276683.1|</a> gram-negative type outer membrane porin protein [Comamonas
+           testosteroni CNB-2]
+ <a name = 262207289></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262207289&dopt=GenPept" >gb|ACY31387.1|</a> gram-negative type outer membrane porin protein [Comamonas
+           testosteroni CNB-2]
+          Length = 361
+
+ Score = 47.4 bits (153), Expect = 7e-04
+ Identities = 40/92 (43%), Positives = 41/92 (44%), Gaps = 43/92 (46%)
+
+Query: 91  SYMLGASA------EVKLQYALY----------HQITLGYVH-----TALYGNLAFLK-- 127
+           SY LG SA      EVK QYALY          HQ+ LGYVH     TALYG   FLK  
+Sbjct: 270 SYALGVSAPVGGVGEVKAQYALYKAGGDLSGKAHQLSLGYVHNLSKRTALYGTYSFLKNK 329
+
+Query: 128 ---Q-----------------TGVQVGIRHAF 139
+              Q                  GVQVGIRHAF
+Sbjct: 330 DNAQFTLGGVPSYAVGAGKASNGVQVGIRHAF 361
+</PRE>
+
+
+<PRE>
+><a name = 196015702></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=196015702&dopt=GenPept" >ref|XP_002117707.1|</a> hypothetical protein TRIADDRAFT_61706 [Trichoplax adhaerens]
+ <a name = 190579747></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=190579747&dopt=GenPept" >gb|EDV19837.1|</a> hypothetical protein TRIADDRAFT_61706 [Trichoplax adhaerens]
+          Length = 4390
+
+ Score = 35.7 bits (111), Expect = 2.3
+ Identities = 11/13 (84%), Positives = 13/13 (100%)
+
+Query: 27   RSTVSLSGEVRLL 39
+            RST+SLSGE+RLL
+Sbjct: 2136 RSTLSLSGELRLL 2148
+</PRE>
+
+
+<PRE>
+><a name = 239820613></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=239820613&dopt=GenPept" >ref|YP_002947798.1|</a> porin Gram-negative type [Variovorax paradoxus S110]
+ <a name = 239805466></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=239805466&dopt=GenPept" >gb|ACS22532.1|</a> porin Gram-negative type [Variovorax paradoxus S110]
+          Length = 426
+
+ Score = 35.5 bits (110), Expect = 2.8
+ Identities = 23/53 (43%), Positives = 25/53 (47%), Gaps = 27/53 (50%)
+
+Query: 13  RLGLRG---------AGFWLEG---------------ERSTVSLS---GEVRL 38
+           RLG+RG         AGFWLE+                RSTVSLS   GEVRL
+Sbjct: 73  RLGFRGTEDLGGGLAAGFWLEAGTTPDNGATAIASFARRSTVSLSGPFGEVRL 125
+</PRE>
+
+
+<PRE>
+><a name = 319791860></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=319791860&dopt=GenPept" >ref|YP_004153500.1|</a> porin [Variovorax paradoxus EPS]
+ <a name = 315594323></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315594323&dopt=GenPept" >gb|ADU35389.1|</a> porin [Variovorax paradoxus EPS]
+          Length = 414
+
+ Score = 35.2 bits (109), Expect = 3.4
+ Identities = 22/53 (41%), Positives = 25/53 (47%), Gaps = 27/53 (50%)
+
+Query: 13  RLGLRG---------AGFWLEG--------E-------RSTVSLS---GEVRL 38
+           RLG+RG         A FWLE+        E       RSTVSLS   GE+RL
+Sbjct: 75  RLGFRGTEDLGGGLAASFWLEAPITNDNGQEGVATFARRSTVSLSGGFGEIRL 127
+</PRE>
+
+
+<PRE>
+><a name = 319791857></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=319791857&dopt=GenPept" >ref|YP_004153497.1|</a> porin [Variovorax paradoxus EPS]
+ <a name = 315594320></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315594320&dopt=GenPept" >gb|ADU35386.1|</a> porin [Variovorax paradoxus EPS]
+          Length = 406
+
+ Score = 35.2 bits (109), Expect = 3.4
+ Identities = 22/53 (41%), Positives = 25/53 (47%), Gaps = 27/53 (50%)
+
+Query: 13  RLGLRG---------AGFWLEG--------E-------RSTVSLS---GEVRL 38
+           RLG+RG         A FWLE+        E       RSTVSLS   GE+RL
+Sbjct: 57  RLGFRGTEDLGGGLAASFWLEAPIKNDDGSEGVATFARRSTVSLSGGFGEIRL 109
+</PRE>
+
+
+<PRE>
+><a name = 269958843></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269958843&dopt=GenPept" >ref|YP_003328631.1|</a> hypothetical protein ACIS_00764 [Anaplasma centrale str. Israel]
+ <a name = 269848673></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269848673&dopt=GenPept" >gb|ACZ49317.1|</a> hypothetical protein ACIS_00764 [Anaplasma centrale str. Israel]
+          Length = 2595
+
+ Score = 34.4 bits (106), Expect = 6.0
+ Identities = 9/12 (75%), Positives = 11/12 (91%)
+
+Query: 24  EGERSTVSLSGE 35
+           E+ERST+S SGE
+Sbjct: 915 EAERSTLSHSGE 926
+</PRE>
+
+
+<PRE>
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 861,928,619
+  Number of sequences in database:  2,557,525
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.01
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 910,730,992
+  Number of sequences in database:  2,615,592
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.02
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 965,803,591
+  Number of sequences in database:  2,808,441
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.03
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 983,507,158
+  Number of sequences in database:  2,947,407
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.04
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 772,737,879
+  Number of sequences in database:  2,206,433
+  
+Lambda     K      H
+   0.253    0.238     2.04 
+
+Gapped
+Lambda     K      H
+   0.193   0.0350    0.120 
+
+
+Matrix: bbTMout
+Gap Penalties: Existence: 13, Extension: 2
+Number of Hits to DB: 6,444,457,310
+Number of Sequences: 13135398
+Number of extensions: 1334954444
+Number of successful extensions: 279743
+Number of sequences better than 10.0: 19
+Number of HSP's better than 10.0 without gapping: 2
+Number of HSP's successfully gapped in prelim test: 17
+Number of HSP's that attempted gapping in prelim test: 279643
+Number of HSP's gapped (non-prelim): 53
+length of query: 139
+length of database: 4,494,708,239
+effective HSP length: 98
+effective length of query: 41
+effective length of database: 3,207,439,235
+effective search space: 131505008635
+effective search space used: 131505008635
+T: 11
+A: 40
+X1: 20 ( 7.3 bits)
+X2: 53 (14.8 bits)
+X3: 89 (24.8 bits)
+S1: 54 (21.8 bits)
+S2: 104 (33.8 bits)
+</PRE>
+<P><HR><BR>
+<PRE></PRE>
+</BODY>
+</HTML>

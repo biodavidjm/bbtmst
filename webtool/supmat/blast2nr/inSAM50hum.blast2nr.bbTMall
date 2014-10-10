@@ -1,0 +1,2140 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> SAM50-HUMAN-PSIPRED
+         (182 letters)
+
+<b>Database:</b> All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           13,135,398 sequences; 4,494,708,239 total letters
+
+Searching..................................................done<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114686843&dopt=GenPept" >ref|XP_001172192.1|</a>  PREDICTED: sorting and assembly machine...   <a href = #114686843>211</a>   4e-53
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114686847&dopt=GenPept" >ref|XP_525664.2|</a>  PREDICTED: sorting and assembly machinery ...   <a href = #114686847>211</a>   4e-53
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114686849&dopt=GenPept" >ref|XP_001172178.1|</a>  PREDICTED: sorting and assembly machine...   <a href = #114686849>211</a>   4e-53
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114686851&dopt=GenPept" >ref|XP_001172164.1|</a>  PREDICTED: sorting and assembly machine...   <a href = #114686851>211</a>   4e-53
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=62896873&dopt=GenPept" >dbj|BAD96377.1|</a>  CGI-51 protein variant [Homo sapiens]            <a href = #62896873>211</a>   4e-53
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=04929571&dopt=GenPept" >gb|AAD34046.1|AF151809_1</a>  CGI-51 protein [Homo sapiens]           <a href = #4929571>211</a>   4e-53
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=14043738&dopt=GenPept" >gb|AAH07830.1|</a>  Sorting and assembly machinery component 50 ...   <a href = #14043738>211</a>   4e-53
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=225543166&dopt=GenPept" >ref|NP_056195.3|</a>  sorting and assembly machinery component 5...   <a href = #225543166>211</a>   4e-53
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15079735&dopt=GenPept" >gb|AAH11681.1|</a>  Sorting and assembly machinery component 50 ...   <a href = #15079735>211</a>   4e-53
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=07022134&dopt=GenPept" >dbj|BAA91498.1|</a>  unnamed protein product [Homo sapiens]           <a href = #7022134>211</a>   4e-53
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=297709110&dopt=GenPept" >ref|XP_002831286.1|</a>  PREDICTED: sorting and assembly machine...   <a href = #297709110>209</a>   1e-52
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=90075166&dopt=GenPept" >dbj|BAE87263.1|</a>  unnamed protein product [Macaca fascicularis]    <a href = #90075166>209</a>   1e-52
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=109094500&dopt=GenPept" >ref|XP_001106010.1|</a>  PREDICTED: sorting and assembly machine...   <a href = #109094500>209</a>   1e-52
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296192014&dopt=GenPept" >ref|XP_002743881.1|</a>  PREDICTED: sorting and assembly machine...   <a href = #296192014>208</a>   2e-52
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194226955&dopt=GenPept" >ref|XP_001488028.2|</a>  PREDICTED: similar to Sorting and assem...   <a href = #194226955>205</a>   2e-51
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301775942&dopt=GenPept" >ref|XP_002923391.1|</a>  PREDICTED: sorting and assembly machine...   <a href = #301775942>204</a>   3e-51
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=51948454&dopt=GenPept" >ref|NP_001004241.1|</a>  sorting and assembly machinery componen...   <a href = #51948454>202</a>   1e-50
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=30519943&dopt=GenPept" >ref|NP_848729.1|</a>  sorting and assembly machinery component 5...   <a href = #30519943>201</a>   4e-50
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74204514&dopt=GenPept" >dbj|BAE35333.1|</a>  unnamed protein product [Mus musculus]           <a href = #74204514>201</a>   4e-50
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74204136&dopt=GenPept" >dbj|BAE39833.1|</a>  unnamed protein product [Mus musculus]           <a href = #74204136>201</a>   4e-50
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74149409&dopt=GenPept" >dbj|BAE36358.1|</a>  unnamed protein product [Mus musculus]           <a href = #74149409>201</a>   4e-50
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126338997&dopt=GenPept" >ref|XP_001362470.1|</a>  PREDICTED: similar to Sorting and assem...   <a href = #126338997>200</a>   5e-50
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=73969335&dopt=GenPept" >ref|XP_531702.2|</a>  PREDICTED: similar to SAM50-like protein C...   <a href = #73969335>199</a>   1e-49
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296486977&dopt=GenPept" >gb|DAA29090.1|</a>  sorting and assembly machinery component 50 ...   <a href = #296486977>198</a>   2e-49
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114051051&dopt=GenPept" >ref|NP_001040088.1|</a>  sorting and assembly machinery componen...   <a href = #114051051>198</a>   2e-49
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291414819&dopt=GenPept" >ref|XP_002723654.1|</a>  PREDICTED: sorting and assembly machine...   <a href = #291414819>195</a>   2e-48
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118083116&dopt=GenPept" >ref|XP_416458.2|</a>  PREDICTED: similar to Sorting and assembly...   <a href = #118083116>194</a>   5e-48
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=45361003&dopt=GenPept" >ref|NP_989138.1|</a>  sorting and assembly machinery component 5...   <a href = #45361003>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148224070&dopt=GenPept" >ref|NP_001083329.1|</a>  sorting and assembly machinery componen...   <a href = #148224070>188</a>   3e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=224095910&dopt=GenPept" >ref|XP_002191114.1|</a>  PREDICTED: sorting and assembly machine...   <a href = #224095910>187</a>   5e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148230326&dopt=GenPept" >ref|NP_001080115.1|</a>  sorting and assembly machinery componen...   <a href = #148230326>185</a>   2e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=149584091&dopt=GenPept" >ref|XP_001519416.1|</a>  PREDICTED: similar to Sorting and assem...   <a href = #149584091>184</a>   5e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=41055939&dopt=GenPept" >ref|NP_956436.1|</a>  sorting and assembly machinery component 5...   <a href = #41055939>183</a>   7e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=55925219&dopt=GenPept" >ref|NP_001007344.1|</a>  sorting and assembly machinery componen...   <a href = #55925219>175</a>   2e-42
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=223648238&dopt=GenPept" >gb|ACN10877.1|</a>  Sorting and assembly machinery component 50 ...   <a href = #223648238>164</a>   4e-39
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209154538&dopt=GenPept" >gb|ACI33501.1|</a>  Sorting and assembly machinery component 50 ...   <a href = #209154538>164</a>   4e-39
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47210431&dopt=GenPept" >emb|CAF89774.1|</a>  unnamed protein product [Tetraodon nigrovir...   <a href = #47210431>159</a>   1e-37
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47211509&dopt=GenPept" >emb|CAF90305.1|</a>  unnamed protein product [Tetraodon nigrovir...   <a href = #47211509>151</a>   5e-35
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194387504&dopt=GenPept" >dbj|BAG60116.1|</a>  unnamed protein product [Homo sapiens]           <a href = #194387504>105</a>   2e-21
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193788514&dopt=GenPept" >dbj|BAG53408.1|</a>  unnamed protein product [Homo sapiens]           <a href = #193788514> 91</a>   4e-17
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146332617&dopt=GenPept" >gb|ABQ22814.1|</a>  sorting and assembly machinery component 50-...   <a href = #146332617> 89</a>   3e-16
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=45359363&dopt=GenPept" >gb|AAS59066.1|</a>  CGI-51 protein [Sus scrofa]                       <a href = #45359363> 89</a>   3e-16
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260791840&dopt=GenPept" >ref|XP_002590935.1|</a>  hypothetical protein BRAFLDRAFT_285241 ...   <a href = #260791840> 66</a>   1e-09
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115933490&dopt=GenPept" >ref|XP_792273.2|</a>  PREDICTED: similar to Cgi-51-prov protein,...   <a href = #115933490> 63</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291233973&dopt=GenPept" >ref|XP_002736928.1|</a>  PREDICTED: sorting and assembly machine...   <a href = #291233973> 62</a>   3e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=321461476&dopt=GenPept" >gb|EFX72508.1|</a>  hypothetical protein DAPPUDRAFT_110732 [Daph...   <a href = #321461476> 52</a>   3e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156340271&dopt=GenPept" >ref|XP_001620403.1|</a>  hypothetical protein NEMVEDRAFT_v1g1482...   <a href = #156340271> 51</a>   7e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=270008577&dopt=GenPept" >gb|EFA05025.1|</a>  hypothetical protein TcasGA2_TC015112 [Tribo...   <a href = #270008577> 49</a>   2e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189238341&dopt=GenPept" >ref|XP_966817.2|</a>  PREDICTED: similar to sorting and assembly...   <a href = #189238341> 49</a>   2e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=221129657&dopt=GenPept" >ref|XP_002153844.1|</a>  PREDICTED: similar to Sorting and assem...   <a href = #221129657> 47</a>   8e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=196000050&dopt=GenPept" >ref|XP_002109893.1|</a>  hypothetical protein TRIADDRAFT_53259 [...   <a href = #196000050> 47</a>   8e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=289741927&dopt=GenPept" >gb|ADD19711.1|</a>  putative cell surface protein-like protein [...   <a href = #289741927> 40</a>   0.13 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=198418359&dopt=GenPept" >ref|XP_002128374.1|</a>  PREDICTED: similar to sorting and assem...   <a href = #198418359> 38</a>   0.40 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=195123335&dopt=GenPept" >ref|XP_002006163.1|</a>  GI20885 [Drosophila mojavensis] >gi|193...   <a href = #195123335> 35</a>   4.1  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=195024957&dopt=GenPept" >ref|XP_001985971.1|</a>  GH20799 [Drosophila grimshawi] >gi|1939...   <a href = #195024957> 35</a>   4.1  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194753265&dopt=GenPept" >ref|XP_001958937.1|</a>  GF12630 [Drosophila ananassae] >gi|1906...   <a href = #194753265> 35</a>   4.9  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320164099&dopt=GenPept" >gb|EFW40998.1|</a>  conserved hypothetical protein [Capsaspora o...   <a href = #320164099> 34</a>   8.8  
+</PRE>
+<PRE>
+><a name = 114686843></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114686843&dopt=GenPept" >ref|XP_001172192.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog
+           isoform 3 [Pan troglodytes]
+ <a name = 114686845></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114686845&dopt=GenPept" >ref|XP_001172202.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog
+           isoform 4 [Pan troglodytes]
+          Length = 469
+
+ Score =  211 bits (741), Expect = 4e-53
+ Identities = 126/209 (60%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSASFWGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASFWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCVPMGVQTGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 114686847></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114686847&dopt=GenPept" >ref|XP_525664.2|</a> PREDICTED: sorting and assembly machinery component 50 homolog
+           isoform 5 [Pan troglodytes]
+          Length = 435
+
+ Score =  211 bits (741), Expect = 4e-53
+ Identities = 126/209 (60%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 82  LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 141
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 142 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 201
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 202 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 261
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSASFWGGMLV
+Sbjct: 262 IKEDFELQLNKQLIFDSVFSASFWGGMLV 290
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 331 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 390
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 391 SYGAGIVLRLGNIARLELNYCVPMGVQTGDRICDGVQFGAGIRFL 435
+</PRE>
+
+
+<PRE>
+><a name = 114686849></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114686849&dopt=GenPept" >ref|XP_001172178.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog
+           isoform 2 [Pan troglodytes]
+          Length = 494
+
+ Score =  211 bits (741), Expect = 4e-53
+ Identities = 126/209 (60%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSASFWGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASFWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 77.8 bits (262), Expect = 5e-13
+ Identities = 48/87 (55%), Positives = 48/87 (55%), Gaps = 39/87 (44%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV--GVQ 174
+           SYGAGIVL   NIARLELNYCV  GVQ
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCVPMGVQ 451
+</PRE>
+
+
+<PRE>
+><a name = 114686851></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114686851&dopt=GenPept" >ref|XP_001172164.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog
+           isoform 1 [Pan troglodytes]
+          Length = 390
+
+ Score =  211 bits (741), Expect = 4e-53
+ Identities = 126/209 (60%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 37  LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 96
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 97  FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 156
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 157 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 216
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSASFWGGMLV
+Sbjct: 217 IKEDFELQLNKQLIFDSVFSASFWGGMLV 245
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 286 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 345
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 346 SYGAGIVLRLGNIARLELNYCVPMGVQTGDRICDGVQFGAGIRFL 390
+</PRE>
+
+
+<PRE>
+><a name = 62896873></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=62896873&dopt=GenPept" >dbj|BAD96377.1|</a> CGI-51 protein variant [Homo sapiens]
+          Length = 469
+
+ Score =  211 bits (741), Expect = 4e-53
+ Identities = 126/209 (60%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSASFWGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASFWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCVPMGVQTGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 4929571></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=04929571&dopt=GenPept" >gb|AAD34046.1|AF151809_1</a> CGI-51 protein [Homo sapiens]
+          Length = 469
+
+ Score =  211 bits (741), Expect = 4e-53
+ Identities = 126/209 (60%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSASFWGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASFWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 73.9 bits (248), Expect = 8e-12
+ Identities = 44/79 (55%), Positives = 44/79 (55%), Gaps = 35/79 (44%)
+
+Query: 139 FRTHFFLNAGN--------------------IRWSYGAGIVL---NIARLELNYCV---- 171
+           FRTHFFLNAGN                    IRWSYGAGIVL   NIARLELNYCV    
+Sbjct: 391 FRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRWSYGAGIVLRLGNIARLELNYCVPMGV 450
+
+Query: 172 --------GVQFGAGIRFL 182
+                   GVQFGAGIRFL
+Sbjct: 451 QTGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 14043738></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=14043738&dopt=GenPept" >gb|AAH07830.1|</a> Sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Homo sapiens]
+          Length = 468
+
+ Score =  211 bits (741), Expect = 4e-53
+ Identities = 126/209 (60%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSASFWGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASFWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 82.5 bits (279), Expect = 2e-14
+ Identities = 55/105 (52%), Positives = 55/105 (52%), Gaps = 50/105 (47%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAG LHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAG-LHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 423
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 424 SYGAGIVLRLGNIARLELNYCVPMGVQTGDRICDGVQFGAGIRFL 468
+</PRE>
+
+
+<PRE>
+><a name = 225543166></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=225543166&dopt=GenPept" >ref|NP_056195.3|</a> sorting and assembly machinery component 50 homolog [Homo sapiens]
+ <a name = 118572715></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118572715&dopt=GenPept" >sp|Q9Y512|SAM50_HUMAN</a> RecName: Full=Sorting and assembly machinery component 50 homolog;
+           AltName: Full=Transformation-related gene 3 protein;
+           Short=TRG-3
+ <a name = 5596714></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05596714&dopt=GenPept" >emb|CAB51401.1|</a> sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Homo sapiens]
+ <a name = 37779172></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=37779172&dopt=GenPept" >gb|AAO85221.1|</a> transformation-related protein 3 [Homo sapiens]
+ <a name = 47678497></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47678497&dopt=GenPept" >emb|CAG30369.1|</a> dJ796I17.2 [Homo sapiens]
+ <a name = 109451206></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=109451206&dopt=GenPept" >emb|CAK54464.1|</a> SAMM50 [synthetic construct]
+ <a name = 109451784></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=109451784&dopt=GenPept" >emb|CAK54763.1|</a> SAMM50 [synthetic construct]
+ <a name = 119593732></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119593732&dopt=GenPept" >gb|EAW73326.1|</a> sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Homo sapiens]
+ <a name = 208965554></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=208965554&dopt=GenPept" >dbj|BAG72791.1|</a> sorting and assembly machinery component 50 homolog [synthetic
+           construct]
+          Length = 469
+
+ Score =  211 bits (741), Expect = 4e-53
+ Identities = 126/209 (60%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSASFWGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASFWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCVPMGVQTGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 15079735></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15079735&dopt=GenPept" >gb|AAH11681.1|</a> Sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Homo sapiens]
+ <a name = 15929538></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15929538&dopt=GenPept" >gb|AAH15200.1|</a> Sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Homo sapiens]
+ <a name = 123992896></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=123992896&dopt=GenPept" >gb|ABM84050.1|</a> sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [synthetic construct]
+ <a name = 123999783></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=123999783&dopt=GenPept" >gb|ABM87400.1|</a> sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [synthetic construct]
+          Length = 469
+
+ Score =  211 bits (741), Expect = 4e-53
+ Identities = 126/209 (60%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSASFWGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASFWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCVPMGVQTGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 7022134></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=07022134&dopt=GenPept" >dbj|BAA91498.1|</a> unnamed protein product [Homo sapiens]
+          Length = 469
+
+ Score =  211 bits (741), Expect = 4e-53
+ Identities = 126/209 (60%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSASFWGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASFWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCVPMGVQTGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 297709110></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=297709110&dopt=GenPept" >ref|XP_002831286.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog
+           [Pongo abelii]
+          Length = 469
+
+ Score =  209 bits (734), Expect = 1e-52
+ Identities = 125/209 (59%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSAS+WGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCIPMGVQTGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 90075166></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=90075166&dopt=GenPept" >dbj|BAE87263.1|</a> unnamed protein product [Macaca fascicularis]
+          Length = 469
+
+ Score =  209 bits (734), Expect = 1e-52
+ Identities = 125/209 (59%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSAS+WGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCIPMGVQTGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 109094500></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=109094500&dopt=GenPept" >ref|XP_001106010.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog
+           [Macaca mulatta]
+          Length = 469
+
+ Score =  209 bits (734), Expect = 1e-52
+ Identities = 125/209 (59%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSAS+WGGMLV
+Sbjct: 296 IKEDFELQLNKQLIFDSVFSASLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCIPMGVQTGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 296192014></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296192014&dopt=GenPept" >ref|XP_002743881.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog
+           [Callithrix jacchus]
+          Length = 469
+
+ Score =  208 bits (731), Expect = 2e-52
+ Identities = 124/209 (59%), Positives = 126/209 (60%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RGMSAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGSFERNFSVNLYKVTGQFPWSSLRETDRGMSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQ+NK       FSAS+WGGMLV
+Sbjct: 296 IKEDFELQVNKPLIFDSVFSASLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCIPMGVQTGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 194226955></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194226955&dopt=GenPept" >ref|XP_001488028.2|</a> PREDICTED: similar to Sorting and assembly machinery component 50
+           homolog [Equus caballus]
+          Length = 455
+
+ Score =  205 bits (720), Expect = 2e-51
+ Identities = 124/209 (59%), Positives = 125/209 (59%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPQPGNFERNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRKGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FSAS+WGGMLV
+Sbjct: 296 IKEDFELQLNKQLILESVFSASLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 77.8 bits (262), Expect = 5e-13
+ Identities = 48/87 (55%), Positives = 48/87 (55%), Gaps = 39/87 (44%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV--GVQ 174
+           SYGAGIVL   NIARLELNYCV  GVQ
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCVPMGVQ 451
+</PRE>
+
+
+<PRE>
+><a name = 301775942></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301775942&dopt=GenPept" >ref|XP_002923391.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog
+           [Ailuropoda melanoleuca]
+          Length = 469
+
+ Score =  204 bits (718), Expect = 3e-51
+ Identities = 123/209 (58%), Positives = 125/209 (59%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPRPGNFERNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRSASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           VKEDFELQLNK       FSAS+WGGMLV
+Sbjct: 296 VKEDFELQLNKQLLFDSVFSASLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCDLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCVPMGVQKGDKICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 51948454></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=51948454&dopt=GenPept" >ref|NP_001004241.1|</a> sorting and assembly machinery component 50 homolog [Rattus
+           norvegicus]
+ <a name = 81884480></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=81884480&dopt=GenPept" >sp|Q6AXV4|SAM50_RAT</a> RecName: Full=Sorting and assembly machinery component 50 homolog
+ <a name = 50927759></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=50927759&dopt=GenPept" >gb|AAH79302.1|</a> Sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Rattus norvegicus]
+ <a name = 149065734></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=149065734&dopt=GenPept" >gb|EDM15607.1|</a> sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Rattus norvegicus]
+          Length = 469
+
+ Score =  202 bits (710), Expect = 1e-50
+ Identities = 122/209 (58%), Positives = 124/209 (59%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFP+    HTVKWEGVWRE 
+Sbjct: 176 FFKPQPGNFEKNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPLCKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLARTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FS S+WGGMLV
+Sbjct: 296 IKEDFELQLNKPLVLDSVFSTSLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPRAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCIPMGVQRGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 30519943></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=30519943&dopt=GenPept" >ref|NP_848729.1|</a> sorting and assembly machinery component 50 homolog [Mus musculus]
+ <a name = 81896015></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=81896015&dopt=GenPept" >sp|Q8BGH2|SAM50_MOUSE</a> RecName: Full=Sorting and assembly machinery component 50 homolog
+ <a name = 26333533></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26333533&dopt=GenPept" >dbj|BAC30484.1|</a> unnamed protein product [Mus musculus]
+ <a name = 26334723></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26334723&dopt=GenPept" >dbj|BAC31062.1|</a> unnamed protein product [Mus musculus]
+ <a name = 26351075></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26351075&dopt=GenPept" >dbj|BAC39174.1|</a> unnamed protein product [Mus musculus]
+ <a name = 74139424></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74139424&dopt=GenPept" >dbj|BAE40853.1|</a> unnamed protein product [Mus musculus]
+ <a name = 74142081></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74142081&dopt=GenPept" >dbj|BAE41101.1|</a> unnamed protein product [Mus musculus]
+ <a name = 74201465></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74201465&dopt=GenPept" >dbj|BAE26162.1|</a> unnamed protein product [Mus musculus]
+ <a name = 74214302></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74214302&dopt=GenPept" >dbj|BAE40393.1|</a> unnamed protein product [Mus musculus]
+ <a name = 111600861></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=111600861&dopt=GenPept" >gb|AAI19181.1|</a> Sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Mus musculus]
+ <a name = 111601158></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=111601158&dopt=GenPept" >gb|AAI19179.1|</a> Sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Mus musculus]
+ <a name = 148672510></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148672510&dopt=GenPept" >gb|EDL04457.1|</a> sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Mus musculus]
+          Length = 469
+
+ Score =  201 bits (705), Expect = 4e-50
+ Identities = 121/209 (57%), Positives = 124/209 (59%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFP+    HTVKWEGVWRE 
+Sbjct: 176 FFKPQPGNFERNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPLWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            L+KVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALFKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FS S+WGGMLV
+Sbjct: 296 IKEDFELQLNKPLALDSVFSTSLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.1 bits (299), Expect = 4e-16
+ Identities = 54/105 (51%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGVVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 425 SYGAGVVLRLGNIARLELNYCIPMGVQGGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 74204514></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74204514&dopt=GenPept" >dbj|BAE35333.1|</a> unnamed protein product [Mus musculus]
+          Length = 469
+
+ Score =  201 bits (705), Expect = 4e-50
+ Identities = 121/209 (57%), Positives = 124/209 (59%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFP+    HTVKWEGVWRE 
+Sbjct: 176 FFKPQPGNFERNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPLWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            L+KVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALFKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FS S+WGGMLV
+Sbjct: 296 IKEDFELQLNKPLALDSVFSTSLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.1 bits (299), Expect = 4e-16
+ Identities = 54/105 (51%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGVVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 425 SYGAGVVLRLGNIARLELNYCIPMGVQGGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 74204136></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74204136&dopt=GenPept" >dbj|BAE39833.1|</a> unnamed protein product [Mus musculus]
+          Length = 469
+
+ Score =  201 bits (705), Expect = 4e-50
+ Identities = 121/209 (57%), Positives = 124/209 (59%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFP+    HTVKWEGVWRE 
+Sbjct: 176 FFKPQPGNFERNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPLWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            L+KVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALFKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FS S+WGGMLV
+Sbjct: 296 IKEDFELQLNKPLALDSVFSTSLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 82.8 bits (280), Expect = 2e-14
+ Identities = 53/105 (50%), Positives = 55/105 (52%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGVVL   NIARLELNYC+            GVQFGA IRFL
+Sbjct: 425 SYGAGVVLRLGNIARLELNYCIPMGVQGGDRICDGVQFGARIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 74149409></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=74149409&dopt=GenPept" >dbj|BAE36358.1|</a> unnamed protein product [Mus musculus]
+          Length = 469
+
+ Score =  201 bits (705), Expect = 4e-50
+ Identities = 121/209 (57%), Positives = 124/209 (59%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFP+    HTVKWEGVWRE 
+Sbjct: 176 FFKPQPGNFERNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPLWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            L+KVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALFKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FS S+WGGMLV
+Sbjct: 296 IKEDFELQLNKPLALDSVFSTSLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.1 bits (299), Expect = 4e-16
+ Identities = 54/105 (51%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGVVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 425 SYGAGVVLRLGNIARLELNYCIPMGVQGGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 126338997></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126338997&dopt=GenPept" >ref|XP_001362470.1|</a> PREDICTED: similar to Sorting and assembly machinery component 50
+           homolog [Monodelphis domestica]
+          Length = 469
+
+ Score =  200 bits (704), Expect = 5e-50
+ Identities = 121/209 (57%), Positives = 125/209 (59%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNIFGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPQPGNFDRNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLARTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRKGTLLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFELQLNK       +S+S+WGGMLV
+Sbjct: 296 LKEDFELQLNKQLFFDTVLSGSLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGDLFRTHFFLNAGNLCNLNYGEGPRAHLRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCIPMGVQRGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 73969335></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=73969335&dopt=GenPept" >ref|XP_531702.2|</a> PREDICTED: similar to SAM50-like protein CGI-51 [Canis familiaris]
+          Length = 455
+
+ Score =  199 bits (700), Expect = 1e-49
+ Identities = 122/209 (58%), Positives = 123/209 (58%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFPI    HTVKWEGVWRE 
+Sbjct: 176 FFKPQPGNFERNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPIWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           IKEDFELQLNK       FS S+WGG LV
+Sbjct: 296 IKEDFELQLNKQLVFDSVFSTSLWGGVLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 77.8 bits (262), Expect = 5e-13
+ Identities = 48/87 (55%), Positives = 48/87 (55%), Gaps = 39/87 (44%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV--GVQ 174
+           SYGAGIVL   NIARLELNYCV  GVQ
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCVPMGVQ 451
+</PRE>
+
+
+<PRE>
+><a name = 296486977></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296486977&dopt=GenPept" >gb|DAA29090.1|</a> sorting and assembly machinery component 50 homolog [Bos taurus]
+          Length = 444
+
+ Score =  198 bits (697), Expect = 2e-49
+ Identities = 121/209 (57%), Positives = 123/209 (58%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFP     HTVKWEGVWRE 
+Sbjct: 176 FFKPQPGNFDRNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPTWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSH MVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRVASFAVRKESGHSLKSSLSHSMVIDSRNSSILPKRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFELQLNK       FSAS+WGGMLV
+Sbjct: 296 LKEDFELQLNKQLILDTVFSASLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 68.3 bits (228), Expect = 4e-10
+ Identities = 43/80 (53%), Positives = 43/80 (53%), Gaps = 37/80 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNY 169
+           SYGAGIVL   NIARLELNY
+Sbjct: 425 SYGAGIVLRLGNIARLELNY 444
+</PRE>
+
+
+<PRE>
+><a name = 114051051></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114051051&dopt=GenPept" >ref|NP_001040088.1|</a> sorting and assembly machinery component 50 homolog [Bos taurus]
+ <a name = 122135695></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=122135695&dopt=GenPept" >sp|Q2HJ55|SAM50_BOVIN</a> RecName: Full=Sorting and assembly machinery component 50 homolog
+ <a name = 87578317></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=87578317&dopt=GenPept" >gb|AAI13306.1|</a> Sorting and assembly machinery component 50 homolog [Bos taurus]
+ <a name = 95769210></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=95769210&dopt=GenPept" >gb|ABF57416.1|</a> sorting and assembly machinery component 50 homolog [Bos taurus]
+          Length = 469
+
+ Score =  198 bits (697), Expect = 2e-49
+ Identities = 121/209 (57%), Positives = 123/209 (58%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFP     HTVKWEGVWRE 
+Sbjct: 176 FFKPQPGNFDRNFSVNLYKVTGQFPWSSLRETDRGVSAEYSFPTWKTSHTVKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSH MVID            LLKVNQEL        SF
+Sbjct: 236 GCLSRVASFAVRKESGHSLKSSLSHSMVIDSRNSSILPKRGALLKVNQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFELQLNK       FSAS+WGGMLV
+Sbjct: 296 LKEDFELQLNKQLILDTVFSASLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCVPMGVQRGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 291414819></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291414819&dopt=GenPept" >ref|XP_002723654.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog,
+           partial [Oryctolagus cuniculus]
+          Length = 618
+
+ Score =  195 bits (684), Expect = 2e-48
+ Identities = 119/209 (56%), Positives = 122/209 (58%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EKVTFQFSYG  ETSYGLS
+Sbjct: 399 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLLGRAEKVTFQFSYGTKETSYGLS 458
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAEYSFPV    HTVKWEGVWRE 
+Sbjct: 459 FFKPQPGNFDRNFSVNLYKVTGQFPWSSLRETDRGASAEYSFPVWKTSHTVKWEGVWREL 518
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSH MVID            LLKVNQEL        SF
+Sbjct: 519 GCLSRTASFAVRKESGHSLKSSLSHTMVIDSRSSSILPRRGALLKVNQELAGYTGGDVSF 578
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFELQLN         SAS+WGGMLV
+Sbjct: 579 LKEDFELQLNRQLVFDSVVSASLWGGMLV 607
+</PRE>
+
+
+<PRE>
+><a name = 118083116></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118083116&dopt=GenPept" >ref|XP_416458.2|</a> PREDICTED: similar to Sorting and assembly machinery component 50
+           homolog [Gallus gallus]
+          Length = 469
+
+ Score =  194 bits (680), Expect = 5e-48
+ Identities = 115/209 (55%), Positives = 123/209 (58%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLK+P      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKFPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG S E+ FPI    HT+KWEGVWRE 
+Sbjct: 176 FFKPQPGNFERNFSVNLYKVTGQFPWSSLRETDRGISTEFNFPIWKTNHTLKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SS+SHAMVID            LLK+NQEL        SF
+Sbjct: 236 GCLARTASFSVREESGHSLKSSISHAMVIDSRNSSILPKRGALLKINQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFE+QLNK       FSAS+WGGMLV
+Sbjct: 296 LKEDFEFQLNKQLLWDSVFSASLWGGMLV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 87.0 bits (295), Expect = 9e-16
+ Identities = 55/105 (52%), Positives = 55/105 (52%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRPGRGGFGDLFRTHFFLNAGNLCNLNYGDGPKAHLQKLAEYIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC             GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCFPMGVQSGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 45361003></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=45361003&dopt=GenPept" >ref|NP_989138.1|</a> sorting and assembly machinery component 50 homolog [Xenopus
+           (Silurana) tropicalis]
+ <a name = 82186576></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=82186576&dopt=GenPept" >sp|Q6P806|SAM50_XENTR</a> RecName: Full=Sorting and assembly machinery component 50 homolog
+ <a name = 38511778></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=38511778&dopt=GenPept" >gb|AAH61425.1|</a> CGI-51 protein [Xenopus (Silurana) tropicalis]
+          Length = 468
+
+ Score =  189 bits (664), Expect = 1e-46
+ Identities = 115/209 (55%), Positives = 120/209 (57%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLKLP      EK TFQFSYG  ETSYGLS
+Sbjct: 115 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKLPNLFGRAEKMTFQFSYGTKETSYGLS 174
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAE  FPI    HT+KWEGVWRE 
+Sbjct: 175 FFKPQVGNFERNFSVNLYKVTGQFPWSSLRETDRGVSAEINFPIWKTSHTLKWEGVWREL 234
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSH MVID            LLK+NQEL        SF
+Sbjct: 235 GCLARTASFAIREESGHTLKSSLSHTMVIDSRNTSILPKRGALLKINQELAGYTGGDVSF 294
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFELQLNK       +S S+WGGMLV
+Sbjct: 295 LKEDFELQLNKQLAWDSVLSTSLWGGMLV 323
+</PRE>
+
+
+<PRE>
+
+ Score = 87.0 bits (295), Expect = 9e-16
+ Identities = 54/105 (51%), Positives = 55/105 (52%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGG HLYT              FRTHFFLNAGN                    IRW
+Sbjct: 364 EAYWAGGMHLYTPLPFRPGRGGFGDLFRTHFFLNAGNLCNLNYGEGPRAHLRRLAECIRW 423
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 424 SYGAGIVLRLGNIARLELNYCIPMGVQSGDRICDGVQFGAGIRFL 468
+</PRE>
+
+
+<PRE>
+><a name = 148224070></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148224070&dopt=GenPept" >ref|NP_001083329.1|</a> sorting and assembly machinery component 50 homolog B [Xenopus
+           laevis]
+ <a name = 82186725></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=82186725&dopt=GenPept" >sp|Q6PA35|SAM5B_XENLA</a> RecName: Full=Sorting and assembly machinery component 50 homolog B
+ <a name = 38014784></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=38014784&dopt=GenPept" >gb|AAH60470.1|</a> MGC68698 protein [Xenopus laevis]
+          Length = 468
+
+ Score =  188 bits (659), Expect = 3e-46
+ Identities = 114/209 (54%), Positives = 120/209 (57%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLK+P      EK TFQFSYG  ETSYGLS
+Sbjct: 115 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKFPNLFGRAEKMTFQFSYGTKETSYGLS 174
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAE  FPI    HT+KWEGVWRE 
+Sbjct: 175 FFKPQVGNFERNFSVNLYKVTGQFPWSSLRETDRGVSAEINFPIWKTSHTLKWEGVWREL 234
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSH MVID            LLK+NQEL        SF
+Sbjct: 235 GCLARTASFAIREESGHTLKSSLSHTMVIDSRNASILPKRGALLKINQELAGYTGGDVSF 294
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFELQLNK       +S S+WGGMLV
+Sbjct: 295 LKEDFELQLNKQLAWDSVLSTSLWGGMLV 323
+</PRE>
+
+
+<PRE>
+
+ Score = 86.7 bits (294), Expect = 1e-15
+ Identities = 53/105 (50%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGG+HLYT              FRTHFFLNAGN                    IRW
+Sbjct: 364 EAYWAGGVHLYTPLPFRPGRGGFGDLFRTHFFLNAGNLCNLNYGEGPRAHLQRLAECIRW 423
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAG+VL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 424 SYGAGLVLRLGNIARLELNYCIPMGVQSGDRICDGVQFGAGIRFL 468
+</PRE>
+
+
+<PRE>
+><a name = 224095910></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=224095910&dopt=GenPept" >ref|XP_002191114.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog (S.
+           cerevisiae) [Taeniopygia guttata]
+          Length = 469
+
+ Score =  187 bits (656), Expect = 5e-46
+ Identities = 113/209 (54%), Positives = 121/209 (57%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLGLK+P      EKVTFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELRRLTGSYNTMVGNNEGSMVLGLKFPNLLGRAEKVTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NF VN+YKVTGQ          RG S E+ FPI    HT+KWEGVWRE 
+Sbjct: 176 FFKPWPGNFERNFAVNVYKVTGQFPWSSLRETDRGISTEFNFPIWKTNHTLKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLK+NQEL        SF
+Sbjct: 236 GCLARTASFSVREESGHSLKSSLSHAMVIDSRNSSILPKRGALLKINQELAGYAGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFE+QLNK       +SASFWGG LV
+Sbjct: 296 LKEDFEFQLNKQLLWDSVLSASFWGGILV 324
+</PRE>
+
+
+<PRE>
+
+ Score = 86.1 bits (292), Expect = 2e-15
+ Identities = 54/105 (51%), Positives = 55/105 (52%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGG+HLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGVHLYTPLPFRPGRGGFGDLFRTHFFLNAGNLCNLNYGDGPRAHLQRLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC             GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCFPMGVQAGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 148230326></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148230326&dopt=GenPept" >ref|NP_001080115.1|</a> sorting and assembly machinery component 50 homolog A [Xenopus
+           laevis]
+ <a name = 82176440></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=82176440&dopt=GenPept" >sp|Q7ZWS5|SAM5A_XENLA</a> RecName: Full=Sorting and assembly machinery component 50 homolog A
+ <a name = 28436784></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28436784&dopt=GenPept" >gb|AAH46726.1|</a> Cgi-51-prov protein [Xenopus laevis]
+          Length = 468
+
+ Score =  185 bits (648), Expect = 2e-45
+ Identities = 113/209 (54%), Positives = 119/209 (56%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  +TGSYNTMVG    SMVLGLKLP      EK TFQFSYG  ETSYGLS
+Sbjct: 115 LDVTFEVTELRRVTGSYNTMVGNNEGSMVLGLKLPNLFGRAEKMTFQFSYGTKETSYGLS 174
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFSVNLYKVTGQ          RG SAE  FPI    HT+KWEGVWRE 
+Sbjct: 175 FFKPQVGNFERNFSVNLYKVTGQFPWSSLRETDRGVSAEINFPIWKTSHTLKWEGVWREL 234
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSH MVID            LLK+NQEL        SF
+Sbjct: 235 GCLARTASFTIREESGHTLKSSLSHSMVIDSRNASILPKSGALLKINQELAGYTGGDVSF 294
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFELQLN        +S S+WGGMLV
+Sbjct: 295 LKEDFELQLNRQLTWDSVLSTSLWGGMLV 323
+</PRE>
+
+
+<PRE>
+
+ Score = 86.7 bits (294), Expect = 1e-15
+ Identities = 53/105 (50%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGG+HLYT              FRTHFFLNAGN                    IRW
+Sbjct: 364 EAYWAGGVHLYTPLPFRPGRGGFGDLFRTHFFLNAGNLCNLNYGEGPGAHLRRLAECIRW 423
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAG+VL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 424 SYGAGLVLRLGNIARLELNYCIPMGVQSGDRICDGVQFGAGIRFL 468
+</PRE>
+
+
+<PRE>
+><a name = 149584091></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=149584091&dopt=GenPept" >ref|XP_001519416.1|</a> PREDICTED: similar to Sorting and assembly machinery component 50
+           homolog, partial [Ornithorhynchus anatinus]
+          Length = 425
+
+ Score =  184 bits (644), Expect = 5e-45
+ Identities = 113/209 (54%), Positives = 118/209 (56%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEV EL  LTGSYNTMVG    SMVLGLK+P      EK TFQFSYG  ETSYGLS
+Sbjct: 72  LDVTFEVAELRRLTGSYNTMVGNNEGSMVLGLKFPNLLGRAEKMTFQFSYGTKETSYGLS 131
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           +F P       NFSVNLYKVTGQ          RG  AEYSFPI    HTVKWE VWRE 
+Sbjct: 132 LFRPQPGNFDRNFSVNLYKVTGQFPWSSLRETDRGLAAEYSFPIWKTSHTVKWETVWREL 191
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLK+NQEL        SF
+Sbjct: 192 GCLARTASFAVREESGHSLKSSLSHAMVIDSRNSSILPSRGALLKINQELAGYTGGDISF 251
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFELQ NK        SAS+WGGMLV
+Sbjct: 252 LKEDFELQMNKRVLLDSVVSASLWGGMLV 280
+</PRE>
+
+
+<PRE>
+
+ Score = 87.5 bits (297), Expect = 6e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 321 EAYWAGGLHLYTPLPFRPGQGGFGDLFRTHFFLNAGNLCNLNYGAGPKAHLRQLAACIRW 380
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAG+VL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 381 SYGAGLVLRLGNIARLELNYCVPMGVQRGDRVCDGVQFGAGIRFL 425
+</PRE>
+
+
+<PRE>
+><a name = 41055939></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=41055939&dopt=GenPept" >ref|NP_956436.1|</a> sorting and assembly machinery component 50 homolog A [Danio rerio]
+ <a name = 82177041></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=82177041&dopt=GenPept" >sp|Q803G5|SAM5A_DANRE</a> RecName: Full=Sorting and assembly machinery component 50 homolog A
+ <a name = 27882330></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=27882330&dopt=GenPept" >gb|AAH44493.1|</a> Sorting and assembly machinery component 50 homolog (S. cerevisiae)
+           [Danio rerio]
+ <a name = 182890858></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=182890858&dopt=GenPept" >gb|AAI65595.1|</a> Samm50 protein [Danio rerio]
+          Length = 469
+
+ Score =  183 bits (642), Expect = 7e-45
+ Identities = 110/209 (52%), Positives = 120/209 (57%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEV EL   TGSYNTMVG    SMVLG+KLP      EK+TFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVRELRRMTGSYNTMVGNNEGSMVLGIKLPNVLGRAEKLTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NFS+NLYKVTGQ          RG SAE SFPI    HT+KWEGVWRE 
+Sbjct: 176 FFKPQPGHFERNFSLNLYKVTGQFPWSSLRETDRGVSAEISFPIWRTSHTLKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSL HAMVID            LLK+NQEL        SF
+Sbjct: 236 GCLARTASFAVREESGHSLKSSLAHAMVIDTRNSTILPRKGALLKINQELAGYTGGDVSF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFE+QLNK       +S S+WGGML+
+Sbjct: 296 LKEDFEIQLNKTLFWDSVLSTSLWGGMLL 324
+</PRE>
+
+
+<PRE>
+
+ Score = 87.8 bits (298), Expect = 5e-16
+ Identities = 54/105 (51%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGG+HLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGVHLYTPLPFRPGRGGFGDLFRTHFFLNAGNLCNLNYGEGPRAHLSKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 425 SYGAGIVLRLGNIARLELNYCIPMGVQSGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 55925219></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=55925219&dopt=GenPept" >ref|NP_001007344.1|</a> sorting and assembly machinery component 50 homolog B [Danio rerio]
+ <a name = 82179907></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=82179907&dopt=GenPept" >sp|Q5U3I0|SAM5B_DANRE</a> RecName: Full=Sorting and assembly machinery component 50 homolog B
+ <a name = 55250654></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=55250654&dopt=GenPept" >gb|AAH85536.1|</a> Sorting and assembly machinery component 50 homolog, like [Danio
+           rerio]
+          Length = 469
+
+ Score =  175 bits (612), Expect = 2e-42
+ Identities = 105/208 (50%), Positives = 117/208 (56%), Gaps = 83/208 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTEL  LTGSYNTMVG    SMVLG+KLP      EK+TFQFSYG  ETSYGLS
+Sbjct: 116 LDVTFEVTELKRLTGSYNTMVGNNEGSMVLGIKLPNMLGRGEKLTFQFSYGTKETSYGLS 175
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       NF+VNLYKVTGQ          RG S E S+P+    HT+KWEGVWRE 
+Sbjct: 176 FFKPQSGYFERNFTVNLYKVTGQFPWSSLKETDRGVSTELSLPLWMTDHTLKWEGVWREL 235
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               S LSH MVVD            LL +NQEL         F
+Sbjct: 236 GCLARSASFAVREESGHTLKSALSHTMVVDTRNSAILPRKGALLRINQELAGYTGGDANF 295
+
+Query: 105 IKEDFELQLNK-------FSASFWGGML 125
+           +KED ELQLNK       +SAS+WGGM+
+Sbjct: 296 LKEDVELQLNKQFIWGSVLSASLWGGMI 323
+</PRE>
+
+
+<PRE>
+
+ Score = 87.0 bits (295), Expect = 9e-16
+ Identities = 54/105 (51%), Positives = 55/105 (52%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 365 EAYWAGGLHLYTPLPFRSNKGGLADLFRTHFFLNAGNICNLNYGEGPRAHLQKLAECIRW 424
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGI+L   NIARLELNYC             GVQFGAGIRFL
+Sbjct: 425 SYGAGIILRLGNIARLELNYCFPMGVQSGDRICDGVQFGAGIRFL 469
+</PRE>
+
+
+<PRE>
+><a name = 223648238></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=223648238&dopt=GenPept" >gb|ACN10877.1|</a> Sorting and assembly machinery component 50 homolog [Salmo salar]
+          Length = 470
+
+ Score =  164 bits (573), Expect = 4e-39
+ Identities = 101/206 (49%), Positives = 113/206 (54%), Gaps = 83/206 (40%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTE   LTGSYNTMVG    SMVLG+KLP      EK+TFQFSYG  ETSYGLS
+Sbjct: 117 LDVTFEVTEMKRLTGSYNTMVGNNEGSMVLGVKLPNVFGRAEKLTFQFSYGTKETSYGLS 176
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       N+++NLYKVTGQ          RG S E  FP+    HT+KWEGVWRE 
+Sbjct: 177 FFKPQPGNFERNLTLNLYKVTGQFPWSSLKETDRGVSTELNFPLWRTNHTLKWEGVWREL 236
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               S LSH M ID            LL +NQEL        SF
+Sbjct: 237 GCLARSASFAVREESGHTLKSALSHTMSIDTRNSAIFPKKGALLRINQELAGYTGGDASF 296
+
+Query: 105 IKEDFELQLNK-------FSASFWGG 123
+           +KEDFELQ+N        +SAS+WGG
+Sbjct: 297 LKEDFELQVNRRLVWDSVLSASLWGG 322
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 366 EAYWAGGLHLYTPLPFRPGRGGFGDLFRTHFFLNAGNLCNLNYGEGPRAHLQKLAECIRW 425
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 426 SYGAGIVLRLANIARLELNYCIPMGVQSGDRICDGVQFGAGIRFL 470
+</PRE>
+
+
+<PRE>
+><a name = 209154538></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=209154538&dopt=GenPept" >gb|ACI33501.1|</a> Sorting and assembly machinery component 50 homolog [Salmo salar]
+          Length = 470
+
+ Score =  164 bits (573), Expect = 4e-39
+ Identities = 101/206 (49%), Positives = 113/206 (54%), Gaps = 83/206 (40%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTE   LTGSYNTMVG    SMVLG+KLP      EK+TFQFSYG  ETSYGLS
+Sbjct: 117 LDVTFEVTEMKRLTGSYNTMVGNNEGSMVLGVKLPNVFGRAEKLTFQFSYGTKETSYGLS 176
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       N+++NLYKVTGQ          RG S E  FP+    HT+KWEGVWRE 
+Sbjct: 177 FFKPQPGNFERNLTLNLYKVTGQFPWSSLKETDRGVSTELNFPLWRTNHTLKWEGVWREL 236
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               S LSH M ID            LL +NQEL        SF
+Sbjct: 237 GCLARSASFAVREESGHTLKSALSHTMSIDNRNSAIFPKKGALLRINQELAGYTGGDASF 296
+
+Query: 105 IKEDFELQLNK-------FSASFWGG 123
+           +KEDFELQ+N        +SAS+WGG
+Sbjct: 297 LKEDFELQVNRRLVWDSVLSASLWGG 322
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 366 EAYWAGGLHLYTPLPFRPGRGGFGDLFRTHFFLNAGNLCNLNYGEGPRAHLQKLAECIRW 425
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 426 SYGAGIVLRLGNIARLELNYCIPMGVQSGDRICDGVQFGAGIRFL 470
+</PRE>
+
+
+<PRE>
+><a name = 47210431></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47210431&dopt=GenPept" >emb|CAF89774.1|</a> unnamed protein product [Tetraodon nigroviridis]
+          Length = 470
+
+ Score =  159 bits (556), Expect = 1e-37
+ Identities = 99/208 (47%), Positives = 113/208 (54%), Gaps = 83/208 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           LDVTFEVTE+  LTGSYNTMVG    SMVLGLKLP      EK+TFQFSYG   TSYGLS
+Sbjct: 117 LDVTFEVTEIKRLTGSYNTMVGNNEGSMVLGLKLPNMLGRAEKLTFQFSYGTKDTSYGLS 176
+
+Query: 47  FFKP-------NFSVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP       N+++NLYKVTGQ          RG SAE  FP+    H +KWEGVWRE 
+Sbjct: 177 FFKPQPGFFERNLTLNLYKVTGQFPWSSLKETDRGLSAELNFPLGMTSHALKWEGVWREL 236
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               S LSH M VD            LL + QEL        SF
+Sbjct: 237 GCLARSTSFAVREESGHSLKSALSHTMSVDSRNSAIFPSRGALLRLSQELAGYTGGDVSF 296
+
+Query: 105 IKEDFELQLNK-------FSASFWGGML 125
+           +KED ELQ+N        +SAS+W+GML
+Sbjct: 297 LKEDVELQVNRRLFWDSVLSASLWAGML 324
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 366 EAYWAGGLHLYTPLPFRPGKGGFGDLFRTHFFLNAGNLCNLNYGDGPRAHLQRLAECIRW 425
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 426 SYGAGIVLRLGNIARLELNYCVPMGVQSGDRICDGVQFGAGIRFL 470
+</PRE>
+
+
+<PRE>
+><a name = 47211509></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47211509&dopt=GenPept" >emb|CAF90305.1|</a> unnamed protein product [Tetraodon nigroviridis]
+          Length = 471
+
+ Score =  151 bits (525), Expect = 5e-35
+ Identities = 101/209 (48%), Positives = 113/209 (54%), Gaps = 83/209 (39%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG--ETSYGLS 46
+           L VTFEVTEL   TGSYNTMVG    SMVLGLKLP      EKV FQFSYG  ETSYGLS
+Sbjct: 114 LEVTFEVTELRRMTGSYNTMVGNNEGSMVLGLKLPNVFGRAEKVAFQFSYGTKETSYGLS 173
+
+Query: 47  FFKP---NF----SVNLYKVTGQ----------RGMSAEYSFPI----HTVKWEGVWRE- 84
+           FFKP   NF     +  Y VTGQ          RG SAE +FP+     ++KWEGVWRE 
+Sbjct: 174 FFKPQPGNFERSVALSAYNVTGQFPWSSLREKDRGVSAELTFPLWRTSQSLKWEGVWREL 233
+
+Query: 85  --------------------SSLSHAMVID------------LLKVNQEL--------SF 104
+                               SSLSHAMVID            LLK+ QEL        SF
+Sbjct: 234 ACLAPAASFAVREESGHSLKSSLSHAMVIDTRNSSILPSGGGLLKIHQELAGFTGGDASF 293
+
+Query: 105 IKEDFELQLNK-------FSASFWGGMLV 126
+           +KEDFELQLN        +S+S+WGG ++
+Sbjct: 294 LKEDFELQLNQTLLWGSVLSGSLWGGLIL 322
+</PRE>
+
+
+<PRE>
+
+ Score = 83.6 bits (283), Expect = 9e-15
+ Identities = 51/105 (48%), Positives = 55/105 (52%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWA+GLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 367 EAYWAAGLHLYTPLPFRPGRGGFGDLFRTHFFLNAGNLCNLNYGEGPQAHLRKLAECIRW 426
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYG G+VL   NIARLELNYC+            G+QFGAGIRFL
+Sbjct: 427 SYGLGLVLRLGNIARLELNYCIPMGVQSGDRICDGIQFGAGIRFL 471
+</PRE>
+
+
+<PRE>
+><a name = 194387504></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194387504&dopt=GenPept" >dbj|BAG60116.1|</a> unnamed protein product [Homo sapiens]
+          Length = 259
+
+ Score =  105 bits (362), Expect = 2e-21
+ Identities = 62/114 (54%), Positives = 62/114 (54%), Gaps = 52/114 (45%)
+
+Query: 65  MSAEYSFPI----HTVKWEGVWRE---------------------SSLSHAMVID----- 94
+           MSAEYSFPI    HTVKWEGVWRE                     SSLSHAMVID     
+Sbjct: 1   MSAEYSFPIWKTSHTVKWEGVWRELGCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSS 60
+
+Query: 95  -------LLKVNQEL--------SFIKEDFELQLNK-------FSASFWGGMLV 126
+                  LLKVNQEL        SFIKEDFELQLNK       FSASFWGGMLV
+Sbjct: 61  ILPRRGALLKVNQELAGYTGGDVSFIKEDFELQLNKQLIFDSVFSASFWGGMLV 114
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 155 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 214
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 215 SYGAGIVLRLGNIARLELNYCVPMGVQTGDRICDGVQFGAGIRFL 259
+</PRE>
+
+
+<PRE>
+><a name = 193788514></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193788514&dopt=GenPept" >dbj|BAG53408.1|</a> unnamed protein product [Homo sapiens]
+          Length = 274
+
+ Score = 91.4 bits (311), Expect = 4e-17
+ Identities = 56/108 (51%), Positives = 56/108 (51%), Gaps = 52/108 (48%)
+
+Query: 71  FPI----HTVKWEGVWRE---------------------SSLSHAMVID----------- 94
+           FPI    HTVKWEGVWRE                     SSLSHAMVID           
+Sbjct: 22  FPIWKTSHTVKWEGVWRELGCLSRTASFAVRKESGHSLKSSLSHAMVIDSRNSSILPRRG 81
+
+Query: 95  -LLKVNQEL--------SFIKEDFELQLNK-------FSASFWGGMLV 126
+            LLKVNQEL        SFIKEDFELQLNK       FSASFWGGMLV
+Sbjct: 82  ALLKVNQELAGYTGGDVSFIKEDFELQLNKQLIFDSVFSASFWGGMLV 129
+</PRE>
+
+
+<PRE>
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 56/105 (53%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 170 EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 229
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYCV            GVQFGAGIRFL
+Sbjct: 230 SYGAGIVLRLGNIARLELNYCVPMGVQTGDRICDGVQFGAGIRFL 274
+</PRE>
+
+
+<PRE>
+><a name = 146332617></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146332617&dopt=GenPept" >gb|ABQ22814.1|</a> sorting and assembly machinery component 50-like protein
+           [Callithrix jacchus]
+          Length = 187
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 83  EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 142
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 143 SYGAGIVLRLGNIARLELNYCIPMGVQTGDRICDGVQFGAGIRFL 187
+</PRE>
+
+
+<PRE>
+
+ Score = 51.6 bits (168), Expect = 4e-05
+ Identities = 22/32 (68%), Positives = 25/32 (78%), Gaps = 7/32 (21%)
+
+Query: 102 LSFIKEDFELQLNK-------FSASFWGGMLV 126
+           +SFIKEDFELQ+NK       FSAS+WGGMLV
+Sbjct: 11  VSFIKEDFELQVNKPLIFDSVFSASLWGGMLV 42
+</PRE>
+
+
+<PRE>
+><a name = 45359363></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=45359363&dopt=GenPept" >gb|AAS59066.1|</a> CGI-51 protein [Sus scrofa]
+          Length = 144
+
+ Score = 88.6 bits (301), Expect = 3e-16
+ Identities = 55/105 (52%), Positives = 56/105 (53%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGN--------------------IRW 152
+           EAYWAGGLHLYT              FRTHFFLNAGN                    IRW
+Sbjct: 40  EAYWAGGLHLYTPLPFRPGQGGFGELFRTHFFLNAGNLCNLNYGEGPKAHIRKLAECIRW 99
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYGAGIVL   NIARLELNYC+            GVQFGAGIRFL
+Sbjct: 100 SYGAGIVLRLGNIARLELNYCIPMGVQGGDRICDGVQFGAGIRFL 144
+</PRE>
+
+
+<PRE>
+><a name = 260791840></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260791840&dopt=GenPept" >ref|XP_002590935.1|</a> hypothetical protein BRAFLDRAFT_285241 [Branchiostoma floridae]
+ <a name = 229276135></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=229276135&dopt=GenPept" >gb|EEN46946.1|</a> hypothetical protein BRAFLDRAFT_285241 [Branchiostoma floridae]
+          Length = 385
+
+ Score = 66.4 bits (221), Expect = 1e-09
+ Identities = 65/194 (33%), Positives = 86/194 (44%), Gaps = 82/194 (42%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYGE---TSYGL 45
+           L VTFEV EL  LTG+ NTMVG    SMV+G+  P      EKV   +SY     +S+++
+Sbjct: 84  LEVTFEVKELRPLTGTANTMVGNNEGSMVFGVRMPNIFGRAEKVVSEYSYSNKQRSSFAV 143
+
+Query: 46  SFFKP-----NFSVNLYKVTG---------------QRGMSAEYSFPI---HTVKWEGVW 82
+           +F KP      + +N   ++G                RG   E +FP+    T+ WEGVW
+Sbjct: 144 TFMKPLHGNPDYRLN---ISGWKTVRHFPWSSYREVDRGVASEITFPLLGQQTLRWEGVW 200
+
+Query: 83  RE---------------------SSLSHAMVID------------LLKVNQELS------ 103
+           RE                     SSL H  VVD             +K+NQEL       
+Sbjct: 201 RELGCLTRMASFAVREQAGHSLKSSLKHTYVVDSRDDPILPTKGAMFKLNQELAGIAGGD 260
+
+Query: 104 --FIKEDFELQLNK 115
+             F+KED ELQ+NK
+Sbjct: 261 VKFLKEDVELQVNK 274
+</PRE>
+
+
+<PRE>
+
+ Score = 34.1 bits (105), Expect = 7.3
+ Identities = 17/38 (44%), Positives = 22/38 (57%), Gaps = 14/38 (36%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGNI 150
+           E++WA+GLHLYT              FRTH F+ AGN+
+Sbjct: 333 EGFWAAGLHLYTPLPFRPGKGGFGELFRTHMFVTAGNL 370
+</PRE>
+
+
+<PRE>
+><a name = 115933490></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115933490&dopt=GenPept" >ref|XP_792273.2|</a> PREDICTED: similar to Cgi-51-prov protein, partial
+           [Strongylocentrotus purpuratus]
+ <a name = 115939736></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115939736&dopt=GenPept" >ref|XP_001197360.1|</a> PREDICTED: similar to Cgi-51-prov protein, partial
+           [Strongylocentrotus purpuratus]
+          Length = 248
+
+ Score = 62.8 bits (208), Expect = 2e-08
+ Identities = 37/84 (44%), Positives = 43/84 (51%), Gaps = 40/84 (47%)
+
+Query: 127 EAYWAGGLHLYT---------------FRTHFFLNAGNI--------------------- 150
+           EA+WAG+LHLYT               FRTHFF+NAGN+                     
+Sbjct: 155 EAFWAGALHLYTPLPFIKAGRGGFGDVFRTHFFVNAGNLTTLDTNNMFAWEDHLQKLRQN 214
+
+Query: 151 -RWSYGAGIVL---NIARLELNYC 170
+            RWSYGAG+VL    IAR+ELNYC
+Sbjct: 215 FRWSYGAGLVLRIGSIARFELNYC 238
+</PRE>
+
+
+<PRE>
+><a name = 291233973></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291233973&dopt=GenPept" >ref|XP_002736928.1|</a> PREDICTED: sorting and assembly machinery component 50 homolog
+           A-like [Saccoglossus kowalevskii]
+          Length = 482
+
+ Score = 61.9 bits (205), Expect = 3e-08
+ Identities = 42/105 (40%), Positives = 49/105 (46%), Gaps = 49/105 (46%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGNI--------------------RW 152
+           EAYWA GLH+Y+              FRTHFF+NAGN+                    RW
+Sbjct: 378 EAYWATGLHVYSPLPFNPAKGGFGDLFRTHFFVNAGNLTTINLDDPWNKNKDKKLENFRW 437
+
+Query: 153 SYGAGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+           SYG G+V+    IAR ELNYCV            G QFG GV FL
+Sbjct: 438 SYGVGLVVRFGRIARMELNYCVPMRAANSDKISEGFQFGIGVNFL 482
+</PRE>
+
+
+<PRE>
+
+ Score = 37.4 bits (117), Expect = 0.72
+ Identities = 65/192 (33%), Positives = 74/192 (38%), Gaps = 80/192 (41%)
+
+Query: 1   LDVTFEVTEL--LTGSYNTMVG----SMVLGLKLP------EKVTFQFSYG---ETSYGL 45
+           L VTFEV E   +TG   T VG    S V+G+K P      EK+   +SYG    TSY  
+Sbjct: 129 LNVTFEVKEMRSVTGGIHTLVGNNEGSLVVGVKMPNVFGRAEKLVSEYSYGSRKSTSYQA 188
+
+Query: 46  SFFKPNFSVNL-------------------YKVTGQRGMSAEYSFP--I--HTVKWEGVW 82
+           SF KP     L                   YK T   G S   SFP  I   ++ WEGVW
+Sbjct: 189 SFIKP-IQADLDKCITASGFKMMADYLPSGYKQT-DKGISLDLSFPSFIGRQSLRWEGVW 246
+
+Query: 83  RE------SSLS--------------HAMVID------------LLKVNQELS------- 103
+           RE      SS+               H    D            LLK+NQEL        
+Sbjct: 247 RELSCLRTSSFAVREEAGHTLKSCLKHTYTRDTRDENVLPSSGYLLKLNQELAGYTGGDI 306
+
+Query: 104 -FIKEDFELQLN 114
+            F KE  ELQLN
+Sbjct: 307 KFFKEEMELQLN 318
+</PRE>
+
+
+<PRE>
+><a name = 321461476></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=321461476&dopt=GenPept" >gb|EFX72508.1|</a> hypothetical protein DAPPUDRAFT_110732 [Daphnia pulex]
+          Length = 434
+
+ Score = 52.2 bits (170), Expect = 3e-05
+ Identities = 39/104 (37%), Positives = 48/104 (46%), Gaps = 49/104 (47%)
+
+Query: 128 AYWAGGLHLYT--------------FRTHFFLNAGNI--------------------RWS 153
+           +YWA+GLHLYT              +RTHFF+NAGNI                    R S
+Sbjct: 331 GYWAAGLHLYTPLPFKPGQGGLGDILRTHFFVNAGNIDNFDFSDNLKESARILTDKYRLS 390
+
+Query: 154 YGAGIVLNI---ARLELNYCV------------GVQFGAGIRFL 182
+           YG G+ L +   AR+ELNYCV            GVQ + GV FL
+Sbjct: 391 YGMGLMLRLGTTARIELNYCVPIRSQRGDRTHHGVQVAVGVQFL 434
+</PRE>
+
+
+<PRE>
+><a name = 156340271></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156340271&dopt=GenPept" >ref|XP_001620403.1|</a> hypothetical protein NEMVEDRAFT_v1g148279 [Nematostella vectensis]
+ <a name = 156372257></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156372257&dopt=GenPept" >ref|XP_001628955.1|</a> predicted protein [Nematostella vectensis]
+ <a name = 156205277></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156205277&dopt=GenPept" >gb|EDO28303.1|</a> predicted protein [Nematostella vectensis]
+ <a name = 156215944></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156215944&dopt=GenPept" >gb|EDO36892.1|</a> predicted protein [Nematostella vectensis]
+          Length = 127
+
+ Score = 50.8 bits (165), Expect = 7e-05
+ Identities = 33/80 (41%), Positives = 41/80 (51%), Gaps = 36/80 (45%)
+
+Query: 128 AYWAGGLHLYT---FR-----------THFFLNAGN--------------------IRWS 153
+           AYWA+GLHLYT   FR           TH F+NAGN                    VRWS
+Sbjct: 39  AYWAAGLHLYTPLPFRPGEGSFGDHIKTHGFINAGNLTQLNCTLPWRERLDPLRSGVRWS 98
+
+Query: 154 YGAGIV--LNIARLELNYCV 171
+           YG G+V  L VAR+E+NYC+
+Sbjct: 99  YGFGLVFILGVARVEVNYCL 118
+</PRE>
+
+
+<PRE>
+><a name = 270008577></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=270008577&dopt=GenPept" >gb|EFA05025.1|</a> hypothetical protein TcasGA2_TC015112 [Tribolium castaneum]
+          Length = 498
+
+ Score = 49.4 bits (160), Expect = 2e-04
+ Identities = 35/102 (34%), Positives = 45/102 (44%), Gaps = 47/102 (46%)
+
+Query: 128 AYWAGGLHLYT--------------FRTHFFLNAGNI------------------RWSYG 155
+           AYWA GLHL++              F TH+F+ AGNV                  R SYG
+Sbjct: 397 AYWASGLHLFSPLPFRPGRGGFGDLFKTHLFITAGNVGDFSLSDKNLIDSLTASVRISYG 456
+
+Query: 156 AGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+            GI L   N AR+E+NYC             G+QFG GV F+
+Sbjct: 457 VGIALRLGNMARVEVNYCFPHTFEKGDQIHPGIQFGIGVQFV 498
+</PRE>
+
+
+<PRE>
+><a name = 189238341></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=189238341&dopt=GenPept" >ref|XP_966817.2|</a> PREDICTED: similar to sorting and assembly machinery component 50
+           homolog [Tribolium castaneum]
+          Length = 467
+
+ Score = 49.4 bits (160), Expect = 2e-04
+ Identities = 35/102 (34%), Positives = 45/102 (44%), Gaps = 47/102 (46%)
+
+Query: 128 AYWAGGLHLYT--------------FRTHFFLNAGNI------------------RWSYG 155
+           AYWA GLHL++              F TH+F+ AGNV                  R SYG
+Sbjct: 366 AYWASGLHLFSPLPFRPGRGGFGDLFKTHLFITAGNVGDFSLSDKNLIDSLTASVRISYG 425
+
+Query: 156 AGIVL---NIARLELNYCV------------GVQFGAGIRFL 182
+            GI L   N AR+E+NYC             G+QFG GV F+
+Sbjct: 426 VGIALRLGNMARVEVNYCFPHTFEKGDQIHPGIQFGIGVQFV 467
+</PRE>
+
+
+<PRE>
+><a name = 221129657></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=221129657&dopt=GenPept" >ref|XP_002153844.1|</a> PREDICTED: similar to Sorting and assembly machinery component 50
+           homolog [Hydra magnipapillata]
+          Length = 452
+
+ Score = 47.2 bits (152), Expect = 8e-04
+ Identities = 35/99 (35%), Positives = 44/99 (44%), Gaps = 43/99 (43%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGNI--------------RWSYGAGI 158
+           E YWA GLHLYT              FR H+F+NAG +              R SYG GV
+Sbjct: 354 EKYWASGLHLYTPLPFRPGQGGFGDLFRLHLFFNAGSLSDFNTCFRDFISKPRYSYGLGV 413
+
+Query: 159 VLN---IARLELNYCV------------GVQFGAGIRFL 182
+            +    VARLE+NYC+            G+Q G G  FL
+Sbjct: 414 MIMLGAVARLEINYCIPKNAQAGDVINNGLQVGVGMSFL 452
+</PRE>
+
+
+<PRE>
+><a name = 196000050></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=196000050&dopt=GenPept" >ref|XP_002109893.1|</a> hypothetical protein TRIADDRAFT_53259 [Trichoplax adhaerens]
+ <a name = 190588017></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=190588017&dopt=GenPept" >gb|EDV28059.1|</a> hypothetical protein TRIADDRAFT_53259 [Trichoplax adhaerens]
+          Length = 508
+
+ Score = 47.2 bits (152), Expect = 8e-04
+ Identities = 30/77 (38%), Positives = 38/77 (49%), Gaps = 33/77 (42%)
+
+Query: 139 FRTHFFLNAGNI-------------------RWSYGAGIV--LNIARLELNYCV------ 171
+           +RTH+F+NAGN+                   RWSYG G++  L VA LELNYCV      
+Sbjct: 432 LRTHLFVNAGNLGHIRSSAIRDSTEELIRGYRWSYGIGLLVKLGVAQLELNYCVPCRAHA 491
+
+Query: 172 ------GVQFGAGIRFL 182
+                 G QFG G+ FL
+Sbjct: 492 TDRISPGFQFGVGLSFL 508
+</PRE>
+
+
+<PRE>
+><a name = 289741927></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=289741927&dopt=GenPept" >gb|ADD19711.1|</a> putative cell surface protein-like protein [Glossina morsitans
+           morsitans]
+          Length = 444
+
+ Score = 39.9 bits (126), Expect = 0.13
+ Identities = 26/70 (37%), Positives = 32/70 (45%), Gaps = 25/70 (35%)
+
+Query: 127 EAYWAGGLHLYT--------------FRTHFFLNAGNI--------RWSYGAGIVLNIA- 163
+           E YW  G+HL                FRTH F NAGN         R S G G+ + +A 
+Sbjct: 352 ETYWSTGFHLWAPLPYHQVFKSFANNFRTHVFYNAGNFNTFSVDNMRTSVGVGLAFKLAE 411
+
+Query: 164 --RLELNYCV 171
+             R+ELNYC+
+Sbjct: 412 RARIELNYCI 421
+</PRE>
+
+
+<PRE>
+><a name = 198418359></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=198418359&dopt=GenPept" >ref|XP_002128374.1|</a> PREDICTED: similar to sorting and assembly machinery component 50
+           homolog [Ciona intestinalis]
+          Length = 447
+
+ Score = 38.2 bits (120), Expect = 0.40
+ Identities = 33/104 (31%), Positives = 43/104 (41%), Gaps = 52/104 (50%)
+
+Query: 128 AYWAGGLHLYT-----------------FRTHFFLNAGN--------------------I 150
+           A+W  GLH+YT                 FRTH F+N+GN                    V
+Sbjct: 341 AFWLSGLHIYTPLPFYWSRFGGGSWLDNFRTHAFVNGGNSFDVNITESAGANFNAATNNV 400
+
+Query: 151 RWSYGAGIV---LNIARLELNYCV------------GVQFGAGI 179
+           R S G G+V    N AR+ELN+CV            G+QFG GV
+Sbjct: 401 RLSCGIGLVYKFMNSARIELNFCVPLRNVPTDKVVNGLQFGIGV 444
+</PRE>
+
+
+<PRE>
+><a name = 195123335></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=195123335&dopt=GenPept" >ref|XP_002006163.1|</a> GI20885 [Drosophila mojavensis]
+ <a name = 193911231></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193911231&dopt=GenPept" >gb|EDW10098.1|</a> GI20885 [Drosophila mojavensis]
+          Length = 438
+
+ Score = 34.9 bits (108), Expect = 4.1
+ Identities = 20/44 (45%), Positives = 24/44 (54%), Gaps = 11/44 (25%)
+
+Query: 139 FRTHFFLNAGN--------IRWSYGAGIVLNIA---RLELNYCV 171
+           FR HFF N GN         R  YG G+ + +A   R+ELNYCV
+Sbjct: 372 FRMHFFYNMGNSNSFSLDNMRSAYGIGLAVKLAERARIELNYCV 415
+</PRE>
+
+
+<PRE>
+><a name = 195024957></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=195024957&dopt=GenPept" >ref|XP_001985971.1|</a> GH20799 [Drosophila grimshawi]
+ <a name = 193901971></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193901971&dopt=GenPept" >gb|EDW00838.1|</a> GH20799 [Drosophila grimshawi]
+          Length = 445
+
+ Score = 34.9 bits (108), Expect = 4.1
+ Identities = 19/44 (43%), Positives = 24/44 (54%), Gaps = 11/44 (25%)
+
+Query: 139 FRTHFFLNAGN--------IRWSYGAGIVLNIA---RLELNYCV 171
+           FR HFF N GN         R  YG G+ + +A   R+ELNYC+
+Sbjct: 379 FRMHFFYNMGNSNAFTTDNMRSAYGLGLAIKLAERARIELNYCI 422
+</PRE>
+
+
+<PRE>
+><a name = 194753265></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194753265&dopt=GenPept" >ref|XP_001958937.1|</a> GF12630 [Drosophila ananassae]
+ <a name = 190620235></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=190620235&dopt=GenPept" >gb|EDV35759.1|</a> GF12630 [Drosophila ananassae]
+          Length = 443
+
+ Score = 34.6 bits (107), Expect = 4.9
+ Identities = 19/44 (43%), Positives = 24/44 (54%), Gaps = 11/44 (25%)
+
+Query: 139 FRTHFFLNAGN--------IRWSYGAGIVLNIA---RLELNYCV 171
+           FR HFF N GN         R  +G G+ + +A   R+ELNYCV
+Sbjct: 377 FRMHFFYNLGNSNTFSTENMRSAFGVGLAVKLAERARIELNYCV 420
+</PRE>
+
+
+<PRE>
+><a name = 320164099></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320164099&dopt=GenPept" >gb|EFW40998.1|</a> conserved hypothetical protein [Capsaspora owczarzaki ATCC 30864]
+          Length = 427
+
+ Score = 33.8 bits (104), Expect = 8.8
+ Identities = 22/49 (44%), Positives = 25/49 (51%), Gaps = 14/49 (28%)
+
+Query: 148 GNIRWSYGAGIVLN--IARLELNYCV------------GVQFGAGIRFL 182
+           G  R S GAGVV+    ARLELNYCV            G Q G GV FL
+Sbjct: 379 GSMRYSVGAGVVFRSGMARLELNYCVPFSAAGTDNFRAGFQVGLGVSFL 427
+</PRE>
+
+
+<PRE>
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 861,928,619
+  Number of sequences in database:  2,557,525
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.01
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 910,730,992
+  Number of sequences in database:  2,615,592
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.02
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 965,803,591
+  Number of sequences in database:  2,808,441
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.03
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 983,507,158
+  Number of sequences in database:  2,947,407
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.04
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 772,737,879
+  Number of sequences in database:  2,206,433
+  
+Lambda     K      H
+   0.281    0.245     2.13 
+
+Gapped
+Lambda     K      H
+   0.193   0.0350    0.120 
+
+
+Matrix: bbTMall
+Gap Penalties: Existence: 13, Extension: 2
+Number of Hits to DB: 6,360,176,259
+Number of Sequences: 13135398
+Number of extensions: 1108154103
+Number of successful extensions: 146996
+Number of sequences better than 10.0: 57
+Number of HSP's better than 10.0 without gapping: 36
+Number of HSP's successfully gapped in prelim test: 21
+Number of HSP's that attempted gapping in prelim test: 146290
+Number of HSP's gapped (non-prelim): 139
+length of query: 182
+length of database: 4,494,708,239
+effective HSP length: 134
+effective length of query: 48
+effective length of database: 2,734,564,907
+effective search space: 131259115536
+effective search space used: 131259115536
+T: 11
+A: 40
+X1: 18 ( 7.3 bits)
+X2: 53 (14.8 bits)
+X3: 89 (24.8 bits)
+S1: 49 (21.9 bits)
+S2: 104 (33.8 bits)
+</PRE>
+<P><HR><BR>
+<PRE></PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,640 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> 1K24_bb|length 106
+         (106 letters)
+
+<b>Database:</b> All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           13,135,398 sequences; 4,494,708,239 total letters
+
+Searching..................................................done<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218768116&dopt=GenPept" >ref|YP_002342628.1|</a>  outer membrane protein precursor [Neiss...   <a href = #218768116>164</a>   4e-39
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=20150638&dopt=GenPept" >pdb|1K24|A</a>  Chain A, Crystal Structure Of The Opca Outer Mem...   <a href = #20150638>164</a>   4e-39
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01177567&dopt=GenPept" >emb|CAA64674.1|</a>  class 5 outer membrane protein [Neisseria m...   <a href = #1177567>162</a>   2e-38
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15676939&dopt=GenPept" >ref|NP_274087.1|</a>  class 5 outer membrane protein [Neisseria ...   <a href = #15676939>162</a>   2e-38
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13940354&dopt=GenPept" >emb|CAC37798.1|</a>  outer membrane protein [Neisseria meningiti...   <a href = #13940354>159</a>   1e-37
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13940360&dopt=GenPept" >emb|CAC37801.1|</a>  outer membrane protein [Neisseria meningiti...   <a href = #13940360>159</a>   1e-37
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13539599&dopt=GenPept" >emb|CAC35732.1|</a>  outer membrane protein [Neisseria meningiti...   <a href = #13539599>159</a>   1e-37
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254673188&dopt=GenPept" >emb|CBA08084.1|</a>  hypothetical protein NMW_1406 [Neisseria me...   <a href = #254673188>159</a>   1e-37
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161869936&dopt=GenPept" >ref|YP_001599105.1|</a>  outer membrane protein precursor [Neiss...   <a href = #161869936>159</a>   1e-37
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13940356&dopt=GenPept" >emb|CAC37799.1|</a>  outer membrane protein [Neisseria meningiti...   <a href = #13940356>156</a>   8e-37
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00984673&dopt=GenPept" >emb|CAA55065.1|</a>  class 5c outer membrane protein [Neisseria ...   <a href = #984673>152</a>   1e-35
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13940358&dopt=GenPept" >emb|CAC37800.1|</a>  outer membrane protein [Neisseria meningiti...   <a href = #13940358>149</a>   1e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240014194&dopt=GenPept" >ref|ZP_04721107.1|</a>  OpcA protein [Neisseria gonorrhoeae DGI1...   <a href = #240014194> 52</a>   3e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240125666&dopt=GenPept" >ref|ZP_04738552.1|</a>  OpcA protein [Neisseria gonorrhoeae SK-9...   <a href = #240125666> 51</a>   5e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240115571&dopt=GenPept" >ref|ZP_04729633.1|</a>  OpcA protein [Neisseria gonorrhoeae PID1...   <a href = #240115571> 51</a>   5e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240016629&dopt=GenPept" >ref|ZP_04723169.1|</a>  OpcA protein [Neisseria gonorrhoeae FA61...   <a href = #240016629> 51</a>   5e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194098500&dopt=GenPept" >ref|YP_002001562.1|</a>  OpcA protein [Neisseria gonorrhoeae NCC...   <a href = #194098500> 51</a>   5e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28192409&dopt=GenPept" >gb|AAL67948.1|</a>  major outer membrane protein [Neisseria poly...   <a href = #28192409> 51</a>   5e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28192405&dopt=GenPept" >gb|AAL67945.1|</a>  major outer membrane protein [Neisseria poly...   <a href = #28192405> 51</a>   5e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=293399132&dopt=GenPept" >ref|ZP_06643297.1|</a>  OpcA protein [Neisseria gonorrhoeae F62]...   <a href = #293399132> 51</a>   5e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=59801269&dopt=GenPept" >ref|YP_207981.1|</a>  OpcA [Neisseria gonorrhoeae FA 1090] >gi|5...   <a href = #59801269> 51</a>   5e-05
+</PRE>
+<PRE>
+><a name = 218768116></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218768116&dopt=GenPept" >ref|YP_002342628.1|</a> outer membrane protein precursor [Neisseria meningitidis Z2491]
+ <a name = 150271></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00150271&dopt=GenPept" >gb|AAA25461.1|</a> outer membrane protein [Neisseria meningitidis]
+ <a name = 5051448></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05051448&dopt=GenPept" >emb|CAB44969.1|</a> OpcA protein [Neisseria meningitidis]
+ <a name = 121052124></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=121052124&dopt=GenPept" >emb|CAM08440.1|</a> outer membrane protein precursor [Neisseria meningitidis Z2491]
+ <a name = 254670736></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254670736&dopt=GenPept" >emb|CBA06957.1|</a> hypothetical protein NME_1303 [Neisseria meningitidis alpha153]
+ <a name = 319410357></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=319410357&dopt=GenPept" >emb|CBY90708.1|</a> outer-membrane protein Opc [Neisseria meningitidis WUE 2594]
+          Length = 272
+
+ Score =  164 bits (573), Expect = 4e-39
+ Identities = 106/245 (43%), Positives = 106/245 (43%), Gaps = 139/245 (56%)
+
+Query: 1   EFTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG----------- 29
+           EFTVHTDLS                KHIGVRADIP    QGIRLEAGFG           
+Sbjct: 28  EFTVHTDLSSISSTRAFLKEKHKAAKHIGVRADIPFDANQGIRLEAGFGRSKKNIINLET 87
+
+Query: 30  ---------------------IDLYTGYTYT-------NFRVGAGLGFE----------- 50
+                                IDLYTGYTYT       NFRVGAGLGFE           
+Sbjct: 88  DENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKH 147
+
+Query: 51  --------WLAKVHADLLSQL---WYINPWSEVKFDL----------------------- 76
+                   WLAKVHADLLSQL   WYINPWSEVKFDL                       
+Sbjct: 148 TLHSSRQSWLAKVHADLLSQLGNGWYINPWSEVKFDLNSRYKLNTGVTNLKKDINQKTNG 207
+
+Query: 77  -GFGLGANIGKK----ASIEAGPFYK------------------------------YGLR 101
+            GFGLGANIGKK    ASIEAGPFYK                              YGLR
+Sbjct: 208 WGFGLGANIGKKLGESASIEAGPFYKQRTYKESGEFSVTTKSGDVSLTIPKTSIREYGLR 267
+
+Query: 102 VGIKF 106
+           VGIKF
+Sbjct: 268 VGIKF 272
+</PRE>
+
+
+<PRE>
+><a name = 20150638></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=20150638&dopt=GenPept" >pdb|1K24|A</a> Chain A, Crystal Structure Of The Opca Outer Membrane
+           AdhesinINVASIN FROM NEISSERIA MENINGITIDIS
+ <a name = 159795587></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=159795587&dopt=GenPept" >pdb|2VDF|A</a> Chain A, Structure Of The Opca Adhesion From Neisseria Meningitidis
+           Determined By Crystallization From The Cubic Mesophase
+          Length = 253
+
+ Score =  164 bits (573), Expect = 4e-39
+ Identities = 106/245 (43%), Positives = 106/245 (43%), Gaps = 139/245 (56%)
+
+Query: 1   EFTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG----------- 29
+           EFTVHTDLS                KHIGVRADIP    QGIRLEAGFG           
+Sbjct: 9   EFTVHTDLSSISSTRAFLKEKHKAAKHIGVRADIPFDANQGIRLEAGFGRSKKNIINLET 68
+
+Query: 30  ---------------------IDLYTGYTYT-------NFRVGAGLGFE----------- 50
+                                IDLYTGYTYT       NFRVGAGLGFE           
+Sbjct: 69  DENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKH 128
+
+Query: 51  --------WLAKVHADLLSQL---WYINPWSEVKFDL----------------------- 76
+                   WLAKVHADLLSQL   WYINPWSEVKFDL                       
+Sbjct: 129 TLHSSRQSWLAKVHADLLSQLGNGWYINPWSEVKFDLNSRYKLNTGVTNLKKDINQKTNG 188
+
+Query: 77  -GFGLGANIGKK----ASIEAGPFYK------------------------------YGLR 101
+            GFGLGANIGKK    ASIEAGPFYK                              YGLR
+Sbjct: 189 WGFGLGANIGKKLGESASIEAGPFYKQRTYKESGEFSVTTKSGDVSLTIPKTSIREYGLR 248
+
+Query: 102 VGIKF 106
+           VGIKF
+Sbjct: 249 VGIKF 253
+</PRE>
+
+
+<PRE>
+><a name = 1177567></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01177567&dopt=GenPept" >emb|CAA64674.1|</a> class 5 outer membrane protein [Neisseria meningitidis]
+          Length = 272
+
+ Score =  162 bits (565), Expect = 2e-38
+ Identities = 105/245 (42%), Positives = 105/245 (42%), Gaps = 139/245 (56%)
+
+Query: 1   EFTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG----------- 29
+           EFTVHTDLS                KHI VRADIP    QGIRLEAGFG           
+Sbjct: 28  EFTVHTDLSSISSTRAFLKEKHKAAKHISVRADIPFDANQGIRLEAGFGRSKKNIINLET 87
+
+Query: 30  ---------------------IDLYTGYTYT-------NFRVGAGLGFE----------- 50
+                                IDLYTGYTYT       NFRVGAGLGFE           
+Sbjct: 88  DENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKH 147
+
+Query: 51  --------WLAKVHADLLSQL---WYINPWSEVKFDL----------------------- 76
+                   WLAKVHADLLSQL   WYINPWSEVKFDL                       
+Sbjct: 148 TLHSSRQSWLAKVHADLLSQLGNGWYINPWSEVKFDLNSRYKLNTGVTNLKKDINQKTNG 207
+
+Query: 77  -GFGLGANIGKK----ASIEAGPFYK------------------------------YGLR 101
+            GFGLGANIGKK    ASIEAGPFYK                              YGLR
+Sbjct: 208 WGFGLGANIGKKLGESASIEAGPFYKQRTYKESGEFSVTTRSGDVSLTIPKTSIREYGLR 267
+
+Query: 102 VGIKF 106
+           VGIKF
+Sbjct: 268 VGIKF 272
+</PRE>
+
+
+<PRE>
+><a name = 15676939></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15676939&dopt=GenPept" >ref|NP_274087.1|</a> class 5 outer membrane protein [Neisseria meningitidis MC58]
+ <a name = 1177565></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01177565&dopt=GenPept" >emb|CAA64673.1|</a> class 5 outer membrane protein [Neisseria meningitidis H44/76]
+ <a name = 7226294></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=07226294&dopt=GenPept" >gb|AAF41451.1|</a> class 5 outer membrane protein [Neisseria meningitidis MC58]
+ <a name = 27728138></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=27728138&dopt=GenPept" >gb|AAM51151.1|</a> outer membrane protein OpcA [Neisseria meningitidis]
+ <a name = 316984764></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=316984764&dopt=GenPept" >gb|EFV63722.1|</a> outer membrane OpcA family protein [Neisseria meningitidis H44/76]
+          Length = 272
+
+ Score =  162 bits (565), Expect = 2e-38
+ Identities = 105/245 (42%), Positives = 105/245 (42%), Gaps = 139/245 (56%)
+
+Query: 1   EFTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG----------- 29
+           EFTVHTDLS                KHI VRADIP    QGIRLEAGFG           
+Sbjct: 28  EFTVHTDLSSISSTRAFLKEKHKAAKHISVRADIPFDANQGIRLEAGFGRSKKNIINLET 87
+
+Query: 30  ---------------------IDLYTGYTYT-------NFRVGAGLGFE----------- 50
+                                IDLYTGYTYT       NFRVGAGLGFE           
+Sbjct: 88  DENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKH 147
+
+Query: 51  --------WLAKVHADLLSQL---WYINPWSEVKFDL----------------------- 76
+                   WLAKVHADLLSQL   WYINPWSEVKFDL                       
+Sbjct: 148 TLHSSRQSWLAKVHADLLSQLGNGWYINPWSEVKFDLNSRYKLNTGVTNLKKDINQKTNG 207
+
+Query: 77  -GFGLGANIGKK----ASIEAGPFYK------------------------------YGLR 101
+            GFGLGANIGKK    ASIEAGPFYK                              YGLR
+Sbjct: 208 WGFGLGANIGKKLGESASIEAGPFYKQRTYKESGEFSVTTKSGDVSLTIPKTSIREYGLR 267
+
+Query: 102 VGIKF 106
+           VGIKF
+Sbjct: 268 VGIKF 272
+</PRE>
+
+
+<PRE>
+><a name = 13940354></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13940354&dopt=GenPept" >emb|CAC37798.1|</a> outer membrane protein [Neisseria meningitidis]
+          Length = 235
+
+ Score =  159 bits (556), Expect = 1e-37
+ Identities = 96/205 (46%), Positives = 96/205 (46%), Gaps = 109/205 (53%)
+
+Query: 2   FTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG------------ 29
+           FTVHTDLS                KHIGVRADIP    QGIRLEAGFG            
+Sbjct: 1   FTVHTDLSSISSTRAFLKEKHKAAKHIGVRADIPFDANQGIRLEAGFGRSKKNIINLETD 60
+
+Query: 30  --------------------IDLYTGYTYT-------NFRVGAGLGFE------------ 50
+                               IDLYTGYTYT       NFRVGAGLGFE            
+Sbjct: 61  ENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKHT 120
+
+Query: 51  -------WLAKVHADLLSQL---WYINPWSEVKFDL------------------------ 76
+                  WLAKVHADLLSQL   WYINPWSEVKFDL                        
+Sbjct: 121 LHSSRQSWLAKVHADLLSQLGNGWYINPWSEVKFDLNSRYKLNTGVTNLKKDINQKTNGW 180
+
+Query: 77  GFGLGANIGKK----ASIEAGPFYK 97
+           GFGLGANIGKK    ASIEAGPFYK
+Sbjct: 181 GFGLGANIGKKLGESASIEAGPFYK 205
+</PRE>
+
+
+<PRE>
+><a name = 13940360></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13940360&dopt=GenPept" >emb|CAC37801.1|</a> outer membrane protein [Neisseria meningitidis]
+          Length = 248
+
+ Score =  159 bits (556), Expect = 1e-37
+ Identities = 96/206 (46%), Positives = 96/206 (46%), Gaps = 109/206 (52%)
+
+Query: 1   EFTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG----------- 29
+           EFTVHTDLS                KHI VRADIP    QGIRLEAGFG           
+Sbjct: 9   EFTVHTDLSSISSTRAFLKEKHKAAKHISVRADIPFDANQGIRLEAGFGRSKKNIINLET 68
+
+Query: 30  ---------------------IDLYTGYTYT-------NFRVGAGLGFE----------- 50
+                                IDLYTGYTYT       NFRVGAGLGFE           
+Sbjct: 69  DENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKH 128
+
+Query: 51  --------WLAKVHADLLSQL---WYINPWSEVKFDL----------------------- 76
+                   WLAKVHADLLSQL   WYINPWSEVKFDL                       
+Sbjct: 129 TLHSSRQSWLAKVHADLLSQLGNGWYINPWSEVKFDLNSRYKLNTGVTNLKKDINQKTNG 188
+
+Query: 77  -GFGLGANIGKK----ASIEAGPFYK 97
+            GFGLGANIGKK    ASIEAGPFYK
+Sbjct: 189 WGFGLGANIGKKLGESASIEAGPFYK 214
+</PRE>
+
+
+<PRE>
+><a name = 13539599></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13539599&dopt=GenPept" >emb|CAC35732.1|</a> outer membrane protein [Neisseria meningitidis]
+          Length = 252
+
+ Score =  159 bits (556), Expect = 1e-37
+ Identities = 96/206 (46%), Positives = 96/206 (46%), Gaps = 109/206 (52%)
+
+Query: 1   EFTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG----------- 29
+           EFTVHTDLS                KHI VRADIP    QGIRLEAGFG           
+Sbjct: 9   EFTVHTDLSSISSTRAFLKEKHKAAKHISVRADIPFDANQGIRLEAGFGRSKKNIINLET 68
+
+Query: 30  ---------------------IDLYTGYTYT-------NFRVGAGLGFE----------- 50
+                                IDLYTGYTYT       NFRVGAGLGFE           
+Sbjct: 69  DENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKH 128
+
+Query: 51  --------WLAKVHADLLSQL---WYINPWSEVKFDL----------------------- 76
+                   WLAKVHADLLSQL   WYINPWSEVKFDL                       
+Sbjct: 129 TLHSSRQSWLAKVHADLLSQLGNGWYINPWSEVKFDLNSRYKLNTGVTNLKKDINQKTNG 188
+
+Query: 77  -GFGLGANIGKK----ASIEAGPFYK 97
+            GFGLGANIGKK    ASIEAGPFYK
+Sbjct: 189 WGFGLGANIGKKLGESASIEAGPFYK 214
+</PRE>
+
+
+<PRE>
+><a name = 254673188></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254673188&dopt=GenPept" >emb|CBA08084.1|</a> hypothetical protein NMW_1406 [Neisseria meningitidis alpha275]
+          Length = 272
+
+ Score =  159 bits (555), Expect = 1e-37
+ Identities = 105/245 (42%), Positives = 105/245 (42%), Gaps = 139/245 (56%)
+
+Query: 1   EFTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG----------- 29
+           EFTVHTDLS                KHIGVRADIP    QGIRLEAGFG           
+Sbjct: 28  EFTVHTDLSSISSTRAFLKEKHKAAKHIGVRADIPFDANQGIRLEAGFGRSKKNIINLET 87
+
+Query: 30  ---------------------IDLYTGYTYT-------NFRVGAGLGFE----------- 50
+                                IDLYTGYTYT       NFRVGAGLGFE           
+Sbjct: 88  DENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKH 147
+
+Query: 51  --------WLAKVHADLLSQL---WYINPWSEVKFDL----------------------- 76
+                   W AKVHADLLSQL   WYINPWSEVKFDL                       
+Sbjct: 148 TLHSSRQSWSAKVHADLLSQLGNGWYINPWSEVKFDLKSRYKLNTGVTSLKKDINQKTNG 207
+
+Query: 77  -GFGLGANIGKK----ASIEAGPFYK------------------------------YGLR 101
+            GFGLGANIGKK    ASIEAGPFYK                              YGLR
+Sbjct: 208 WGFGLGANIGKKLGESASIEAGPFYKQRTYKESGEFSVTTTSGDVSLTIPKTSIREYGLR 267
+
+Query: 102 VGIKF 106
+           VGIKF
+Sbjct: 268 VGIKF 272
+</PRE>
+
+
+<PRE>
+><a name = 161869936></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161869936&dopt=GenPept" >ref|YP_001599105.1|</a> outer membrane protein precursor [Neisseria meningitidis 053442]
+ <a name = 161595489></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161595489&dopt=GenPept" >gb|ABX73149.1|</a> outer membrane protein precursor [Neisseria meningitidis 053442]
+          Length = 272
+
+ Score =  159 bits (555), Expect = 1e-37
+ Identities = 105/245 (42%), Positives = 105/245 (42%), Gaps = 139/245 (56%)
+
+Query: 1   EFTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG----------- 29
+           EFTVHTDLS                KHIGVRADIP    QGIRLEAGFG           
+Sbjct: 28  EFTVHTDLSSISSTRAFLKEKHKAAKHIGVRADIPFDANQGIRLEAGFGRSKKNIINLET 87
+
+Query: 30  ---------------------IDLYTGYTYT-------NFRVGAGLGFE----------- 50
+                                IDLYTGYTYT       NFRVGAGLGFE           
+Sbjct: 88  DENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKH 147
+
+Query: 51  --------WLAKVHADLLSQL---WYINPWSEVKFDL----------------------- 76
+                   W AKVHADLLSQL   WYINPWSEVKFDL                       
+Sbjct: 148 TLHSSRQSWSAKVHADLLSQLGNGWYINPWSEVKFDLNSRYKLNTGVTSLKKDINQKTNG 207
+
+Query: 77  -GFGLGANIGKK----ASIEAGPFYK------------------------------YGLR 101
+            GFGLGANIGKK    ASIEAGPFYK                              YGLR
+Sbjct: 208 WGFGLGANIGKKLGESASIEAGPFYKQRTYKESGEFSVTTKSGDVSLTIPKTSIREYGLR 267
+
+Query: 102 VGIKF 106
+           VGIKF
+Sbjct: 268 VGIKF 272
+</PRE>
+
+
+<PRE>
+><a name = 13940356></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13940356&dopt=GenPept" >emb|CAC37799.1|</a> outer membrane protein [Neisseria meningitidis]
+          Length = 238
+
+ Score =  156 bits (546), Expect = 8e-37
+ Identities = 96/206 (46%), Positives = 96/206 (46%), Gaps = 109/206 (52%)
+
+Query: 1   EFTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG----------- 29
+           EFTVHTDLS                KHIGVRADIP    QGIRLEAGFG           
+Sbjct: 4   EFTVHTDLSSISSTRAFLKEKHKAAKHIGVRADIPFDANQGIRLEAGFGRSKKNIINLET 63
+
+Query: 30  ---------------------IDLYTGYTYT-------NFRVGAGLGFE----------- 50
+                                IDLYTGYTYT       NFRVGAGLGFE           
+Sbjct: 64  DENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKH 123
+
+Query: 51  --------WLAKVHADLLSQL---WYINPWSEVKFDL----------------------- 76
+                   W AKVHADLLSQL   WYINPWSEVKFDL                       
+Sbjct: 124 TLHSSRQSWSAKVHADLLSQLGNGWYINPWSEVKFDLKSRYKLNTGVTSLKKDINQKTNG 183
+
+Query: 77  -GFGLGANIGKK----ASIEAGPFYK 97
+            GFGLGANIGKK    ASIEAGPFYK
+Sbjct: 184 WGFGLGANIGKKLGESASIEAGPFYK 209
+</PRE>
+
+
+<PRE>
+><a name = 984673></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00984673&dopt=GenPept" >emb|CAA55065.1|</a> class 5c outer membrane protein [Neisseria meningitidis]
+          Length = 250
+
+ Score =  152 bits (531), Expect = 1e-35
+ Identities = 94/206 (45%), Positives = 94/206 (45%), Gaps = 109/206 (52%)
+
+Query: 1   EFTVHTDLS----------------KHIGVRADIP----QGIRLEAGFG----------- 29
+           EFTVHTDLS                KHI VRADIP    QGIRLEAGFG           
+Sbjct: 9   EFTVHTDLSSISSTRAFLKEKHKAAKHISVRADIPFDANQGIRLEAGFGRTKKNIINLET 68
+
+Query: 30  ---------------------IDLYTGYTYT-------NFRVGAGLGFE----------- 50
+                                IDLYTGYTYT       NFRVGAGLG             
+Sbjct: 69  DENKLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGLQSSKDSIKTTKH 128
+
+Query: 51  --------WLAKVHADLLSQL---WYINPWSEVKFDL----------------------- 76
+                   WLAKVHADLLSQL   WYINPWSEVKFDL                       
+Sbjct: 129 TLHSSRQSWLAKVHADLLSQLGNGWYINPWSEVKFDLNSRYKLNTGVTNLKKDINQKTNG 188
+
+Query: 77  -GFGLGANIGKK----ASIEAGPFYK 97
+            GFGLGANIGKK    ASIEAGPFYK
+Sbjct: 189 WGFGLGANIGKKLGESASIEAGPFYK 214
+</PRE>
+
+
+<PRE>
+><a name = 13940358></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13940358&dopt=GenPept" >emb|CAC37800.1|</a> outer membrane protein [Neisseria meningitidis]
+          Length = 232
+
+ Score =  149 bits (520), Expect = 1e-34
+ Identities = 93/203 (45%), Positives = 93/203 (45%), Gaps = 109/203 (53%)
+
+Query: 4   VHTDLS----------------KHIGVRADIP----QGIRLEAGFG-------------- 29
+           VHTDLS                KHIGVRADIP    QGIRLEAGFG              
+Sbjct: 1   VHTDLSSISSTRAFLKEKHKAAKHIGVRADIPFDASQGIRLEAGFGRSKKNIINLETDEN 60
+
+Query: 30  ------------------IDLYTGYTYT-------NFRVGAGLGFE-------------- 50
+                             IDLYTGYTYT       NFRVGAGLGFE              
+Sbjct: 61  KLGKTKNVKLPTGVPENRIDLYTGYTYTQTLSDSLNFRVGAGLGFESSKDSIKTTKHTLH 120
+
+Query: 51  -----WLAKVHADLLSQL---WYINPWSEVKFDL------------------------GF 78
+                W AKVHADLLSQL   WYINPWSEVKFDL                        GF
+Sbjct: 121 SSRQSWSAKVHADLLSQLGNGWYINPWSEVKFDLKSRYKLNTGVTSLKKDINQKTNGWGF 180
+
+Query: 79  GLGANIGKK----ASIEAGPFYK 97
+           GLGANIGKK    ASIEAGPFYK
+Sbjct: 181 GLGANIGKKLGESASIEAGPFYK 203
+</PRE>
+
+
+<PRE>
+><a name = 240014194></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240014194&dopt=GenPept" >ref|ZP_04721107.1|</a> OpcA protein [Neisseria gonorrhoeae DGI18]
+ <a name = 240112815></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240112815&dopt=GenPept" >ref|ZP_04727305.1|</a> OpcA protein [Neisseria gonorrhoeae MS11]
+ <a name = 240121757></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240121757&dopt=GenPept" >ref|ZP_04734719.1|</a> OpcA protein [Neisseria gonorrhoeae PID24-1]
+ <a name = 240123421></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240123421&dopt=GenPept" >ref|ZP_04736377.1|</a> OpcA protein [Neisseria gonorrhoeae PID332]
+ <a name = 268598886></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268598886&dopt=GenPept" >ref|ZP_06133053.1|</a> major outer membrane protein [Neisseria gonorrhoeae MS11]
+ <a name = 268682042></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268682042&dopt=GenPept" >ref|ZP_06148904.1|</a> major outer membrane protein [Neisseria gonorrhoeae PID332]
+ <a name = 5051437></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05051437&dopt=GenPept" >emb|CAB44945.1|</a> OpcA protein [Neisseria gonorrhoeae]
+ <a name = 268583017></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268583017&dopt=GenPept" >gb|EEZ47693.1|</a> major outer membrane protein [Neisseria gonorrhoeae MS11]
+ <a name = 268622326></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268622326&dopt=GenPept" >gb|EEZ54726.1|</a> major outer membrane protein [Neisseria gonorrhoeae PID332]
+          Length = 262
+
+ Score = 51.9 bits (169), Expect = 3e-05
+ Identities = 33/74 (44%), Positives = 33/74 (44%), Gaps = 30/74 (40%)
+
+Query: 54  KVHADLLSQL--WYINPWSEVKFDL------------------------GFGLGANIGKK 87
+           K HADL S L  WY NPW EVK DL                        G G GANIGK 
+Sbjct: 154 KAHADLTSDLGGWYLNPWAEVKVDLDAKLKHNATVAGASADINAKTRGWGVGVGANIGKQ 213
+
+Query: 88  ----ASIEAGPFYK 97
+                 IEAGPFYK
+Sbjct: 214 ITDTVGIEAGPFYK 227
+</PRE>
+
+
+<PRE>
+><a name = 240125666></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240125666&dopt=GenPept" >ref|ZP_04738552.1|</a> OpcA protein [Neisseria gonorrhoeae SK-92-679]
+ <a name = 268684252></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268684252&dopt=GenPept" >ref|ZP_06151114.1|</a> major outer membrane protein [Neisseria gonorrhoeae SK-92-679]
+ <a name = 268624536></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268624536&dopt=GenPept" >gb|EEZ56936.1|</a> major outer membrane protein [Neisseria gonorrhoeae SK-92-679]
+          Length = 263
+
+ Score = 51.3 bits (167), Expect = 5e-05
+ Identities = 33/75 (44%), Positives = 33/75 (44%), Gaps = 31/75 (41%)
+
+Query: 54  KVHADLLSQL---WYINPWSEVKFDL------------------------GFGLGANIGK 86
+           K HADL S L   WY NPW EVK DL                        G G GANIGK
+Sbjct: 154 KAHADLTSDLGGGWYLNPWAEVKVDLDAKLKHNATVAGASADINAKTRGWGVGVGANIGK 213
+
+Query: 87  K----ASIEAGPFYK 97
+                  IEAGPFYK
+Sbjct: 214 QITDTVGIEAGPFYK 228
+</PRE>
+
+
+<PRE>
+><a name = 240115571></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240115571&dopt=GenPept" >ref|ZP_04729633.1|</a> OpcA protein [Neisseria gonorrhoeae PID18]
+ <a name = 260440619></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260440619&dopt=GenPept" >ref|ZP_05794435.1|</a> OpcA protein [Neisseria gonorrhoeae DGI2]
+ <a name = 268601241></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268601241&dopt=GenPept" >ref|ZP_06135408.1|</a> major outer membrane protein [Neisseria gonorrhoeae PID18]
+ <a name = 291043930></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291043930&dopt=GenPept" >ref|ZP_06569646.1|</a> OpcA protein [Neisseria gonorrhoeae DGI2]
+ <a name = 268585372></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268585372&dopt=GenPept" >gb|EEZ50048.1|</a> major outer membrane protein [Neisseria gonorrhoeae PID18]
+ <a name = 291012393></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291012393&dopt=GenPept" >gb|EFE04382.1|</a> OpcA protein [Neisseria gonorrhoeae DGI2]
+          Length = 263
+
+ Score = 51.3 bits (167), Expect = 5e-05
+ Identities = 33/75 (44%), Positives = 33/75 (44%), Gaps = 31/75 (41%)
+
+Query: 54  KVHADLLSQL---WYINPWSEVKFDL------------------------GFGLGANIGK 86
+           K HADL S L   WY NPW EVK DL                        G G GANIGK
+Sbjct: 154 KAHADLTSDLGGGWYLNPWAEVKVDLDAKLKHNATVAGVSADINAKTRGWGVGVGANIGK 213
+
+Query: 87  K----ASIEAGPFYK 97
+                  IEAGPFYK
+Sbjct: 214 QITDTVGIEAGPFYK 228
+</PRE>
+
+
+<PRE>
+><a name = 240016629></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240016629&dopt=GenPept" >ref|ZP_04723169.1|</a> OpcA protein [Neisseria gonorrhoeae FA6140]
+ <a name = 240080818></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240080818&dopt=GenPept" >ref|ZP_04725361.1|</a> OpcA protein [Neisseria gonorrhoeae FA19]
+ <a name = 240117863></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240117863&dopt=GenPept" >ref|ZP_04731925.1|</a> OpcA protein [Neisseria gonorrhoeae PID1]
+ <a name = 240128123></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240128123&dopt=GenPept" >ref|ZP_04740784.1|</a> OpcA protein [Neisseria gonorrhoeae SK-93-1035]
+ <a name = 254493677></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254493677&dopt=GenPept" >ref|ZP_05106848.1|</a> major outer membrane protein [Neisseria gonorrhoeae 1291]
+ <a name = 268596939></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268596939&dopt=GenPept" >ref|ZP_06131106.1|</a> OpcA protein [Neisseria gonorrhoeae FA19]
+ <a name = 268603562></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268603562&dopt=GenPept" >ref|ZP_06137729.1|</a> major outer membrane protein [Neisseria gonorrhoeae PID1]
+ <a name = 268686510></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268686510&dopt=GenPept" >ref|ZP_06153372.1|</a> major outer membrane protein [Neisseria gonorrhoeae SK-93-1035]
+ <a name = 226512717></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=226512717&dopt=GenPept" >gb|EEH62062.1|</a> major outer membrane protein [Neisseria gonorrhoeae 1291]
+ <a name = 268550727></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268550727&dopt=GenPept" >gb|EEZ45746.1|</a> OpcA protein [Neisseria gonorrhoeae FA19]
+ <a name = 268587693></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268587693&dopt=GenPept" >gb|EEZ52369.1|</a> major outer membrane protein [Neisseria gonorrhoeae PID1]
+ <a name = 268626794></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268626794&dopt=GenPept" >gb|EEZ59194.1|</a> major outer membrane protein [Neisseria gonorrhoeae SK-93-1035]
+          Length = 263
+
+ Score = 51.3 bits (167), Expect = 5e-05
+ Identities = 33/75 (44%), Positives = 33/75 (44%), Gaps = 31/75 (41%)
+
+Query: 54  KVHADLLSQL---WYINPWSEVKFDL------------------------GFGLGANIGK 86
+           K HADL S L   WY NPW EVK DL                        G G GANIGK
+Sbjct: 154 KAHADLTSDLGGGWYLNPWAEVKVDLDAKLKHNATVAGVSADINAKTRGWGVGVGANIGK 213
+
+Query: 87  K----ASIEAGPFYK 97
+                  IEAGPFYK
+Sbjct: 214 QITDTVGIEAGPFYK 228
+</PRE>
+
+
+<PRE>
+><a name = 194098500></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194098500&dopt=GenPept" >ref|YP_002001562.1|</a> OpcA protein [Neisseria gonorrhoeae NCCP11945]
+ <a name = 239998894></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=239998894&dopt=GenPept" >ref|ZP_04718818.1|</a> OpcA protein [Neisseria gonorrhoeae 35/02]
+ <a name = 268594733></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268594733&dopt=GenPept" >ref|ZP_06128900.1|</a> OpcA protein [Neisseria gonorrhoeae 35/02]
+ <a name = 193933790></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193933790&dopt=GenPept" >gb|ACF29614.1|</a> OpcA protein [Neisseria gonorrhoeae NCCP11945]
+ <a name = 268548122></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268548122&dopt=GenPept" >gb|EEZ43540.1|</a> OpcA protein [Neisseria gonorrhoeae 35/02]
+ <a name = 317164184></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=317164184&dopt=GenPept" >gb|ADV07725.1|</a> OpcA protein [Neisseria gonorrhoeae TCDC-NG08107]
+          Length = 263
+
+ Score = 51.3 bits (167), Expect = 5e-05
+ Identities = 33/75 (44%), Positives = 33/75 (44%), Gaps = 31/75 (41%)
+
+Query: 54  KVHADLLSQL---WYINPWSEVKFDL------------------------GFGLGANIGK 86
+           K HADL S L   WY NPW EVK DL                        G G GANIGK
+Sbjct: 154 KAHADLTSDLGGGWYLNPWAEVKVDLDAKLKHNATVAGASADINAKTRGWGVGVGANIGK 213
+
+Query: 87  K----ASIEAGPFYK 97
+                  IEAGPFYK
+Sbjct: 214 QITDTVGIEAGPFYK 228
+</PRE>
+
+
+<PRE>
+><a name = 28192409></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28192409&dopt=GenPept" >gb|AAL67948.1|</a> major outer membrane protein [Neisseria polysaccharea]
+          Length = 261
+
+ Score = 51.3 bits (167), Expect = 5e-05
+ Identities = 33/75 (44%), Positives = 33/75 (44%), Gaps = 31/75 (41%)
+
+Query: 54  KVHADLLSQL---WYINPWSEVKFDL------------------------GFGLGANIGK 86
+           K HADL S L   WY NPW EVK DL                        G G GANIGK
+Sbjct: 152 KAHADLTSDLGSGWYLNPWAEVKVDLNAKLKQNSTAAGASADINAKTRGWGVGVGANIGK 211
+
+Query: 87  K----ASIEAGPFYK 97
+                  IEAGPFYK
+Sbjct: 212 QITDTVGIEAGPFYK 226
+</PRE>
+
+
+<PRE>
+><a name = 28192405></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28192405&dopt=GenPept" >gb|AAL67945.1|</a> major outer membrane protein [Neisseria polysaccharea]
+          Length = 263
+
+ Score = 51.3 bits (167), Expect = 5e-05
+ Identities = 33/75 (44%), Positives = 33/75 (44%), Gaps = 31/75 (41%)
+
+Query: 54  KVHADLLSQL---WYINPWSEVKFDL------------------------GFGLGANIGK 86
+           K HADL S L   WY NPW EVK DL                        G G GANIGK
+Sbjct: 154 KAHADLTSDLGSGWYLNPWAEVKVDLNAKLKQNSTVAGASADINAKTRGWGVGVGANIGK 213
+
+Query: 87  K----ASIEAGPFYK 97
+                  IEAGPFYK
+Sbjct: 214 QITDTVGIEAGPFYK 228
+</PRE>
+
+
+<PRE>
+><a name = 293399132></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=293399132&dopt=GenPept" >ref|ZP_06643297.1|</a> OpcA protein [Neisseria gonorrhoeae F62]
+ <a name = 5051426></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05051426&dopt=GenPept" >emb|CAB45007.1|</a> OpcA protein [Neisseria gonorrhoeae]
+ <a name = 291610546></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291610546&dopt=GenPept" >gb|EFF39656.1|</a> OpcA protein [Neisseria gonorrhoeae F62]
+          Length = 263
+
+ Score = 51.3 bits (167), Expect = 5e-05
+ Identities = 33/75 (44%), Positives = 33/75 (44%), Gaps = 31/75 (41%)
+
+Query: 54  KVHADLLSQL---WYINPWSEVKFDL------------------------GFGLGANIGK 86
+           K HADL S L   WY NPW EVK DL                        G G GANIGK
+Sbjct: 154 KAHADLTSDLGGGWYLNPWAEVKVDLDAKLKHNATVAGVSADINAKTRGWGVGVGANIGK 213
+
+Query: 87  K----ASIEAGPFYK 97
+                  IEAGPFYK
+Sbjct: 214 QITDTVGIEAGPFYK 228
+</PRE>
+
+
+<PRE>
+><a name = 59801269></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=59801269&dopt=GenPept" >ref|YP_207981.1|</a> OpcA [Neisseria gonorrhoeae FA 1090]
+ <a name = 59718164></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=59718164&dopt=GenPept" >gb|AAW89569.1|</a> class 5 outer membrane protein [Neisseria gonorrhoeae FA 1090]
+          Length = 263
+
+ Score = 51.3 bits (167), Expect = 5e-05
+ Identities = 33/75 (44%), Positives = 33/75 (44%), Gaps = 31/75 (41%)
+
+Query: 54  KVHADLLSQL---WYINPWSEVKFDL------------------------GFGLGANIGK 86
+           K HADL S L   WY NPW EVK DL                        G G GANIGK
+Sbjct: 154 KAHADLTSDLGGGWYLNPWAEVKVDLDAKLKHNATVAGVSADINAKTRGWGVGVGANIGK 213
+
+Query: 87  K----ASIEAGPFYK 97
+                  IEAGPFYK
+Sbjct: 214 QITDTVGIEAGPFYK 228
+</PRE>
+
+
+<PRE>
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 861,928,619
+  Number of sequences in database:  2,557,525
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.01
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 910,730,992
+  Number of sequences in database:  2,615,592
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.02
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 965,803,591
+  Number of sequences in database:  2,808,441
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.03
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 983,507,158
+  Number of sequences in database:  2,947,407
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.04
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 772,737,879
+  Number of sequences in database:  2,206,433
+  
+Lambda     K      H
+   0.268    0.269     2.05 
+
+Gapped
+Lambda     K      H
+   0.193   0.0350    0.120 
+
+
+Matrix: bbTMin
+Gap Penalties: Existence: 13, Extension: 2
+Number of Hits to DB: 3,439,355,084
+Number of Sequences: 13135398
+Number of extensions: 539334158
+Number of successful extensions: 91171
+Number of sequences better than 10.0: 21
+Number of HSP's better than 10.0 without gapping: 12
+Number of HSP's successfully gapped in prelim test: 9
+Number of HSP's that attempted gapping in prelim test: 91011
+Number of HSP's gapped (non-prelim): 89
+length of query: 106
+length of database: 4,494,708,239
+effective HSP length: 70
+effective length of query: 36
+effective length of database: 3,575,230,379
+effective search space: 128708293644
+effective search space used: 128708293644
+T: 11
+A: 40
+X1: 19 ( 7.4 bits)
+X2: 53 (14.8 bits)
+X3: 89 (24.8 bits)
+S1: 51 (21.6 bits)
+S2: 104 (33.8 bits)
+</PRE>
+<P><HR><BR>
+<PRE></PRE>
+</BODY>
+</HTML>
