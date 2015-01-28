@@ -206,7 +206,7 @@ div.hideme {display:none}
   </tr>
   <tr>
   </tr>
-<?php if ($_GET["val"] == "fail") {?> 
+<?php if ($_GET["val"] == "fail") { ?> 
   <tr>
       <td><span class="error"><?echo $_GET["error"]; ?> - Invalid Fasta Sequence
 	</span><form action="scripts/fproc.php" method ="post">
