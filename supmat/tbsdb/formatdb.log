@@ -1,0 +1,24 @@
+
+========================[ Mar 25, 2011  2:05 PM ]========================
+Version 2.2.15 [Oct-15-2006]
+Started database file "all.tms.fasta"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/davidjm/.formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/etc/ncbi/formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/etc/ncbi/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 326 sequences in volume 0
+SUCCESS: formatted database tmsofbb
+
+========================[ Mar 25, 2011  2:10 PM ]========================
+Version 2.2.15 [Oct-15-2006]
+Started database file "all.tms.fasta.random"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/davidjm/.formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/etc/ncbi/formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/etc/ncbi/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 326 sequences in volume 0
+SUCCESS: formatted database tmsofbbrand

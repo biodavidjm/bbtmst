@@ -1,0 +1,2392 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> 1XKW.strands
+         (221 letters)
+
+<b>Database:</b> All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           13,135,398 sequences; 4,494,708,239 total letters
+
+Searching..................................................done<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296387225&dopt=GenPept" >ref|ZP_06876724.1|</a>  Fe(III)-pyochelin outer membrane recepto...   <a href = #296387225>161</a>   6e-38
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254237092&dopt=GenPept" >ref|ZP_04930415.1|</a>  Fe(III)-pyochelin outer membrane recepto...   <a href = #254237092>161</a>   6e-38
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=107103737&dopt=GenPept" >ref|ZP_01367655.1|</a>  hypothetical protein PaerPA_01004808 [Ps...   <a href = #107103737>161</a>   6e-38
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=78100930&dopt=GenPept" >pdb|1XKW|A</a>  Chain A, Pyochelin Outer Membrane Receptor Fpta ...   <a href = #78100930>161</a>   6e-38
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218889450&dopt=GenPept" >ref|YP_002438314.1|</a>  Fe(III)-pyochelin outer membrane recept...   <a href = #218889450>161</a>   6e-38
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15599417&dopt=GenPept" >ref|NP_252911.1|</a>  Fe(III)-pyochelin outer membrane receptor ...   <a href = #15599417>161</a>   6e-38
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=152985147&dopt=GenPept" >ref|YP_001346265.1|</a>  Fe(III)-pyochelin outer membrane recept...   <a href = #152985147>149</a>   2e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206564061&dopt=GenPept" >ref|YP_002234824.1|</a>  putative pyochelin receptor protein Fpt...   <a href = #206564061>104</a>   5e-21
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=78061527&dopt=GenPept" >ref|YP_371435.1|</a>  TonB-dependent siderophore receptor [Burkh...   <a href = #78061527>104</a>   6e-21
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170737651&dopt=GenPept" >ref|YP_001778911.1|</a>  TonB-dependent siderophore receptor [Bu...   <a href = #170737651>102</a>   3e-20
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254250078&dopt=GenPept" >ref|ZP_04943398.1|</a>  TonB-dependent siderophore receptor [Bur...   <a href = #254250078>102</a>   3e-20
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=107025731&dopt=GenPept" >ref|YP_623242.1|</a>  TonB-dependent siderophore receptor [Burkh...   <a href = #107025731>102</a>   3e-20
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167565285&dopt=GenPept" >ref|ZP_02358201.1|</a>  Fe(III)-pyochelin receptor precursor [Bu...   <a href = #167565285> 96</a>   2e-18
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167722748&dopt=GenPept" >ref|ZP_02405984.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #167722748> 86</a>   2e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=257143202&dopt=GenPept" >ref|ZP_05591464.1|</a>  Fe(III)-pyochelin receptor precursor [Bu...   <a href = #257143202> 86</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167616709&dopt=GenPept" >ref|ZP_02385340.1|</a>  Fe(III)-pyochelin receptor precursor [Bu...   <a href = #167616709> 86</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167578569&dopt=GenPept" >ref|ZP_02371443.1|</a>  Fe(III)-pyochelin receptor precursor [Bu...   <a href = #167578569> 86</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=83716062&dopt=GenPept" >ref|YP_440017.1|</a>  Fe(III)-pyochelin receptor precursor [Burk...   <a href = #83716062> 86</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=217425523&dopt=GenPept" >ref|ZP_03457016.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #217425523> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167921937&dopt=GenPept" >ref|ZP_02509028.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #167921937> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167897364&dopt=GenPept" >ref|ZP_02484766.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #167897364> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167827284&dopt=GenPept" >ref|ZP_02458755.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #167827284> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167818905&dopt=GenPept" >ref|ZP_02450585.1|</a>  Fe(III)-pyochelin receptor precursor [Bu...   <a href = #167818905> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167741717&dopt=GenPept" >ref|ZP_02414491.1|</a>  Fe(III)-pyochelin receptor precursor [Bu...   <a href = #167741717> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=53721627&dopt=GenPept" >ref|YP_110612.1|</a>  Fe(III)-pyochelin receptor precursor [Burk...   <a href = #53721627> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=76819570&dopt=GenPept" >ref|YP_337306.1|</a>  Fe(III)-pyochelin receptor [Burkholderia p...   <a href = #76819570> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254299854&dopt=GenPept" >ref|ZP_04967302.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #254299854> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126456597&dopt=GenPept" >ref|YP_001074829.1|</a>  TonB-dependepnt Fe(III)-pyochelin recep...   <a href = #126456597> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126443574&dopt=GenPept" >ref|YP_001061882.1|</a>  TonB-dependepnt Fe(III)-pyochelin recep...   <a href = #126443574> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254187412&dopt=GenPept" >ref|ZP_04893925.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #254187412> 85</a>   3e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=237509372&dopt=GenPept" >ref|ZP_04522087.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #237509372> 85</a>   4e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167914030&dopt=GenPept" >ref|ZP_02501121.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #167914030> 85</a>   4e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167905724&dopt=GenPept" >ref|ZP_02492929.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #167905724> 85</a>   4e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254182353&dopt=GenPept" >ref|ZP_04888948.1|</a>  TonB-dependepnt Fe(III)-pyochelin recept...   <a href = #254182353> 85</a>   4e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=183601159&dopt=GenPept" >ref|ZP_02962652.1|</a>  hypothetical protein PROSTU_04789 [Provi...   <a href = #183601159> 85</a>   5e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=317406664&dopt=GenPept" >gb|EFV86832.1|</a>  Fe(III)-pyochelin receptor [Achromobacter xy...   <a href = #317406664> 61</a>   6e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=311107414&dopt=GenPept" >ref|YP_003980267.1|</a>  Fe(3+)-pyochelin receptor 2 [Achromobac...   <a href = #311107414> 50</a>   2e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=311105725&dopt=GenPept" >ref|YP_003978578.1|</a>  ferric pseudobactin M114 receptor prote...   <a href = #311105725> 50</a>   2e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253687005&dopt=GenPept" >ref|YP_003016195.1|</a>  TonB-dependent siderophore receptor [Pe...   <a href = #253687005> 48</a>   5e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227112595&dopt=GenPept" >ref|ZP_03826251.1|</a>  ferripyoverdine receptor [Pectobacterium...   <a href = #227112595> 48</a>   5e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227327846&dopt=GenPept" >ref|ZP_03831870.1|</a>  ferripyoverdine receptor [Pectobacterium...   <a href = #227327846> 48</a>   7e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262369800&dopt=GenPept" >ref|ZP_06063128.1|</a>  outer membrane receptor for fe(III)-copr...   <a href = #262369800> 44</a>   0.011
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=317406663&dopt=GenPept" >gb|EFV86831.1|</a>  Fe(III)-pyochelin receptor [Achromobacter xy...   <a href = #317406663> 43</a>   0.019
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242240731&dopt=GenPept" >ref|YP_002988912.1|</a>  TonB-dependent siderophore receptor [Di...   <a href = #242240731> 42</a>   0.034
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262374158&dopt=GenPept" >ref|ZP_06067435.1|</a>  outer membrane receptor for fe(III)-copr...   <a href = #262374158> 41</a>   0.061
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=257461127&dopt=GenPept" >ref|ZP_05626225.1|</a>  ferripyoverdine receptor [Campylobacter ...   <a href = #257461127> 40</a>   0.19 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157738085&dopt=GenPept" >ref|YP_001490769.1|</a>  TonB-dependent receptor protein [Arcoba...   <a href = #157738085> 38</a>   0.75 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116695618&dopt=GenPept" >ref|YP_841194.1|</a>  outer membrane receptor, TonB dependent [R...   <a href = #116695618> 37</a>   0.90 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=92115297&dopt=GenPept" >ref|YP_575225.1|</a>  TonB-dependent siderophore receptor [Chrom...   <a href = #92115297> 37</a>   0.90 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=154174752&dopt=GenPept" >ref|YP_001408909.1|</a>  ferripyoverdine receptor [Campylobacter...   <a href = #154174752> 37</a>   1.6  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170722642&dopt=GenPept" >ref|YP_001750330.1|</a>  TonB-dependent siderophore receptor [Ps...   <a href = #170722642> 35</a>   6.2  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146309570&dopt=GenPept" >ref|YP_001190035.1|</a>  TonB-dependent siderophore receptor [Ps...   <a href = #146309570> 34</a>   9.2  
+</PRE>
+<PRE>
+><a name = 296387225></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296387225&dopt=GenPept" >ref|ZP_06876724.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa PAb1]
+ <a name = 313111371></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313111371&dopt=GenPept" >ref|ZP_07797181.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa 39016]
+ <a name = 310883683></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=310883683&dopt=GenPept" >gb|EFQ42277.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa 39016]
+          Length = 714
+
+ Score =  161 bits (561), Expect = 6e-38
+ Identities = 130/284 (45%), Positives = 130/284 (45%), Gaps = 154/284 (54%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKGLYALGRIKL   LTLVVGGRESW               FTPYGGLIWDF   WSWYV
+Sbjct: 430 QKGLYALGRIKLAEPLTLVVGGRESWWDQDTPATRFKPGRQFTPYGGLIWDFARDWSWYV 489
+
+Query: 131 SYAEV--------------------KTYETGIKGEL----LNLSLAAFR----------- 155
+           SYAEV                    KTYETGIKGEL    LNLSLAAFR           
+Sbjct: 490 SYAEVYQPQADRQTWNSEPLSPVEGKTYETGIKGELADGRLNLSLAAFRIDLENNPQEDP 549
+
+Query: 156 --------------------GFELEGTGYL---WSLSAGYTY------------------ 174
+                               GFELEGTGYL   WSLSAGYTY                  
+Sbjct: 550 DHPGPPNNPFYISGGKVRSQGFELEGTGYLTPYWSLSAGYTYTSTEYLKDSQNDSGTRYS 609
+
+Query: 175 -----HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK- 204
+                HLLRLWSNYD       WSVGGGLQAQ                 ALVNMRLGYK 
+Sbjct: 610 TFTPRHLLRLWSNYDLPWQDRRWSVGGGLQAQSDYSVDYRGVSMRQGGYALVNMRLGYKI 669
+
+Query: 205 ---WTAAVNVN------------------------SFNVSLRGA 221
+              WTAAVNVN                        SFNVSLRGA
+Sbjct: 670 DEHWTAAVNVNNLFDRTYYQSLSNPNWNNRYGEPRSFNVSLRGA 713
+</PRE>
+
+
+<PRE>
+
+ Score =  113 bits (392), Expect = 8e-24
+ Identities = 91/202 (45%), Positives = 91/202 (45%), Gaps = 111/202 (54%)
+
+Query: 1   ASTTLSAGR---YRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF 38
+           ASTTLSAGR   YRAEVDVGG          RAVAAYEDR         GTRLLYGVTEF
+Sbjct: 183 ASTTLSAGRWDRYRAEVDVGGPLSASGNVRGRAVAAYEDRDYFYDVADQGTRLLYGVTEF 242
+
+Query: 39  ------LLTVGAQYQHI-----------------------------------DTYRAFGS 57
+                 LLTVGAQYQHI                                   DTYRAFGS
+Sbjct: 243 DLSPDTLLTVGAQYQHIDSITNMAGVPMAKDGSNLGLSRDTYLDVDWDRFKWDTYRAFGS 302
+
+Query: 58  LEQ------KGKVSAEYQE----------------------------------QRSLDAN 77
+           LEQ      KGKVSAEYQE                                  QRSLDAN
+Sbjct: 303 LEQQLGGGWKGKVSAEYQEADSRLRYAGSFGAIDPQTGDGGQLMGAAYKFKSIQRSLDAN 362
+
+Query: 78  LNG--------HELLGGVTYAQ 91
+           LNG        HELLGGVTYAQ
+Sbjct: 363 LNGPVRLFGLTHELLGGVTYAQ 384
+</PRE>
+
+
+<PRE>
+><a name = 254237092></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254237092&dopt=GenPept" >ref|ZP_04930415.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa C3719]
+ <a name = 126169023></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126169023&dopt=GenPept" >gb|EAZ54534.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa C3719]
+          Length = 726
+
+ Score =  161 bits (561), Expect = 6e-38
+ Identities = 130/284 (45%), Positives = 130/284 (45%), Gaps = 154/284 (54%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKGLYALGRIKL   LTLVVGGRESW               FTPYGGLIWDF   WSWYV
+Sbjct: 442 QKGLYALGRIKLAEPLTLVVGGRESWWDQDTPATRFKPGRQFTPYGGLIWDFARDWSWYV 501
+
+Query: 131 SYAEV--------------------KTYETGIKGEL----LNLSLAAFR----------- 155
+           SYAEV                    KTYETGIKGEL    LNLSLAAFR           
+Sbjct: 502 SYAEVYQPQADRQTWNSEPLSPVEGKTYETGIKGELADGRLNLSLAAFRIDLENNPQEDP 561
+
+Query: 156 --------------------GFELEGTGYL---WSLSAGYTY------------------ 174
+                               GFELEGTGYL   WSLSAGYTY                  
+Sbjct: 562 DHPGPPNNPFYISGGKVRSQGFELEGTGYLTPYWSLSAGYTYTSTEYLKDSQNDSGTRYS 621
+
+Query: 175 -----HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK- 204
+                HLLRLWSNYD       WSVGGGLQAQ                 ALVNMRLGYK 
+Sbjct: 622 TFTPRHLLRLWSNYDLPWQDRRWSVGGGLQAQSDYSVDYRGVSMRQGGYALVNMRLGYKI 681
+
+Query: 205 ---WTAAVNVN------------------------SFNVSLRGA 221
+              WTAAVNVN                        SFNVSLRGA
+Sbjct: 682 DEHWTAAVNVNNLFDRTYYQSLSNPNWNNRYGEPRSFNVSLRGA 725
+</PRE>
+
+
+<PRE>
+
+ Score =  113 bits (392), Expect = 8e-24
+ Identities = 91/202 (45%), Positives = 91/202 (45%), Gaps = 111/202 (54%)
+
+Query: 1   ASTTLSAGR---YRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF 38
+           ASTTLSAGR   YRAEVDVGG          RAVAAYEDR         GTRLLYGVTEF
+Sbjct: 195 ASTTLSAGRWDRYRAEVDVGGPLSASGNVRGRAVAAYEDRDYFYDVADQGTRLLYGVTEF 254
+
+Query: 39  ------LLTVGAQYQHI-----------------------------------DTYRAFGS 57
+                 LLTVGAQYQHI                                   DTYRAFGS
+Sbjct: 255 DLSPDTLLTVGAQYQHIDSITNMAGVPMAKDGSNLGLSRDTYLDVDWDRFKWDTYRAFGS 314
+
+Query: 58  LEQ------KGKVSAEYQE----------------------------------QRSLDAN 77
+           LEQ      KGKVSAEYQE                                  QRSLDAN
+Sbjct: 315 LEQQLGGGWKGKVSAEYQEADSRLRYAGSFGAIDPQTGDGGQLTGAAYKFKSIQRSLDAN 374
+
+Query: 78  LNG--------HELLGGVTYAQ 91
+           LNG        HELLGGVTYAQ
+Sbjct: 375 LNGPVRLFGLTHELLGGVTYAQ 396
+</PRE>
+
+
+<PRE>
+><a name = 107103737></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=107103737&dopt=GenPept" >ref|ZP_01367655.1|</a> hypothetical protein PaerPA_01004808 [Pseudomonas aeruginosa PACS2]
+          Length = 720
+
+ Score =  161 bits (561), Expect = 6e-38
+ Identities = 130/284 (45%), Positives = 130/284 (45%), Gaps = 154/284 (54%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKGLYALGRIKL   LTLVVGGRESW               FTPYGGLIWDF   WSWYV
+Sbjct: 436 QKGLYALGRIKLAEPLTLVVGGRESWWDQDTPATRFKPGRQFTPYGGLIWDFARDWSWYV 495
+
+Query: 131 SYAEV--------------------KTYETGIKGEL----LNLSLAAFR----------- 155
+           SYAEV                    KTYETGIKGEL    LNLSLAAFR           
+Sbjct: 496 SYAEVYQPQADRQTRNSEPLSPVEGKTYETGIKGELADGRLNLSLAAFRIDLENNPQEDP 555
+
+Query: 156 --------------------GFELEGTGYL---WSLSAGYTY------------------ 174
+                               GFELEGTGYL   WSLSAGYTY                  
+Sbjct: 556 DHPGPPNNPFYISGGKVRSQGFELEGTGYLTPYWSLSAGYTYTSTEYLKDSQNDSGTRYS 615
+
+Query: 175 -----HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK- 204
+                HLLRLWSNYD       WSVGGGLQAQ                 ALVNMRLGYK 
+Sbjct: 616 TFTPRHLLRLWSNYDLPWQDRRWSVGGGLQAQSDYSVDYRGVSMRQGGYALVNMRLGYKI 675
+
+Query: 205 ---WTAAVNVN------------------------SFNVSLRGA 221
+              WTAAVNVN                        SFNVSLRGA
+Sbjct: 676 DEHWTAAVNVNNLFDRTYYQSLSNPNWNNRYGEPRSFNVSLRGA 719
+</PRE>
+
+
+<PRE>
+
+ Score =  113 bits (392), Expect = 8e-24
+ Identities = 91/202 (45%), Positives = 91/202 (45%), Gaps = 111/202 (54%)
+
+Query: 1   ASTTLSAGR---YRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF 38
+           ASTTLSAGR   YRAEVDVGG          RAVAAYEDR         GTRLLYGVTEF
+Sbjct: 189 ASTTLSAGRWDRYRAEVDVGGPLSASGNVRGRAVAAYEDRDYFYDVADQGTRLLYGVTEF 248
+
+Query: 39  ------LLTVGAQYQHI-----------------------------------DTYRAFGS 57
+                 LLTVGAQYQHI                                   DTYRAFGS
+Sbjct: 249 DLSPDTLLTVGAQYQHIDSITNMAGVPMAKDGSNLGLSRDTYLDVDWDRFKWDTYRAFGS 308
+
+Query: 58  LEQ------KGKVSAEYQE----------------------------------QRSLDAN 77
+           LEQ      KGKVSAEYQE                                  QRSLDAN
+Sbjct: 309 LEQQLGGGWKGKVSAEYQEADSRLRYAGSFGAIDPQTGDGGQLTGAAYKFKSIQRSLDAN 368
+
+Query: 78  LNG--------HELLGGVTYAQ 91
+           LNG        HELLGGVTYAQ
+Sbjct: 369 LNGPVRLFGLTHELLGGVTYAQ 390
+</PRE>
+
+
+<PRE>
+><a name = 78100930></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=78100930&dopt=GenPept" >pdb|1XKW|A</a> Chain A, Pyochelin Outer Membrane Receptor Fpta From Pseudomonas
+           Aeruginosa
+          Length = 665
+
+ Score =  161 bits (561), Expect = 6e-38
+ Identities = 130/284 (45%), Positives = 130/284 (45%), Gaps = 154/284 (54%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKGLYALGRIKL   LTLVVGGRESW               FTPYGGLIWDF   WSWYV
+Sbjct: 381 QKGLYALGRIKLAEPLTLVVGGRESWWDQDTPATRFKPGRQFTPYGGLIWDFARDWSWYV 440
+
+Query: 131 SYAEV--------------------KTYETGIKGEL----LNLSLAAFR----------- 155
+           SYAEV                    KTYETGIKGEL    LNLSLAAFR           
+Sbjct: 441 SYAEVYQPQADRQTWNSEPLSPVEGKTYETGIKGELADGRLNLSLAAFRIDLENNPQEDP 500
+
+Query: 156 --------------------GFELEGTGYL---WSLSAGYTY------------------ 174
+                               GFELEGTGYL   WSLSAGYTY                  
+Sbjct: 501 DHPGPPNNPFYISGGKVRSQGFELEGTGYLTPYWSLSAGYTYTSTEYLKDSQNDSGTRYS 560
+
+Query: 175 -----HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK- 204
+                HLLRLWSNYD       WSVGGGLQAQ                 ALVNMRLGYK 
+Sbjct: 561 TFTPRHLLRLWSNYDLPWQDRRWSVGGGLQAQSDYSVDYRGVSMRQGGYALVNMRLGYKI 620
+
+Query: 205 ---WTAAVNVN------------------------SFNVSLRGA 221
+              WTAAVNVN                        SFNVSLRGA
+Sbjct: 621 DEHWTAAVNVNNLFDRTYYQSLSNPNWNNRYGEPRSFNVSLRGA 664
+</PRE>
+
+
+<PRE>
+
+ Score =  113 bits (392), Expect = 8e-24
+ Identities = 91/202 (45%), Positives = 91/202 (45%), Gaps = 111/202 (54%)
+
+Query: 1   ASTTLSAGR---YRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF 38
+           ASTTLSAGR   YRAEVDVGG          RAVAAYEDR         GTRLLYGVTEF
+Sbjct: 134 ASTTLSAGRWDRYRAEVDVGGPLSASGNVRGRAVAAYEDRDYFYDVADQGTRLLYGVTEF 193
+
+Query: 39  ------LLTVGAQYQHI-----------------------------------DTYRAFGS 57
+                 LLTVGAQYQHI                                   DTYRAFGS
+Sbjct: 194 DLSPDTLLTVGAQYQHIDSITNMAGVPMAKDGSNLGLSRDTYLDVDWDRFKWDTYRAFGS 253
+
+Query: 58  LEQ------KGKVSAEYQE----------------------------------QRSLDAN 77
+           LEQ      KGKVSAEYQE                                  QRSLDAN
+Sbjct: 254 LEQQLGGGWKGKVSAEYQEADSRLRYAGSFGAIDPQTGDGGQLMGAAYKFKSIQRSLDAN 313
+
+Query: 78  LNG--------HELLGGVTYAQ 91
+           LNG        HELLGGVTYAQ
+Sbjct: 314 LNGPVRLFGLTHELLGGVTYAQ 335
+</PRE>
+
+
+<PRE>
+><a name = 218889450></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218889450&dopt=GenPept" >ref|YP_002438314.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa LESB58]
+ <a name = 254242899></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254242899&dopt=GenPept" >ref|ZP_04936221.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa 2192]
+ <a name = 126196277></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126196277&dopt=GenPept" >gb|EAZ60340.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa 2192]
+ <a name = 218769673></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218769673&dopt=GenPept" >emb|CAW25433.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa LESB58]
+          Length = 720
+
+ Score =  161 bits (561), Expect = 6e-38
+ Identities = 130/284 (45%), Positives = 130/284 (45%), Gaps = 154/284 (54%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKGLYALGRIKL   LTLVVGGRESW               FTPYGGLIWDF   WSWYV
+Sbjct: 436 QKGLYALGRIKLAEPLTLVVGGRESWWDQDTPATRFKPGRQFTPYGGLIWDFARDWSWYV 495
+
+Query: 131 SYAEV--------------------KTYETGIKGEL----LNLSLAAFR----------- 155
+           SYAEV                    KTYETGIKGEL    LNLSLAAFR           
+Sbjct: 496 SYAEVYQPQADRQTWNSEPLSPVEGKTYETGIKGELADGRLNLSLAAFRIDLENNPQEDP 555
+
+Query: 156 --------------------GFELEGTGYL---WSLSAGYTY------------------ 174
+                               GFELEGTGYL   WSLSAGYTY                  
+Sbjct: 556 DHPGPPNNPFYISGGKVRSQGFELEGTGYLTPYWSLSAGYTYTSTEYLKDSQNDSGTRYS 615
+
+Query: 175 -----HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK- 204
+                HLLRLWSNYD       WSVGGGLQAQ                 ALVNMRLGYK 
+Sbjct: 616 TFTPRHLLRLWSNYDLPWQDRRWSVGGGLQAQSDYSVDYRGVSMRQGGYALVNMRLGYKI 675
+
+Query: 205 ---WTAAVNVN------------------------SFNVSLRGA 221
+              WTAAVNVN                        SFNVSLRGA
+Sbjct: 676 DEHWTAAVNVNNLFDRTYYQSLSNPNWNNRYGEPRSFNVSLRGA 719
+</PRE>
+
+
+<PRE>
+
+ Score =  113 bits (392), Expect = 8e-24
+ Identities = 91/202 (45%), Positives = 91/202 (45%), Gaps = 111/202 (54%)
+
+Query: 1   ASTTLSAGR---YRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF 38
+           ASTTLSAGR   YRAEVDVGG          RAVAAYEDR         GTRLLYGVTEF
+Sbjct: 189 ASTTLSAGRWDRYRAEVDVGGPLSASGNVRGRAVAAYEDRDYFYDVADQGTRLLYGVTEF 248
+
+Query: 39  ------LLTVGAQYQHI-----------------------------------DTYRAFGS 57
+                 LLTVGAQYQHI                                   DTYRAFGS
+Sbjct: 249 DLSPDTLLTVGAQYQHIDSITNMAGVPMAKDGSNLGLSRDTYLDVDWDRFKWDTYRAFGS 308
+
+Query: 58  LEQ------KGKVSAEYQE----------------------------------QRSLDAN 77
+           LEQ      KGKVSAEYQE                                  QRSLDAN
+Sbjct: 309 LEQQLGGGWKGKVSAEYQEADSRLRYAGSFGAIDPQTGDGGQLTGAAYKFKSIQRSLDAN 368
+
+Query: 78  LNG--------HELLGGVTYAQ 91
+           LNG        HELLGGVTYAQ
+Sbjct: 369 LNGPVRLFGLTHELLGGVTYAQ 390
+</PRE>
+
+
+<PRE>
+><a name = 15599417></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15599417&dopt=GenPept" >ref|NP_252911.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa PAO1]
+ <a name = 116052258></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116052258&dopt=GenPept" >ref|YP_788898.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa UCBPP-PA14]
+ <a name = 1169730></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01169730&dopt=GenPept" >sp|P42512|FPTA_PSEAE</a> RecName: Full=Fe(3+)-pyochelin receptor; AltName:
+           Full=Fe(III)-pyochelin receptor; Flags: Precursor
+ <a name = 9950436></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=09950436&dopt=GenPept" >gb|AAG07609.1|AE004839_2</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa PAO1]
+ <a name = 454353></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00454353&dopt=GenPept" >gb|AAC43213.1|</a> Fe(III)-pyochelin receptor [Pseudomonas aeruginosa]
+ <a name = 115587479></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115587479&dopt=GenPept" >gb|ABJ13494.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa UCBPP-PA14]
+          Length = 720
+
+ Score =  161 bits (561), Expect = 6e-38
+ Identities = 130/284 (45%), Positives = 130/284 (45%), Gaps = 154/284 (54%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKGLYALGRIKL   LTLVVGGRESW               FTPYGGLIWDF   WSWYV
+Sbjct: 436 QKGLYALGRIKLAEPLTLVVGGRESWWDQDTPATRFKPGRQFTPYGGLIWDFARDWSWYV 495
+
+Query: 131 SYAEV--------------------KTYETGIKGEL----LNLSLAAFR----------- 155
+           SYAEV                    KTYETGIKGEL    LNLSLAAFR           
+Sbjct: 496 SYAEVYQPQADRQTWNSEPLSPVEGKTYETGIKGELADGRLNLSLAAFRIDLENNPQEDP 555
+
+Query: 156 --------------------GFELEGTGYL---WSLSAGYTY------------------ 174
+                               GFELEGTGYL   WSLSAGYTY                  
+Sbjct: 556 DHPGPPNNPFYISGGKVRSQGFELEGTGYLTPYWSLSAGYTYTSTEYLKDSQNDSGTRYS 615
+
+Query: 175 -----HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK- 204
+                HLLRLWSNYD       WSVGGGLQAQ                 ALVNMRLGYK 
+Sbjct: 616 TFTPRHLLRLWSNYDLPWQDRRWSVGGGLQAQSDYSVDYRGVSMRQGGYALVNMRLGYKI 675
+
+Query: 205 ---WTAAVNVN------------------------SFNVSLRGA 221
+              WTAAVNVN                        SFNVSLRGA
+Sbjct: 676 DEHWTAAVNVNNLFDRTYYQSLSNPNWNNRYGEPRSFNVSLRGA 719
+</PRE>
+
+
+<PRE>
+
+ Score =  113 bits (392), Expect = 8e-24
+ Identities = 91/202 (45%), Positives = 91/202 (45%), Gaps = 111/202 (54%)
+
+Query: 1   ASTTLSAGR---YRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF 38
+           ASTTLSAGR   YRAEVDVGG          RAVAAYEDR         GTRLLYGVTEF
+Sbjct: 189 ASTTLSAGRWDRYRAEVDVGGPLSASGNVRGRAVAAYEDRDYFYDVADQGTRLLYGVTEF 248
+
+Query: 39  ------LLTVGAQYQHI-----------------------------------DTYRAFGS 57
+                 LLTVGAQYQHI                                   DTYRAFGS
+Sbjct: 249 DLSPDTLLTVGAQYQHIDSITNMAGVPMAKDGSNLGLSRDTYLDVDWDRFKWDTYRAFGS 308
+
+Query: 58  LEQ------KGKVSAEYQE----------------------------------QRSLDAN 77
+           LEQ      KGKVSAEYQE                                  QRSLDAN
+Sbjct: 309 LEQQLGGGWKGKVSAEYQEADSRLRYAGSFGAIDPQTGDGGQLMGAAYKFKSIQRSLDAN 368
+
+Query: 78  LNG--------HELLGGVTYAQ 91
+           LNG        HELLGGVTYAQ
+Sbjct: 369 LNGPVRLFGLTHELLGGVTYAQ 390
+</PRE>
+
+
+<PRE>
+><a name = 152985147></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=152985147&dopt=GenPept" >ref|YP_001346265.1|</a> Fe(III)-pyochelin outer membrane receptor precursor [Pseudomonas
+           aeruginosa PA7]
+ <a name = 150960305></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=150960305&dopt=GenPept" >gb|ABR82330.1|</a> Fe(III)-pyochelin receptor precursor [Pseudomonas aeruginosa PA7]
+          Length = 713
+
+ Score =  149 bits (520), Expect = 2e-34
+ Identities = 115/252 (45%), Positives = 119/252 (47%), Gaps = 129/252 (51%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+YALGRIKL   LTLV+GGRESW               FTPYGGLIWDF   WSWY 
+Sbjct: 430 QKGIYALGRIKLAEPLTLVLGGRESWWDQDTPATRFKPGRQFTPYGGLIWDFARDWSWYA 489
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR------------ 155
+           SYAEV                   KTYETGIKGEL    LNLSLAAFR            
+Sbjct: 490 SYAEVYQPQDRQTWNSEPLRPVEGKTYETGIKGELADGRLNLSLAAFRIDLENNPQEDPD 549
+
+Query: 156 -------------------GFELEGTGYL---WSLSAGYTY------------------- 174
+                              GFELEGTGYL   WSLSAGYTY                   
+Sbjct: 550 HPGPPNNPYYISGGKVRSQGFELEGTGYLTPYWSLSAGYTYTSTEYLKDSQVDSGTRYST 609
+
+Query: 175 ----HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK-- 204
+               HLLRLWSNYD       WSVGGG+QAQ                 ALVN RLGY   
+Sbjct: 610 FTPRHLLRLWSNYDLPWQDRRWSVGGGVQAQSDYSVDYRGVDMRQGGYALVNLRLGYRVD 669
+
+Query: 205 --WTAAVNVNSF 214
+             WTAAVNVN +
+Sbjct: 670 EHWTAAVNVNNL 681
+</PRE>
+
+
+<PRE>
+
+ Score =  113 bits (392), Expect = 8e-24
+ Identities = 90/202 (44%), Positives = 91/202 (45%), Gaps = 111/202 (54%)
+
+Query: 1   ASTTLSAGR---YRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF 38
+           ASTTLSAGR   YRAEVDVGG          RAVAAYEDR         GTRLLYGVTEF
+Sbjct: 183 ASTTLSAGRWDRYRAEVDVGGPLNASGNVRGRAVAAYEDRDYFYDVADQGTRLLYGVTEF 242
+
+Query: 39  ------LLTVGAQYQHI-----------------------------------DTYRAFGS 57
+                 LLTVGAQYQHI                                   DTYRAFGS
+Sbjct: 243 DLSPDTLLTVGAQYQHIDSITNMAGVPMAKDGSSLGLSRDTYLDVDWDRFKWDTYRAFGS 302
+
+Query: 58  LEQ------KGKVSAEYQE----------------------------------QRSLDAN 77
+           LEQ      KGKVSAEYQE                                  QRSLDAN
+Sbjct: 303 LEQQLGGGWKGKVSAEYQEADSRLRYAGSFGAIDPQTGDGGRLMGAAYKFKSIQRSLDAN 362
+
+Query: 78  LNG--------HELLGGVTYAQ 91
+           LNG        HELLGG+TYAQ
+Sbjct: 363 LNGPLQLFGLTHELLGGITYAQ 384
+</PRE>
+
+
+<PRE>
+><a name = 206564061></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206564061&dopt=GenPept" >ref|YP_002234824.1|</a> putative pyochelin receptor protein FptA [Burkholderia cenocepacia
+           J2315]
+ <a name = 198040101></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=198040101&dopt=GenPept" >emb|CAR56082.1|</a> putative pyochelin receptor protein FptA [Burkholderia cenocepacia
+           J2315]
+          Length = 727
+
+ Score =  104 bits (359), Expect = 5e-21
+ Identities = 94/251 (37%), Positives = 110/251 (43%), Gaps = 128/251 (50%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   LTLV+GGR SW               FTPYGGLIWDF   WSWY 
+Sbjct: 445 QKGVYGLGRIKLAEPLTLVLGGRMSWWNQDSLGAHYNTGHQFTPYGGLIWDFARDWSWYA 504
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR------------ 155
+           SYAEV                    TYETGVKGEL    LN+SLAAFR            
+Sbjct: 505 SYAEVFQPQTKSMWGGGILTPVKGRTYETGVKGELAGGKLNVSLAAFRIDLDNNPQVDLA 564
+
+Query: 156 -------------------GFELEGTGYL---WSLSAGYTY------------------- 174
+                              GFE+E+ G +   WS+ A YTY                   
+Sbjct: 565 HPCAGPSCYYVNGGSVRSQGFEFEANGRITPWWSVWASYTYDTMRYADNLANAGSFAPLL 624
+
+Query: 175 ---HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK--- 204
+              HL+RLW+NYD       WS+GGG+Q Q                 AL   RLGY    
+Sbjct: 625 NPRHLFRLWTNYDLPWQERRWSIGGGVQVQSSYSAQANGVTMSQGGYALASVRLGYRYDK 684
+
+Query: 205 -WTAAVNVNSF 214
+            W+AA+NVN +
+Sbjct: 685 HWSAALNVNNL 695
+</PRE>
+
+
+<PRE>
+
+ Score = 43.0 bits (137), Expect = 0.019
+ Identities = 33/72 (45%), Positives = 35/72 (48%), Gaps = 28/72 (38%)
+
+Query: 4   TLSAG---RYRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF--- 38
+           T S G   RYRAE D+GG          R VAAYEDR          TR +Y VTE    
+Sbjct: 200 TASVGSWDRYRAEADIGGPLNAAGTVRSRLVAAYEDRHFFYDHAKQDTRSIYSVTEVDVT 259
+
+Query: 39  ---LLTVGAQYQ 47
+              LLT GAQYQ
+Sbjct: 260 RDTLLTFGAQYQ 271
+</PRE>
+
+
+<PRE>
+
+ Score = 34.1 bits (105), Expect = 9.2
+ Identities = 17/30 (56%), Positives = 21/30 (70%), Gaps = 6/30 (20%)
+
+Query: 50  DTYRAFGSLEQ------KGKVSAEYQEQRS 73
+           DT RAF+S+EQ      K+KVS+EYQ  RS
+Sbjct: 309 DTTRAFASVEQKLGAGWKAKVSGEYQSVRS 338
+</PRE>
+
+
+<PRE>
+><a name = 78061527></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=78061527&dopt=GenPept" >ref|YP_371435.1|</a> TonB-dependent siderophore receptor [Burkholderia sp. 383]
+ <a name = 77969412></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=77969412&dopt=GenPept" >gb|ABB10791.1|</a> TonB-dependent siderophore receptor [Burkholderia sp. 383]
+          Length = 745
+
+ Score =  104 bits (358), Expect = 6e-21
+ Identities = 95/252 (37%), Positives = 110/252 (43%), Gaps = 129/252 (51%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWDF   WSWY 
+Sbjct: 462 QKGVYGLGRIKLAEPVTLVLGGRMSWWNQDSLGAHYNTGHQFTPYGGLIWDFARDWSWYA 521
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR------------ 155
+           SYAEV                    TYETGVKGEL    LN+SLAAFR            
+Sbjct: 522 SYAEVFQPQTKSMWGGGILTPVKGRTYETGVKGELAGGKLNVSLAAFRIDLDNSPQVDLA 581
+
+Query: 156 -------------------GFELEGTGYL---WSLSAGYTY------------------- 174
+                              GFE+E+ G +   WS+ A YTY                   
+Sbjct: 582 HPCAGPNCYYVNGGSVRSQGFEFEANGRITPWWSVWASYTYDTMSYADNLANAGSSFAPL 641
+
+Query: 175 ----HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK-- 204
+               HL+RLW+NYD       WSVGGG+Q Q                 AL   RLGY   
+Sbjct: 642 LNPRHLFRLWTNYDLPWQERRWSVGGGVQVQSNYSAQAGGVTMSQGGYALASLRLGYRYD 701
+
+Query: 205 --WTAAVNVNSF 214
+             W+AAVNVN +
+Sbjct: 702 KHWSAAVNVNNL 713
+</PRE>
+
+
+<PRE>
+
+ Score = 52.4 bits (171), Expect = 3e-05
+ Identities = 51/142 (35%), Positives = 60/142 (42%), Gaps = 69/142 (48%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF 38
+           A  ++S G   RYRAE D+GG          R VAAYEDR          TR +YG+TE 
+Sbjct: 214 ANASVSVGSWDRYRAEADIGGPLNAAGTVRSRLVAAYEDRHFFYDHAKQDTRSIYGITEV 273
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 LLT GAQYQ                                 H   DT RAF+S
+Sbjct: 274 DVTRDTLLTFGAQYQTTRSIPDMSGVPMARDGSSLGLSRSTFLDTAWGHFDWDTTRAFAS 333
+
+Query: 58  LEQ------KGKVSAEYQEQRS 73
+           +EQ      K+KVS+EYQ  RS
+Sbjct: 334 VEQKLGAGWKAKVSGEYQSVRS 355
+</PRE>
+
+
+<PRE>
+><a name = 170737651></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170737651&dopt=GenPept" >ref|YP_001778911.1|</a> TonB-dependent siderophore receptor [Burkholderia cenocepacia
+           MC0-3]
+ <a name = 169819839></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169819839&dopt=GenPept" >gb|ACA94421.1|</a> TonB-dependent siderophore receptor [Burkholderia cenocepacia
+           MC0-3]
+          Length = 727
+
+ Score =  102 bits (349), Expect = 3e-20
+ Identities = 93/251 (37%), Positives = 109/251 (43%), Gaps = 128/251 (50%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   LTLV+GGR SW               FTPYGGLIWDF   WSWY 
+Sbjct: 445 QKGVYGLGRIKLAEPLTLVLGGRMSWWNQDSLGAHYNTGHQFTPYGGLIWDFARDWSWYA 504
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR------------ 155
+           SYAEV                    TYETGVKGEL    L +SLAAFR            
+Sbjct: 505 SYAEVFQPQTKSMWGGGILTPVKGRTYETGVKGELAGGKLDVSLAAFRIDLDNNPQVDLA 564
+
+Query: 156 -------------------GFELEGTGYL---WSLSAGYTY------------------- 174
+                              GFE+E+ G +   WS+ A YTY                   
+Sbjct: 565 HPCAGPSCYYVNGGSVRSQGFEFEANGRITPWWSVWASYTYDTMRYADNLANAGSFAPLL 624
+
+Query: 175 ---HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK--- 204
+              HL+RLW+NYD       WS+GGG+Q Q                 AL   RLGY    
+Sbjct: 625 NPRHLFRLWTNYDLPWQERRWSIGGGVQVQSSYSAQANGVTMSQGGYALASVRLGYRYDK 684
+
+Query: 205 -WTAAVNVNSF 214
+            W+AA+NVN +
+Sbjct: 685 HWSAALNVNNL 695
+</PRE>
+
+
+<PRE>
+
+ Score = 43.0 bits (137), Expect = 0.019
+ Identities = 33/72 (45%), Positives = 35/72 (48%), Gaps = 28/72 (38%)
+
+Query: 4   TLSAG---RYRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF--- 38
+           T S G   RYRAE D+GG          R VAAYEDR          TR +Y VTE    
+Sbjct: 200 TASVGSWDRYRAEADIGGPLNAAGTVRSRLVAAYEDRHFFYDHAKQDTRSIYSVTEVDVT 259
+
+Query: 39  ---LLTVGAQYQ 47
+              LLT GAQYQ
+Sbjct: 260 RDTLLTFGAQYQ 271
+</PRE>
+
+
+<PRE>
+
+ Score = 34.1 bits (105), Expect = 9.2
+ Identities = 17/30 (56%), Positives = 21/30 (70%), Gaps = 6/30 (20%)
+
+Query: 50  DTYRAFGSLEQ------KGKVSAEYQEQRS 73
+           DT RAF+S+EQ      K+KVS+EYQ  RS
+Sbjct: 309 DTTRAFASVEQKLGAGWKAKVSGEYQSVRS 338
+</PRE>
+
+
+<PRE>
+><a name = 254250078></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254250078&dopt=GenPept" >ref|ZP_04943398.1|</a> TonB-dependent siderophore receptor [Burkholderia cenocepacia
+           PC184]
+ <a name = 124876579></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=124876579&dopt=GenPept" >gb|EAY66569.1|</a> TonB-dependent siderophore receptor [Burkholderia cenocepacia
+           PC184]
+          Length = 738
+
+ Score =  102 bits (349), Expect = 3e-20
+ Identities = 93/251 (37%), Positives = 109/251 (43%), Gaps = 128/251 (50%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   LTLV+GGR SW               FTPYGGLIWDF   WSWY 
+Sbjct: 456 QKGVYGLGRIKLAEPLTLVLGGRMSWWNQDSLGAHYNTGHQFTPYGGLIWDFARDWSWYA 515
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR------------ 155
+           SYAEV                    TYETGVKGEL    L +SLAAFR            
+Sbjct: 516 SYAEVFQPQTKSMWGGGILTPVKGRTYETGVKGELAGGKLDVSLAAFRIDLDNNPQVDLA 575
+
+Query: 156 -------------------GFELEGTGYL---WSLSAGYTY------------------- 174
+                              GFE+E+ G +   WS+ A YTY                   
+Sbjct: 576 HPCAGPSCYYVNGGSVRSQGFEFEANGRITPWWSVWASYTYDTMRYADNLANAGTFAPLL 635
+
+Query: 175 ---HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK--- 204
+              HL+RLW+NYD       WS+GGG+Q Q                 AL   RLGY    
+Sbjct: 636 NPRHLFRLWTNYDLPWQERRWSIGGGVQVQSSYSAQANGVTMSQGGYALASVRLGYRYDK 695
+
+Query: 205 -WTAAVNVNSF 214
+            W+AA+NVN +
+Sbjct: 696 HWSAALNVNNL 706
+</PRE>
+
+
+<PRE>
+
+ Score = 43.0 bits (137), Expect = 0.019
+ Identities = 33/72 (45%), Positives = 35/72 (48%), Gaps = 28/72 (38%)
+
+Query: 4   TLSAG---RYRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF--- 38
+           T S G   RYRAE D+GG          R VAAYEDR          TR +Y VTE    
+Sbjct: 211 TASVGSWDRYRAEADIGGPLNAAGTVRSRLVAAYEDRHFFYDHAKQDTRSIYSVTEVDVT 270
+
+Query: 39  ---LLTVGAQYQ 47
+              LLT GAQYQ
+Sbjct: 271 RDTLLTFGAQYQ 282
+</PRE>
+
+
+<PRE>
+
+ Score = 34.1 bits (105), Expect = 9.2
+ Identities = 17/30 (56%), Positives = 21/30 (70%), Gaps = 6/30 (20%)
+
+Query: 50  DTYRAFGSLEQ------KGKVSAEYQEQRS 73
+           DT RAF+S+EQ      K+KVS+EYQ  RS
+Sbjct: 320 DTTRAFASVEQKLGAGWKAKVSGEYQSVRS 349
+</PRE>
+
+
+<PRE>
+><a name = 107025731></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=107025731&dopt=GenPept" >ref|YP_623242.1|</a> TonB-dependent siderophore receptor [Burkholderia cenocepacia AU
+           1054]
+ <a name = 116693087></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116693087&dopt=GenPept" >ref|YP_838620.1|</a> TonB-dependent siderophore receptor [Burkholderia cenocepacia
+           HI2424]
+ <a name = 105895105></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=105895105&dopt=GenPept" >gb|ABF78269.1|</a> TonB-dependent siderophore receptor [Burkholderia cenocepacia AU
+           1054]
+ <a name = 116651087></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116651087&dopt=GenPept" >gb|ABK11727.1|</a> TonB-dependent siderophore receptor [Burkholderia cenocepacia
+           HI2424]
+          Length = 738
+
+ Score =  102 bits (349), Expect = 3e-20
+ Identities = 93/251 (37%), Positives = 109/251 (43%), Gaps = 128/251 (50%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   LTLV+GGR SW               FTPYGGLIWDF   WSWY 
+Sbjct: 456 QKGVYGLGRIKLAEPLTLVLGGRMSWWNQDSLGAHYNTGHQFTPYGGLIWDFARDWSWYA 515
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR------------ 155
+           SYAEV                    TYETGVKGEL    L +SLAAFR            
+Sbjct: 516 SYAEVFQPQTKSMWGGGILTPVKGRTYETGVKGELAGGKLDVSLAAFRIDLDNNPQVDLA 575
+
+Query: 156 -------------------GFELEGTGYL---WSLSAGYTY------------------- 174
+                              GFE+E+ G +   WS+ A YTY                   
+Sbjct: 576 HPCAGPSCYYVNGGSVRSQGFEFEANGRITPWWSVWASYTYDTMRYADNLANAGSFAPLL 635
+
+Query: 175 ---HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK--- 204
+              HL+RLW+NYD       WS+GGG+Q Q                 AL   RLGY    
+Sbjct: 636 NPRHLFRLWTNYDLPWQERRWSIGGGVQVQSSYSAQANGVTMSQGGYALASVRLGYRYDK 695
+
+Query: 205 -WTAAVNVNSF 214
+            W+AA+NVN +
+Sbjct: 696 HWSAALNVNNL 706
+</PRE>
+
+
+<PRE>
+
+ Score = 43.0 bits (137), Expect = 0.019
+ Identities = 33/72 (45%), Positives = 35/72 (48%), Gaps = 28/72 (38%)
+
+Query: 4   TLSAG---RYRAEVDVGG----------RAVAAYEDR---------GTRLLYGVTEF--- 38
+           T S G   RYRAE D+GG          R VAAYEDR          TR +Y VTE    
+Sbjct: 211 TASVGSWDRYRAEADIGGPLNAAGTVRSRLVAAYEDRHFFYDHAKQDTRSIYSVTEVDVT 270
+
+Query: 39  ---LLTVGAQYQ 47
+              LLT GAQYQ
+Sbjct: 271 RDTLLTFGAQYQ 282
+</PRE>
+
+
+<PRE>
+
+ Score = 34.1 bits (105), Expect = 9.2
+ Identities = 17/30 (56%), Positives = 21/30 (70%), Gaps = 6/30 (20%)
+
+Query: 50  DTYRAFGSLEQ------KGKVSAEYQEQRS 73
+           DT RAF+S+EQ      K+KVS+EYQ  RS
+Sbjct: 320 DTTRAFASIEQKLGAGWKAKVSGEYQSVRS 349
+</PRE>
+
+
+<PRE>
+><a name = 167565285></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167565285&dopt=GenPept" >ref|ZP_02358201.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia oklahomensis
+           EO147]
+ <a name = 167572383></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167572383&dopt=GenPept" >ref|ZP_02365257.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia oklahomensis
+           C6786]
+          Length = 709
+
+ Score = 96.4 bits (329), Expect = 2e-18
+ Identities = 91/250 (36%), Positives = 108/250 (43%), Gaps = 127/250 (50%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+L RIKL   +TLV+GGR SW               FTPYGGLIWDF   WSWY 
+Sbjct: 428 QKGIYGLSRIKLAQPVTLVLGGRVSWWSQDSLGAHYNTGRQFTPYGGLIWDFARDWSWYA 487
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR------------ 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR            
+Sbjct: 488 SYAEVFQPQTKPTWGGGILTPVKGRTYETGIKGELAGGKLNVSLAAFRIDLDNSPQVDAA 547
+
+Query: 156 -------------------GFELEGTGYL---WSLSAGYTY------------------- 174
+                              GFE+E+ G +   WS+ A YT+                   
+Sbjct: 548 HPCAGQNCYYVNGGSVRSQGFEFEANGRITPWWSVWASYTFDTMRYAQNLDSSQFAPLLN 607
+
+Query: 175 --HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK---- 204
+             HL+RLW+ YD       WS+GGG+Q Q                 AL   RLGY     
+Sbjct: 608 PRHLFRLWTHYDLPWQERRWSIGGGVQVQSDFSAVSNGVTMRQGGYALASVRLGYRHDRH 667
+
+Query: 205 WTAAVNVNSF 214
+           W+AA+NVN +
+Sbjct: 668 WSAALNVNNL 677
+</PRE>
+
+
+<PRE>
+
+ Score = 53.8 bits (176), Expect = 1e-05
+ Identities = 50/138 (36%), Positives = 59/138 (42%), Gaps = 69/138 (50%)
+
+Query: 1   ASTTLSAG---RYRAEVDVG----------GRAVAAYE------DRG---TRLLYGVTEF 38
+           AS   S G   RYRAE D+G          GR VAAYE      DR+   TR +YG+TE 
+Sbjct: 181 ASAAASVGSWGRYRAEADIGGPLNPTGTVRGRLVAAYENRHFFYDRAKQNTRSIYGITEI 240
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 LLT+GAQYQ                                 H   DT RAFGS
+Sbjct: 241 DVTRDTLLTLGAQYQSVASVPDMSGVPMARDGASLGLPRSTFLDVGWGHFDWDTTRAFGS 300
+
+Query: 58  LEQ------KGKVSAEYQ 69
+           +EQ      K+K+S+EYQ
+Sbjct: 301 VEQKLGGGWKAKLSGEYQ 318
+</PRE>
+
+
+<PRE>
+><a name = 167722748></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167722748&dopt=GenPept" >ref|ZP_02405984.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei DM98]
+          Length = 521
+
+ Score = 85.9 bits (291), Expect = 2e-15
+ Identities = 56/108 (51%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLVVGGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 239 QKGVYGLGRIKLAQPVTLVVGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 298
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 299 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 346
+</PRE>
+
+
+<PRE>
+
+ Score = 48.3 bits (156), Expect = 5e-04
+ Identities = 45/128 (35%), Positives = 52/128 (40%), Gaps = 66/128 (51%)
+
+Query: 8   GRYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF------LLTV 42
+           GRYRA  D+GG          R VAAYEDRG         TR +YG+ E       L+TV
+Sbjct: 2   GRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEIDVARDTLVTV 61
+
+Query: 43  GAQYQ---------------------------------HI--DTYRAFGSLEQ------K 61
+           GAQYQ                                 H   DT R FGS+E       K
+Sbjct: 62  GAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGSVERELGGGWK 121
+
+Query: 62  GKVSAEYQ 69
+           +KVS+EYQ
+Sbjct: 122 AKVSGEYQ 129
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 422 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 481
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 482 AALNINNL 489
+</PRE>
+
+
+<PRE>
+><a name = 257143202></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=257143202&dopt=GenPept" >ref|ZP_05591464.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia thailandensis
+           E264]
+          Length = 714
+
+ Score = 85.6 bits (290), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 432 QKGVYGLGRIKLAQPVTLVLGGRVSWWSQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 491
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 492 SYAEVFQPQTKPTWDGSILTPVKGRTYETGIKGELSGGKLNVSLAAFR 539
+</PRE>
+
+
+<PRE>
+
+ Score = 48.8 bits (158), Expect = 3e-04
+ Identities = 51/136 (37%), Positives = 59/136 (43%), Gaps = 67/136 (49%)
+
+Query: 1   ASTTL-SAGRYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF-- 38
+           AS ++ S GRYRA  D+GG          R VAAYEDRG         TR +YG+ E   
+Sbjct: 187 ASASIGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEIDV 246
+
+Query: 39  ----LLTVGAQYQ---------------------------------HI--DTYRAFGSLE 59
+               L+TVGAQYQ                                 H   DT RAFGS+E
+Sbjct: 247 TRDTLVTVGAQYQSVASVPDMSGVPMARDGSSLGLSRSTFLDVGWGHFDWDTTRAFGSVE 306
+
+Query: 60  QK-G---K--VSAEYQ 69
+           QK G   K  VS+EYQ
+Sbjct: 307 QKLGGGWKALVSGEYQ 322
+</PRE>
+
+
+<PRE>
+
+ Score = 46.0 bits (148), Expect = 0.002
+ Identities = 28/68 (41%), Positives = 34/68 (50%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLRLW+NYD       WS+GGG+Q Q                 AL   RLGY     W+
+Sbjct: 615 HLLRLWTNYDLPWQERRWSIGGGVQVQSDFSAASNGVTMRQGGYALASVRLGYRYDRQWS 674
+
+Query: 207 AAVNVNSF 214
+           AA+NVN +
+Sbjct: 675 AALNVNNL 682
+</PRE>
+
+
+<PRE>
+><a name = 167616709></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167616709&dopt=GenPept" >ref|ZP_02385340.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia thailandensis
+           Bt4]
+          Length = 714
+
+ Score = 85.6 bits (290), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 432 QKGVYGLGRIKLAQPVTLVLGGRVSWWSQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 491
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 492 SYAEVFQPQTKPTWDGSILTPVKGRTYETGIKGELSGGKLNVSLAAFR 539
+</PRE>
+
+
+<PRE>
+
+ Score = 48.8 bits (158), Expect = 3e-04
+ Identities = 51/136 (37%), Positives = 59/136 (43%), Gaps = 67/136 (49%)
+
+Query: 1   ASTTL-SAGRYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF-- 38
+           AS ++ S GRYRA  D+GG          R VAAYEDRG         TR +YG+ E   
+Sbjct: 187 ASASIGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEIDV 246
+
+Query: 39  ----LLTVGAQYQ---------------------------------HI--DTYRAFGSLE 59
+               L+TVGAQYQ                                 H   DT RAFGS+E
+Sbjct: 247 TRDTLVTVGAQYQSVASVPDMSGVPMARDGSSLGLSRSTFLDVGWGHFDWDTTRAFGSVE 306
+
+Query: 60  QK-G---K--VSAEYQ 69
+           QK G   K  VS+EYQ
+Sbjct: 307 QKLGGGWKALVSGEYQ 322
+</PRE>
+
+
+<PRE>
+
+ Score = 46.0 bits (148), Expect = 0.002
+ Identities = 28/68 (41%), Positives = 34/68 (50%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLRLW+NYD       WS+GGG+Q Q                 AL   RLGY     W+
+Sbjct: 615 HLLRLWTNYDLPWQERRWSIGGGVQVQSDFSAASNGVTMRQGGYALASVRLGYRYDRQWS 674
+
+Query: 207 AAVNVNSF 214
+           AA+NVN +
+Sbjct: 675 AALNVNNL 682
+</PRE>
+
+
+<PRE>
+><a name = 167578569></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167578569&dopt=GenPept" >ref|ZP_02371443.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia thailandensis
+           TXDOH]
+          Length = 714
+
+ Score = 85.6 bits (290), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 432 QKGVYGLGRIKLAQPVTLVLGGRVSWWSQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 491
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 492 SYAEVFQPQTKPTWDGSILTPVKGRTYETGIKGELSGGKLNVSLAAFR 539
+</PRE>
+
+
+<PRE>
+
+ Score = 48.8 bits (158), Expect = 3e-04
+ Identities = 51/136 (37%), Positives = 59/136 (43%), Gaps = 67/136 (49%)
+
+Query: 1   ASTTL-SAGRYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF-- 38
+           AS ++ S GRYRA  D+GG          R VAAYEDRG         TR +YG+ E   
+Sbjct: 187 ASASIGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEIDV 246
+
+Query: 39  ----LLTVGAQYQ---------------------------------HI--DTYRAFGSLE 59
+               L+TVGAQYQ                                 H   DT RAFGS+E
+Sbjct: 247 TRDTLVTVGAQYQSVASVPDMSGVPMARDGSSLGLSRSTFLDVGWGHFDWDTTRAFGSVE 306
+
+Query: 60  QK-G---K--VSAEYQ 69
+           QK G   K  VS+EYQ
+Sbjct: 307 QKLGGGWKALVSGEYQ 322
+</PRE>
+
+
+<PRE>
+
+ Score = 46.0 bits (148), Expect = 0.002
+ Identities = 28/68 (41%), Positives = 34/68 (50%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLRLW+NYD       WS+GGG+Q Q                 AL   RLGY     W+
+Sbjct: 615 HLLRLWTNYDLPWQERRWSIGGGVQVQSDFSAASNGVTMRQGGYALASVRLGYRYDRHWS 674
+
+Query: 207 AAVNVNSF 214
+           AA+NVN +
+Sbjct: 675 AALNVNNL 682
+</PRE>
+
+
+<PRE>
+><a name = 83716062></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=83716062&dopt=GenPept" >ref|YP_440017.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia thailandensis
+           E264]
+ <a name = 83649887></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=83649887&dopt=GenPept" >gb|ABC33951.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia thailandensis
+           E264]
+          Length = 747
+
+ Score = 85.6 bits (290), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 465 QKGVYGLGRIKLAQPVTLVLGGRVSWWSQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 524
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 525 SYAEVFQPQTKPTWDGSILTPVKGRTYETGIKGELSGGKLNVSLAAFR 572
+</PRE>
+
+
+<PRE>
+
+ Score = 48.8 bits (158), Expect = 3e-04
+ Identities = 51/136 (37%), Positives = 59/136 (43%), Gaps = 67/136 (49%)
+
+Query: 1   ASTTL-SAGRYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF-- 38
+           AS ++ S GRYRA  D+GG          R VAAYEDRG         TR +YG+ E   
+Sbjct: 220 ASASIGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEIDV 279
+
+Query: 39  ----LLTVGAQYQ---------------------------------HI--DTYRAFGSLE 59
+               L+TVGAQYQ                                 H   DT RAFGS+E
+Sbjct: 280 TRDTLVTVGAQYQSVASVPDMSGVPMARDGSSLGLSRSTFLDVGWGHFDWDTTRAFGSVE 339
+
+Query: 60  QK-G---K--VSAEYQ 69
+           QK G   K  VS+EYQ
+Sbjct: 340 QKLGGGWKALVSGEYQ 355
+</PRE>
+
+
+<PRE>
+
+ Score = 46.0 bits (148), Expect = 0.002
+ Identities = 28/68 (41%), Positives = 34/68 (50%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLRLW+NYD       WS+GGG+Q Q                 AL   RLGY     W+
+Sbjct: 648 HLLRLWTNYDLPWQERRWSIGGGVQVQSDFSAASNGVTMRQGGYALASVRLGYRYDRQWS 707
+
+Query: 207 AAVNVNSF 214
+           AA+NVN +
+Sbjct: 708 AALNVNNL 715
+</PRE>
+
+
+<PRE>
+><a name = 217425523></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=217425523&dopt=GenPept" >ref|ZP_03457016.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 576]
+ <a name = 217391486></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=217391486&dopt=GenPept" >gb|EEC31515.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 576]
+          Length = 719
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 49.1 bits (159), Expect = 3e-04
+ Identities = 48/138 (34%), Positives = 56/138 (40%), Gaps = 69/138 (50%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 190 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 249
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 L+TVGAQYQ                                 H   DT R FGS
+Sbjct: 250 DVARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGS 309
+
+Query: 58  LEQ------KGKVSAEYQ 69
+           +E       K+KVS+EYQ
+Sbjct: 310 VERELGGGWKAKVSGEYQ 327
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 167921937></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167921937&dopt=GenPept" >ref|ZP_02509028.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei BCC215]
+          Length = 719
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 49.1 bits (159), Expect = 3e-04
+ Identities = 48/138 (34%), Positives = 56/138 (40%), Gaps = 69/138 (50%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 190 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 249
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 L+TVGAQYQ                                 H   DT R FGS
+Sbjct: 250 DVARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGS 309
+
+Query: 58  LEQ------KGKVSAEYQ 69
+           +E       K+KVS+EYQ
+Sbjct: 310 VERKLGGGWKAKVSGEYQ 327
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 167897364></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167897364&dopt=GenPept" >ref|ZP_02484766.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 7894]
+          Length = 719
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 49.1 bits (159), Expect = 3e-04
+ Identities = 48/138 (34%), Positives = 56/138 (40%), Gaps = 69/138 (50%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 190 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 249
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 L+TVGAQYQ                                 H   DT R FGS
+Sbjct: 250 DVARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGS 309
+
+Query: 58  LEQ------KGKVSAEYQ 69
+           +E       K+KVS+EYQ
+Sbjct: 310 VERKLGGGWKAKVSGEYQ 327
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERCWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 167827284></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167827284&dopt=GenPept" >ref|ZP_02458755.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 9]
+          Length = 716
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 49.1 bits (159), Expect = 3e-04
+ Identities = 48/138 (34%), Positives = 56/138 (40%), Gaps = 69/138 (50%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 190 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 249
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 L+TVGAQYQ                                 H   DT R FGS
+Sbjct: 250 DVARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGS 309
+
+Query: 58  LEQ------KGKVSAEYQ 69
+           +E       K+KVS+EYQ
+Sbjct: 310 VERELGGGWKAKVSGEYQ 327
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 167818905></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167818905&dopt=GenPept" >ref|ZP_02450585.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia pseudomallei 91]
+          Length = 717
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 435 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 494
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 495 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 542
+</PRE>
+
+
+<PRE>
+
+ Score = 48.8 bits (158), Expect = 3e-04
+ Identities = 48/136 (35%), Positives = 57/136 (41%), Gaps = 67/136 (49%)
+
+Query: 1   ASTTL-SAGRYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF-- 38
+           AS ++ S GRYRA  D+GG          R VAAYEDRG         TR +YG+ E   
+Sbjct: 190 ASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEIDV 249
+
+Query: 39  ----LLTVGAQYQ---------------------------------HI--DTYRAFGSLE 59
+               L+TVGAQYQ                                 H   DT R FGS+E
+Sbjct: 250 ARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGSVE 309
+
+Query: 60  Q------KGKVSAEYQ 69
+                  K+KVS+EYQ
+Sbjct: 310 RKLGGGWKAKVSGEYQ 325
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 618 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 677
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 678 AALNINNL 685
+</PRE>
+
+
+<PRE>
+><a name = 167741717></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167741717&dopt=GenPept" >ref|ZP_02414491.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia pseudomallei 14]
+          Length = 717
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 435 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 494
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 495 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 542
+</PRE>
+
+
+<PRE>
+
+ Score = 48.8 bits (158), Expect = 3e-04
+ Identities = 48/136 (35%), Positives = 57/136 (41%), Gaps = 67/136 (49%)
+
+Query: 1   ASTTL-SAGRYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF-- 38
+           AS ++ S GRYRA  D+GG          R VAAYEDRG         TR +YG+ E   
+Sbjct: 190 ASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEIDV 249
+
+Query: 39  ----LLTVGAQYQ---------------------------------HI--DTYRAFGSLE 59
+               L+TVGAQYQ                                 H   DT R FGS+E
+Sbjct: 250 ARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGSVE 309
+
+Query: 60  Q------KGKVSAEYQ 69
+                  K+KVS+EYQ
+Sbjct: 310 RKLGGGWKAKVSGEYQ 325
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 618 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 677
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 678 AALNINNL 685
+</PRE>
+
+
+<PRE>
+><a name = 53721627></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=53721627&dopt=GenPept" >ref|YP_110612.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia pseudomallei
+           K96243]
+ <a name = 52212041></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=52212041&dopt=GenPept" >emb|CAH38048.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia pseudomallei
+           K96243]
+          Length = 750
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 468 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 527
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 528 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 575
+</PRE>
+
+
+<PRE>
+
+ Score = 48.8 bits (158), Expect = 3e-04
+ Identities = 48/136 (35%), Positives = 57/136 (41%), Gaps = 67/136 (49%)
+
+Query: 1   ASTTL-SAGRYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF-- 38
+           AS ++ S GRYRA  D+GG          R VAAYEDRG         TR +YG+ E   
+Sbjct: 223 ASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEIDV 282
+
+Query: 39  ----LLTVGAQYQ---------------------------------HI--DTYRAFGSLE 59
+               L+TVGAQYQ                                 H   DT R FGS+E
+Sbjct: 283 ARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGSVE 342
+
+Query: 60  Q------KGKVSAEYQ 69
+                  K+KVS+EYQ
+Sbjct: 343 RKLGGGWKAKVSGEYQ 358
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 651 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 710
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 711 AALNINNL 718
+</PRE>
+
+
+<PRE>
+><a name = 76819570></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=76819570&dopt=GenPept" >ref|YP_337306.1|</a> Fe(III)-pyochelin receptor [Burkholderia pseudomallei 1710b]
+ <a name = 76584043></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=76584043&dopt=GenPept" >gb|ABA53517.1|</a> Fe(III)-pyochelin receptor precursor [Burkholderia pseudomallei
+           1710b]
+          Length = 752
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 470 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 529
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 530 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 577
+</PRE>
+
+
+<PRE>
+
+ Score = 49.1 bits (159), Expect = 3e-04
+ Identities = 48/138 (34%), Positives = 56/138 (40%), Gaps = 69/138 (50%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 223 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 282
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 L+TVGAQYQ                                 H   DT R FGS
+Sbjct: 283 DVARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGS 342
+
+Query: 58  LEQ------KGKVSAEYQ 69
+           +E       K+KVS+EYQ
+Sbjct: 343 VERKLGGGWKAKVSGEYQ 360
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 653 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 712
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 713 AALNINNL 720
+</PRE>
+
+
+<PRE>
+><a name = 254299854></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254299854&dopt=GenPept" >ref|ZP_04967302.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 406e]
+ <a name = 157809804></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157809804&dopt=GenPept" >gb|EDO86974.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 406e]
+          Length = 719
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 49.1 bits (159), Expect = 3e-04
+ Identities = 48/138 (34%), Positives = 56/138 (40%), Gaps = 69/138 (50%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 190 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 249
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 L+TVGAQYQ                                 H   DT R FGS
+Sbjct: 250 DVARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGS 309
+
+Query: 58  LEQ------KGKVSAEYQ 69
+           +E       K+KVS+EYQ
+Sbjct: 310 VERELGGGWKAKVSGEYQ 327
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 126456597></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126456597&dopt=GenPept" >ref|YP_001074829.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 1106a]
+ <a name = 167848769></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167848769&dopt=GenPept" >ref|ZP_02474277.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei B7210]
+ <a name = 226194931></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=226194931&dopt=GenPept" >ref|ZP_03790522.1|</a> TonB-dependent Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei Pakistan 9]
+ <a name = 242311883></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242311883&dopt=GenPept" >ref|ZP_04810900.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 1106b]
+ <a name = 254198775></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254198775&dopt=GenPept" >ref|ZP_04905195.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei S13]
+ <a name = 126230365></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126230365&dopt=GenPept" >gb|ABN93778.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 1106a]
+ <a name = 169655514></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169655514&dopt=GenPept" >gb|EDS88207.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei S13]
+ <a name = 225932736></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=225932736&dopt=GenPept" >gb|EEH28732.1|</a> TonB-dependent Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei Pakistan 9]
+ <a name = 242135122></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242135122&dopt=GenPept" >gb|EES21525.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 1106b]
+          Length = 719
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 49.1 bits (159), Expect = 3e-04
+ Identities = 48/138 (34%), Positives = 56/138 (40%), Gaps = 69/138 (50%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 190 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 249
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 L+TVGAQYQ                                 H   DT R FGS
+Sbjct: 250 DVARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGS 309
+
+Query: 58  LEQ------KGKVSAEYQ 69
+           +E       K+KVS+EYQ
+Sbjct: 310 VERELGGGWKAKVSGEYQ 327
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 126443574></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126443574&dopt=GenPept" >ref|YP_001061882.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 668]
+ <a name = 134278877></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=134278877&dopt=GenPept" >ref|ZP_01765590.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 305]
+ <a name = 126223065></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126223065&dopt=GenPept" >gb|ABN86570.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 668]
+ <a name = 134249296></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=134249296&dopt=GenPept" >gb|EBA49377.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 305]
+          Length = 719
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 48.8 bits (158), Expect = 3e-04
+ Identities = 48/136 (35%), Positives = 57/136 (41%), Gaps = 67/136 (49%)
+
+Query: 1   ASTTL-SAGRYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF-- 38
+           AS ++ S GRYRA  D+GG          R VAAYEDRG         TR +YG+ E   
+Sbjct: 192 ASASIGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEIDV 251
+
+Query: 39  ----LLTVGAQYQ---------------------------------HI--DTYRAFGSLE 59
+               L+TVGAQYQ                                 H   DT R FGS+E
+Sbjct: 252 ARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGSVE 311
+
+Query: 60  Q------KGKVSAEYQ 69
+                  K+KVS+EYQ
+Sbjct: 312 RELGGGWKAKVSGEYQ 327
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 254187412></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254187412&dopt=GenPept" >ref|ZP_04893925.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei Pasteur 52237]
+ <a name = 254265500></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254265500&dopt=GenPept" >ref|ZP_04956365.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 1710a]
+ <a name = 157935093></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157935093&dopt=GenPept" >gb|EDO90763.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei Pasteur 52237]
+ <a name = 254216502></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254216502&dopt=GenPept" >gb|EET05887.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 1710a]
+          Length = 719
+
+ Score = 85.3 bits (289), Expect = 3e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDVARDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 49.1 bits (159), Expect = 3e-04
+ Identities = 48/138 (34%), Positives = 56/138 (40%), Gaps = 69/138 (50%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 190 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 249
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 L+TVGAQYQ                                 H   DT R FGS
+Sbjct: 250 DVARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGS 309
+
+Query: 58  LEQ------KGKVSAEYQ 69
+           +E       K+KVS+EYQ
+Sbjct: 310 VERKLGGGWKAKVSGEYQ 327
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 237509372></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=237509372&dopt=GenPept" >ref|ZP_04522087.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei MSHR346]
+ <a name = 235001577></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=235001577&dopt=GenPept" >gb|EEP51001.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei MSHR346]
+          Length = 719
+
+ Score = 85.0 bits (288), Expect = 4e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDIVRDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 47.7 bits (154), Expect = 7e-04
+ Identities = 33/75 (44%), Positives = 38/75 (50%), Gaps = 28/75 (37%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 190 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 249
+
+Query: 39  ------LLTVGAQYQ 47
+                 L+TVGAQYQ
+Sbjct: 250 DVARDTLVTVGAQYQ 264
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 167914030></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167914030&dopt=GenPept" >ref|ZP_02501121.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 112]
+          Length = 719
+
+ Score = 85.0 bits (288), Expect = 4e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDIVRDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 49.1 bits (159), Expect = 3e-04
+ Identities = 48/138 (34%), Positives = 56/138 (40%), Gaps = 69/138 (50%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 190 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 249
+
+Query: 39  ------LLTVGAQYQ---------------------------------HI--DTYRAFGS 57
+                 L+TVGAQYQ                                 H   DT R FGS
+Sbjct: 250 DVARDTLVTVGAQYQSVASVPDMSGVPMARDGTSLGLPRSTFLDVGWGHFDWDTTRVFGS 309
+
+Query: 58  LEQ------KGKVSAEYQ 69
+           +E       K+KVS+EYQ
+Sbjct: 310 VERKLGGGWKAKVSGEYQ 327
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 167905724></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167905724&dopt=GenPept" >ref|ZP_02492929.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei NCTC 13177]
+          Length = 721
+
+ Score = 85.0 bits (288), Expect = 4e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 439 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDIVRDWSWYA 498
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 499 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 546
+</PRE>
+
+
+<PRE>
+
+ Score = 48.3 bits (156), Expect = 5e-04
+ Identities = 34/77 (44%), Positives = 39/77 (50%), Gaps = 30/77 (38%)
+
+Query: 1   ASTTLSA-----GRYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVT 36
+           AS + SA     GRYRA  D+GG          R VAAYEDRG         TR +YG+ 
+Sbjct: 190 ASASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIA 249
+
+Query: 37  EF------LLTVGAQYQ 47
+           E       L+TVGAQYQ
+Sbjct: 250 EIDVARDTLVTVGAQYQ 266
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 622 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 681
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 682 AALNINNL 689
+</PRE>
+
+
+<PRE>
+><a name = 254182353></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254182353&dopt=GenPept" >ref|ZP_04888948.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 1655]
+ <a name = 184212889></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=184212889&dopt=GenPept" >gb|EDU09932.1|</a> TonB-dependepnt Fe(III)-pyochelin receptor [Burkholderia
+           pseudomallei 1655]
+          Length = 719
+
+ Score = 85.0 bits (288), Expect = 4e-15
+ Identities = 55/108 (50%), Positives = 60/108 (55%), Gaps = 44/108 (40%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+LGRIKL   +TLV+GGR SW               FTPYGGLIWD    WSWY 
+Sbjct: 437 QKGVYGLGRIKLAQPVTLVLGGRLSWWNQDSLGAHYNAGRQFTPYGGLIWDIVRDWSWYA 496
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAFR 155
+           SYAEV                    TYETGIKGEL    LN+SLAAFR
+Sbjct: 497 SYAEVFQPQTKPTWDGGILTPVKGRTYETGIKGELAGGKLNVSLAAFR 544
+</PRE>
+
+
+<PRE>
+
+ Score = 47.7 bits (154), Expect = 7e-04
+ Identities = 33/75 (44%), Positives = 38/75 (50%), Gaps = 28/75 (37%)
+
+Query: 1   ASTTLSAG---RYRAEVDVGG----------RAVAAYEDRG---------TRLLYGVTEF 38
+           AS + S G   RYRA  D+GG          R VAAYEDRG         TR +YG+ E 
+Sbjct: 190 ASASASVGSWGRYRAQADIGGPLNPAGTVRGRLVAAYEDRGFFYDRAKQDTRSIYGIAEI 249
+
+Query: 39  ------LLTVGAQYQ 47
+                 L+TVGAQYQ
+Sbjct: 250 DVARDTLVTVGAQYQ 264
+</PRE>
+
+
+<PRE>
+
+ Score = 42.4 bits (135), Expect = 0.028
+ Identities = 27/68 (39%), Positives = 33/68 (48%), Gaps = 28/68 (41%)
+
+Query: 175 HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK----WT 206
+           HLLR+W+NYD       WSVGGG+Q Q                 AL   RLGY     W 
+Sbjct: 620 HLLRVWTNYDLPWQERRWSVGGGVQVQSDFSAASSGVTMRQGGYALASVRLGYRYDRHWR 679
+
+Query: 207 AAVNVNSF 214
+           AA+N+N +
+Sbjct: 680 AALNINNL 687
+</PRE>
+
+
+<PRE>
+><a name = 183601159></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=183601159&dopt=GenPept" >ref|ZP_02962652.1|</a> hypothetical protein PROSTU_04789 [Providencia stuartii ATCC 25827]
+ <a name = 188019504></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=188019504&dopt=GenPept" >gb|EDU57544.1|</a> hypothetical protein PROSTU_04789 [Providencia stuartii ATCC 25827]
+          Length = 713
+
+ Score = 84.7 bits (287), Expect = 5e-15
+ Identities = 85/251 (33%), Positives = 104/251 (41%), Gaps = 128/251 (50%)
+
+Query: 92  QKGLYALGRIKLL---TLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           QKG+Y+ GRIK++   T+++G+R SW                TPYGG+IWDF   WSWY 
+Sbjct: 431 QKGVYGMGRIKVVEPVTVIIGARDSWWELKSPTSKFTENGRITPYGGVIWDFAKDWSWYS 490
+
+Query: 131 SY-------------------AEVKTYETGIKGELLNLSL-------------------- 151
+           SY                    E  T ETGIK+ LLN SL                    
+Sbjct: 491 SYSTVYQPQTAKTWSGKMLKPVEGQTLETGIKAGLLNGSLNLSGAIYQIDIKNNPQVDPD 550
+
+Query: 152 ---AAF----------R--GFELEGTGYL---WSLSAGYTY------------------- 174
+              ++F          R  GFELEG GY+   W +S GYTY                   
+Sbjct: 551 HPTGGFDNYFISGGKVRSQGFELEGVGYITPFWDVSVGYTYTDTKYRDDSQNKGNAYNTL 610
+
+Query: 175 ---HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK--- 204
+              H LR+W+NYD       WS+GGG QAQ                 AL N RLGY    
+Sbjct: 611 TPRHMLRVWTNYDLPWDERKWSIGGGMQAQSAYSTTNGNVTLRQGGYALFNTRLGYQIDE 670
+
+Query: 205 -WTAAVNVNSF 214
+            W+AAVNVN +
+Sbjct: 671 TWSAAVNVNNL 681
+</PRE>
+
+
+<PRE>
+><a name = 317406664></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=317406664&dopt=GenPept" >gb|EFV86832.1|</a> Fe(III)-pyochelin receptor [Achromobacter xylosoxidans C54]
+          Length = 710
+
+ Score = 61.4 bits (203), Expect = 6e-08
+ Identities = 84/251 (33%), Positives = 100/251 (39%), Gaps = 128/251 (50%)
+
+Query: 90  AQQKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSW 128
+           A Q G+Y+ GR  L   LTLV+GGR SW               FTPYGGLI D+   WS 
+Sbjct: 426 ARQQGVYGMGRFSLADPLTLVLGGRMSWWNQDAPASRQRIDPEFTPYGGLIVDLDRQWSL 485
+
+Query: 129 YVSYAEV-------------------KTYETGIKGEL----LNLSLAAF----------- 154
+           Y SYAEV                     YE GIKGEL    LN+SLA F           
+Sbjct: 486 YGSYAEVFQPQTQLTRDGQGLDPVTGTNYEAGIKGELMDGALNVSLAVFQIRQKNRAQQD 545
+
+Query: 155 --------------------RGFELEGTGYL---WSLSAGYTY----------------- 174
+                               RGFE E++G +   W++ AGYT+                 
+Sbjct: 546 PAWPCVGQNCYYVAGGEVRSRGFEAEASGNITPYWTVAAGYTFNTSKYLTDTQAGGQPFA 605
+
+Query: 175 -----HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK- 204
+                H++RLW+NY         SVGGGLQ Q                 ALV  RL+Y  
+Sbjct: 606 SFTPKHIFRLWTNYALPTMQRRLSVGGGLQVQSGYSTESGPVTLRQGGYALVDLRLAYRV 665
+
+Query: 205 ---WTAAVNVN 212
+               TAA+NVN
+Sbjct: 666 DKHLTAALNVN 676
+</PRE>
+
+
+<PRE>
+
+ Score = 34.4 bits (106), Expect = 7.6
+ Identities = 29/76 (38%), Positives = 35/76 (46%), Gaps = 28/76 (36%)
+
+Query: 2   STTLSAG---RYRAEVDVG----------GRAVAAYEDRG---------TRLLYGVTEF- 38
+           S  LSAG   RYR E D+G          GR V A EDRG         + L+YG+ E  
+Sbjct: 182 SGALSAGSWDRYRVEADLGGPLNDSGSVRGRIVTALEDRGYFYDVADQKSALFYGIGEVD 241
+
+Query: 39  -----LLTVGAQYQHI 49
+                +L+ G QYQ I
+Sbjct: 242 LGPDTVLSAGLQYQRI 257
+</PRE>
+
+
+<PRE>
+><a name = 311107414></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=311107414&dopt=GenPept" >ref|YP_003980267.1|</a> Fe(3+)-pyochelin receptor 2 [Achromobacter xylosoxidans A8]
+ <a name = 310762103></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=310762103&dopt=GenPept" >gb|ADP17552.1|</a> Fe(3+)-pyochelin receptor 2 [Achromobacter xylosoxidans A8]
+          Length = 689
+
+ Score = 49.7 bits (161), Expect = 2e-04
+ Identities = 77/251 (30%), Positives = 96/251 (38%), Gaps = 128/251 (50%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYV 130
+           Q G+Y+ GR  L   +TLV+GGR SW               FTPYGGLI D+   WS Y 
+Sbjct: 407 QQGVYGMGRFSLADPVTLVLGGRMSWWNQSAPRARQRIDPEFTPYGGLIVDLGRQWSLYG 466
+
+Query: 131 SYAEV-------------------KTYETGIKGEL----LNLSLAAF------------- 154
+           SYA V                     YE GVKGEL    LN+SLA F             
+Sbjct: 467 SYAQVFQPQGELTRDGQPLDPITGTNYEAGVKGELADGALNVSLAVFQIQQKNRAQEDPA 526
+
+Query: 155 ------------------RGFELEGTGYL---WSLSAGYTY------------------- 174
+                             RG E E++G +   W++ AGYT+                   
+Sbjct: 527 WPCVGRNCYYISGGEVRSRGIEAEASGSITPYWTVAAGYTFNTSKYLTDSESGGQPFARF 586
+
+Query: 175 ---HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK--- 204
+              H++RLW+NY         SVGGGLQ Q                 ALV  R +Y    
+Sbjct: 587 TPKHIFRLWTNYALPGLERRLSVGGGLQVQSGYSTVSGPVTLRQGGYALVDLRMAYRVDK 646
+
+Query: 205 -WTAAVNVNSF 214
+             TA +NVN +
+Sbjct: 647 HVTASLNVNNL 657
+</PRE>
+
+
+<PRE>
+
+ Score = 34.6 bits (107), Expect = 6.2
+ Identities = 29/74 (39%), Positives = 36/74 (48%), Gaps = 28/74 (37%)
+
+Query: 4   TLSAG---RYRAEVDVG----------GRAVAAYEDRG---------TRLLYGVTEF--- 38
+           +LSAG   RYRAE D+G          GR V A EDRG         + L+YG+ E    
+Sbjct: 163 SLSAGSWDRYRAEADLGGPLNDSGSVRGRIVSAVEDRGYFYDVADQKSALFYGIGEVDLG 222
+
+Query: 39  ---LLTVGAQYQHI 49
+              +L+ G QYQ I
+Sbjct: 223 RDTVLSAGLQYQRI 236
+</PRE>
+
+
+<PRE>
+><a name = 311105725></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=311105725&dopt=GenPept" >ref|YP_003978578.1|</a> ferric pseudobactin M114 receptor protein [Achromobacter
+           xylosoxidans A8]
+ <a name = 310760414></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=310760414&dopt=GenPept" >gb|ADP15863.1|</a> ferric pseudobactin M114 receptor protein [Achromobacter
+           xylosoxidans A8]
+          Length = 792
+
+ Score = 49.7 bits (161), Expect = 2e-04
+ Identities = 45/116 (38%), Positives = 53/116 (45%), Gaps = 52/116 (44%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESWF-----------------------TPYGGLIWDF 125
+           Q G+Y++GR KL   LTLV G+R SW+                       TPYGGLI  F
+Sbjct: 501 QTGVYGVGRFKLADPLTLVAGARVSWYENTGNYRDGGQQYTDPYKENGVVTPYGGLIYAF 560
+
+Query: 126 ---WSWYVSYAEV-------------------KTYETGIKGELL----NLSLAAFR 155
+              WS YVS+AE+                   K YE GIKGELL    N S+A FR
+Sbjct: 561 NPQWSGYVSFAEIFEPQNAVDASGQILDPILGKNYEAGIKGELLDGRANASVALFR 616
+</PRE>
+
+
+<PRE>
+><a name = 253687005></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253687005&dopt=GenPept" >ref|YP_003016195.1|</a> TonB-dependent siderophore receptor [Pectobacterium carotovorum
+           subsp. carotovorum PC1]
+ <a name = 251753583></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=251753583&dopt=GenPept" >gb|ACT11659.1|</a> TonB-dependent siderophore receptor [Pectobacterium carotovorum
+           subsp. carotovorum PC1]
+          Length = 831
+
+ Score = 48.3 bits (156), Expect = 5e-04
+ Identities = 31/67 (46%), Positives = 36/67 (53%), Gaps = 26/67 (38%)
+
+Query: 115 FTPYGGLIWDF---WSWYVSYAEV-K------------------TYETGIKGEL----LN 148
+           F PYGGL+WDF    +WY+SYAE+ K                   YETGIKGE+    LN
+Sbjct: 585 FVPYGGLLWDFADNYTWYLSYAEIYKPQSEKDRNGNLLPAITGTNYETGIKGEFFDGDLN 644
+
+Query: 149 LSLAAFR 155
+            SLA FR
+Sbjct: 645 TSLALFR 651
+</PRE>
+
+
+<PRE>
+><a name = 227112595></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227112595&dopt=GenPept" >ref|ZP_03826251.1|</a> ferripyoverdine receptor [Pectobacterium carotovorum subsp.
+           brasiliensis PBR1692]
+          Length = 831
+
+ Score = 48.3 bits (156), Expect = 5e-04
+ Identities = 31/67 (46%), Positives = 36/67 (53%), Gaps = 26/67 (38%)
+
+Query: 115 FTPYGGLIWDF---WSWYVSYAEV-K------------------TYETGIKGEL----LN 148
+           F PYGGL+WDF    +WY+SYAE+ K                   YETGIKGE+    LN
+Sbjct: 585 FVPYGGLLWDFADNYTWYLSYAEIYKPQSEKDRNGKLLPAITGTNYETGIKGEFFDGDLN 644
+
+Query: 149 LSLAAFR 155
+            SLA FR
+Sbjct: 645 TSLALFR 651
+</PRE>
+
+
+<PRE>
+><a name = 227327846></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227327846&dopt=GenPept" >ref|ZP_03831870.1|</a> ferripyoverdine receptor [Pectobacterium carotovorum subsp.
+           carotovorum WPP14]
+          Length = 831
+
+ Score = 47.7 bits (154), Expect = 7e-04
+ Identities = 30/67 (44%), Positives = 36/67 (53%), Gaps = 26/67 (38%)
+
+Query: 115 FTPYGGLIWDF---WSWYVSYAEV-K------------------TYETGIKGEL----LN 148
+           F PYGGL+WDF    +WY+SYAE+ K                   YETGVKGE+    LN
+Sbjct: 585 FVPYGGLLWDFADNYTWYLSYAEIYKPQSEKDRNGKLLPAITGTNYETGVKGEFFDGDLN 644
+
+Query: 149 LSLAAFR 155
+            SLA FR
+Sbjct: 645 TSLALFR 651
+</PRE>
+
+
+<PRE>
+><a name = 262369800></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262369800&dopt=GenPept" >ref|ZP_06063128.1|</a> outer membrane receptor for fe(III)-coprogen [Acinetobacter
+           johnsonii SH046]
+ <a name = 262315868></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262315868&dopt=GenPept" >gb|EEY96907.1|</a> outer membrane receptor for fe(III)-coprogen [Acinetobacter
+           johnsonii SH046]
+          Length = 745
+
+ Score = 43.8 bits (140), Expect = 0.011
+ Identities = 28/67 (41%), Positives = 32/67 (47%), Gaps = 26/67 (38%)
+
+Query: 115 FTPYGGLIWDF---WSWYVSYA-------------------EVKTYETGIKGEL----LN 148
+           +TPY+GLI DF    SWY SY                    E KTYETGVKGE+    LN
+Sbjct: 508 LTPYAGLIFDFAPNYSWYASYTSIFKPQTNRDQSGDYLDPVEGKTYETGVKGEFLDKRLN 567
+
+Query: 149 LSLAAFR 155
+             L  FR
+Sbjct: 568 AGLSVFR 574
+</PRE>
+
+
+<PRE>
+><a name = 317406663></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=317406663&dopt=GenPept" >gb|EFV86831.1|</a> Fe(III)-pyochelin receptor [Achromobacter xylosoxidans C54]
+          Length = 657
+
+ Score = 43.0 bits (137), Expect = 0.019
+ Identities = 74/250 (29%), Positives = 93/250 (37%), Gaps = 129/250 (51%)
+
+Query: 94  GLYALGRIKL---LTLVVGGRESW---------------FTPYGGLIWDF---WSWYVSY 132
+           G+Y+ GR  L   LTLV+GGR  W               FTPYGGLI D+   WS Y SY
+Sbjct: 376 GVYGMGRFSLADPLTLVLGGRMDWSRLQAPKASQRTNAKFTPYGGLIVDLDRQWSLYGSY 435
+
+Query: 133 AEV--------------------KTYETGIKGEL----LNLSLAAF-------------- 154
+           A V                      YE GVKGEL    LN+SLA F              
+Sbjct: 436 AQVFMPQIDQLDRNGQPLDPVTGTNYEAGVKGELMDGALNVSLALFQIQQKNRAQADPSV 495
+
+Query: 155 -----------------RGFELEGTGYL---WSLSAGYTY-------------------- 174
+                            RGFE E+ G +   W++ AGYT+                    
+Sbjct: 496 VCVGKRCPSVAGGEVRSRGFEAEAAGAITPYWTVAAGYTFNTTKYKVDTRAEGQPYASFT 555
+
+Query: 175 --HLLRLWSNYD-------WSVGGGLQAQ-----------------ALVNMRLGYK---- 204
+             H++RLW+ Y         SVGGG+Q Q                 AL  MR++Y     
+Sbjct: 556 PRHIFRLWTEYALPALERRLSVGGGVQVQSGFYNVAKTITLRQGGYALADMRVAYRVDKH 615
+
+Query: 205 WTAAVNVNSF 214
+            T A+N N +
+Sbjct: 616 VTVALNANNL 625
+</PRE>
+
+
+<PRE>
+><a name = 242240731></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242240731&dopt=GenPept" >ref|YP_002988912.1|</a> TonB-dependent siderophore receptor [Dickeya dadantii Ech703]
+ <a name = 242132788></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242132788&dopt=GenPept" >gb|ACS87090.1|</a> TonB-dependent siderophore receptor [Dickeya dadantii Ech703]
+          Length = 822
+
+ Score = 42.1 bits (134), Expect = 0.034
+ Identities = 28/70 (40%), Positives = 34/70 (48%), Gaps = 27/70 (38%)
+
+Query: 112 ESWFTPYGGLIWDF---WSWYVSYAEV-------------------KTYETGIKGEL--- 146
+           E W TPY GL+WDF    +WY+SYA +                   K YETGVK E+   
+Sbjct: 581 EQW-TPYSGLLWDFADHYTWYLSYADIYKPQENIDSRGNLLPAVTGKNYETGVKSEFLDG 639
+
+Query: 147 -LNLSLAAFR 155
+            LN S A FR
+Sbjct: 640 ALNTSAALFR 649
+</PRE>
+
+
+<PRE>
+><a name = 262374158></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262374158&dopt=GenPept" >ref|ZP_06067435.1|</a> outer membrane receptor for fe(III)-coprogen [Acinetobacter junii
+           SH205]
+ <a name = 262311169></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262311169&dopt=GenPept" >gb|EEY92256.1|</a> outer membrane receptor for fe(III)-coprogen [Acinetobacter junii
+           SH205]
+          Length = 716
+
+ Score = 41.3 bits (131), Expect = 0.061
+ Identities = 23/55 (41%), Positives = 28/55 (50%), Gaps = 22/55 (40%)
+
+Query: 116 TPYGGLIWDF---WSWYVSYA-------------------EVKTYETGIKGELLN 148
+           TPY+GLV DF    SWY SY                    E K+YETG+KGE+LN
+Sbjct: 482 TPYAGLVFDFLDQYSWYASYTSIFKPEDKRDINKQYLDPREGKSYETGLKGEFLN 536
+</PRE>
+
+
+<PRE>
+><a name = 257461127></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=257461127&dopt=GenPept" >ref|ZP_05626225.1|</a> ferripyoverdine receptor [Campylobacter gracilis RM3268]
+ <a name = 257441501></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=257441501&dopt=GenPept" >gb|EEV16646.1|</a> ferripyoverdine receptor [Campylobacter gracilis RM3268]
+          Length = 834
+
+ Score = 39.6 bits (125), Expect = 0.19
+ Identities = 26/66 (39%), Positives = 33/66 (50%), Gaps = 26/66 (39%)
+
+Query: 115 FTPYGGLIWDF---WSWYVSYAEV-K------------------TYETGIKGEL----LN 148
+           FTPY+G+VWDF    SWY SYAE+ K                    ETGVKGE+    LN
+Sbjct: 584 FTPYAGVVWDFADNFSWYASYAEIFKPQAARDKDGKILDPVVGYNLETGVKGEFFDGALN 643
+
+Query: 149 LSLAAF 154
+             +A F
+Sbjct: 644 TNVALF 649
+</PRE>
+
+
+<PRE>
+><a name = 157738085></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157738085&dopt=GenPept" >ref|YP_001490769.1|</a> TonB-dependent receptor protein [Arcobacter butzleri RM4018]
+ <a name = 157699939></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157699939&dopt=GenPept" >gb|ABV68099.1|</a> TonB-dependent receptor protein [Arcobacter butzleri RM4018]
+          Length = 708
+
+ Score = 37.7 bits (118), Expect = 0.75
+ Identities = 31/73 (42%), Positives = 34/73 (46%), Gaps = 30/73 (41%)
+
+Query: 116 TPYGGLIWDF---WSWYVSY-------------------AEVKTYETGIKGEL----LNL 149
+           TPY+GLV D     S YVSY                   AE K+YETGIKGE     LN 
+Sbjct: 479 TPYAGLVYDIDKNYSIYVSYTSIFKPTDRQDKDNNYLDPAEGKSYETGIKGEYFDGRLNT 538
+
+Query: 150 SLAAFR----GFE 158
+           SL  FR    GFE
+Sbjct: 539 SLSIFRIEQTGFE 551
+</PRE>
+
+
+<PRE>
+><a name = 116695618></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116695618&dopt=GenPept" >ref|YP_841194.1|</a> outer membrane receptor, TonB dependent [Ralstonia eutropha H16]
+ <a name = 113530117></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=113530117&dopt=GenPept" >emb|CAJ96464.1|</a> outer membrane receptor, TonB dependent [Ralstonia eutropha H16]
+          Length = 760
+
+ Score = 37.4 bits (117), Expect = 0.90
+ Identities = 27/67 (40%), Positives = 32/67 (47%), Gaps = 27/67 (40%)
+
+Query: 115 FTPYGGLIWDF---WSWYVSYAEV--------------------KTYETGIKGEL----L 147
+           FTP++GLI DF   WS Y SYAE+                    K YE GVK E+    L
+Sbjct: 511 FTPFAGLIYDFTEHWSAYASYAEIFQPQDEYLTASGNLVDPIKGKQYEVGVKSEFFEGAL 570
+
+Query: 148 NLSLAAF 154
+           N SLA F
+Sbjct: 571 NTSLALF 577
+</PRE>
+
+
+<PRE>
+><a name = 92115297></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=92115297&dopt=GenPept" >ref|YP_575225.1|</a> TonB-dependent siderophore receptor [Chromohalobacter salexigens
+           DSM 3043]
+ <a name = 91798387></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91798387&dopt=GenPept" >gb|ABE60526.1|</a> TonB-dependent siderophore receptor [Chromohalobacter salexigens
+           DSM 3043]
+          Length = 735
+
+ Score = 37.4 bits (117), Expect = 0.90
+ Identities = 37/113 (32%), Positives = 48/113 (42%), Gaps = 49/113 (43%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGR-------------------ESWFTPYGGLIW---DFW 126
+           QK +Y++ R  L   LTL++G+R                   E   TPYGGLV    D W
+Sbjct: 454 QKSVYGVTRFSLADPLTLIIGARYTDWHGSTWSSGLGSHSQDEDDITPYGGLVYDINDVW 513
+
+Query: 127 SWYVSYAEV--------------------KTYETGIKGE----LLNLSLAAFR 155
+           S Y+SY E+                    K YETGIK+     LLN S+  FR
+Sbjct: 514 STYLSYTEIFQPQSYRLAGGNGYLDPLVGKNYETGIKAAWFDGLLNASFSVFR 566
+</PRE>
+
+
+<PRE>
+><a name = 154174752></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=154174752&dopt=GenPept" >ref|YP_001408909.1|</a> ferripyoverdine receptor [Campylobacter curvus 525.92]
+ <a name = 112802561></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=112802561&dopt=GenPept" >gb|EAT99905.1|</a> ferripyoverdine receptor [Campylobacter curvus 525.92]
+          Length = 744
+
+ Score = 36.6 bits (114), Expect = 1.6
+ Identities = 17/24 (70%), Positives = 19/24 (79%), Gaps = 3/24 (12%)
+
+Query: 115 FTPYGGLIWDF---WSWYVSYAEV 135
+           FTPY+GL WDF    SWYVSYAE+
+Sbjct: 486 FTPYAGLTWDFTKNHSWYVSYAEI 509
+</PRE>
+
+
+<PRE>
+><a name = 170722642></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170722642&dopt=GenPept" >ref|YP_001750330.1|</a> TonB-dependent siderophore receptor [Pseudomonas putida W619]
+ <a name = 169760645></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169760645&dopt=GenPept" >gb|ACA73961.1|</a> TonB-dependent siderophore receptor [Pseudomonas putida W619]
+          Length = 825
+
+ Score = 34.6 bits (107), Expect = 6.2
+ Identities = 19/28 (67%), Positives = 21/28 (75%), Gaps = 3/28 (10%)
+
+Query: 92  QKGLYALGRIKL---LTLVVGGRESWFT 116
+           QKGLY   R+KL   LTLVVGGR SW+T
+Sbjct: 527 QKGLYSTLRLKLADPLTLVVGGRVSWYT 554
+</PRE>
+
+
+<PRE>
+><a name = 146309570></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146309570&dopt=GenPept" >ref|YP_001190035.1|</a> TonB-dependent siderophore receptor [Pseudomonas mendocina ymp]
+ <a name = 145577771></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145577771&dopt=GenPept" >gb|ABP87303.1|</a> TonB-dependent siderophore receptor [Pseudomonas mendocina ymp]
+          Length = 720
+
+ Score = 34.1 bits (105), Expect = 9.2
+ Identities = 24/65 (36%), Positives = 30/65 (46%), Gaps = 26/65 (40%)
+
+Query: 117 PYGGLIWDF---WSWYVSYAEV-----KT--------------YETGIKGEL----LNLS 150
+           PY+G+V D     S Y SY E+     KT              YE GIKGEL    +N+ 
+Sbjct: 496 PYAGVVYDITDQYSVYASYTEIFDPQTKTNAAGSRLAPVEGVNYEVGIKGELFDDKVNVA 555
+
+Query: 151 LAAFR 155
+           LA FR
+Sbjct: 556 LAVFR 560
+</PRE>
+
+
+<PRE>
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 861,928,619
+  Number of sequences in database:  2,557,525
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.01
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 910,730,992
+  Number of sequences in database:  2,615,592
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.02
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 965,803,591
+  Number of sequences in database:  2,808,441
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.03
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 983,507,158
+  Number of sequences in database:  2,947,407
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.04
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 772,737,879
+  Number of sequences in database:  2,206,433
+  
+Lambda     K      H
+   0.304    0.291     1.86 
+
+Gapped
+Lambda     K      H
+   0.193   0.0350    0.120 
+
+
+Matrix: bbTMall
+Gap Penalties: Existence: 13, Extension: 2
+Number of Hits to DB: 7,409,069,250
+Number of Sequences: 13135398
+Number of extensions: 1316287977
+Number of successful extensions: 214826
+Number of sequences better than 10.0: 52
+Number of HSP's better than 10.0 without gapping: 0
+Number of HSP's successfully gapped in prelim test: 52
+Number of HSP's that attempted gapping in prelim test: 214213
+Number of HSP's gapped (non-prelim): 296
+length of query: 221
+length of database: 4,494,708,239
+effective HSP length: 154
+effective length of query: 67
+effective length of database: 2,471,856,947
+effective search space: 165614415449
+effective search space used: 165614415449
+T: 11
+A: 40
+X1: 16 ( 7.0 bits)
+X2: 53 (14.8 bits)
+X3: 89 (24.8 bits)
+S1: 46 (22.0 bits)
+S2: 105 (34.1 bits)
+</PRE>
+<P><HR><BR>
+<PRE></PRE>
+</BODY>
+</HTML>

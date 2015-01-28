@@ -1,0 +1,962 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> 1P4T_bb|length 86
+         (86 letters)
+
+<b>Database:</b> All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           13,135,398 sequences; 4,494,708,239 total letters
+
+Searching..................................................done<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15676561&dopt=GenPept" >ref|NP_273705.1|</a>  outer membrane protein [Neisseria meningit...   <a href = #15676561>153</a>   1e-35
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=34811029&dopt=GenPept" >pdb|1P4T|A</a>  Chain A, Crystal Structure Of Neisserial Surface...   <a href = #34811029>153</a>   1e-35
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254804542&dopt=GenPept" >ref|YP_003082763.1|</a>  outer membran protein [Neisseria mening...   <a href = #254804542>151</a>   4e-35
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161869601&dopt=GenPept" >ref|YP_001598768.1|</a>  outer membrane protein [Neisseria menin...   <a href = #161869601>151</a>   4e-35
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825536&dopt=GenPept" >gb|AAD53283.1|AF175680_1</a>  surface protein A [Neisseria menin...   <a href = #5825536>150</a>   5e-35
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825529&dopt=GenPept" >gb|AAD53280.1|AF175677_1</a>  surface protein A [Neisseria menin...   <a href = #5825529>148</a>   2e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254673682&dopt=GenPept" >emb|CBA09282.1|</a>  Opacity protein and related surface antigen...   <a href = #254673682>148</a>   3e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825539&dopt=GenPept" >gb|AAD53284.1|AF175681_1</a>  surface protein A [Neisseria menin...   <a href = #5825539>146</a>   8e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=121634460&dopt=GenPept" >ref|YP_974705.1|</a>  outer membrane protein [Neisseria meningit...   <a href = #121634460>146</a>   8e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01808965&dopt=GenPept" >gb|AAB41579.1|</a>  outer membrane protein [Neisseria meningitidis]   <a href = #1808965>146</a>   1e-33
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296315020&dopt=GenPept" >ref|ZP_06864961.1|</a>  surface protein A [Neisseria polysacchar...   <a href = #296315020>146</a>   1e-33
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261401088&dopt=GenPept" >ref|ZP_05987213.1|</a>  surface protein A [Neisseria lactamica A...   <a href = #261401088>146</a>   1e-33
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261392963&dopt=GenPept" >emb|CAX50548.1|</a>  outer-membrane associated protein NspA [Nei...   <a href = #261392963>144</a>   5e-33
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825526&dopt=GenPept" >gb|AAD53279.1|AF175676_1</a>  surface protein A [Neisseria menin...   <a href = #5825526>142</a>   2e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260665&dopt=GenPept" >gb|ACJ64703.1|</a>  NspA [Neisseria gonorrhoeae]                      <a href = #215260665>138</a>   2e-31
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260657&dopt=GenPept" >gb|ACJ64699.1|</a>  NspA [Neisseria gonorrhoeae]                      <a href = #215260657>138</a>   2e-31
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=239998418&dopt=GenPept" >ref|ZP_04718342.1|</a>  outer membrane protein [Neisseria gonorr...   <a href = #239998418>138</a>   2e-31
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194097944&dopt=GenPept" >ref|YP_002000990.1|</a>  outer membrane protein [Neisseria gonor...   <a href = #194097944>138</a>   2e-31
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240080122&dopt=GenPept" >ref|ZP_04724665.1|</a>  outer membrane protein [Neisseria gonorr...   <a href = #240080122>136</a>   8e-31
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260661&dopt=GenPept" >gb|ACJ64701.1|</a>  NspA [Neisseria gonorrhoeae] >gi|215260663|g...   <a href = #215260661>136</a>   1e-30
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260659&dopt=GenPept" >gb|ACJ64700.1|</a>  NspA [Neisseria gonorrhoeae]                      <a href = #215260659>136</a>   1e-30
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260655&dopt=GenPept" >gb|ACJ64698.1|</a>  NspA [Neisseria gonorrhoeae]                      <a href = #215260655>136</a>   1e-30
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240015982&dopt=GenPept" >ref|ZP_04722522.1|</a>  outer membrane protein [Neisseria gonorr...   <a href = #240015982>136</a>   1e-30
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=59800686&dopt=GenPept" >ref|YP_207398.1|</a>  outer membrane protein [Neisseria gonorrho...   <a href = #59800686>136</a>   1e-30
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=293399620&dopt=GenPept" >ref|ZP_06643773.1|</a>  outer membrane protein [Neisseria gonorr...   <a href = #293399620>130</a>   9e-29
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242877990&dopt=GenPept" >gb|ACS94042.1|</a>  NspA [Neisseria meningitidis]                     <a href = #242877990> 98</a>   6e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=319638393&dopt=GenPept" >ref|ZP_07993155.1|</a>  surface protein A [Neisseria mucosa C102...   <a href = #319638393> 68</a>   4e-10
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261380183&dopt=GenPept" >ref|ZP_05984756.1|</a>  surface protein A [Neisseria subflava NJ...   <a href = #261380183> 64</a>   9e-09
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261377935&dopt=GenPept" >ref|ZP_05982508.1|</a>  surface protein A [Neisseria cinerea ATC...   <a href = #261377935> 60</a>   9e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261377936&dopt=GenPept" >ref|ZP_05982509.1|</a>  surface protein A [Neisseria cinerea ATC...   <a href = #261377936> 57</a>   8e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=294671107&dopt=GenPept" >ref|ZP_06735962.1|</a>  hypothetical protein NEIELOOT_02815 [Nei...   <a href = #294671107> 52</a>   3e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313667831&dopt=GenPept" >ref|YP_004048115.1|</a>  opacity protein [Neisseria lactamica ST...   <a href = #313667831> 43</a>   0.012
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313669092&dopt=GenPept" >ref|YP_004049376.1|</a>  opacity protein [Neisseria lactamica ST...   <a href = #313669092> 37</a>   1.0  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=309378158&dopt=GenPept" >emb|CBX23201.1|</a>  neisserial surface protein A2 [Neisseria la...   <a href = #309378158> 37</a>   1.0  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269215177&dopt=GenPept" >ref|ZP_05987865.2|</a>  surface protein A [Neisseria lactamica A...   <a href = #269215177> 37</a>   1.0  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261400549&dopt=GenPept" >ref|ZP_05986674.1|</a>  opacity protein opA67 [Neisseria lactami...   <a href = #261400549> 37</a>   1.0  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=52425752&dopt=GenPept" >ref|YP_088889.1|</a>  hypothetical protein MS1697 [Mannheimia su...   <a href = #52425752> 36</a>   1.9  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=309379486&dopt=GenPept" >emb|CBX21852.1|</a>  unnamed protein product [Neisseria lactamic...   <a href = #309379486> 34</a>   5.9  
+</PRE>
+<PRE>
+><a name = 15676561></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15676561&dopt=GenPept" >ref|NP_273705.1|</a> outer membrane protein [Neisseria meningitidis MC58]
+ <a name = 5825531></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825531&dopt=GenPept" >gb|AAD53281.1|AF175678_1</a> surface protein A [Neisseria meningitidis]
+ <a name = 7225888></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=07225888&dopt=GenPept" >gb|AAF41081.1|</a> outer membrane protein NspA [Neisseria meningitidis MC58]
+ <a name = 316983628></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=316983628&dopt=GenPept" >gb|EFV62609.1|</a> opacity protein opA50 [Neisseria meningitidis H44/76]
+          Length = 174
+
+ Score =  153 bits (533), Expect = 1e-35
+ Identities = 86/149 (57%), Positives = 86/149 (57%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                IGLGVLTGVSY     VDLD
+Sbjct: 85  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSIGLGVLTGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           AGYRYNYI          SGELSAGVRVK
+Sbjct: 145 AGYRYNYIGKVNTVKNVRSGELSAGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 34811029></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=34811029&dopt=GenPept" >pdb|1P4T|A</a> Chain A, Crystal Structure Of Neisserial Surface Protein A (Nspa)
+          Length = 155
+
+ Score =  153 bits (533), Expect = 1e-35
+ Identities = 86/149 (57%), Positives = 86/149 (57%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 6   FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 65
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                IGLGVLTGVSY     VDLD
+Sbjct: 66  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSIGLGVLTGVSYAVTPNVDLD 125
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           AGYRYNYI          SGELSAGVRVK
+Sbjct: 126 AGYRYNYIGKVNTVKNVRSGELSAGVRVK 154
+</PRE>
+
+
+<PRE>
+><a name = 254804542></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254804542&dopt=GenPept" >ref|YP_003082763.1|</a> outer membran protein [Neisseria meningitidis alpha14]
+ <a name = 254668084></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254668084&dopt=GenPept" >emb|CBA04590.1|</a> outer membran protein [Neisseria meningitidis alpha14]
+          Length = 174
+
+ Score =  151 bits (526), Expect = 4e-35
+ Identities = 85/149 (57%), Positives = 85/149 (57%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                IGLGVLTGVSY     VDLD
+Sbjct: 85  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSIGLGVLTGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+            GYRYNYI          SGELSAGVRVK
+Sbjct: 145 TGYRYNYIGKVNTVKNVRSGELSAGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 161869601></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161869601&dopt=GenPept" >ref|YP_001598768.1|</a> outer membrane protein [Neisseria meningitidis 053442]
+ <a name = 161595154></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=161595154&dopt=GenPept" >gb|ABX72814.1|</a> outer membrane protein [Neisseria meningitidis 053442]
+          Length = 174
+
+ Score =  151 bits (526), Expect = 4e-35
+ Identities = 85/149 (57%), Positives = 85/149 (57%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                IGLGVL GVSY     VDLD
+Sbjct: 85  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSIGLGVLAGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           AGYRYNYI          SGELSAGVRVK
+Sbjct: 145 AGYRYNYIGKVNTVKNVRSGELSAGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 5825536></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825536&dopt=GenPept" >gb|AAD53283.1|AF175680_1</a> surface protein A [Neisseria meningitidis]
+ <a name = 5825541></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825541&dopt=GenPept" >gb|AAD53285.1|AF175682_1</a> surface protein A [Neisseria meningitidis]
+ <a name = 5825543></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825543&dopt=GenPept" >gb|AAD53286.1|AF175683_1</a> surface protein A [Neisseria meningitidis]
+ <a name = 1518522></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01518522&dopt=GenPept" >gb|AAC36000.1|</a> outer membrane protein [Neisseria meningitidis]
+          Length = 174
+
+ Score =  150 bits (524), Expect = 5e-35
+ Identities = 85/149 (57%), Positives = 85/149 (57%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                IGLGVLTGVSY     VDLD
+Sbjct: 85  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSIGLGVLTGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           AGYRYNYI          SGELS GVRVK
+Sbjct: 145 AGYRYNYIGKVNTVKNVRSGELSVGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 5825529></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825529&dopt=GenPept" >gb|AAD53280.1|AF175677_1</a> surface protein A [Neisseria meningitidis]
+ <a name = 5825534></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825534&dopt=GenPept" >gb|AAD53282.1|AF175679_1</a> surface protein A [Neisseria meningitidis]
+          Length = 174
+
+ Score =  148 bits (517), Expect = 2e-34
+ Identities = 85/149 (57%), Positives = 85/149 (57%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                 GLGVLTGVSY     VDLD
+Sbjct: 85  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSTGLGVLTGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           AGYRYNYI          SGELSAGVRVK
+Sbjct: 145 AGYRYNYIGKVNTVKNVRSGELSAGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 254673682></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254673682&dopt=GenPept" >emb|CBA09282.1|</a> Opacity protein and related surface antigens [Neisseria
+           meningitidis alpha275]
+          Length = 174
+
+ Score =  148 bits (516), Expect = 3e-34
+ Identities = 84/149 (56%), Positives = 84/149 (56%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                IGLGVLTGVSY     VDLD
+Sbjct: 85  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSIGLGVLTGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           A YRYNYI          SGELS GVRVK
+Sbjct: 145 ASYRYNYIGKVNTVKNVRSGELSVGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 5825539></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825539&dopt=GenPept" >gb|AAD53284.1|AF175681_1</a> surface protein A [Neisseria meningitidis]
+ <a name = 254670342></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254670342&dopt=GenPept" >emb|CBA05762.1|</a> Opacity protein and related surface antigens [Neisseria
+           meningitidis alpha153]
+ <a name = 308388848></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=308388848&dopt=GenPept" >gb|ADO31168.1|</a> outer membrane protein [Neisseria meningitidis alpha710]
+          Length = 174
+
+ Score =  146 bits (510), Expect = 8e-34
+ Identities = 84/149 (56%), Positives = 84/149 (56%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                 GLGVL GVSY     VDLD
+Sbjct: 85  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSTGLGVLAGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           AGYRYNYI          SGELSAGVRVK
+Sbjct: 145 AGYRYNYIGKVNTVKNVRSGELSAGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 121634460></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=121634460&dopt=GenPept" >ref|YP_974705.1|</a> outer membrane protein [Neisseria meningitidis FAM18]
+ <a name = 218767785></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218767785&dopt=GenPept" >ref|YP_002342297.1|</a> outer membrane protein [Neisseria meningitidis Z2491]
+ <a name = 1808967></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01808967&dopt=GenPept" >gb|AAB41580.1|</a> outer membrane protein [Neisseria meningitidis]
+ <a name = 120866166></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=120866166&dopt=GenPept" >emb|CAM09906.1|</a> outer membrane protein [Neisseria meningitidis FAM18]
+ <a name = 121051793></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=121051793&dopt=GenPept" >emb|CAM08099.1|</a> outer membrane protein [Neisseria meningitidis Z2491]
+ <a name = 319410036></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=319410036&dopt=GenPept" >emb|CBY90370.1|</a> outer-membrane associated protein NspA [Neisseria meningitidis WUE
+           2594]
+          Length = 174
+
+ Score =  146 bits (510), Expect = 8e-34
+ Identities = 84/149 (56%), Positives = 84/149 (56%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                 GLGVL GVSY     VDLD
+Sbjct: 85  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSTGLGVLAGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           AGYRYNYI          SGELSAGVRVK
+Sbjct: 145 AGYRYNYIGKVNTVKNVRSGELSAGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 1808965></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01808965&dopt=GenPept" >gb|AAB41579.1|</a> outer membrane protein [Neisseria meningitidis]
+          Length = 175
+
+ Score =  146 bits (508), Expect = 1e-33
+ Identities = 84/150 (56%), Positives = 84/150 (56%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQVPSTDFKLYSI 84
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GASAIYD      VKPYLGARLSLN                 GLGVL GVSY     VDL
+Sbjct: 85  GASAIYDFDTQSPVKPYLGARLSLNRASVDFNGSDSFSQTSTGLGVLAGVSYAVTPNVDL 144
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNYI          SGELSAGVRVK
+Sbjct: 145 DAGYRYNYIGKVNTVKNVRSGELSAGVRVK 174
+</PRE>
+
+
+<PRE>
+><a name = 296315020></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296315020&dopt=GenPept" >ref|ZP_06864961.1|</a> surface protein A [Neisseria polysaccharea ATCC 43768]
+ <a name = 296838222></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296838222&dopt=GenPept" >gb|EFH22160.1|</a> surface protein A [Neisseria polysaccharea ATCC 43768]
+          Length = 175
+
+ Score =  146 bits (507), Expect = 1e-33
+ Identities = 84/150 (56%), Positives = 85/150 (56%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQVPSTDFKLYSI 84
+
+Query: 34  GASAIYD------VKPYLGARLSLN--------------I--GLGVLTGVSY-----VDL 66
+           GASAIYD      VKPYLGARLSLN              I  GLGVL GVSY     VDL
+Sbjct: 85  GASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQISTGLGVLAGVSYAVTPNVDL 144
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNYI          +GELSAGVRVK
+Sbjct: 145 DAGYRYNYIGKVNNVKNVRTGELSAGVRVK 174
+</PRE>
+
+
+<PRE>
+><a name = 261401088></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261401088&dopt=GenPept" >ref|ZP_05987213.1|</a> surface protein A [Neisseria lactamica ATCC 23970]
+ <a name = 304388088></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=304388088&dopt=GenPept" >ref|ZP_07370217.1|</a> surface protein A [Neisseria meningitidis ATCC 13091]
+ <a name = 313668862></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313668862&dopt=GenPept" >ref|YP_004049146.1|</a> Neisserial surface protein A (NspA) [Neisseria lactamica ST-640]
+ <a name = 269208980></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269208980&dopt=GenPept" >gb|EEZ75435.1|</a> surface protein A [Neisseria lactamica ATCC 23970]
+ <a name = 304337945></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=304337945&dopt=GenPept" >gb|EFM04085.1|</a> surface protein A [Neisseria meningitidis ATCC 13091]
+ <a name = 309378945></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=309378945&dopt=GenPept" >emb|CBX22398.1|</a> neisserial surface protein A [Neisseria lactamica Y92-1009]
+ <a name = 313006324></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313006324&dopt=GenPept" >emb|CBN87787.1|</a> Neisserial surface protein A (NspA) [Neisseria lactamica 020-06]
+          Length = 175
+
+ Score =  146 bits (507), Expect = 1e-33
+ Identities = 84/150 (56%), Positives = 85/150 (56%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQVPSTDFKLYSI 84
+
+Query: 34  GASAIYD------VKPYLGARLSLN--------------I--GLGVLTGVSY-----VDL 66
+           GASAIYD      VKPYLGARLSLN              I  GLGVL GVSY     VDL
+Sbjct: 85  GASAIYDFDTQSPVKPYLGARLSLNRASADLGGSDSFSQISTGLGVLAGVSYAVTPNVDL 144
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNYI          +GELSAGVRVK
+Sbjct: 145 DAGYRYNYIGKVNNVKNVRTGELSAGVRVK 174
+</PRE>
+
+
+<PRE>
+><a name = 261392963></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261392963&dopt=GenPept" >emb|CAX50548.1|</a> outer-membrane associated protein NspA [Neisseria meningitidis
+           8013]
+          Length = 174
+
+ Score =  144 bits (501), Expect = 5e-33
+ Identities = 83/149 (55%), Positives = 83/149 (55%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                 GLGVL GVSY     VDLD
+Sbjct: 85  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSTGLGVLAGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           AGYRYNYI          SGELS GVRVK
+Sbjct: 145 AGYRYNYIGKVNTVKNVRSGELSVGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 5825526></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05825526&dopt=GenPept" >gb|AAD53279.1|AF175676_1</a> surface protein A [Neisseria meningitidis]
+          Length = 174
+
+ Score =  142 bits (493), Expect = 2e-32
+ Identities = 83/149 (55%), Positives = 83/149 (55%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           ASAIYD      VKPYLGARLSLN                 GLGVL GVSY     VDLD
+Sbjct: 85  ASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSTGLGVLAGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           AGYRYNYI          SGELSAG RVK
+Sbjct: 145 AGYRYNYIGKVNTVKNVRSGELSAGMRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 215260665></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260665&dopt=GenPept" >gb|ACJ64703.1|</a> NspA [Neisseria gonorrhoeae]
+          Length = 174
+
+ Score =  138 bits (481), Expect = 2e-31
+ Identities = 82/150 (54%), Positives = 82/150 (54%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 24  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQAPSTDFKLYSI 83
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GAS IYD      VKPY GARLSLN                 GLGVL GVSY     VDL
+Sbjct: 84  GASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDL 143
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNYI          SGELSAGVRVK
+Sbjct: 144 DAGYRYNYIGKVNNVKNVRSGELSAGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 215260657></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260657&dopt=GenPept" >gb|ACJ64699.1|</a> NspA [Neisseria gonorrhoeae]
+          Length = 155
+
+ Score =  138 bits (481), Expect = 2e-31
+ Identities = 82/150 (54%), Positives = 82/150 (54%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 5   FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQAPSTDFKLYSI 64
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GAS IYD      VKPY GARLSLN                 GLGVL GVSY     VDL
+Sbjct: 65  GASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDL 124
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNYI          SGELSAGVRVK
+Sbjct: 125 DAGYRYNYIGKVNNVKNVRSGELSAGVRVK 154
+</PRE>
+
+
+<PRE>
+><a name = 239998418></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=239998418&dopt=GenPept" >ref|ZP_04718342.1|</a> outer membrane protein [Neisseria gonorrhoeae 35/02]
+ <a name = 240013543></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240013543&dopt=GenPept" >ref|ZP_04720456.1|</a> outer membrane protein [Neisseria gonorrhoeae DGI18]
+ <a name = 240112335></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240112335&dopt=GenPept" >ref|ZP_04726825.1|</a> outer membrane protein [Neisseria gonorrhoeae MS11]
+ <a name = 240117360></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240117360&dopt=GenPept" >ref|ZP_04731422.1|</a> outer membrane protein [Neisseria gonorrhoeae PID1]
+ <a name = 240120615></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240120615&dopt=GenPept" >ref|ZP_04733577.1|</a> outer membrane protein [Neisseria gonorrhoeae PID24-1]
+ <a name = 240125168></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240125168&dopt=GenPept" >ref|ZP_04738054.1|</a> outer membrane protein [Neisseria gonorrhoeae SK-92-679]
+ <a name = 260441108></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260441108&dopt=GenPept" >ref|ZP_05794924.1|</a> outer membrane protein [Neisseria gonorrhoeae DGI2]
+ <a name = 268594280></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268594280&dopt=GenPept" >ref|ZP_06128447.1|</a> outer membrane protein [Neisseria gonorrhoeae 35/02]
+ <a name = 268598395></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268598395&dopt=GenPept" >ref|ZP_06132562.1|</a> surface protein A [Neisseria gonorrhoeae MS11]
+ <a name = 268603056></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268603056&dopt=GenPept" >ref|ZP_06137223.1|</a> surface protein A [Neisseria gonorrhoeae PID1]
+ <a name = 268683763></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268683763&dopt=GenPept" >ref|ZP_06150625.1|</a> surface protein A [Neisseria gonorrhoeae SK-92-679]
+ <a name = 291044439></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291044439&dopt=GenPept" >ref|ZP_06570148.1|</a> outer membrane protein [Neisseria gonorrhoeae DGI2]
+ <a name = 268547669></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268547669&dopt=GenPept" >gb|EEZ43087.1|</a> outer membrane protein [Neisseria gonorrhoeae 35/02]
+ <a name = 268582526></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268582526&dopt=GenPept" >gb|EEZ47202.1|</a> surface protein A [Neisseria gonorrhoeae MS11]
+ <a name = 268587187></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268587187&dopt=GenPept" >gb|EEZ51863.1|</a> surface protein A [Neisseria gonorrhoeae PID1]
+ <a name = 268624047></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268624047&dopt=GenPept" >gb|EEZ56447.1|</a> surface protein A [Neisseria gonorrhoeae SK-92-679]
+ <a name = 291011333></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291011333&dopt=GenPept" >gb|EFE03329.1|</a> outer membrane protein [Neisseria gonorrhoeae DGI2]
+ <a name = 317163703></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=317163703&dopt=GenPept" >gb|ADV07244.1|</a> outer membrane protein [Neisseria gonorrhoeae TCDC-NG08107]
+          Length = 175
+
+ Score =  138 bits (481), Expect = 2e-31
+ Identities = 82/150 (54%), Positives = 82/150 (54%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQAPSTDFKLYSI 84
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GAS IYD      VKPY GARLSLN                 GLGVL GVSY     VDL
+Sbjct: 85  GASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDL 144
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNYI          SGELSAGVRVK
+Sbjct: 145 DAGYRYNYIGKVNNVKNVRSGELSAGVRVK 174
+</PRE>
+
+
+<PRE>
+><a name = 194097944></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=194097944&dopt=GenPept" >ref|YP_002000990.1|</a> outer membrane protein [Neisseria gonorrhoeae NCCP11945]
+ <a name = 254493137></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254493137&dopt=GenPept" >ref|ZP_05106308.1|</a> surface protein A [Neisseria gonorrhoeae 1291]
+ <a name = 193933234></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=193933234&dopt=GenPept" >gb|ACF29058.1|</a> outer membrane protein [Neisseria gonorrhoeae NCCP11945]
+ <a name = 226512177></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=226512177&dopt=GenPept" >gb|EEH61522.1|</a> surface protein A [Neisseria gonorrhoeae 1291]
+          Length = 175
+
+ Score =  138 bits (481), Expect = 2e-31
+ Identities = 82/150 (54%), Positives = 82/150 (54%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQAPSTDFKLYSI 84
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GAS IYD      VKPY GARLSLN                 GLGVL GVSY     VDL
+Sbjct: 85  GASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDL 144
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNYI          SGELSAGVRVK
+Sbjct: 145 DAGYRYNYIGKVNTVKNVRSGELSAGVRVK 174
+</PRE>
+
+
+<PRE>
+><a name = 240080122></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240080122&dopt=GenPept" >ref|ZP_04724665.1|</a> outer membrane protein [Neisseria gonorrhoeae FA19]
+ <a name = 268596274></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268596274&dopt=GenPept" >ref|ZP_06130441.1|</a> surface protein A [Neisseria gonorrhoeae FA19]
+ <a name = 1808969></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01808969&dopt=GenPept" >gb|AAB41581.1|</a> outer membrane protein [Neisseria gonorrhoeae]
+ <a name = 26324162></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26324162&dopt=GenPept" >gb|AAN77898.1|</a> surface protein A [Neisseria gonorrhoeae]
+ <a name = 268550062></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268550062&dopt=GenPept" >gb|EEZ45081.1|</a> surface protein A [Neisseria gonorrhoeae FA19]
+          Length = 174
+
+ Score =  136 bits (474), Expect = 8e-31
+ Identities = 81/149 (54%), Positives = 82/149 (55%), Gaps = 63/149 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY------------YSIG 34
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY            YSIG
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIG 84
+
+Query: 35  ASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDLD 67
+           AS IYD      VKPY GARLSLN                 GLGVL GVSY     VDLD
+Sbjct: 85  ASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDLD 144
+
+Query: 68  AGYRYNYI----------SGELSAGVRVK 86
+           AGYRYNY+          SGELSAGVRVK
+Sbjct: 145 AGYRYNYVGKVNTVKNVRSGELSAGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 215260661></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260661&dopt=GenPept" >gb|ACJ64701.1|</a> NspA [Neisseria gonorrhoeae]
+ <a name = 215260663></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260663&dopt=GenPept" >gb|ACJ64702.1|</a> NspA [Neisseria gonorrhoeae]
+          Length = 174
+
+ Score =  136 bits (472), Expect = 1e-30
+ Identities = 81/150 (54%), Positives = 82/150 (54%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 24  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQAPSTDFKLYSI 83
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GAS IYD      VKPY GARLSLN                 GLGVL GVSY     VDL
+Sbjct: 84  GASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDL 143
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNY+          SGELSAGVRVK
+Sbjct: 144 DAGYRYNYVGKVNNVKNVRSGELSAGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 215260659></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260659&dopt=GenPept" >gb|ACJ64700.1|</a> NspA [Neisseria gonorrhoeae]
+          Length = 174
+
+ Score =  136 bits (472), Expect = 1e-30
+ Identities = 81/150 (54%), Positives = 82/150 (54%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 24  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQAPSTDFKLYSI 83
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GAS IYD      VKPY GARLSLN                 GLGVL GVSY     VDL
+Sbjct: 84  GASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDL 143
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNY+          SGELSAGVRVK
+Sbjct: 144 DAGYRYNYVGKVNTVKNVRSGELSAGVRVK 173
+</PRE>
+
+
+<PRE>
+><a name = 215260655></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215260655&dopt=GenPept" >gb|ACJ64698.1|</a> NspA [Neisseria gonorrhoeae]
+          Length = 155
+
+ Score =  136 bits (472), Expect = 1e-30
+ Identities = 81/150 (54%), Positives = 82/150 (54%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 5   FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQAPSTDFKLYSI 64
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GAS IYD      VKPY GARLSLN                 GLGVL GVSY     VDL
+Sbjct: 65  GASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDL 124
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNY+          SGELSAGVRVK
+Sbjct: 125 DAGYRYNYVGKVNNVKNVRSGELSAGVRVK 154
+</PRE>
+
+
+<PRE>
+><a name = 240015982></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240015982&dopt=GenPept" >ref|ZP_04722522.1|</a> outer membrane protein [Neisseria gonorrhoeae FA6140]
+ <a name = 240122914></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240122914&dopt=GenPept" >ref|ZP_04735870.1|</a> outer membrane protein [Neisseria gonorrhoeae PID332]
+ <a name = 268681534></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268681534&dopt=GenPept" >ref|ZP_06148396.1|</a> surface protein A [Neisseria gonorrhoeae PID332]
+ <a name = 268621818></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268621818&dopt=GenPept" >gb|EEZ54218.1|</a> surface protein A [Neisseria gonorrhoeae PID332]
+          Length = 175
+
+ Score =  136 bits (472), Expect = 1e-30
+ Identities = 81/150 (54%), Positives = 82/150 (54%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQAPSTDFKLYSI 84
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GAS IYD      VKPY GARLSLN                 GLGVL GVSY     VDL
+Sbjct: 85  GASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDL 144
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNY+          SGELSAGVRVK
+Sbjct: 145 DAGYRYNYVGKVNTVKNVRSGELSAGVRVK 174
+</PRE>
+
+
+<PRE>
+><a name = 59800686></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=59800686&dopt=GenPept" >ref|YP_207398.1|</a> outer membrane protein [Neisseria gonorrhoeae FA 1090]
+ <a name = 240115076></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240115076&dopt=GenPept" >ref|ZP_04729138.1|</a> outer membrane protein [Neisseria gonorrhoeae PID18]
+ <a name = 240127624></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=240127624&dopt=GenPept" >ref|ZP_04740285.1|</a> outer membrane protein [Neisseria gonorrhoeae SK-93-1035]
+ <a name = 268600750></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268600750&dopt=GenPept" >ref|ZP_06134917.1|</a> surface protein A [Neisseria gonorrhoeae PID18]
+ <a name = 268686004></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268686004&dopt=GenPept" >ref|ZP_06152866.1|</a> surface protein A [Neisseria gonorrhoeae SK-93-1035]
+ <a name = 59717581></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=59717581&dopt=GenPept" >gb|AAW88986.1|</a> outer membrane protein [Neisseria gonorrhoeae FA 1090]
+ <a name = 268584881></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268584881&dopt=GenPept" >gb|EEZ49557.1|</a> surface protein A [Neisseria gonorrhoeae PID18]
+ <a name = 268626288></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=268626288&dopt=GenPept" >gb|EEZ58688.1|</a> surface protein A [Neisseria gonorrhoeae SK-93-1035]
+          Length = 175
+
+ Score =  136 bits (472), Expect = 1e-30
+ Identities = 81/150 (54%), Positives = 82/150 (54%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQADAAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 25  FYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQAPSTDFKLYSI 84
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GAS IYD      VKPY GARLSLN                 GLGVL GVSY     VDL
+Sbjct: 85  GASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDL 144
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNY+          SGELSAGVRVK
+Sbjct: 145 DAGYRYNYVGKVNNVKNVRSGELSAGVRVK 174
+</PRE>
+
+
+<PRE>
+><a name = 293399620></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=293399620&dopt=GenPept" >ref|ZP_06643773.1|</a> outer membrane protein [Neisseria gonorrhoeae F62]
+ <a name = 291610189></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291610189&dopt=GenPept" >gb|EFF39311.1|</a> outer membrane protein [Neisseria gonorrhoeae F62]
+          Length = 175
+
+ Score =  130 bits (450), Expect = 9e-29
+ Identities = 79/150 (52%), Positives = 80/150 (53%), Gaps = 64/150 (42%)
+
+Query: 1   FYVQADAAHA-----------FSPRISAGYR---LRFAVDYTRY-------------YSI 33
+           FYVQ  AAHA           FSPRISAGYR   LRFAVDYTRY             YSI
+Sbjct: 25  FYVQTGAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKNYKQAPSTDFKLYSI 84
+
+Query: 34  GASAIYD------VKPYLGARLSLN----------------IGLGVLTGVSY-----VDL 66
+           GAS IYD      VKPY GARLSLN                 GLGVL GVSY     VDL
+Sbjct: 85  GASVIYDFDTQSPVKPYFGARLSLNRASAHLGGSDSFSKTSAGLGVLAGVSYAVTPNVDL 144
+
+Query: 67  DAGYRYNYI----------SGELSAGVRVK 86
+           DAGYRYNY+          SGELSAGVRVK
+Sbjct: 145 DAGYRYNYVGKVNTVKNVRSGELSAGVRVK 174
+</PRE>
+
+
+<PRE>
+><a name = 242877990></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242877990&dopt=GenPept" >gb|ACS94042.1|</a> NspA [Neisseria meningitidis]
+          Length = 106
+
+ Score = 97.6 bits (333), Expect = 6e-19
+ Identities = 55/100 (55%), Positives = 56/100 (56%), Gaps = 42/100 (42%)
+
+Query: 10  AFSPRISAGYR---LRFAVDYTRY------------YSIGASAIYD------VKPYLGAR 48
+           +FSPRISAGYR   LRFAVDYTRY            YSIGASAIYD      VKPYLGAR
+Sbjct: 7   GFSPRISAGYRINDLRFAVDYTRYKNYKAPSTDFKLYSIGASAIYDFDTQSPVKPYLGAR 66
+
+Query: 49  LSLN----------------IGLGVLTGVSY-----VDLD 67
+           LSLN                 GLGVL GVSY     VDLD
+Sbjct: 67  LSLNRASVDLGGSDSFSQTSTGLGVLAGVSYAVTPNVDLD 106
+</PRE>
+
+
+<PRE>
+><a name = 319638393></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=319638393&dopt=GenPept" >ref|ZP_07993155.1|</a> surface protein A [Neisseria mucosa C102]
+ <a name = 317400142></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=317400142&dopt=GenPept" >gb|EFV80801.1|</a> surface protein A [Neisseria mucosa C102]
+          Length = 179
+
+ Score = 68.3 bits (228), Expect = 4e-10
+ Identities = 64/155 (41%), Positives = 66/155 (42%), Gaps = 72/155 (46%)
+
+Query: 1   FYVQADAAHA----------FSPRISAGY-----RLRFAVDYTRY--------------- 30
+           FYVQADA+HA          FSPRISAGY     R   A DYT Y               
+Sbjct: 25  FYVQADAGHATVKGDASVKGFSPRISAGYDFGDFRV--AADYTHYKSEKINTASFDAEGK 82
+
+Query: 31  Y-SIGASAIYD------VKPYLGARLSLN-------------------IGLGVLTGVSY- 63
+           Y S G SAIYD      VKPY GAR   N                    G G   GVSY 
+Sbjct: 83  YHSAGVSAIYDFDLQTPVKPYVGARVAINHASAKVKTANSYYERSDTKTGVGAMAGVSYE 142
+
+Query: 64  ----VDLDAGYRYNY------I---SGELSAGVRV 85
+               V LDAGYRYNY      I   + E SAGVRV
+Sbjct: 143 VTPNVALDAGYRYNYWGKMNSIKFHTHEVSAGVRV 177
+</PRE>
+
+
+<PRE>
+><a name = 261380183></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261380183&dopt=GenPept" >ref|ZP_05984756.1|</a> surface protein A [Neisseria subflava NJ9703]
+ <a name = 284797030></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=284797030&dopt=GenPept" >gb|EFC52377.1|</a> surface protein A [Neisseria subflava NJ9703]
+          Length = 196
+
+ Score = 63.6 bits (211), Expect = 9e-09
+ Identities = 69/173 (39%), Positives = 70/173 (40%), Gaps = 89/173 (51%)
+
+Query: 1   FYVQADA-------------------AHAFSPRISAGY-----RLRFAVDYT------R- 29
+           FYVQADA                   A +FSPR SAGY     R   A DYT      R 
+Sbjct: 25  FYVQADAGYSTVKIKDNSGEEEFSDKAKGFSPRLSAGYDFGDFRV--AADYTHHKSIERG 82
+
+Query: 30  --------YY-----SIGASAIYD------VKPYLGARL-----SLN------------- 52
+                   YY     SIG SAIYD      VKPY GARL     SLN             
+Sbjct: 83  EYEDDSHLYYKLKFQSIGVSAIYDFNTNTPVKPYIGARLGINRVSLNSDEADPGFHYTEH 142
+
+Query: 53  -----IGLGVLTGVSY-----VDLDAGYRYNY--------ISG-ELSAGVRVK 86
+                 G G L GVSY     V LDAGYRYNY        I   E SAGVRVK
+Sbjct: 143 SRKTKMGIGALAGVSYEVTPNVALDAGYRYNYWGNFEETKIQSHEVSAGVRVK 195
+</PRE>
+
+
+<PRE>
+><a name = 261377935></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261377935&dopt=GenPept" >ref|ZP_05982508.1|</a> surface protein A [Neisseria cinerea ATCC 14685]
+ <a name = 269145795></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269145795&dopt=GenPept" >gb|EEZ72213.1|</a> surface protein A [Neisseria cinerea ATCC 14685]
+          Length = 192
+
+ Score = 60.2 bits (199), Expect = 9e-08
+ Identities = 63/169 (37%), Positives = 68/169 (40%), Gaps = 85/169 (50%)
+
+Query: 1   FYVQADAAH---------------AFSPRISAGY-----RLRFAVDYTRY---------- 30
+           FYVQ+D +H               +FSPR SAGY     R   A DYT Y          
+Sbjct: 25  FYVQGDLGHSTLKTSDEGGKVSSKGFSPRLSAGYDFGDFRV--AADYTHYKTRKDHEQGP 82
+
+Query: 31  -Y---------SIGASAIYD------VKPYLGARLSLN---------------------- 52
+            Y         S+G SAIYD      VKPY GAR  LN                      
+Sbjct: 83  SYTLDSKIKLQSVGVSAIYDFDLNSPVKPYVGARVGLNRFSYDDDDRREGYHATETFRKT 142
+
+Query: 53  -IGLGVLTGVSY-----VDLDAGYRYNY------I---SGELSAGVRVK 86
+             GLGV TGV Y     V LDAGYRYN       I   + E SAGVRVK
+Sbjct: 143 KTGLGVMTGVGYDITQNVALDAGYRYNHWGNFDGIKVHTHEVSAGVRVK 191
+</PRE>
+
+
+<PRE>
+><a name = 261377936></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261377936&dopt=GenPept" >ref|ZP_05982509.1|</a> surface protein A [Neisseria cinerea ATCC 14685]
+ <a name = 269145796></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269145796&dopt=GenPept" >gb|EEZ72214.1|</a> surface protein A [Neisseria cinerea ATCC 14685]
+          Length = 194
+
+ Score = 57.2 bits (188), Expect = 8e-07
+ Identities = 62/171 (36%), Positives = 70/171 (40%), Gaps = 87/171 (50%)
+
+Query: 1   FYVQADAAH---------------AFSPRISAGY-----RLRFAVDYTRY---------- 30
+           FY+Q+D +H               +FSPR SAGY     R   A DYT Y          
+Sbjct: 25  FYIQGDVGHTSVKGKIYDESETAKGFSPRLSAGYDFGDFRV--AADYTHYKSHKESGRIS 82
+
+Query: 31  ----Y-------SIGASAIYD------VKPYLGARLSLN--------------I------ 53
+               Y       S+G SAIYD      VKPY GAR  LN              I      
+Sbjct: 83  DSTTYDAKAKFQSVGVSAIYDFDLNSPVKPYVGARVGLNHVSFDTKEYGSSGSIEHYETR 142
+
+Query: 54  ----GLGVLTGVSY-----VDLDAGYRYNY------I---SGELSAGVRVK 86
+               GLGV TG+ Y     + LDAGYRYNY      +   S E SAGVRVK
+Sbjct: 143 KTKTGLGVMTGIGYDINQNIALDAGYRYNYWGKFDDVKVHSHEVSAGVRVK 193
+</PRE>
+
+
+<PRE>
+><a name = 294671107></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=294671107&dopt=GenPept" >ref|ZP_06735962.1|</a> hypothetical protein NEIELOOT_02815 [Neisseria elongata subsp.
+           glycolytica ATCC 29315]
+ <a name = 291307215></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291307215&dopt=GenPept" >gb|EFE48458.1|</a> hypothetical protein NEIELOOT_02815 [Neisseria elongata subsp.
+           glycolytica ATCC 29315]
+          Length = 193
+
+ Score = 51.9 bits (169), Expect = 3e-05
+ Identities = 62/170 (36%), Positives = 67/170 (39%), Gaps = 86/170 (50%)
+
+Query: 1   FYVQADAAH---------------AFSPRISAGY-----RLRFAVDYTRY---------- 30
+           FYVQ+D +H               +FSPR SAGY     R   A DY  Y          
+Sbjct: 25  FYVQGDLGHSTIKTKDDGGKGSAKGFSPRLSAGYDFGDFRV--AADYIHYKTLKEHKRDP 82
+
+Query: 31  -YS----I-----GASAIYD------VKPYLGARLSLN-I-------------------- 53
+            Y+    I     G SAIYD      VKPY GARL LN I                    
+Sbjct: 83  LYTFDAKIKFQSFGVSAIYDFDLNSPVKPYVGARLGLNRISYSDDFRGTTGYHETESFRK 142
+
+Query: 54  ---GLGVLTGVSY-----VDLDAGYRYNY--------I-SGELSAGVRVK 86
+              G GV  GV Y     V LDAGYRYN         + S E SAGVRVK
+Sbjct: 143 TKAGVGVMAGVGYDITQNVALDAGYRYNHWGKFDGLKVHSHEVSAGVRVK 192
+</PRE>
+
+
+<PRE>
+><a name = 313667831></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313667831&dopt=GenPept" >ref|YP_004048115.1|</a> opacity protein [Neisseria lactamica ST-640]
+ <a name = 313005293></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313005293&dopt=GenPept" >emb|CBN86726.1|</a> putative opacity protein [Neisseria lactamica 020-06]
+          Length = 406
+
+ Score = 43.3 bits (138), Expect = 0.012
+ Identities = 30/71 (42%), Positives = 34/71 (47%), Gaps = 25/71 (35%)
+
+Query: 41  VKPYLGARLSLN-----------IGLGVLTGVSY-----VDLDAGYRYNYI--------- 75
+           VKPY GARL LN           +G G L GV +     V LD GYR+NY          
+Sbjct: 335 VKPYVGARLGLNRLKTEDYKKTKVGIGALGGVGFEVAPNVTLDLGYRFNYLGKFDDTRVF 394
+
+Query: 76  SGELSAGVRVK 86
+             E +AGVRVK
+Sbjct: 395 ANEYTAGVRVK 405
+</PRE>
+
+
+<PRE>
+><a name = 313669092></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313669092&dopt=GenPept" >ref|YP_004049376.1|</a> opacity protein [Neisseria lactamica ST-640]
+ <a name = 313006554></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=313006554&dopt=GenPept" >emb|CBN88018.1|</a> putative opacity protein [Neisseria lactamica 020-06]
+          Length = 225
+
+ Score = 36.9 bits (115), Expect = 1.0
+ Identities = 17/27 (62%), Positives = 18/27 (66%), Gaps = 6/27 (22%)
+
+Query: 32  SIGASAIYD------VKPYLGARLSLN 52
+           S+G SAIYD      VKPY GARLS N
+Sbjct: 96  SVGISAIYDFETQSPVKPYVGARLSVN 122
+</PRE>
+
+
+<PRE>
+><a name = 309378158></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=309378158&dopt=GenPept" >emb|CBX23201.1|</a> neisserial surface protein A2 [Neisseria lactamica Y92-1009]
+          Length = 172
+
+ Score = 36.9 bits (115), Expect = 1.0
+ Identities = 30/77 (38%), Positives = 33/77 (42%), Gaps = 33/77 (42%)
+
+Query: 41  VKPYLGARLSLN-----------------IGLGVLTGVSY-----VDLDAGYRYNYI--- 75
+           VKPY GARL LN                 I  G L GV +     V LD GYR+NY    
+Sbjct: 97  VKPYVGARLGLNRLTVKDEDGKYSKTKASI--GALGGVGFEVAPNVTLDLGYRFNYLGKL 154
+
+Query: 76  ------SGELSAGVRVK 86
+                   E +AGVRVK
+Sbjct: 155 DDTRVFANEYTAGVRVK 171
+</PRE>
+
+
+<PRE>
+><a name = 269215177></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269215177&dopt=GenPept" >ref|ZP_05987865.2|</a> surface protein A [Neisseria lactamica ATCC 23970]
+ <a name = 269208112></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269208112&dopt=GenPept" >gb|EEZ74567.1|</a> surface protein A [Neisseria lactamica ATCC 23970]
+          Length = 226
+
+ Score = 36.9 bits (115), Expect = 1.0
+ Identities = 30/77 (38%), Positives = 33/77 (42%), Gaps = 33/77 (42%)
+
+Query: 41  VKPYLGARLSLN-----------------IGLGVLTGVSY-----VDLDAGYRYNYI--- 75
+           VKPY GARL LN                 I  G L GV +     V LD GYR+NY    
+Sbjct: 151 VKPYVGARLGLNRLTVKDEDGKYSKTKASI--GALGGVGFEVAPNVTLDLGYRFNYLGKL 208
+
+Query: 76  ------SGELSAGVRVK 86
+                   E +AGVRVK
+Sbjct: 209 DDTRVFANEYTAGVRVK 225
+</PRE>
+
+
+<PRE>
+><a name = 261400549></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261400549&dopt=GenPept" >ref|ZP_05986674.1|</a> opacity protein opA67 [Neisseria lactamica ATCC 23970]
+ <a name = 269209619></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269209619&dopt=GenPept" >gb|EEZ76074.1|</a> opacity protein opA67 [Neisseria lactamica ATCC 23970]
+          Length = 225
+
+ Score = 36.9 bits (115), Expect = 1.0
+ Identities = 17/27 (62%), Positives = 18/27 (66%), Gaps = 6/27 (22%)
+
+Query: 32  SIGASAIYD------VKPYLGARLSLN 52
+           S+G SAIYD      VKPY GARLS N
+Sbjct: 96  SVGISAIYDFETQSPVKPYVGARLSVN 122
+</PRE>
+
+
+<PRE>
+><a name = 52425752></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=52425752&dopt=GenPept" >ref|YP_088889.1|</a> hypothetical protein MS1697 [Mannheimia succiniciproducens MBEL55E]
+ <a name = 52307804></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=52307804&dopt=GenPept" >gb|AAU38304.1|</a> unknown [Mannheimia succiniciproducens MBEL55E]
+          Length = 177
+
+ Score = 36.0 bits (112), Expect = 1.9
+ Identities = 28/67 (41%), Positives = 32/67 (47%), Gaps = 25/67 (37%)
+
+Query: 9   HAFSPRISAGYR---LRFAVDYTRY--------------YSIGASAIYD------VKPYL 45
+           H FSP +  GY     R+A+DYT Y              +  G SAIYD      VKPY 
+Sbjct: 41  HRFSPNVALGYDTGDMRYAIDYTHYGKSTDGNSEVKAHGF--GVSAIYDIEVGSPVKPYI 98
+
+Query: 46  GARLSLN 52
+           GARLS N
+Sbjct: 99  GARLSAN 105
+</PRE>
+
+
+<PRE>
+><a name = 309379486></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=309379486&dopt=GenPept" >emb|CBX21852.1|</a> unnamed protein product [Neisseria lactamica Y92-1009]
+          Length = 225
+
+ Score = 34.4 bits (106), Expect = 5.9
+ Identities = 16/27 (59%), Positives = 18/27 (66%), Gaps = 6/27 (22%)
+
+Query: 32  SIGASAIYD------VKPYLGARLSLN 52
+           S+G SA+YD      VKPY GARLS N
+Sbjct: 96  SVGISAVYDFETQSPVKPYVGARLSVN 122
+</PRE>
+
+
+<PRE>
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 861,928,619
+  Number of sequences in database:  2,557,525
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.01
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 910,730,992
+  Number of sequences in database:  2,615,592
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.02
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 965,803,591
+  Number of sequences in database:  2,808,441
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.03
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 983,507,158
+  Number of sequences in database:  2,947,407
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.04
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 772,737,879
+  Number of sequences in database:  2,206,433
+  
+Lambda     K      H
+   0.272    0.267     1.95 
+
+Gapped
+Lambda     K      H
+   0.193   0.0350    0.120 
+
+
+Matrix: bbTMin
+Gap Penalties: Existence: 13, Extension: 2
+Number of Hits to DB: 2,926,206,611
+Number of Sequences: 13135398
+Number of extensions: 471767214
+Number of successful extensions: 79419
+Number of sequences better than 10.0: 38
+Number of HSP's better than 10.0 without gapping: 19
+Number of HSP's successfully gapped in prelim test: 19
+Number of HSP's that attempted gapping in prelim test: 79186
+Number of HSP's gapped (non-prelim): 54
+length of query: 86
+length of database: 4,494,708,239
+effective HSP length: 52
+effective length of query: 34
+effective length of database: 3,811,667,543
+effective search space: 129596696462
+effective search space used: 129596696462
+T: 11
+A: 40
+X1: 18 ( 7.1 bits)
+X2: 53 (14.8 bits)
+X3: 89 (24.8 bits)
+S1: 51 (21.9 bits)
+S2: 104 (33.8 bits)
+</PRE>
+<P><HR><BR>
+<PRE></PRE>
+</BODY>
+</HTML>

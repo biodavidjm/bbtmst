@@ -1,0 +1,13 @@
+TO DO LIST
+
+> Once the FASTA SEQUENCE has been checked as correct, right now the situation is that the BLAST search starts right away, without letting the user knows about it.
+
+Therefore, before running the blast search, we need to show a message saying: BLAST SEARCH RUNNING. THIS MIGHT TAKE A FEW MINUTES. PLEASE, WAIT UNTIL IS COMPLETED (DON'T CLOSE THE FUCKING BROWSER OR YOU CAN SAY BYE BYE TO THE BLAST OUTPUT, IDIOT).
+Right now, a message is delivered once the blast search has finished, and you don't know if the sequence has been accepted or not.
+
+> Kill blast search if the user close the browser. This is important. Because if the user gets bored waiting for the blast results and says "fuck this" and close the browser, it doesn't make any sense to keep tanto working as a bitch, consuming resources, motherboards, etc
+
+
+
+
+

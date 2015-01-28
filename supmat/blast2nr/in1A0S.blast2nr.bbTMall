@@ -1,0 +1,2787 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> 1A0S_bb|length 172
+         (172 letters)
+
+<b>Database:</b> All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           13,135,398 sequences; 4,494,708,239 total letters
+
+Searching..................................................done<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=44829548&dopt=GenPept" >gb|AAS47896.1|</a>  sucrose-specific outer membrane porin [Esche...   <a href = #44829548>206</a>   8e-52
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00134332&dopt=GenPept" >sp|P22340|SCRY_SALTY</a>  RecName: Full=Sucrose porin; Flags: Pr...   <a href = #134332>206</a>   8e-52
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=02981659&dopt=GenPept" >pdb|1A0T|P</a>  Chain P, Sucrose-Specific Porin, With Bound Sucr...   <a href = #2981659>206</a>   8e-52
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=31615807&dopt=GenPept" >pdb|1OH2|Q</a>  Chain Q, Sucrose-Specific Porin, With Bound Sucr...   <a href = #31615807>184</a>   4e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300919760&dopt=GenPept" >ref|ZP_07136240.1|</a>  LamB porin [Escherichia coli MS 115-1] >...   <a href = #300919760>175</a>   2e-42
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=290510229&dopt=GenPept" >ref|ZP_06549599.1|</a>  sucrose porin [Klebsiella sp. 1_1_55] >g...   <a href = #290510229>175</a>   2e-42
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288936715&dopt=GenPept" >ref|YP_003440774.1|</a>  porin LamB type [Klebsiella variicola A...   <a href = #288936715>175</a>   2e-42
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262041428&dopt=GenPept" >ref|ZP_06014631.1|</a>  sucrose porin [Klebsiella pneumoniae sub...   <a href = #262041428>175</a>   2e-42
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238893529&dopt=GenPept" >ref|YP_002918263.1|</a>  sucrose porin [Klebsiella pneumoniae NT...   <a href = #238893529>175</a>   2e-42
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=152969086&dopt=GenPept" >ref|YP_001334195.1|</a>  sucrose porin [Klebsiella pneumoniae su...   <a href = #152969086>175</a>   2e-42
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206579016&dopt=GenPept" >ref|YP_002239876.1|</a>  sucrose porin ScrY [Klebsiella pneumoni...   <a href = #206579016>173</a>   6e-42
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323188811&dopt=GenPept" >gb|EFZ74096.1|</a>  sucrose porin [Escherichia coli RN587/1]          <a href = #323188811>149</a>   1e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312964962&dopt=GenPept" >ref|ZP_07779202.1|</a>  sucrose porin [Escherichia coli 2362-75]...   <a href = #312964962>149</a>   1e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301302533&dopt=GenPept" >ref|ZP_07208663.1|</a>  LamB porin [Escherichia coli MS 124-1] >...   <a href = #301302533>149</a>   1e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300905945&dopt=GenPept" >ref|ZP_07123673.1|</a>  LamB porin [Escherichia coli MS 84-1] >g...   <a href = #300905945>149</a>   1e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307145202&dopt=GenPept" >ref|ZP_07503634.1|</a>  sucrose porin precursor [Escherichia col...   <a href = #307145202>149</a>   1e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170682892&dopt=GenPept" >ref|YP_001744930.1|</a>  sucrose porin ScrY [Escherichia coli SM...   <a href = #170682892>149</a>   1e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110642911&dopt=GenPept" >ref|YP_670641.1|</a>  sucrose porin precursor [Escherichia coli ...   <a href = #110642911>149</a>   1e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=188534005&dopt=GenPept" >ref|YP_001907802.1|</a>  Putative sucrose porin [Erwinia tasmani...   <a href = #188534005>148</a>   3e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296102285&dopt=GenPept" >ref|YP_003612431.1|</a>  hypothetical protein ECL_01930 [Enterob...   <a href = #296102285>146</a>   1e-33
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=50250400&dopt=GenPept" >emb|CAG25845.1|</a>  sucrose porin precursor [Escherichia coli]       <a href = #50250400>145</a>   2e-33
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312172230&dopt=GenPept" >emb|CBX80487.1|</a>  Sucrose porin precursor [Erwinia amylovora ...   <a href = #312172230>143</a>   1e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292488098&dopt=GenPept" >ref|YP_003530975.1|</a>  sucrose porin [Erwinia amylovora CFBP14...   <a href = #292488098>143</a>   1e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=11071661&dopt=GenPept" >emb|CAC14599.1|</a>  Porin [Erwinia amylovora]                        <a href = #11071661>143</a>   1e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=310767492&dopt=GenPept" >gb|ADP12442.1|</a>  Porin [Erwinia sp. Ejp617]                        <a href = #310767492>142</a>   1e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=259908608&dopt=GenPept" >ref|YP_002648964.1|</a>  Porin [Erwinia pyrifoliae Ep1/96] >gi|2...   <a href = #259908608>142</a>   1e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146311673&dopt=GenPept" >ref|YP_001176747.1|</a>  porin, LamB type [Enterobacter sp. 638]...   <a href = #146311673>142</a>   2e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157147169&dopt=GenPept" >ref|YP_001454488.1|</a>  hypothetical protein CKO_02946 [Citroba...   <a href = #157147169>141</a>   4e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=308185533&dopt=GenPept" >ref|YP_003929665.1|</a>  sucrose porin precursor [Pantoea vagans...   <a href = #308185533>140</a>   5e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156935661&dopt=GenPept" >ref|YP_001439577.1|</a>  hypothetical protein ESA_03526 [Cronoba...   <a href = #156935661>138</a>   2e-31
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260596240&dopt=GenPept" >ref|YP_003208811.1|</a>  sucrose porin [Cronobacter turicensis z...   <a href = #260596240>132</a>   2e-29
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=304398732&dopt=GenPept" >ref|ZP_07380603.1|</a>  porin LamB type [Pantoea sp. aB] >gi|304...   <a href = #304398732>130</a>   5e-29
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=317052910&dopt=GenPept" >ref|YP_004119264.1|</a>  porin LamB type [Pantoea sp. At-9b] >gi...   <a href = #317052910>130</a>   6e-29
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291615886&dopt=GenPept" >ref|YP_003518628.1|</a>  ScrY [Pantoea ananatis LMG 20103] >gi|2...   <a href = #291615886>130</a>   6e-29
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=318607246&dopt=GenPept" >emb|CBY28744.1|</a>  maltoporin (maltose/maltodextrin high-affin...   <a href = #318607246>129</a>   2e-28
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238794157&dopt=GenPept" >ref|ZP_04637773.1|</a>  Sucrose porin [Yersinia intermedia ATCC ...   <a href = #238794157>129</a>   2e-28
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238790062&dopt=GenPept" >ref|ZP_04633840.1|</a>  Sucrose porin [Yersinia frederiksenii AT...   <a href = #238790062>129</a>   2e-28
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=123440922&dopt=GenPept" >ref|YP_001004913.1|</a>  sucrose porin [Yersinia enterocolitica ...   <a href = #123440922>129</a>   2e-28
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300819078&dopt=GenPept" >ref|ZP_07099281.1|</a>  LamB porin [Escherichia coli MS 107-1] >...   <a href = #300819078>124</a>   3e-27
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300825271&dopt=GenPept" >ref|ZP_07105356.1|</a>  LamB porin [Escherichia coli MS 119-7] >...   <a href = #300825271>124</a>   3e-27
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238752623&dopt=GenPept" >ref|ZP_04614095.1|</a>  Sucrose porin [Yersinia rohdei ATCC 4338...   <a href = #238752623>124</a>   6e-27
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238798260&dopt=GenPept" >ref|ZP_04641745.1|</a>  Sucrose porin [Yersinia mollaretii ATCC ...   <a href = #238798260>123</a>   7e-27
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238782746&dopt=GenPept" >ref|ZP_04626776.1|</a>  Sucrose porin [Yersinia bercovieri ATCC ...   <a href = #238782746>120</a>   6e-26
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238758548&dopt=GenPept" >ref|ZP_04619724.1|</a>  Sucrose porin [Yersinia aldovae ATCC 352...   <a href = #238758548>118</a>   2e-25
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=271498922&dopt=GenPept" >ref|YP_003331947.1|</a>  porin LamB type [Dickeya dadantii Ech58...   <a href = #271498922>115</a>   3e-24
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322835498&dopt=GenPept" >ref|YP_004215524.1|</a>  porin LamB type [Rahnella sp. Y9602] >g...   <a href = #322835498>112</a>   2e-23
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307129128&dopt=GenPept" >ref|YP_003881144.1|</a>  maltoporin (maltose/maltodextrin high-a...   <a href = #307129128>109</a>   1e-22
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=251791314&dopt=GenPept" >ref|YP_003006035.1|</a>  porin LamB type [Dickeya zeae Ech1591] ...   <a href = #251791314>109</a>   2e-22
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=50119322&dopt=GenPept" >ref|YP_048489.1|</a>  putative sucrose porin [Pectobacterium atr...   <a href = #50119322> 99</a>   2e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253686755&dopt=GenPept" >ref|YP_003015945.1|</a>  porin LamB type [Pectobacterium carotov...   <a href = #253686755> 98</a>   3e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227326946&dopt=GenPept" >ref|ZP_03830970.1|</a>  putative sucrose porin [Pectobacterium c...   <a href = #227326946> 98</a>   3e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227112812&dopt=GenPept" >ref|ZP_03826468.1|</a>  putative sucrose porin [Pectobacterium c...   <a href = #227112812> 98</a>   3e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242240992&dopt=GenPept" >ref|YP_002989173.1|</a>  porin LamB type [Dickeya dadantii Ech70...   <a href = #242240992> 97</a>   8e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261819738&dopt=GenPept" >ref|YP_003257844.1|</a>  porin LamB type [Pectobacterium wasabia...   <a href = #261819738> 96</a>   2e-18
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320194907&dopt=GenPept" >gb|EFW69536.1|</a>  sucrose porin [Escherichia coli WV_060327]        <a href = #320194907> 75</a>   4e-12
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145299902&dopt=GenPept" >ref|YP_001142743.1|</a>  sucrose porin [Aeromonas salmonicida su...   <a href = #145299902> 58</a>   4e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=117618402&dopt=GenPept" >ref|YP_857485.1|</a>  sucrose porin [Aeromonas hydrophila subsp....   <a href = #117618402> 58</a>   5e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320194908&dopt=GenPept" >gb|EFW69537.1|</a>  porin LamB type [Escherichia coli WV_060327]      <a href = #320194908> 52</a>   3e-05
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315179767&dopt=GenPept" >gb|ADT86681.1|</a>  sucrose porin [Vibrio furnissii NCTC 11218]       <a href = #315179767> 45</a>   0.003
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260768069&dopt=GenPept" >ref|ZP_05877003.1|</a>  maltoporin [Vibrio furnissii CIP 102972]...   <a href = #260768069> 45</a>   0.003
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269967168&dopt=GenPept" >ref|ZP_06181233.1|</a>  conserved hypothetical protein [Vibrio a...   <a href = #269967168> 42</a>   0.022
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262395899&dopt=GenPept" >ref|YP_003287752.1|</a>  maltoporin [Vibrio sp. Ex25] >gi|262339...   <a href = #262395899> 42</a>   0.022
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=152970444&dopt=GenPept" >ref|YP_001335553.1|</a>  putative maltoporin precursor [Klebsiel...   <a href = #152970444> 42</a>   0.022
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254228122&dopt=GenPept" >ref|ZP_04921552.1|</a>  Maltoporin [Vibrio sp. Ex25] >gi|1519396...   <a href = #254228122> 42</a>   0.022
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91224068&dopt=GenPept" >ref|ZP_01259331.1|</a>  putative sucrose porin [Vibrio alginolyt...   <a href = #91224068> 42</a>   0.033
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=290509335&dopt=GenPept" >ref|ZP_06548706.1|</a>  LamB family porin [Klebsiella sp. 1_1_55...   <a href = #290509335> 42</a>   0.039
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288935281&dopt=GenPept" >ref|YP_003439340.1|</a>  porin LamB type [Klebsiella variicola A...   <a href = #288935281> 42</a>   0.039
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206578943&dopt=GenPept" >ref|YP_002238295.1|</a>  porin, LamB family [Klebsiella pneumoni...   <a href = #206578943> 42</a>   0.039
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260779001&dopt=GenPept" >ref|ZP_05887893.1|</a>  maltoporin [Vibrio coralliilyticus ATCC ...   <a href = #260779001> 40</a>   0.10 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291086671&dopt=GenPept" >ref|ZP_06356414.2|</a>  maltoporin [Citrobacter youngae ATCC 292...   <a href = #291086671> 34</a>   8.8  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=283787284&dopt=GenPept" >ref|YP_003367149.1|</a>  maltoporin (maltose-inducible porin) [C...   <a href = #283787284> 34</a>   8.8  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260599569&dopt=GenPept" >ref|YP_003212140.1|</a>  maltoporin [Cronobacter turicensis z303...   <a href = #260599569> 34</a>   8.8  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=237728121&dopt=GenPept" >ref|ZP_04558602.1|</a>  maltoporin [Citrobacter sp. 30_2] >gi|22...   <a href = #237728121> 34</a>   8.8  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288550137&dopt=GenPept" >ref|ZP_05969405.2|</a>  maltoporin [Enterobacter cancerogenus AT...   <a href = #288550137> 34</a>   8.8  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=172045628&dopt=GenPept" >sp|A8AN92|LAMB_CITK8</a>  RecName: Full=Maltoporin; AltName: Ful...   <a href = #172045628> 34</a>   8.8  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157148072&dopt=GenPept" >ref|YP_001455391.1|</a>  maltoporin [Citrobacter koseri ATCC BAA...   <a href = #157148072> 34</a>   8.8  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146309907&dopt=GenPept" >ref|YP_001174981.1|</a>  maltoporin [Enterobacter sp. 638] >gi|1...   <a href = #146309907> 34</a>   8.8  
+</PRE>
+<PRE>
+><a name = 44829548></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=44829548&dopt=GenPept" >gb|AAS47896.1|</a> sucrose-specific outer membrane porin [Escherichia coli]
+          Length = 505
+
+ Score =  206 bits (725), Expect = 8e-52
+ Identities = 171/408 (41%), Positives = 171/408 (41%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSGVIMN                              TYVEMNLE          
+Sbjct: 97  FHGYARSGVIMNDSGASTKSGAYITPAGETGGAIGRLGNQADTYVEMNLEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 157 TRFKVMVADGQTSYNDWTASTSDLNVRQAFVELGNLPTFAGPFKGSTLWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNHF  
+Sbjct: 217 IHWIDSDVVFLAGTGGGIYDVKWNDGLRSNFSLYGRNFGDIDDSSNSVQNYILTMNHFAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            LQMMVSGLR                     TGVHALLGLHN          SKTALLYG
+Sbjct: 277 PLQMMVSGLRAKDNDERKDSNGNLVKGDAANTGVHALLGLHNDSFYGLRDGSSKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGT-------SVAPAMLAQR------------W 121
+           H                   DTWRIASYGT       SVAPAMLAQR            W
+Sbjct: 337 HGLGAEVKGIGSDGALRPGADTWRIASYGTTPLSENWSVAPAMLAQRSKDRYADGDSYQW 396
+
+Query: 122 ATFNLRLIQA------LAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           ATFNLRLIQA      LAYEGSYQY                 FYKLTFAPTF        
+Sbjct: 397 ATFNLRLIQAINQNFALAYEGSYQYMDLKPEGYNDRQAVNGSFYKLTFAPTFKVGSIGDF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIRFYTSWMD                       EWSFGVQMETW
+Sbjct: 457 FSRPEIRFYTSWMDWSKKLNNYASDDALGSDGFNSGGEWSFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 134332></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00134332&dopt=GenPept" >sp|P22340|SCRY_SALTY</a> RecName: Full=Sucrose porin; Flags: Precursor
+ <a name = 48830></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00048830&dopt=GenPept" >emb|CAA40656.1|</a> sucrose porin [Salmonella enterica subsp. enterica serovar
+           Typhimurium]
+ <a name = 155143></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00155143&dopt=GenPept" >gb|AAA98417.1|</a> sucrose porin [Plasmid pUR400]
+          Length = 505
+
+ Score =  206 bits (725), Expect = 8e-52
+ Identities = 171/408 (41%), Positives = 171/408 (41%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSGVIMN                              TYVEMNLE          
+Sbjct: 97  FHGYARSGVIMNDSGASTKSGAYITPAGETGGAIGRLGNQADTYVEMNLEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 157 TRFKVMVADGQTSYNDWTASTSDLNVRQAFVELGNLPTFAGPFKGSTLWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNHF  
+Sbjct: 217 IHWIDSDVVFLAGTGGGIYDVKWNDGLRSNFSLYGRNFGDIDDSSNSVQNYILTMNHFAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            LQMMVSGLR                     TGVHALLGLHN          SKTALLYG
+Sbjct: 277 PLQMMVSGLRAKDNDERKDSNGNLAKGDAANTGVHALLGLHNDSFYGLRDGSSKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGT-------SVAPAMLAQR------------W 121
+           H                   DTWRIASYGT       SVAPAMLAQR            W
+Sbjct: 337 HGLGAEVKGIGSDGALRPGADTWRIASYGTTPLSENWSVAPAMLAQRSKDRYADGDSYQW 396
+
+Query: 122 ATFNLRLIQA------LAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           ATFNLRLIQA      LAYEGSYQY                 FYKLTFAPTF        
+Sbjct: 397 ATFNLRLIQAINQNFALAYEGSYQYMDLKPEGYNDRQAVNGSFYKLTFAPTFKVGSIGDF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIRFYTSWMD                       EWSFGVQMETW
+Sbjct: 457 FSRPEIRFYTSWMDWSKKLNNYASDDALGSDGFNSGGEWSFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 2981659></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=02981659&dopt=GenPept" >pdb|1A0T|P</a> Chain P, Sucrose-Specific Porin, With Bound Sucrose Molecules
+ <a name = 2981660></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=02981660&dopt=GenPept" >pdb|1A0T|Q</a> Chain Q, Sucrose-Specific Porin, With Bound Sucrose Molecules
+ <a name = 2981661></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=02981661&dopt=GenPept" >pdb|1A0T|R</a> Chain R, Sucrose-Specific Porin, With Bound Sucrose Molecules
+ <a name = 3319010></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=03319010&dopt=GenPept" >pdb|1A0S|P</a> Chain P, Sucrose-Specific Porin
+ <a name = 3319011></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=03319011&dopt=GenPept" >pdb|1A0S|Q</a> Chain Q, Sucrose-Specific Porin
+ <a name = 3319012></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=03319012&dopt=GenPept" >pdb|1A0S|R</a> Chain R, Sucrose-Specific Porin
+ <a name = 31615806></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=31615806&dopt=GenPept" >pdb|1OH2|P</a> Chain P, Sucrose-Specific Porin, With Bound Sucrose Molecules
+ <a name = 31615808></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=31615808&dopt=GenPept" >pdb|1OH2|R</a> Chain R, Sucrose-Specific Porin, With Bound Sucrose Molecules
+          Length = 413
+
+ Score =  206 bits (725), Expect = 8e-52
+ Identities = 171/408 (41%), Positives = 171/408 (41%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSGVIMN                              TYVEMNLE          
+Sbjct: 5   FHGYARSGVIMNDSGASTKSGAYITPAGETGGAIGRLGNQADTYVEMNLEHKQTLDNGAT 64
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 65  TRFKVMVADGQTSYNDWTASTSDLNVRQAFVELGNLPTFAGPFKGSTLWAGKRFDRDNFD 124
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNHF  
+Sbjct: 125 IHWIDSDVVFLAGTGGGIYDVKWNDGLRSNFSLYGRNFGDIDDSSNSVQNYILTMNHFAG 184
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            LQMMVSGLR                     TGVHALLGLHN          SKTALLYG
+Sbjct: 185 PLQMMVSGLRAKDNDERKDSNGNLAKGDAANTGVHALLGLHNDSFYGLRDGSSKTALLYG 244
+
+Query: 100 H-------------------DTWRIASYGT-------SVAPAMLAQR------------W 121
+           H                   DTWRIASYGT       SVAPAMLAQR            W
+Sbjct: 245 HGLGAEVKGIGSDGALRPGADTWRIASYGTTPLSENWSVAPAMLAQRSKDRYADGDSYQW 304
+
+Query: 122 ATFNLRLIQA------LAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           ATFNLRLIQA      LAYEGSYQY                 FYKLTFAPTF        
+Sbjct: 305 ATFNLRLIQAINQNFALAYEGSYQYMDLKPEGYNDRQAVNGSFYKLTFAPTFKVGSIGDF 364
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIRFYTSWMD                       EWSFGVQMETW
+Sbjct: 365 FSRPEIRFYTSWMDWSKKLNNYASDDALGSDGFNSGGEWSFGVQMETW 412
+</PRE>
+
+
+<PRE>
+><a name = 31615807></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=31615807&dopt=GenPept" >pdb|1OH2|Q</a> Chain Q, Sucrose-Specific Porin, With Bound Sucrose Molecules
+          Length = 413
+
+ Score =  184 bits (645), Expect = 4e-45
+ Identities = 167/407 (41%), Positives = 167/407 (41%), Gaps = 237/407 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYA SGVIMN                              TYV MNLE          
+Sbjct: 5   FHGYAPSGVIMNDSGASTKSGAYITPAGETGGAIGPLGNAADTYVIMNLEHKQTLDNGAT 64
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NV QAFVEL               WAGKRF      
+Sbjct: 65  TRFKVMVADGQTSYNDWTASTSDLNVLQAFVELGNLPTFAGPFKGSTLWAGKRFDRDNFA 124
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNHF  
+Sbjct: 125 IHWILSCVVFLAGTGGGIYDVKWNDGLRSNFSLYGRNFGDIDDSSNSVQNYILTMNHFAG 184
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            LQMMVSGLR                     TGVHALLGLHN          SKTALLYG
+Sbjct: 185 PLQMMVSGLRAKDNDERKDSNGNLAKGDAANTGVHALLGLHNDSFYGLRDGSSKTALLYG 244
+
+Query: 100 H-------------------DTWRIASYGT-------SVAPAMLAQR------------W 121
+           H                   DTWRIASYGT       SVAPAMLAQR            W
+Sbjct: 245 HGLGAEVKGIGSDGALRPGADTWRIASYGTTPLSENWSVAPAMLAQRSKDRYADGDSYQW 304
+
+Query: 122 ATFNLRLIQA------LAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           ATFNLRLIQA      LAYEGSYQY                 FYKLTFAPTF        
+Sbjct: 305 ATFNLRLIQAINQNFALAYEGSYQYMDLKPEGYNDRQAVNGSFYKLTFAPTFKVGSIGDF 364
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMET 170
+               EIRFYTSWMD                       EWSFGVQMET
+Sbjct: 365 FSRPEIRFYTSWMDWSKKLNNYASDDALGSDGFNSGGEWSFGVQMET 411
+</PRE>
+
+
+<PRE>
+><a name = 300919760></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300919760&dopt=GenPept" >ref|ZP_07136240.1|</a> LamB porin [Escherichia coli MS 115-1]
+ <a name = 300413191></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300413191&dopt=GenPept" >gb|EFJ96501.1|</a> LamB porin [Escherichia coli MS 115-1]
+          Length = 505
+
+ Score =  175 bits (613), Expect = 2e-42
+ Identities = 158/408 (38%), Positives = 165/408 (40%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSGVIMN                              TYVEMNLE          
+Sbjct: 97  FHGYARSGVIMNDSGASTKSGAYMTPAGETGGAIGRLGNQADTYVEMNLEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 157 TRFKVMVADGQTTYNDWTASTSDLNVRQAFVELGNLPTFDGPFKGSTLWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL- 72
+                      AGTGGGIY         SNFSLYGRN           QNYI++MN F+ 
+Sbjct: 217 IHWIDSDVVFLAGTGGGIYDVRWNDSVRSNFSLYGRNFGDIADTSNSVQNYIVSMNNFIG 276
+
+Query: 73  --QMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+             QMMVSG R                     TGVHALLGLHN          SKTALLYG
+Sbjct: 277 PVQMMVSGMRAKDNDERQDTNGNPVKGDAANTGVHALLGLHNDSFYGLREGASKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       +APA LAQ    R        W
+Sbjct: 337 HGLGAEVKGVGSDGALRSGANTWRFASYGTTPLSKNWFIAPAILAQTSKDRYVDGDSYQW 396
+
+Query: 122 ATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT+NLRLIQ      ALAYEGSYQY                 FYKLTFAPTF        
+Sbjct: 397 ATLNLRLIQEINQNFALAYEGSYQYMDLKPEGYNDRHAVNGSFYKLTFAPTFKVGDIGDF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIR+YTSWMD                       EWSFG QMETW
+Sbjct: 457 FSRPEIRLYTSWMDWSKKLNNYASDDALGSSGFKSGGEWSFGMQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 290510229></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=290510229&dopt=GenPept" >ref|ZP_06549599.1|</a> sucrose porin [Klebsiella sp. 1_1_55]
+ <a name = 289776945></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=289776945&dopt=GenPept" >gb|EFD84943.1|</a> sucrose porin [Klebsiella sp. 1_1_55]
+          Length = 505
+
+ Score =  175 bits (613), Expect = 2e-42
+ Identities = 158/408 (38%), Positives = 164/408 (40%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSGVIMN                              TYVEMNLE          
+Sbjct: 97  FHGYARSGVIMNDSAASTKSGAYMTPAGETGGAIGRLGNQADTYVEMNLEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 157 TRFKVMVADGQTTYNDWTASSSDLNVRQAFVELGNLPTFEGPFKGSTLWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI++MN F  
+Sbjct: 217 IHWIDSDVVFLAGTGGGIYDVKWNDSLRSNFSLYGRNFGDIADSSNSVQNYIVSMNNFAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +QMMVSG R                     TGVHALLGLHN          SKTALLYG
+Sbjct: 277 PVQMMVSGMRAKDNDERQDTNGNLVKGDAANTGVHALLGLHNESFYGLRDGTSKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       +APA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALRPGANTWRFASYGTTPLSDRWFIAPAVLAQSSKDRYVDGDSYQW 396
+
+Query: 122 ATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT+NLRLIQ      ALA EGSYQY                 FYKLTFAPTF        
+Sbjct: 397 ATLNLRLIQEVTQNFALAWEGSYQYMDLQPEGYNDRHAVNGSFYKLTFAPTFKVGSIGDF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIRFYTSWMD                       EWSFG QMETW
+Sbjct: 457 FSRPEIRFYTSWMDWSKKLDNYANDDALGSNGFKSGGEWSFGMQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 288936715></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288936715&dopt=GenPept" >ref|YP_003440774.1|</a> porin LamB type [Klebsiella variicola At-22]
+ <a name = 288891424></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288891424&dopt=GenPept" >gb|ADC59742.1|</a> porin LamB type [Klebsiella variicola At-22]
+          Length = 505
+
+ Score =  175 bits (613), Expect = 2e-42
+ Identities = 158/408 (38%), Positives = 164/408 (40%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSGVIMN                              TYVEMNLE          
+Sbjct: 97  FHGYARSGVIMNDSAASTKSGAYMTPAGETGGAIGRLGNQADTYVEMNLEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 157 TRFKVMVADGQTTYNDWTASSSDLNVRQAFVELGNLPTFEGPFKGATLWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI++MN F  
+Sbjct: 217 IHWIDSDVVFLAGTGGGIYDVKWNDSLRSNFSLYGRNFGDIADSSNSVQNYIVSMNNFAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +QMMVSG R                     TGVHALLGLHN          SKTALLYG
+Sbjct: 277 PVQMMVSGMRAKDNDERQDTNGNLVKGDAANTGVHALLGLHNESFYGLRDGTSKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       +APA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALRPGANTWRFASYGTTPLSDRWFIAPAVLAQSSKDRYVDGDSYQW 396
+
+Query: 122 ATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT+NLRLIQ      ALA EGSYQY                 FYKLTFAPTF        
+Sbjct: 397 ATLNLRLIQEVTQNFALAWEGSYQYMDLQPEGYNDRHAVNGSFYKLTFAPTFKVGSIGDF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIRFYTSWMD                       EWSFG QMETW
+Sbjct: 457 FSRPEIRFYTSWMDWSKKLDNYANDDALGSNGFKSGGEWSFGMQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 262041428></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262041428&dopt=GenPept" >ref|ZP_06014631.1|</a> sucrose porin [Klebsiella pneumoniae subsp. rhinoscleromatis ATCC
+           13884]
+ <a name = 259041222></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=259041222&dopt=GenPept" >gb|EEW42290.1|</a> sucrose porin [Klebsiella pneumoniae subsp. rhinoscleromatis ATCC
+           13884]
+          Length = 510
+
+ Score =  175 bits (613), Expect = 2e-42
+ Identities = 158/408 (38%), Positives = 164/408 (40%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSGVIMN                              TYVEMNLE          
+Sbjct: 102 FHGYARSGVIMNDSAASTKSGAYMTPAGETGGAIGRLGNQADTYVEMNLEHKQTLDNGAT 161
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 162 TRFKVMVADGQTTYNDWTASSSDLNVRQAFVELGNLPTFEGPFKGSTLWAGKRFDRDNFD 221
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI++MN F  
+Sbjct: 222 IHWIDSDVVFLAGTGGGIYDVKWNDSLRSNFSLYGRNFGDIADSSNSVQNYIVSMNNFAG 281
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +QMMVSG R                     TGVHALLGLHN          SKTALLYG
+Sbjct: 282 PVQMMVSGMRAKDNDDRQDANGNLVKGDAANTGVHALLGLHNESFYGLRDGTSKTALLYG 341
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       +APA LAQ    R        W
+Sbjct: 342 HGLGAEVKGIGSDGALRPGANTWRFASYGTTPLSDRWFIAPAVLAQSSKDRYVDGDSYQW 401
+
+Query: 122 ATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT+NLRLIQ      ALA EGSYQY                 FYKLTFAPTF        
+Sbjct: 402 ATLNLRLIQEVTQNFALAWEGSYQYMDLQPEGYNDRHAVNGSFYKLTFAPTFKVGSIGDF 461
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIRFYTSWMD                       EWSFG QMETW
+Sbjct: 462 FSRPEIRFYTSWMDWSKKLDNYANDDALGSNGFKSGGEWSFGMQMETW 509
+</PRE>
+
+
+<PRE>
+><a name = 238893529></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238893529&dopt=GenPept" >ref|YP_002918263.1|</a> sucrose porin [Klebsiella pneumoniae NTUH-K2044]
+ <a name = 238545845></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238545845&dopt=GenPept" >dbj|BAH62196.1|</a> sucrose porin [Klebsiella pneumoniae NTUH-K2044]
+          Length = 510
+
+ Score =  175 bits (613), Expect = 2e-42
+ Identities = 158/408 (38%), Positives = 164/408 (40%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSGVIMN                              TYVEMNLE          
+Sbjct: 102 FHGYARSGVIMNDSAASTKSGAYMTPAGETGGAIGRLGNQADTYVEMNLEHKQTLDNGAT 161
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 162 TRFKVMVADGQTTYNDWTASSSDLNVRQAFVELGNLPTFEGPFKGSTLWAGKRFDRDNFD 221
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI++MN F  
+Sbjct: 222 IHWIDSDVVFLAGTGGGIYDVKWNDSLRSNFSLYGRNFGDIADSSNSVQNYIVSMNNFAG 281
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +QMMVSG R                     TGVHALLGLHN          SKTALLYG
+Sbjct: 282 PVQMMVSGMRAKDNDDRQDANGNLVKGDAANTGVHALLGLHNESFYGLRDGTSKTALLYG 341
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       +APA LAQ    R        W
+Sbjct: 342 HGLGAEVKGIGSDGALRPGANTWRFASYGTTPLSDRWFIAPAVLAQSSKDRYVDGDSYQW 401
+
+Query: 122 ATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT+NLRLIQ      ALA EGSYQY                 FYKLTFAPTF        
+Sbjct: 402 ATLNLRLIQEVTQNFALAWEGSYQYMDLQPEGYNDRHAVNGSFYKLTFAPTFKVGSIGDF 461
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIRFYTSWMD                       EWSFG QMETW
+Sbjct: 462 FSRPEIRFYTSWMDWSKKLDNYANDDALGSNGFKSGGEWSFGMQMETW 509
+</PRE>
+
+
+<PRE>
+><a name = 152969086></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=152969086&dopt=GenPept" >ref|YP_001334195.1|</a> sucrose porin [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+ <a name = 134330></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00134330&dopt=GenPept" >sp|P27218|SCRY_KLEPN</a> RecName: Full=Sucrose porin; Flags: Precursor
+ <a name = 43932></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00043932&dopt=GenPept" >emb|CAA40657.1|</a> sucrose porin [Klebsiella pneumoniae]
+ <a name = 150953935></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=150953935&dopt=GenPept" >gb|ABR75965.1|</a> sucrose porin [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]
+          Length = 505
+
+ Score =  175 bits (613), Expect = 2e-42
+ Identities = 158/408 (38%), Positives = 164/408 (40%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSGVIMN                              TYVEMNLE          
+Sbjct: 97  FHGYARSGVIMNDSAASTKSGAYMTPAGETGGAIGRLGNQADTYVEMNLEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 157 TRFKVMVADGQTTYNDWTASSSDLNVRQAFVELGNLPTFEGPFKGSTLWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI++MN F  
+Sbjct: 217 IHWIDSDVVFLAGTGGGIYDVKWNDSLRSNFSLYGRNFGDIADSSNSVQNYIVSMNNFAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +QMMVSG R                     TGVHALLGLHN          SKTALLYG
+Sbjct: 277 PVQMMVSGMRAKDNDDRQDANGNLVKGDAANTGVHALLGLHNESFYGLRDGTSKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       +APA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALRPGANTWRFASYGTTPLSDRWFIAPAVLAQSSKDRYVDGDSYQW 396
+
+Query: 122 ATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT+NLRLIQ      ALA EGSYQY                 FYKLTFAPTF        
+Sbjct: 397 ATLNLRLIQEVTQNFALAWEGSYQYMDLQPEGYNDRHAVNGSFYKLTFAPTFKVGSIGDF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIRFYTSWMD                       EWSFG QMETW
+Sbjct: 457 FSRPEIRFYTSWMDWSKKLDNYANDDALGSNGFKSGGEWSFGMQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 206579016></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206579016&dopt=GenPept" >ref|YP_002239876.1|</a> sucrose porin ScrY [Klebsiella pneumoniae 342]
+ <a name = 206568074></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206568074&dopt=GenPept" >gb|ACI09850.1|</a> sucrose porin ScrY [Klebsiella pneumoniae 342]
+          Length = 505
+
+ Score =  173 bits (607), Expect = 6e-42
+ Identities = 157/408 (38%), Positives = 163/408 (39%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSGVIMN                              TYVEMNLE          
+Sbjct: 97  FHGYARSGVIMNDSAASTKSGAYMTPAGETGGAIGRLGNQADTYVEMNLEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 157 TRFKVMVADGQTTYNDWTASSSDLNVRQAFVELGNLPTFEGPFKGSTLWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI++MN F  
+Sbjct: 217 IHWIDSDVVFLAGTGGGIYDVKWNDSLRSNFSLYGRNFGDIADSSNSVQNYIVSMNNFAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +QMMVSG R                     TGVHALLGLHN          SKTALLYG
+Sbjct: 277 PVQMMVSGMRAKDNDERQDTNGNLVKGDAANTGVHALLGLHNESFYGLRDGTSKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       +APA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALRPGANTWRFASYGTTPLSDRWFIAPAVLAQSSKDRYVDGDSYQW 396
+
+Query: 122 ATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT+N RLIQ      ALA EGSYQY                 FYKLTFAPTF        
+Sbjct: 397 ATLNMRLIQEVTQNFALAWEGSYQYMDLQPEGYNDRHAVNGSFYKLTFAPTFKVGSIGDF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIRFYTSWMD                       EWSFG QMETW
+Sbjct: 457 FSRPEIRFYTSWMDWSKKLDNYANDDALGSNGFKSGGEWSFGMQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 323188811></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=323188811&dopt=GenPept" >gb|EFZ74096.1|</a> sucrose porin [Escherichia coli RN587/1]
+          Length = 505
+
+ Score =  149 bits (519), Expect = 1e-34
+ Identities = 144/408 (35%), Positives = 159/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAVGRLGNEADTYVELNVEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQRDYNDWTGGSSNLNIRQAFAELGALPSFTGAFQDSTVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNH+  
+Sbjct: 217 IHWLDSDVVFLAGTGGGIYDVKWNDTFRSNFSLYGRNFGDLDDIDNNVQNYILTMNHYAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +Q MVSGLR                     TGVHAL+GLHN           KTALLYG
+Sbjct: 277 PFQLMVSGLRAKDNDDRKDANGDLIQTDAANTGVHALVGLHNDSFYGLREGTAKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       VAPA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALLSEANTWRFASYGTTPLGSGWYVAPAILAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            TFN RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTFNTRLIKEVTQNFALAFEGSYQYMDLKPKGYQNHNAVNGSFYKLTFAPTLKANDINNF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLFATWMDWSSKLDDFASNDAFGSSGFNTGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 312964962></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312964962&dopt=GenPept" >ref|ZP_07779202.1|</a> sucrose porin [Escherichia coli 2362-75]
+ <a name = 312290518></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312290518&dopt=GenPept" >gb|EFR18398.1|</a> sucrose porin [Escherichia coli 2362-75]
+          Length = 505
+
+ Score =  149 bits (519), Expect = 1e-34
+ Identities = 144/408 (35%), Positives = 159/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAVGRLGNEADTYVELNVEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQRDYNDWTGGSSNLNIRQAFAELGALPSFTGAFKDSTVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNH+  
+Sbjct: 217 IHWLDSDVVFLAGTGGGIYDVKWNDTFRSNFSLYGRNFGDLDDIDNNVQNYILTMNHYAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +Q MVSGLR                     TGVHAL+GLHN           KTALLYG
+Sbjct: 277 PFQLMVSGLRAKDNDDRKDANGDLIQTDAANTGVHALVGLHNDTFYGLREGTAKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       VAPA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALLSEANTWRFASYGTTPLGSGWYVAPAILAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            TFN RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTFNTRLIKEVTQNFALAFEGSYQYMDLKPKGYQNHNAVNGSFYKLTFAPTLKANDINNL 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLFATWMDWSSKLDDFASNDAFGSSGFNTGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 301302533></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=301302533&dopt=GenPept" >ref|ZP_07208663.1|</a> LamB porin [Escherichia coli MS 124-1]
+ <a name = 300842058></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300842058&dopt=GenPept" >gb|EFK69818.1|</a> LamB porin [Escherichia coli MS 124-1]
+ <a name = 315255459></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315255459&dopt=GenPept" >gb|EFU35427.1|</a> LamB porin [Escherichia coli MS 85-1]
+          Length = 505
+
+ Score =  149 bits (519), Expect = 1e-34
+ Identities = 144/408 (35%), Positives = 159/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAVGRLGNEADTYVELNVEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQRDYNDWTGGSSNLNIRQAFAELGALPSFTGAFKDSTVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNH+  
+Sbjct: 217 IHWLDSDVVFLAGTGGGIYDVKWNDTFRSNFSLYGRNFGDLDDIDNNVQNYILTMNHYAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +Q MVSGLR                     TGVHAL+GLHN           KTALLYG
+Sbjct: 277 PFQLMVSGLRAKDNDDRKDANGDLIQTDAANTGVHALVGLHNDTFYGLREGTAKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       VAPA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALLSEANTWRFASYGTTPLGSGWYVAPAILAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            TFN RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTFNTRLIKEVTQNFALAFEGSYQYMDLKPKGYQNHNAVNGSFYKLTFAPTLKANDINNF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLFATWMDWSSKLDDFASNDAFGSSGFNTGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 300905945></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300905945&dopt=GenPept" >ref|ZP_07123673.1|</a> LamB porin [Escherichia coli MS 84-1]
+ <a name = 300402226></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300402226&dopt=GenPept" >gb|EFJ85764.1|</a> LamB porin [Escherichia coli MS 84-1]
+          Length = 505
+
+ Score =  149 bits (519), Expect = 1e-34
+ Identities = 144/408 (35%), Positives = 159/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAVGRLGNEADTYVELNVEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQRDYNDWTGGSSNLNIRQAFAELGALPSFTGAFKDSTVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNH+  
+Sbjct: 217 IHWLDSDVVFLAGTGGGIYDVKWNDTFRSNFSLYGRNFGDLDDIDNNVQNYILTMNHYAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +Q MVSGLR                     TGVHAL+GLHN           KTALLYG
+Sbjct: 277 PFQLMVSGLRAKDNDDRKDANGDLIQTDAANTGVHALVGLHNDTFYGLREGTAKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       VAPA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALLSEANTWRFASYGTTPLGSGWYVAPAILAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            TFN RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTFNTRLIKEVTQNFALAFEGSYQYMDLKPKGYQNHNAVNGSFYKLTFAPTLKANDINNF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLFATWMDWSSKLDDFASNDAFGSSGFNTGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 307145202></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307145202&dopt=GenPept" >ref|ZP_07503634.1|</a> sucrose porin precursor [Escherichia coli M605]
+ <a name = 281179776></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=281179776&dopt=GenPept" >dbj|BAI56106.1|</a> sucrose porin [Escherichia coli SE15]
+          Length = 505
+
+ Score =  149 bits (519), Expect = 1e-34
+ Identities = 144/408 (35%), Positives = 159/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAVGRLGNEADTYVELNVEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQRDYNDWTGGSSNLNIRQAFAELGALPSFTGAFKDSTVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNH+  
+Sbjct: 217 IHWLDSDVVFLAGTGGGIYDVKWNETFRSNFSLYGRNFGDLDDIDNNVQNYILTMNHYAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +Q MVSGLR                     TGVHAL+GLHN           KTALLYG
+Sbjct: 277 PFQLMVSGLRAKDNDDRKDANGDLIQTDAANTGVHALVGLHNDTFYGLREGTAKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       VAPA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALLSEANTWRFASYGTTPLGSGWYVAPAILAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            TFN RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTFNTRLIKEVTQNFALAFEGSYQYMDLKPKGYQNHNAVNGSFYKLTFAPTLKANDINNF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLFATWMDWSSKLDDFASNDAFGSSGFNTGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 170682892></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170682892&dopt=GenPept" >ref|YP_001744930.1|</a> sucrose porin ScrY [Escherichia coli SMS-3-5]
+ <a name = 218701264></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218701264&dopt=GenPept" >ref|YP_002408893.1|</a> Sucrose porin precursor [Escherichia coli IAI39]
+ <a name = 170520610></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170520610&dopt=GenPept" >gb|ACB18788.1|</a> sucrose porin ScrY [Escherichia coli SMS-3-5]
+ <a name = 218371250></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=218371250&dopt=GenPept" >emb|CAR19083.1|</a> Sucrose porin precursor [Escherichia coli IAI39]
+          Length = 505
+
+ Score =  149 bits (519), Expect = 1e-34
+ Identities = 144/408 (35%), Positives = 159/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAVGRLGNEADTYVELNVEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQRDYNDWTGGSSNLNIRQAFAELGALPSFTGAFKDSTVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNH+  
+Sbjct: 217 IHWLDSDVVFLAGTGGGIYDVKWNDTFRSNFSLYGRNFGDLDDIDNNVQNYILTMNHYAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +Q MVSGLR                     TGVHAL+GLHN           KTALLYG
+Sbjct: 277 PFQLMVSGLRAKDNDDRKDANGDLIQTDAANTGVHALVGLHNDTFYGLREGTAKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       VAPA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALLSEANTWRFASYGTTPLGSGWYVAPAILAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            TFN RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTFNTRLIKEVTQNFALAFEGSYQYMDLKPKGYQNHNAVNGSFYKLTFAPTLKANDINNF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLFATWMDWSSKLDDFASNDAFGSSGFNTGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 110642911></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110642911&dopt=GenPept" >ref|YP_670641.1|</a> sucrose porin precursor [Escherichia coli 536]
+ <a name = 191171112></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=191171112&dopt=GenPept" >ref|ZP_03032662.1|</a> sucrose porin ScrY [Escherichia coli F11]
+ <a name = 215488090></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215488090&dopt=GenPept" >ref|YP_002330521.1|</a> sucrose porin precursor [Escherichia coli O127:H6 str. E2348/69]
+ <a name = 300976262></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300976262&dopt=GenPept" >ref|ZP_07173359.1|</a> LamB porin [Escherichia coli MS 200-1]
+ <a name = 306812349></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=306812349&dopt=GenPept" >ref|ZP_07446547.1|</a> sucrose porin precursor [Escherichia coli NC101]
+ <a name = 110344503></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110344503&dopt=GenPept" >gb|ABG70740.1|</a> sucrose porin precursor [Escherichia coli 536]
+ <a name = 190908412></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=190908412&dopt=GenPept" >gb|EDV68001.1|</a> sucrose porin ScrY [Escherichia coli F11]
+ <a name = 215266162></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=215266162&dopt=GenPept" >emb|CAS10588.1|</a> sucrose porin precursor [Escherichia coli O127:H6 str. E2348/69]
+ <a name = 300308607></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300308607&dopt=GenPept" >gb|EFJ63127.1|</a> LamB porin [Escherichia coli MS 200-1]
+ <a name = 305854387></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=305854387&dopt=GenPept" >gb|EFM54825.1|</a> sucrose porin precursor [Escherichia coli NC101]
+ <a name = 315298736></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315298736&dopt=GenPept" >gb|EFU57990.1|</a> LamB porin [Escherichia coli MS 16-3]
+          Length = 505
+
+ Score =  149 bits (519), Expect = 1e-34
+ Identities = 144/408 (35%), Positives = 159/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAVGRLGNEADTYVELNVEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQRDYNDWTGGSSNLNIRQAFAELGALPSFTGAFKDSTVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNH+  
+Sbjct: 217 IHWLDSDVVFLAGTGGGIYDVKWNDTFRSNFSLYGRNFGDLDDIDNNVQNYILTMNHYAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +Q MVSGLR                     TGVHAL+GLHN           KTALLYG
+Sbjct: 277 PFQLMVSGLRAKDNDDRKDANGDLIQTDAANTGVHALVGLHNDTFYGLREGTAKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       VAPA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALLSEANTWRFASYGTTPLGSGWYVAPAILAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            TFN RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTFNTRLIKEVTQNFALAFEGSYQYMDLKPKGYQNHNAVNGSFYKLTFAPTLKANDINNF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLFATWMDWSSKLDDFASNDAFGSSGFNTGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 188534005></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=188534005&dopt=GenPept" >ref|YP_001907802.1|</a> Putative sucrose porin [Erwinia tasmaniensis Et1/99]
+ <a name = 188029047></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=188029047&dopt=GenPept" >emb|CAO96915.1|</a> Putative sucrose porin [Erwinia tasmaniensis Et1/99]
+          Length = 517
+
+ Score =  148 bits (515), Expect = 3e-34
+ Identities = 145/406 (35%), Positives = 155/406 (38%), Gaps = 235/406 (57%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG+IMN                              TYVE NLE          
+Sbjct: 111 FHGYARSGLIMNDSAAGTQSGPYLTPAGESGGSVGRLGNENNTYVELNLEHKQRLANGAT 170
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVM+ADGQ             N+RQAFVEL               WAGKRF      
+Sbjct: 171 TRFKVMLADGQRDYNDWTGSTSELNIRQAFVELGSLPTFNGVFANSTLWAGKRFDRDNFD 230
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI+T N F  
+Sbjct: 231 IHWLDSDVVFLAGTGGGIYDVQWQNGLKSNFSLYGRNFGDIETIDNTIQNYIVTSNNFAG 290
+
+Query: 72  -LQMMVSGLR-------------------TGVHALLGLHN----------SKTALLYGH- 100
+            LQ MVSGLR                   +GVHA L+LHN           KTALLYGH 
+Sbjct: 291 PLQLMVSGLRAKDNDQRVNKSRENHNAGDSGVHAMLALHNDSFWGLREGTAKTALLYGHG 350
+
+Query: 101 ------------------DTWRIASYGT-------SVAPAMLAQ------------RWAT 123
+                              TWR+ASYG        S APA LAQ            RWAT
+Sbjct: 351 LGAEVKGVGSDGNLTQQAETWRLASYGVTPINKTWSFAPAVLAQNSSDRYAAGDHYRWAT 410
+
+Query: 124 FNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF---------- 150
+            N R+IQ      ALAYEGSYQY                 F KLTFAPTF          
+Sbjct: 411 VNARFIQAINQNFALAYEGSYQYMDLDPQGYKQREAVSGSFWKLTFAPTFKVADIGDFFT 470
+
+Query: 151 --EIRFYTSWMD-----------------------EWSFGVQMETW 171
+             EIR++ SWMD                        W FGVQMETW
+Sbjct: 471 RPEIRLFASWMDWNSSLDRYASDDAFGSSGFGAGGQWNFGVQMETW 516
+</PRE>
+
+
+<PRE>
+><a name = 296102285></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=296102285&dopt=GenPept" >ref|YP_003612431.1|</a> hypothetical protein ECL_01930 [Enterobacter cloacae subsp. cloacae
+           ATCC 13047]
+ <a name = 295056744></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=295056744&dopt=GenPept" >gb|ADF61482.1|</a> hypothetical protein ECL_01930 [Enterobacter cloacae subsp. cloacae
+           ATCC 13047]
+          Length = 505
+
+ Score =  146 bits (509), Expect = 1e-33
+ Identities = 140/408 (34%), Positives = 159/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAVGRLGNEADTYVELNVEHKQTLESGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQKTYNDWSADTSDLNIRQAFAELGNLPDFTGALKGSTFWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGVY         SNFS+YGRN           QNYIL+MNHF  
+Sbjct: 217 IHWLDSDVVFLAGTGGGVYDVKWNDTLRSNFSIYGRNFGSEEQIDNNVQNYILSMNHFAG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +Q MVSGLR                     TGVHAL+GLHN           KTALLYG
+Sbjct: 277 PFQLMVSGLRAKDNDERKDSNGDLIKTDAANTGVHALVGLHNDSFYGLREGSAKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                   DTWR ASYG +       +APA LAQ    R        W
+Sbjct: 337 HGLGAEVKSIGSDGALLSEADTWRFASYGVTPLGGGWHIAPAVLAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            T+N RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTLNTRLIKEVTQNFALAFEGSYQYMDLNPEGYKDRNAVNGSFYKLTFAPTLKAGKIGDF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLFATWMDWSSKLDNYASDDAFGSSGFNAGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 50250400></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=50250400&dopt=GenPept" >emb|CAG25845.1|</a> sucrose porin precursor [Escherichia coli]
+          Length = 505
+
+ Score =  145 bits (506), Expect = 2e-33
+ Identities = 144/408 (35%), Positives = 159/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAGSSSKSGPYLTPAGETGGAVGRLGKEADTYVELNVEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQRDYNDWTGGSSNLNIRQAFAELGALPSFTGAFQDSTVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNH+  
+Sbjct: 217 IHWLDSDVVFLAGTGGGIYDVKWNDTFRSNFSLYGRNFGDLDDIDNNVQNYILTMNHYAG 276
+
+Query: 72  -LQMMVSGL-------R--------------TGVHALLGLHN----------SKTALLYG 99
+            +Q MVSGL       R              TGVHAL+GLHN           KTALLYG
+Sbjct: 277 PFQLMVSGLGAKDNDDRKDGNGDLIQTDAANTGVHALVGLHNDTFYGLREGTAKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR ASYGT+       VAPA LAQ    R        W
+Sbjct: 337 HGLGAEVKGIGSDGALLSEANTWRFASYGTTPLGSGWYVAPAILAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            TFN RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTFNTRLIKEVTQNFALAFEGSYQYMDLKPKGYQNHNAVNGSFYKLTFAPTLKANDINNF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLFATWMDWSSKLDDFASNDAFGSSGFNTGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 312172230></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=312172230&dopt=GenPept" >emb|CBX80487.1|</a> Sucrose porin precursor [Erwinia amylovora ATCC BAA-2158]
+          Length = 514
+
+ Score =  143 bits (497), Expect = 1e-32
+ Identities = 143/406 (35%), Positives = 154/406 (37%), Gaps = 235/406 (57%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG+IMN                              TYVE NLE          
+Sbjct: 108 FHGYARSGLIMNDSAAGTQSGPYLTPAGETGGAVGRLGNENNTYVELNLEHKQRLANGAT 167
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAFVEL               WAGKRF      
+Sbjct: 168 TRFKAMLADGQRDYNDWTGSTSELNIRQAFVELGSLPTFSGVFADSTLWAGKRFDRDNFD 227
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI+T N F  
+Sbjct: 228 IHWLDSDVVFLAGTGGGIYDLQWQNGLKSNFSLYGRNFGDVEAIDNTIQNYIVTSNNFAG 287
+
+Query: 72  -LQMMVSGLR-------------------TGVHALLGLHN----------SKTALLYGH- 100
+            LQ MVSGLR                   +G+HA L+LHN           KTALLYG  
+Sbjct: 288 PLQLMVSGLRAKDNDLRVNKSRENHNAGDSGLHAMLALHNDSFWGMREGTAKTALLYGRG 347
+
+Query: 101 ------------------DTWRIASYGT-------SVAPAMLAQ------------RWAT 123
+                              TWR+ASYG        S APA LAQ            RWAT
+Sbjct: 348 LGAEVKSIGADGNLTQQAETWRLASYGVTPINNTWSFAPAVLAQNSSDRYAAGDRYRWAT 407
+
+Query: 124 FNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF---------- 150
+           +N RLIQ      ALAYEGSYQY                 F KLTFAPTF          
+Sbjct: 408 LNARLIQAINQNFALAYEGSYQYLDLDPQGYKDRQAVSGSFWKLTFAPTFKVADIGDFFT 467
+
+Query: 151 --EIRFYTSWMD-----------------------EWSFGVQMETW 171
+             EIR++ SWMD                        W FGVQMETW
+Sbjct: 468 RPEIRLFASWMDWNSSLDRYASDDAFGSSGFAAGGQWNFGVQMETW 513
+</PRE>
+
+
+<PRE>
+><a name = 292488098></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292488098&dopt=GenPept" >ref|YP_003530975.1|</a> sucrose porin [Erwinia amylovora CFBP1430]
+ <a name = 292899310></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=292899310&dopt=GenPept" >ref|YP_003538679.1|</a> sucrose-specific outer membrane porin [Erwinia amylovora ATCC
+           49946]
+ <a name = 291199158></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291199158&dopt=GenPept" >emb|CBJ46272.1|</a> sucrose-specific outer membrane porin [Erwinia amylovora ATCC
+           49946]
+ <a name = 291553522></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291553522&dopt=GenPept" >emb|CBA20567.1|</a> Sucrose porin precursor [Erwinia amylovora CFBP1430]
+          Length = 514
+
+ Score =  143 bits (497), Expect = 1e-32
+ Identities = 143/406 (35%), Positives = 154/406 (37%), Gaps = 235/406 (57%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG+IMN                              TYVE NLE          
+Sbjct: 108 FHGYARSGLIMNDSAAGTQSGPYLTPAGETGGAVGRLGNENNTYVELNLEHKQRLANGAT 167
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAFVEL               WAGKRF      
+Sbjct: 168 TRFKAMLADGQRDYNDWTGSTSELNIRQAFVELGSLPTFSGVFADSTLWAGKRFDRDNFD 227
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI+T N F  
+Sbjct: 228 IHWLDSDVVFLAGTGGGIYDLQWQNGLKSNFSLYGRNFGDVEAIDNTIQNYIVTSNNFAG 287
+
+Query: 72  -LQMMVSGLR-------------------TGVHALLGLHN----------SKTALLYGH- 100
+            LQ MVSGLR                   +G+HA L+LHN           KTALLYG  
+Sbjct: 288 PLQLMVSGLRAKDNDLRVNKSRENHNAGDSGLHAMLALHNDSFWGMREGTAKTALLYGRG 347
+
+Query: 101 ------------------DTWRIASYGT-------SVAPAMLAQ------------RWAT 123
+                              TWR+ASYG        S APA LAQ            RWAT
+Sbjct: 348 LGAEVKSIGADGNLTQQAETWRLASYGVTPINNTWSFAPAVLAQNSSDRYAAGDRYRWAT 407
+
+Query: 124 FNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF---------- 150
+           +N RLIQ      ALAYEGSYQY                 F KLTFAPTF          
+Sbjct: 408 LNARLIQAINQNFALAYEGSYQYLDLDPQGYKDRQAVSGSFWKLTFAPTFKVADIGDFFT 467
+
+Query: 151 --EIRFYTSWMD-----------------------EWSFGVQMETW 171
+             EIR++ SWMD                        W FGVQMETW
+Sbjct: 468 RPEIRLFASWMDWNSSLDRYASDDAFGSSGFAAGGQWNFGVQMETW 513
+</PRE>
+
+
+<PRE>
+><a name = 11071661></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=11071661&dopt=GenPept" >emb|CAC14599.1|</a> Porin [Erwinia amylovora]
+          Length = 514
+
+ Score =  143 bits (497), Expect = 1e-32
+ Identities = 143/406 (35%), Positives = 154/406 (37%), Gaps = 235/406 (57%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG+IMN                              TYVE NLE          
+Sbjct: 108 FHGYARSGLIMNDSAAGTQSGPYLTPAGETGGAVGRLGNENNTYVELNLEHKQRLANGST 167
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAFVEL               WAGKRF      
+Sbjct: 168 TRFKAMLADGQRDYNDWTGSTSELNIRQAFVELGSLPTFSGVFADSTLWAGKRFDRDNFD 227
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI+T N F  
+Sbjct: 228 IHWLDSDVVFLAGTGGGIYDLQWQNGLKSNFSLYGRNFGDVEAIDNTIQNYIVTSNNFAG 287
+
+Query: 72  -LQMMVSGLR-------------------TGVHALLGLHN----------SKTALLYGH- 100
+            LQ MVSGLR                   +G+HA L+LHN           KTALLYG  
+Sbjct: 288 PLQLMVSGLRAKDNDLRVNKSRENHNAGDSGLHAMLALHNDSFWGMREGTAKTALLYGRG 347
+
+Query: 101 ------------------DTWRIASYGT-------SVAPAMLAQ------------RWAT 123
+                              TWR+ASYG        S APA LAQ            RWAT
+Sbjct: 348 LGAEVKSIGADGNLTQQAETWRLASYGVTPINNTWSFAPAVLAQNSSDRYAAGDRYRWAT 407
+
+Query: 124 FNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF---------- 150
+           +N RLIQ      ALAYEGSYQY                 F KLTFAPTF          
+Sbjct: 408 LNARLIQAINQNFALAYEGSYQYLDLDPQGYKDRQAVSGSFWKLTFAPTFKVADIGDFFT 467
+
+Query: 151 --EIRFYTSWMD-----------------------EWSFGVQMETW 171
+             EIR++ SWMD                        W FGVQMETW
+Sbjct: 468 RPEIRLFASWMDWNSSLDRYASDDAFGSSGFAAGGQWNFGVQMETW 513
+</PRE>
+
+
+<PRE>
+><a name = 310767492></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=310767492&dopt=GenPept" >gb|ADP12442.1|</a> Porin [Erwinia sp. Ejp617]
+          Length = 514
+
+ Score =  142 bits (495), Expect = 1e-32
+ Identities = 143/406 (35%), Positives = 153/406 (37%), Gaps = 235/406 (57%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG+IMN                              TYVE NLE          
+Sbjct: 108 FHGYARSGLIMNDSAAATQSGPYLTPAGETGGAVGRLGNENNTYVELNLEHKQRLANGAT 167
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAFVEL               WAGKRF      
+Sbjct: 168 TRFKAMLADGQRDYNDWTGNTSELNIRQAFVELGSLPTFSGIFTDSTLWAGKRFDRDNFD 227
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI+T N F  
+Sbjct: 228 IHWLDSDVVFLAGTGGGIYDVQWQNGLKSNFSLYGRNFGDIETIDNTIQNYIVTSNNFAG 287
+
+Query: 72  -LQMMVSGLR-------------------TGVHALLGLHN----------SKTALLYGH- 100
+            LQ MVSGLR                   +G HA L+LHN           KTALLYG  
+Sbjct: 288 PLQLMVSGLRAKDNDLRVNKSRENHSAGDSGFHAMLALHNDSFWGMRAGTAKTALLYGRG 347
+
+Query: 101 ------------------DTWRIASYGT-------SVAPAMLAQ------------RWAT 123
+                              TWR+ASYG        S APA LAQ            RWAT
+Sbjct: 348 LGAEVKGVGSDGNLTQQAETWRLASYGVTPINHTWSFAPAILAQTSSDRYAAGDHYRWAT 407
+
+Query: 124 FNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF---------- 150
+           +N R+IQ      ALAYEGSYQY                 F KLTFAPTF          
+Sbjct: 408 LNARFIQAINQNFALAYEGSYQYMDLDPQGYKDRQAVSGSFWKLTFAPTFKVADIGDFFT 467
+
+Query: 151 --EIRFYTSWMD-----------------------EWSFGVQMETW 171
+             EIR + SWMD                       EW FGVQMETW
+Sbjct: 468 RPEIRIFASWMDWNRSLDRYASDDAFGSSGFAAGGEWNFGVQMETW 513
+</PRE>
+
+
+<PRE>
+><a name = 259908608></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=259908608&dopt=GenPept" >ref|YP_002648964.1|</a> Porin [Erwinia pyrifoliae Ep1/96]
+ <a name = 224964230></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=224964230&dopt=GenPept" >emb|CAX55737.1|</a> Porin [Erwinia pyrifoliae Ep1/96]
+ <a name = 283478580></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=283478580&dopt=GenPept" >emb|CAY74496.1|</a> Sucrose porin precursor [Erwinia pyrifoliae DSM 12163]
+          Length = 514
+
+ Score =  142 bits (495), Expect = 1e-32
+ Identities = 143/406 (35%), Positives = 153/406 (37%), Gaps = 235/406 (57%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG+IMN                              TYVE NLE          
+Sbjct: 108 FHGYARSGLIMNDSAAATQSGPYLTPAGETGGAVGRLGNENNTYVELNLEHKQRLANGAT 167
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAFVEL               WAGKRF      
+Sbjct: 168 TRFKAMLADGQRDYNDWTGSTSELNIRQAFVELGSLPTFSGVFTDSTLWAGKRFDRDNFD 227
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYI+T N F  
+Sbjct: 228 IHWLDSDVVFLAGTGGGIYDVQWQNGLKSNFSLYGRNFGDIETIDNTIQNYIVTSNNFAG 287
+
+Query: 72  -LQMMVSGLR-------------------TGVHALLGLHN----------SKTALLYGH- 100
+            LQ MVSGLR                   +G HA L+LHN           KTALLYG  
+Sbjct: 288 PLQLMVSGLRAKDNDLRVNKSRENHNAGDSGFHAMLALHNDSFWGMRAGTAKTALLYGRG 347
+
+Query: 101 ------------------DTWRIASYGT-------SVAPAMLAQ------------RWAT 123
+                              TWR+ASYG        S APA LAQ            RWAT
+Sbjct: 348 LGAEVKGVGSDGNLTQQAETWRLASYGVTPINNTWSFAPAILAQTSSDRYAAGDHYRWAT 407
+
+Query: 124 FNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF---------- 150
+           +N R+IQ      ALAYEGSYQY                 F KLTFAPTF          
+Sbjct: 408 LNARFIQAINQNFALAYEGSYQYMDLNPQGYKDRQAVSGSFWKLTFAPTFKVADIGDFFT 467
+
+Query: 151 --EIRFYTSWMD-----------------------EWSFGVQMETW 171
+             EIR + SWMD                       EW FGVQMETW
+Sbjct: 468 RPEIRIFASWMDWNRSLDRYASDDAFGSSGFAAGGEWNFGVQMETW 513
+</PRE>
+
+
+<PRE>
+><a name = 146311673></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146311673&dopt=GenPept" >ref|YP_001176747.1|</a> porin, LamB type [Enterobacter sp. 638]
+ <a name = 145318549></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145318549&dopt=GenPept" >gb|ABP60696.1|</a> porin, LamB type [Enterobacter sp. 638]
+          Length = 505
+
+ Score =  142 bits (494), Expect = 2e-32
+ Identities = 138/408 (33%), Positives = 156/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAVGRLGNEADTYVELNVEHKQTLESGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQKTYNDWSADSSDLNIRQAFAELGSLPDFSGPLKSSTFWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGVY         SNF +YGRN           QNYIL+MNHF  
+Sbjct: 217 IHWLDSDVVFLAGTGGGVYDVKWDDNFRSNFAIYGRNFGSEEEIDNNVQNYILSMNHFAG 276
+
+Query: 72  -LQMMVSGLRT---------------------GVHALLGLHN----------SKTALLYG 99
+            LQ MVSG R                      GVHAL+GLHN           KTA+LYG
+Sbjct: 277 PLQVMVSGMRAKDNDDRQDANGDLIKTDAANKGVHALVGLHNDSFYGLREGSAKTAVLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                   DTWR ASYG +       +APA LAQ    R        W
+Sbjct: 337 HGLGAEVKSIGSDGALLSEADTWRFASYGVTPLGGGWHIAPALLAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            T+N RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTLNTRLIKEVTQNFALAFEGSYQYMDLNPEGYKDRNAVNGSFYKLTFAPTLKAGKIGDF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R+Y +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLYATWMDWSSKLDNYASDDAFGSSGFNAGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 157147169></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157147169&dopt=GenPept" >ref|YP_001454488.1|</a> hypothetical protein CKO_02946 [Citrobacter koseri ATCC BAA-895]
+ <a name = 157084374></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157084374&dopt=GenPept" >gb|ABV14052.1|</a> hypothetical protein CKO_02946 [Citrobacter koseri ATCC BAA-895]
+          Length = 505
+
+ Score =  141 bits (490), Expect = 4e-32
+ Identities = 138/408 (33%), Positives = 156/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAIGRLGNEADTYVELNVEHKQTLDNGAI 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQKTYNDWSADSSDLNIRQAFAELGNLPDFTGALKGSTFWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGVY         SNFS+YGRN           QNYIL+MNHF  
+Sbjct: 217 IHWLDSDVVFLAGTGGGVYDVKWDDTLHSNFSVYGRNFGSEEEIDNNVQNYILSMNHFAG 276
+
+Query: 72  -LQMMVSGLRT---------------------GVHALLGLHN----------SKTALLYG 99
+            +Q MVSGLR                      GVHA  GLHN           KTALLYG
+Sbjct: 277 PFQLMVSGLRAKDNDDRKDSNGDLIKTDAANNGVHAMAGLHNKSFYGLREGSAKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                   DTWR ASYG +       +APA LAQ    R        W
+Sbjct: 337 HGLGAEVKSIGSDGALLSEADTWRFASYGVTPLGGGWHIAPAVLAQSSKDRYVKGDSYEW 396
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            T+N RLI    Q  ALA+EGSYQY                 FYKLTFAPT+        
+Sbjct: 397 VTLNTRLIKEVTQNFALAFEGSYQYMDLNPEGYKDRNAVNGSFYKLTFAPTLKAGKIGDF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 FSRPELRLFATWMDWSSKLDNYASDDAFGSSGFNAGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 308185533></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=308185533&dopt=GenPept" >ref|YP_003929665.1|</a> sucrose porin precursor [Pantoea vagans C9-1]
+ <a name = 308055813></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=308055813&dopt=GenPept" >gb|ADO07983.1|</a> Sucrose porin precursor [Pantoea vagans C9-1]
+          Length = 511
+
+ Score =  140 bits (489), Expect = 5e-32
+ Identities = 140/408 (34%), Positives = 155/408 (37%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 103 FHGYARSGLLMNSSAARTQGGPTVTPAGETGGHVGRLGNEPDTYVELNLEHKQTLDNGAT 162
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAFVEL               WAGKRF      
+Sbjct: 163 TRFKAMLADGQRTYNDWTAASSDLNLRQAFVELGQLPTFSGAFDNATVWAGKRFDRDNFD 222
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL- 72
+                      AGTG+GIY         SN SLYGR            QNYIL+ N F+ 
+Sbjct: 223 IHWIDSDVVFLAGTGAGIYDMTWSDQARSNISLYGRTFGDIENNENTAQNYILSLNNFVG 282
+
+Query: 73  --QMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+             QMMVSG R                     TGVHALLGLHN          SKTALLYG
+Sbjct: 283 PVQMMVSGMRAKDNDDRRDIDGLRVKSDAAETGVHALLGLHNDSFYGLTEGTSKTALLYG 342
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQR------------W 121
+           H                   DTWR+ASYGT+       +APA LAQR            W
+Sbjct: 343 HGLGAEVKSIGSDGALLPEADTWRLASYGTTPLGGGWHIAPALLAQRSDDRYVKGDSYDW 402
+
+Query: 122 ATFNLRLIQALA------YEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT NLRLIQ +       YEGSYQY                 F KLT APT+        
+Sbjct: 403 ATVNLRLIQEITQNFEMQYEGSYQYMDLRPEGYNNRNAVSGSFTKLTVAPTLKAGDVGDF 462
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIR++ +WM                        EW FGVQMETW
+Sbjct: 463 LKRPEIRLFATWMNWDHRLDNYASDDAFGSKGFDAGGEWNFGVQMETW 510
+</PRE>
+
+
+<PRE>
+><a name = 156935661></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156935661&dopt=GenPept" >ref|YP_001439577.1|</a> hypothetical protein ESA_03526 [Cronobacter sakazakii ATCC BAA-894]
+ <a name = 156533915></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156533915&dopt=GenPept" >gb|ABU78741.1|</a> hypothetical protein ESA_03526 [Cronobacter sakazakii ATCC BAA-894]
+          Length = 505
+
+ Score =  138 bits (481), Expect = 2e-31
+ Identities = 142/408 (34%), Positives = 157/408 (38%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TY+EMNLE          
+Sbjct: 97  FHGYARSGLLMNDSAAKTQGGPSFTPAGETGGHVGRLGNEPDTYLEMNLEHKQTLANGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVMVADGQ             NVRQAF EL               WAGKRF      
+Sbjct: 157 TRFKVMVADGQRSYNDWTASTSDLNVRQAFTELGHLPTFIGAFKDATVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL- 72
+                      AGTG+GIY         SNFSLYGR            QNYILT N ++ 
+Sbjct: 217 IHWIDSDVVFLAGTGAGIYDMRWSDNARSNFSLYGRTFGDIENSENTAQNYILTLNNYVG 276
+
+Query: 73  --QMMVSGLRT---------------------GVHALLGLHN----------SKTALLYG 99
+             Q MVSG R                      GVHALLGLHN          SKTALLYG
+Sbjct: 277 PVQLMVSGMRAKDNEDRVDIEGNRVKKDAAEDGVHALLGLHNDSFYGLSDGSSKTALLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                   DTWR+A+YG +       +APA LAQ    R        W
+Sbjct: 337 HGLGAEVKSIGSDGALLPQADTWRLATYGMTPLGGGWHIAPAVLAQSSKDRYVKGDSYQW 396
+
+Query: 122 ATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT NLRLIQ       L YEGSYQY                 FYKLTFAPT+        
+Sbjct: 397 ATANLRLIQEINQNFELQYEGSYQYMDLRPKGYNDRNAVSGNFYKLTFAPTLKAGDVGEF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 457 LKRPELRLFATWMDWDHRLDNYASNDAFGSTGFTAGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 260596240></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260596240&dopt=GenPept" >ref|YP_003208811.1|</a> sucrose porin [Cronobacter turicensis z3032]
+ <a name = 260215417></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260215417&dopt=GenPept" >emb|CBA27479.1|</a> Sucrose porin [Cronobacter turicensis z3032]
+          Length = 401
+
+ Score =  132 bits (457), Expect = 2e-29
+ Identities = 131/366 (35%), Positives = 145/366 (39%), Gaps = 207/366 (56%)
+
+Query: 13  TYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL--------- 38
+           TY+EMNLE            FKVMVADGQ             NVRQAF EL         
+Sbjct: 35  TYLEMNLEHKQTLANGATTRFKVMVADGQRSYNDWTASTSDLNVRQAFTELGHLPTFTGA 94
+
+Query: 39  ------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN----- 61
+                 WAGKRF                 AGTG+GIY         SNFSLYGR      
+Sbjct: 95  FKDSTVWAGKRFDRDNFDIHWIDSDVVFLAGTGAGIYDMRWSDNARSNFSLYGRTFGDIE 154
+
+Query: 62  ------QNYILTMNHFL---QMMVSGLRT---------------------GVHALLGLHN 91
+                 QNYILT N ++   Q MVSG R                      GVHALLGLHN
+Sbjct: 155 NSENTAQNYILTLNNYVGPVQLMVSGMRAKDNEDRVDIEGNRVKKDAAEDGVHALLGLHN 214
+
+Query: 92  ----------SKTALLYGH-------------------DTWRIASYGTS-------VAPA 115
+                     SKTALLYGH                   DTWR+A+YG +       +APA
+Sbjct: 215 DSFYGLREGSSKTALLYGHGLGAEVKSIGSDGALLPQADTWRLATYGMTPLGGGWHIAPA 274
+
+Query: 116 MLAQ----R--------WATFNLRLIQ------ALAYEGSYQY----------------- 140
+            LAQ    R        WAT NLR+IQ       L YEGSYQY                 
+Sbjct: 275 VLAQSSKDRYVKGDSYQWATANLRVIQEINQNFELQYEGSYQYMDLRPEGYNARNAVSGN 334
+
+Query: 141 FYKLTFAPTF------------EIRFYTSWMD-----------------------EWSFG 165
+           FYKLTFAPT+            E+R++ +WMD                       EW FG
+Sbjct: 335 FYKLTFAPTLKAGDVGEFLKRPELRLFATWMDWDHRLDNYASNDAFGSSGFTAGGEWNFG 394
+
+Query: 166 VQMETW 171
+           VQMETW
+Sbjct: 395 VQMETW 400
+</PRE>
+
+
+<PRE>
+><a name = 304398732></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=304398732&dopt=GenPept" >ref|ZP_07380603.1|</a> porin LamB type [Pantoea sp. aB]
+ <a name = 304353679></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=304353679&dopt=GenPept" >gb|EFM18055.1|</a> porin LamB type [Pantoea sp. aB]
+          Length = 511
+
+ Score =  130 bits (453), Expect = 5e-29
+ Identities = 137/408 (33%), Positives = 152/408 (37%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 103 FHGYARSGLLMNSSATKTQGGPTLTPAGETGGHVGRLGNEPDTYVELNLEHKQTLDNGAT 162
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAFVEL               WAGKRF      
+Sbjct: 163 TRFKAMLADGQRTYNDWTASSSDLNLRQAFVELGQLPTFSGAFDNSTVWAGKRFDRDNFD 222
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL- 72
+                      AGTG+GIY         SN SLYGR            QNYILT N F+ 
+Sbjct: 223 IHWIDSDVVFLAGTGAGIYDMKWSDQTRSNISLYGRTFGDIENNENTAQNYILTLNNFVG 282
+
+Query: 73  --QMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+             QMM+SG R                     TGVHALLGLHN          SKTALLYG
+Sbjct: 283 PVQMMLSGMRAKDNDDRRDIDGLRVKGDAAETGVHALLGLHNDSFYGLTEGTSKTALLYG 342
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQR------------W 121
+           H                    TWR+ASYG +       +APA LAQR            W
+Sbjct: 343 HGLGAEVKSIGSDGALLPEANTWRLASYGITPLGGGWHIAPAVLAQRSDDRYVKGDSYDW 402
+
+Query: 122 ATFNLRLIQALA------YEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT NLRLIQ +       YEGSYQY                 F KLT APT+        
+Sbjct: 403 ATVNLRLIQEITQNFEMQYEGSYQYMDLRPEGYNNRNAVSGSFTKLTIAPTLKAGDVGDF 462
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIR++ +WM                        EW FGVQME W
+Sbjct: 463 LKRPEIRLFATWMNWDHRLNNYASDDAFGSKGFDAGGEWNFGVQMEIW 510
+</PRE>
+
+
+<PRE>
+><a name = 317052910></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=317052910&dopt=GenPept" >ref|YP_004119264.1|</a> porin LamB type [Pantoea sp. At-9b]
+ <a name = 316953237></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=316953237&dopt=GenPept" >gb|ADU72708.1|</a> porin LamB type [Pantoea sp. At-9b]
+          Length = 506
+
+ Score =  130 bits (452), Expect = 6e-29
+ Identities = 136/408 (33%), Positives = 154/408 (37%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 98  FHGYARSGLLMNNSASKTQGGPTVTPAGETGGNIGRLGNEPDTYVELNLEHKQTLTNGAT 157
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVM+ADGQ             N+RQAF E+               WAGKRF      
+Sbjct: 158 TRFKVMLADGQRTYNDWTASSSDLNLRQAFTEIGHLPTFSGAFKDATVWAGKRFDRDNFD 217
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGR-----------NQNYILTMNHF-- 71
+                      AGTG+GIY         SN+SLYGR            QNYIL+ N F  
+Sbjct: 218 IHWIDSDVVFLAGTGAGIYDMKWSDDARSNLSLYGRTFGDIENNDNTSQNYILSLNNFAG 277
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            LQ MVSG R                     TG+HAL+GLHN           KTALLYG
+Sbjct: 278 PLQLMVSGMRARDNDDRVDTEGNKVKGDAANTGLHALVGLHNDSFYGLRDGSAKTALLYG 337
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                    TWR+ASYG +       +APA LAQ    R        W
+Sbjct: 338 HGLGAEVKSIGSDGALLPEANTWRLASYGITPLGGGWHIAPALLAQSSKDRYVKGDSYEW 397
+
+Query: 122 ATFNLRLIQALA------YEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT NLRLIQ +       YEGSYQY                 FYKLT APT+        
+Sbjct: 398 ATANLRLIQEITQNFEMQYEGSYQYMDLRPKGYNSRNAVSGSFYKLTVAPTLKASDVGEF 457
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIR++ +WMD                       EW FGVQMETW
+Sbjct: 458 LKRPEIRLFATWMDWDHRLDNYASDDAFGSNGFKAGGEWNFGVQMETW 505
+</PRE>
+
+
+<PRE>
+><a name = 291615886></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291615886&dopt=GenPept" >ref|YP_003518628.1|</a> ScrY [Pantoea ananatis LMG 20103]
+ <a name = 291150916></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291150916&dopt=GenPept" >gb|ADD75500.1|</a> ScrY [Pantoea ananatis LMG 20103]
+          Length = 505
+
+ Score =  130 bits (452), Expect = 6e-29
+ Identities = 134/408 (32%), Positives = 155/408 (37%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 97  FHGYARSGLLMNSSATKTQGGPTVTPAGETGGHVGRLGNEPDTYVELNLEHKQTLENGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAFVEL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQRTYNDWTASSSDLNLRQAFVELGQLPTFTGAFKDTTVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTG+GIY         SN+SLYGR            QNYILT N F  
+Sbjct: 217 IHWIDSDVVFLAGTGAGIYDMKWSDQAHSNLSLYGRTFGDIENNDNTAQNYILTANNFYG 276
+
+Query: 72  -LQMMVSGLR---------------------TGVHALLGLHN----------SKTALLYG 99
+            +Q M+SG R                     TG+HAL+GLHN           KTA+LYG
+Sbjct: 277 PFQLMLSGMRAKDNDDRLDVNGLKVKGDAANTGLHALVGLHNDSFYGLREGSAKTAVLYG 336
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                   DTWR+ASYG +       +APA LAQ    R        W
+Sbjct: 337 HGLGAEVKAIGSDGALLPDADTWRLASYGITPLGGGWHIAPAVLAQSSKDRYVKGDSYQW 396
+
+Query: 122 ATFNLRLIQALA------YEGSYQY-----------------FYKLTFAPTF-------- 150
+           AT N RLIQ+L       YE++YQY                 FYKLT APT+        
+Sbjct: 397 ATANMRLIQGLTENFEMQYEATYQYMDLRPEGFNQRSAVNGNFYKLTVAPTLKASNVGEF 456
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               EIR++ +WMD                       EW FGVQMETW
+Sbjct: 457 LKRPEIRLFATWMDWDHRLDNYARGDAFGSSGFEAGGEWNFGVQMETW 504
+</PRE>
+
+
+<PRE>
+><a name = 318607246></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=318607246&dopt=GenPept" >emb|CBY28744.1|</a> maltoporin (maltose/maltodextrin high-affinity receptor, phage
+           lambda receptor protein) [Yersinia enterocolitica subsp.
+           palearctica Y11]
+          Length = 483
+
+ Score =  129 bits (447), Expect = 2e-28
+ Identities = 137/412 (33%), Positives = 152/412 (36%), Gaps = 241/412 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 71  FHGYARSGLLMNSSGTGTQGGPYVSPAGSTGGAIGRLGNEPDTYVEVNLEKKQKLDNGAT 130
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             +KVM+ADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 131 TRYKVMLADGQRSYNDWTADSSDLNVRQAFVELGTLPTFNGIFKDSTLWAGKRFDRDNFD 190
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL- 72
+                      AGTGGGIY         SNFSLYGRN           Q YI+T N ++ 
+Sbjct: 191 IHWLDSDVVFLAGTGGGIYDIKWTDNLKSNFSLYGRNYGEIENVNSDIQSYIFTTNNYVS 250
+
+Query: 73  -------QMMVSGLRT--------------------GVHALLGLH----------NSKTA 95
+                  Q M+SGLR                     G+H  L+ H           SKTA
+Sbjct: 251 THNNGSFQWMLSGLRAKDNEARQNSGETVNTNAADKGIHSMLAYHGDSFYGLREGTSKTA 310
+
+Query: 96  LLYGH-------------------DTWRIASYGT-------SVAPAMLAQ---------- 119
+           LLYGH                   DTWR+ASYGT       S+APA LAQ          
+Sbjct: 311 LLYGHGLGAEVKSIGSDGNLTRGADTWRLASYGTTALSKNWSLAPAILAQQSKDRYVEGD 370
+
+Query: 120 --RWATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF---- 150
+              W TFN RLIQ      ALAYEGSYQY                 FYKLTFAPTF    
+Sbjct: 371 SYKWITFNARLIQEITENFALAYEGSYQYMNLDPQGYKDYHKVSGGFYKLTFAPTFKAGD 430
+
+Query: 151 --------EIRFYTSWMD-----------------------EWSFGVQMETW 171
+                   EIR + + MD                        W FG+QMETW
+Sbjct: 431 ISNFFSRPEIRVFATYMDWSQDLDNYAKDDAFGKNDFAAGGQWNFGIQMETW 482
+</PRE>
+
+
+<PRE>
+><a name = 238794157></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238794157&dopt=GenPept" >ref|ZP_04637773.1|</a> Sucrose porin [Yersinia intermedia ATCC 29909]
+ <a name = 238726555></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238726555&dopt=GenPept" >gb|EEQ18093.1|</a> Sucrose porin [Yersinia intermedia ATCC 29909]
+          Length = 509
+
+ Score =  129 bits (447), Expect = 2e-28
+ Identities = 137/407 (33%), Positives = 152/407 (37%), Gaps = 236/407 (57%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 102 FHGYARSGLLMNDSGTGTQGGPYVTPAGSTGGAVGRLGNEPDTYVEVNLEKKQKLDNGAT 161
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             +KVM+ADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 162 TRYKVMLADGQRSYNDWTADSSDLNVRQAFVELGTLPTFNGIFKDSTLWAGKRFDRDNFD 221
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           Q YI+T N +  
+Sbjct: 222 IHWLDSDVVFLAGTGGGIYDIKWTDNLKSNFSLYGRNYGEIENVNSDIQSYIFTTNNYSG 281
+
+Query: 72  -LQMMVSGLRT--------------------GVHALLGLH----------NSKTALLYGH 100
+            +Q MVSGLR                     G+H  L+ H           SKTALLYGH
+Sbjct: 282 PFQWMVSGLRAKDNEARQNSGETVNTHAADKGIHSMLAYHGDSFYGLRDGTSKTALLYGH 341
+
+Query: 101 -------------------DTWRIASYGT-------SVAPAMLAQ------------RWA 122
+                              DTWR+A+YGT       S+APA LAQ             W 
+Sbjct: 342 GLGAEVKSIGSDGNLTSSADTWRLATYGTTALSKNWSLAPAILAQQSKDRYVLGDSYKWI 401
+
+Query: 123 TFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF--------- 150
+           TFN RLIQ      ALAYEGSYQY                 FYKLTFAPTF         
+Sbjct: 402 TFNTRLIQEITENFALAYEGSYQYMNLDPQGYKDYHKVSGGFYKLTFAPTFKAGDISNFF 461
+
+Query: 151 ---EIRFYTSWMD-----------------------EWSFGVQMETW 171
+              EIR + + MD                        W FG+QMETW
+Sbjct: 462 SRPEIRVFATYMDWSQDLDNYAKDDSFGKDGFAAGGQWNFGIQMETW 508
+</PRE>
+
+
+<PRE>
+><a name = 238790062></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238790062&dopt=GenPept" >ref|ZP_04633840.1|</a> Sucrose porin [Yersinia frederiksenii ATCC 33641]
+ <a name = 238721875></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238721875&dopt=GenPept" >gb|EEQ13537.1|</a> Sucrose porin [Yersinia frederiksenii ATCC 33641]
+          Length = 514
+
+ Score =  129 bits (447), Expect = 2e-28
+ Identities = 137/413 (33%), Positives = 153/413 (37%), Gaps = 242/413 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 101 FHGYARSGLLMNSSGTGTQGGPYVSPAGSTGGAIGRLGNEPDTYVEVNLEKKQKLDNGAT 160
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             +KVM+ADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 161 TRYKVMLADGQRSYNDWTADSSDLNVRQAFVELGTLPTFNGIFKDSTLWAGKRFDRDNFD 220
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL- 72
+                      AGTGGGIY         SNFSLYGRN           Q YI+T N ++ 
+Sbjct: 221 IHWLDSDVVFLAGTGGGIYDIKWADNLKSNFSLYGRNYGEIENVNSDIQSYIFTTNNYIA 280
+
+Query: 73  --------QMMVSGLRT--------------------GVHALLGLH----------NSKT 94
+                   Q M+SGLR                     G+HA L+ H            KT
+Sbjct: 281 VNNSGGSFQWMLSGLRAKDNEARLNNGESVNTNAADKGIHAMLAYHGDSFYGLREGTAKT 340
+
+Query: 95  ALLYGH-------------------DTWRIASYGT-------SVAPAMLAQ--------- 119
+           ALLYGH                   DTWR+ASYGT       S+APA LAQ         
+Sbjct: 341 ALLYGHGLGAEVKSIGSDGNLTSGADTWRLASYGTTPLSQNWSLAPAILAQQSKDRYVEG 400
+
+Query: 120 ---RWATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF--- 150
+               W TFN RLIQ      ALAYEGSYQY                 FYKLTFAPTF   
+Sbjct: 401 DSYKWVTFNARLIQEITENFALAYEGSYQYMNLDPQGYKDYHKVSGGFYKLTFAPTFKAG 460
+
+Query: 151 ---------EIRFYTSWMD-----------------------EWSFGVQMETW 171
+                    EIR++ + MD                        W FG+QMETW
+Sbjct: 461 DISNFFSRPEIRLFATYMDWSQDLDNYAKDDAFGKNDFAAGGQWNFGIQMETW 513
+</PRE>
+
+
+<PRE>
+><a name = 123440922></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=123440922&dopt=GenPept" >ref|YP_001004913.1|</a> sucrose porin [Yersinia enterocolitica subsp. enterocolitica 8081]
+ <a name = 122087883></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=122087883&dopt=GenPept" >emb|CAL10671.1|</a> sucrose porin [Yersinia enterocolitica subsp. enterocolitica 8081]
+          Length = 512
+
+ Score =  129 bits (446), Expect = 2e-28
+ Identities = 136/412 (33%), Positives = 152/412 (36%), Gaps = 241/412 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 100 FHGYARSGLLMNASGTGTQGGPYVSPAGSTGGAIGRLGNEPDTYVEVNLEKKQKLDNGAT 159
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             +KVM+ADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 160 TRYKVMLADGQRSYNDWTADSSDLNVRQAFVELGTLPSFNGIFKDSTLWAGKRFDRDNFD 219
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL- 72
+                      AGTGGGIY         SNFSLYGRN           Q YI+T N ++ 
+Sbjct: 220 IHWLDSDVVFLAGTGGGIYDIKWTDNLKSNFSLYGRNYGEIENVNSDIQSYIFTTNNYVS 279
+
+Query: 73  -------QMMVSGLRT--------------------GVHALLGLH----------NSKTA 95
+                  Q M+SGLR                     G+H  ++ H           SKTA
+Sbjct: 280 THNNGSFQWMLSGLRAKDNEARQNSGETVNTNAADKGIHSMVAYHGDSFYGLREGTSKTA 339
+
+Query: 96  LLYGH-------------------DTWRIASYGT-------SVAPAMLAQ---------- 119
+           LLYGH                   DTWR+ASYGT       S+APA LAQ          
+Sbjct: 340 LLYGHGLGAEVKSIGSDGNLTSGADTWRLASYGTTALSKNWSLAPAILAQQSKDRYVEGD 399
+
+Query: 120 --RWATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF---- 150
+              W TFN RLIQ      ALAYEGSYQY                 FYKLTFAPTF    
+Sbjct: 400 SYKWVTFNARLIQEITENFALAYEGSYQYMNLDPQGYKDYHKVSGGFYKLTFAPTFKAGD 459
+
+Query: 151 --------EIRFYTSWMD-----------------------EWSFGVQMETW 171
+                   EIR + + MD                        W FG+QMETW
+Sbjct: 460 ISNFFSRPEIRVFATYMDWSQDLDNYAKDDAFGKNDFAAGGQWNFGIQMETW 511
+</PRE>
+
+
+<PRE>
+><a name = 300819078></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300819078&dopt=GenPept" >ref|ZP_07099281.1|</a> LamB porin [Escherichia coli MS 107-1]
+ <a name = 307222496></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307222496&dopt=GenPept" >ref|ZP_07508920.1|</a> hypothetical protein EcolM_16244 [Escherichia coli M718]
+ <a name = 300528378></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300528378&dopt=GenPept" >gb|EFK49440.1|</a> LamB porin [Escherichia coli MS 107-1]
+          Length = 498
+
+ Score =  124 bits (431), Expect = 3e-27
+ Identities = 135/408 (33%), Positives = 151/408 (37%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEM------NLE---- 20
+           FHGYARSG++MN                              TYVE        LE    
+Sbjct: 90  FHGYARSGLLMNDAASGSKSGPYLTPAGETGGSVGRLGNEGDTYVETVFEHKKTLESGAT 149
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVM+ADGQ             NVRQ   EL               WAGKRF      
+Sbjct: 150 TRFKVMLADGQKTYNDWSANSSDLNVRQVVAELGNLPDFTGPLKHSTVWAGKRFDRDNFD 209
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      +GTGGGIY         SNFSLYGRN           QNYILTMNHF  
+Sbjct: 210 IHWLDSDVVFLGGTGGGIYDVKWNDTLRSNFSLYGRNFGEMEDIDNNVQNYILTMNHFAG 269
+
+Query: 72  -LQMMVSGLRT---------------------GVHALLGLHN----------SKTALLYG 99
+            +Q MVSG R                      GVH L GLHN           K ALLYG
+Sbjct: 270 PFQLMVSGMRAKDNDDRRDNNGDLIHASAASHGVHVLAGLHNDSFWGLREGTAKIALLYG 329
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                   DTWR+A YGT+       +AP   AQ    R        W
+Sbjct: 330 HGLGAEVKGIGSDGALRSDADTWRLAAYGTTPLGNGWHIAPSVMAQGSKDRYARGDSYEW 389
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            T+N RLI    Q  ALA+EG+YQY                 FYKLTFAPT+        
+Sbjct: 390 VTLNTRLIKEVTQNFALAFEGTYQYMDLKPEGYKDRNAVNGSFYKLTFAPTLKAGGLGDF 449
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 450 FSRPELRLFATWMDWSSRLDNYASDDAFGGSGFNAGGEWNFGVQMETW 497
+</PRE>
+
+
+<PRE>
+><a name = 300825271></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300825271&dopt=GenPept" >ref|ZP_07105356.1|</a> LamB porin [Escherichia coli MS 119-7]
+ <a name = 300522260></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=300522260&dopt=GenPept" >gb|EFK43329.1|</a> LamB porin [Escherichia coli MS 119-7]
+          Length = 498
+
+ Score =  124 bits (431), Expect = 3e-27
+ Identities = 135/408 (33%), Positives = 151/408 (37%), Gaps = 237/408 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEM------NLE---- 20
+           FHGYARSG++MN                              TYVE        LE    
+Sbjct: 90  FHGYARSGLLMNDAASGSKSGPYLTPAGETGGSVGRLGNEGDTYVETVFEHKKTLESGAT 149
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVM+ADGQ             NVRQ   EL               WAGKRF      
+Sbjct: 150 TRFKVMLADGQKTYNDWSANSSDLNVRQVVAELGNLPDFTGPLKHSTVWAGKRFDRDNFD 209
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      +GTGGGIY         SNFSLYGRN           QNYILTMNHF  
+Sbjct: 210 IHWLDSDVVFLGGTGGGIYDVKWNDTLRSNFSLYGRNFGEMEDIDNNVQNYILTMNHFAG 269
+
+Query: 72  -LQMMVSGLRT---------------------GVHALLGLHN----------SKTALLYG 99
+            +Q MVSG R                      GVH L GLHN           K ALLYG
+Sbjct: 270 PFQLMVSGMRAKDNDDRRDNNGDLIHASAASHGVHVLAGLHNDSFWGLREGTAKIALLYG 329
+
+Query: 100 H-------------------DTWRIASYGTS-------VAPAMLAQ----R--------W 121
+           H                   DTWR+A YGT+       +AP   AQ    R        W
+Sbjct: 330 HGLGAEVKGIGSDGALRSDADTWRLAAYGTTPLGNGWHIAPSVMAQGSKDRYARGDSYEW 389
+
+Query: 122 ATFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF-------- 150
+            T+N RLI    Q  ALA+EG+YQY                 FYKLTFAPT+        
+Sbjct: 390 VTLNTRLIKEVTQSFALAFEGTYQYMDLKPEGYKDRNAVNGSFYKLTFAPTLKAGGLGDF 449
+
+Query: 151 ----EIRFYTSWMD-----------------------EWSFGVQMETW 171
+               E+R++ +WMD                       EW FGVQMETW
+Sbjct: 450 FSRPELRLFATWMDWSSRLDNYASDDAFGGSGFNAGGEWNFGVQMETW 497
+</PRE>
+
+
+<PRE>
+><a name = 238752623></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238752623&dopt=GenPept" >ref|ZP_04614095.1|</a> Sucrose porin [Yersinia rohdei ATCC 43380]
+ <a name = 238709137></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238709137&dopt=GenPept" >gb|EEQ01383.1|</a> Sucrose porin [Yersinia rohdei ATCC 43380]
+          Length = 518
+
+ Score =  124 bits (428), Expect = 6e-27
+ Identities = 134/413 (32%), Positives = 152/413 (36%), Gaps = 242/413 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE  LE          
+Sbjct: 105 FHGYARSGLLMNDSGTSTQGGPYVSPAGSTGGAIGRLGNETDTYVEVSLEKKQQLDNGAT 164
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             +KVM+ADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 165 TRYKVMLADGQRSYNDWTADSSDLNVRQAFVELGTLPTFEGIFKDSTLWAGKRFDRDNFD 224
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL- 72
+                      +GTGGGIY         SNFSLYGRN           Q YI+T N F+ 
+Sbjct: 225 IHWLDSDVVFLGGTGGGIYDIKWNESLKSNFSLYGRNYGEIENINSDIQSYIFTANNFIK 284
+
+Query: 73  --------QMMVSGLRT--------------------GVHALLGLH----------NSKT 94
+                   Q M+SGLR                     G+H+ L+ H           SKT
+Sbjct: 285 TSNDGGSFQWMLSGLRAKDNDARQNSGATLNTHAADKGIHGMLAYHGDSFYGLRAGTSKT 344
+
+Query: 95  ALLYGH-------------------DTWRIASYGT-------SVAPAMLAQ--------- 119
+           ALLYGH                   DTWR+A+YGT       S+APA LAQ         
+Sbjct: 345 ALLYGHGLGAEVKSIGSDGNLTSGADTWRLATYGTTALSKYWSLAPAILAQQSKDRYVTG 404
+
+Query: 120 ---RWATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF--- 150
+               W TFN RL+Q      ALAYEGSYQY                 FYKLTFAPTF   
+Sbjct: 405 DSYKWVTFNARLLQEITENFALAYEGSYQYMNLDPRGYKNYHPVSGGFYKLTFAPTFKPG 464
+
+Query: 151 ---------EIRFYTSWMD-----------------------EWSFGVQMETW 171
+                    EIR + + MD                        W FG+QMETW
+Sbjct: 465 DISNFFSRPEIRVFATYMDWSQDLDNYAKDDAFGKNGFVAGGQWNFGIQMETW 517
+</PRE>
+
+
+<PRE>
+><a name = 238798260></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238798260&dopt=GenPept" >ref|ZP_04641745.1|</a> Sucrose porin [Yersinia mollaretii ATCC 43969]
+ <a name = 238717898></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238717898&dopt=GenPept" >gb|EEQ09729.1|</a> Sucrose porin [Yersinia mollaretii ATCC 43969]
+          Length = 512
+
+ Score =  123 bits (427), Expect = 7e-27
+ Identities = 137/413 (33%), Positives = 152/413 (36%), Gaps = 242/413 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 99  FHGYARSGLLMNSSGTGTQGGPYVSPAGSTGGAIGRLGNEPDTYVEVNLEKKQKLDNGAT 158
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             +KVM+ADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 159 TRYKVMLADGQRSYNDWTADSSDLNVRQAFVELGTLPTFNGIFKDTTLWAGKRFDRDNFD 218
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL- 72
+                      AGTGGGIY         SNFSLYGRN           Q YI+T N ++ 
+Sbjct: 219 IHWLDSDVVFLAGTGGGIYDIKWNESLKSNFSLYGRNYGEIENVNSDIQSYIFTANNYFS 278
+
+Query: 73  --------QMMVSGLRT--------------------GVHALLGLH----------NSKT 94
+                   Q MVSGLR                     G+H  L+ H           SKT
+Sbjct: 279 PYSDGGRFQWMVSGLRAKDNEARENSGETINTHAADKGIHSMLAYHGDSFYGLRDGTSKT 338
+
+Query: 95  ALLYGH-------------------DTWRIASYGT-------SVAPAMLAQ----R---- 120
+           ALLYGH                   DTWR A+YGT       S+AP  LAQ    R    
+Sbjct: 339 ALLYGHGLGAEVKSIGADGNLTSGADTWRFATYGTTALSKSWSLAPVILAQQSKDRYVEG 398
+
+Query: 121 ----WATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF--- 150
+               W TFN RLIQ      ALAYEGSYQY                 FYKLTFAPTF   
+Sbjct: 399 DKYQWVTFNARLIQEITENFALAYEGSYQYMNLDPQGYKDYHKVSGGFYKLTFAPTFKAG 458
+
+Query: 151 ---------EIRFYTSWMD-----------------------EWSFGVQMETW 171
+                    EIR++ + MD                        W FG+QMETW
+Sbjct: 459 DISNFFSRPEIRLFATYMDWSQDLDNYAKDDAFGKNDFAAGGQWNFGIQMETW 511
+</PRE>
+
+
+<PRE>
+><a name = 238782746></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238782746&dopt=GenPept" >ref|ZP_04626776.1|</a> Sucrose porin [Yersinia bercovieri ATCC 43970]
+ <a name = 238716406></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238716406&dopt=GenPept" >gb|EEQ08388.1|</a> Sucrose porin [Yersinia bercovieri ATCC 43970]
+          Length = 512
+
+ Score =  120 bits (416), Expect = 6e-26
+ Identities = 135/413 (32%), Positives = 151/413 (36%), Gaps = 242/413 (58%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 99  FHGYARSGLLMNSSGTGTQGGPYVSPAGSTGGAIGRLGNEPDTYVEVNLEKKQKLDNGAT 158
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             +KVM+ADGQ             NVRQAFVEL               WAGKRF      
+Sbjct: 159 TRYKVMLADGQRSYNDWTADSSDLNVRQAFVELGTLPTFNGIFKESTLWAGKRFDRDNFD 218
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL- 72
+                      AGTGGGIY         SNFSLYGRN           Q YI+T N ++ 
+Sbjct: 219 IHWLDSDVVFLAGTGGGIYDIKWSESLKSNFSLYGRNYGEIENVNSDIQSYIFTANNYFS 278
+
+Query: 73  --------QMMVSGLRT--------------------GVHALLGLH----------NSKT 94
+                   Q MVSGLR                     G+H  L+ H           SKT
+Sbjct: 279 INNDSDRFQWMVSGLRAKDNEARENRGEIVNTHAADKGIHSMLAYHGDSFYGLRAGTSKT 338
+
+Query: 95  ALLYGH-------------------DTWRIASYGT-------SVAPAMLAQ----R---- 120
+           ALLYGH                    TWR+A+YGT       S+AP   AQ    R    
+Sbjct: 339 ALLYGHGLGAEVKSIGADGNLTHGAETWRLATYGTTALSKDWSLAPVLMAQQSQDRYVDG 398
+
+Query: 121 ----WATFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF--- 150
+               W TFN RLIQ      ALAYEGSYQY                 FYKLTFAPTF   
+Sbjct: 399 DKYQWVTFNARLIQEITENFALAYEGSYQYMNLEPQGYKDYHKVSGGFYKLTFAPTFKAG 458
+
+Query: 151 ---------EIRFYTSWMD-----------------------EWSFGVQMETW 171
+                    EIR++ + MD                        W FG+QMETW
+Sbjct: 459 DISNFFSRPEIRLFATYMDWSQDLDNYAKDDAFGKNDFAAGGQWNFGIQMETW 511
+</PRE>
+
+
+<PRE>
+><a name = 238758548></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238758548&dopt=GenPept" >ref|ZP_04619724.1|</a> Sucrose porin [Yersinia aldovae ATCC 35236]
+ <a name = 238703248></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=238703248&dopt=GenPept" >gb|EEP95789.1|</a> Sucrose porin [Yersinia aldovae ATCC 35236]
+          Length = 511
+
+ Score =  118 bits (410), Expect = 2e-25
+ Identities = 133/407 (32%), Positives = 150/407 (36%), Gaps = 236/407 (57%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE NLE          
+Sbjct: 104 FHGYARSGLLMNDSGTGTQGGPYVSPAGSTGGAIGRLGNEPDTYVEVNLEKKQRLENGAT 163
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FKVM ADGQ             N+RQAFVEL               WAGKRF      
+Sbjct: 164 TRFKVMMADGQRSYNDWTADSSDLNIRQAFVELGTLPTFNGIFKDSTLWAGKRFDRDNFD 223
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           Q YI++ N +  
+Sbjct: 224 IHWLDSDVVFLAGTGGGIYDIKWTDNLKSNFSLYGRNYGEIENVNSDIQSYIFSANNYSG 283
+
+Query: 72  -LQMMVSGLRT--------------------GVHALLGLH----------NSKTALLYGH 100
+            +Q  VSGLR                     G+H  L+ H           SKTALLYG 
+Sbjct: 284 PFQWTVSGLRAKDNEARKNSGETVNTHAADKGIHSMLAYHGDSFYGLRDGTSKTALLYGR 343
+
+Query: 101 -------------------DTWRIASYGTS-------VAPAMLAQ------------RWA 122
+                              DTWR+A+YGT+       +APA LAQ             W 
+Sbjct: 344 GLGAEVKSIGADGNLTGGADTWRLATYGTTALSKNWRLAPAILAQQSQDRYVEGDSYKWL 403
+
+Query: 123 TFNLRLIQ------ALAYEGSYQY-----------------FYKLTFAPTF--------- 150
+           TFN RLIQ      ALAYEGSYQY                 FYKLTFAPTF         
+Sbjct: 404 TFNARLIQEITENFALAYEGSYQYMNLEPQGYKDYHKVSGGFYKLTFAPTFKAGDISNFF 463
+
+Query: 151 ---EIRFYTSWMD-----------------------EWSFGVQMETW 171
+              E+R +T+ MD                        W FG+QMETW
+Sbjct: 464 SRPELRVFTTYMDWSRDLDNYAKDDAFGKNDFAAGGQWNFGIQMETW 510
+</PRE>
+
+
+<PRE>
+><a name = 271498922></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=271498922&dopt=GenPept" >ref|YP_003331947.1|</a> porin LamB type [Dickeya dadantii Ech586]
+ <a name = 270342477></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=270342477&dopt=GenPept" >gb|ACZ75242.1|</a> porin LamB type [Dickeya dadantii Ech586]
+          Length = 538
+
+ Score =  115 bits (396), Expect = 3e-24
+ Identities = 126/370 (34%), Positives = 140/370 (37%), Gaps = 211/370 (57%)
+
+Query: 13  TYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL--------- 38
+           TY+E  LE            FKVM ADGQ             NVR AFVEL         
+Sbjct: 168 TYLELKLEHRTKLDNGATTRFKVMMADGQRSYNDWTAATSQFNVREAFVELGSLPTFTGA 227
+
+Query: 39  ------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN----- 61
+                 WAGKRF                 AGTGGGIY         +N+SLYGR      
+Sbjct: 228 FKDTTLWAGKRFDRDNFDIHWIDSDVVFLAGTGGGIYDVKPVDGWKTNLSLYGRSLGEIT 287
+
+Query: 62  ------QNYILTMNHFL---QMMVSGLR---------TGV----------------HALL 87
+                 QNYI+T N F+   Q M+SGLR         TG+                HAL+
+Sbjct: 288 SLDNEIQNYIVTSNNFVGPFQFMLSGLRARNNDVKENTGLNNSNHVTNTNAGDSGYHALV 347
+
+Query: 88  GLH----------NSKTALLYGH-------------------DTWRIASYGT-------S 111
+           + H           SK ALLYGH                    TWR+A+YGT       S
+Sbjct: 348 AWHGDSFYGLRDGTSKVALLYGHGLGGEVKAIGSDGNLTQNANTWRLATYGTTALNHTWS 407
+
+Query: 112 VAPAMLAQ------------RWATFNLRLIQ------ALAYEGSYQY------------- 140
+            APA LAQ            RW TFN R+IQ      ALAYEGSYQY             
+Sbjct: 408 FAPAILAQSSKDRYVQGDDYRWLTFNARFIQEITENFALAYEGSYQYMNLDPQGYLSRNQ 467
+
+Query: 141 ----FYKLTFAPTF------------EIRFYTSWMD-----------------------E 161
+               FYKLTFAPTF            E+R Y S MD                       E
+Sbjct: 468 VSGGFYKLTFAPTFKVGDIANLLSRPELRVYASYMDWDKRLDRYSSDDAFGSTGFKAGGE 527
+
+Query: 162 WSFGVQMETW 171
+           W+FGVQMETW
+Sbjct: 528 WTFGVQMETW 537
+</PRE>
+
+
+<PRE>
+><a name = 322835498></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=322835498&dopt=GenPept" >ref|YP_004215524.1|</a> porin LamB type [Rahnella sp. Y9602]
+ <a name = 321170699></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=321170699&dopt=GenPept" >gb|ADW76397.1|</a> porin LamB type [Rahnella sp. Y9602]
+          Length = 526
+
+ Score =  112 bits (387), Expect = 2e-23
+ Identities = 125/369 (33%), Positives = 139/369 (37%), Gaps = 209/369 (56%)
+
+Query: 12  NTYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL-------- 38
+           NTYVE NLE            +KVM+ADGQ             N+RQAFVEL        
+Sbjct: 157 NTYVELNLEHNQTMASGATSRYKVMLADGQRSYNDWTGATSDLNIRQAFVELGSLPTFTG 216
+
+Query: 39  -------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN---- 61
+                  WAGKRF                 AGTGGGIY         SNFSLYGRN    
+Sbjct: 217 PWKDSTLWAGKRFDRDNFDIHWLDSDIVFLAGTGGGIYDVKWGDNLKSNFSLYGRNFDDL 276
+
+Query: 62  ----------QNYILTMNHF---LQMMVSGLR--------------------TGVHALLG 88
+                      NYI+T N +   +Q M+SGLR                    TG H  L+
+Sbjct: 277 EDDNNDDTRIENYIVTANNYAGPFQWMLSGLRAKNNQDRENSGTNGITNAADTGFHTMLA 336
+
+Query: 89  LH----------NSKTALLYGH-----------------D--TWRIASYGT-------SV 112
+            H           SKTALLYGH                 D  T R+A+YG        S+
+Sbjct: 337 YHGDSFYGLREGSSKTALLYGHGLGAEVKALGSDGHLTDDASTLRLATYGITPISKNWSI 396
+
+Query: 113 APAMLAQ------------RWATFNLRLIQA------LAYEGSYQY-------------- 140
+           APA LAQ             W TFN RLIQ       LAYEGSYQY              
+Sbjct: 397 APAVLAQQSKDRYVSGDDYKWLTFNTRLIQQITENFELAYEGSYQYMDLNPQGYSDYNKV 456
+
+Query: 141 ---FYKLTFAPTF------------EIRFYTSWMD-----------------------EW 162
+              FYKLTFAPTF            EIRF+ + MD                        W
+Sbjct: 457 KGGFYKLTFAPTFKVGDISNMLSRPEIRFFATYMDWSKELDSYSSSDSFGTDGFTAGGQW 516
+
+Query: 163 SFGVQMETW 171
+            FG+QMETW
+Sbjct: 517 NFGIQMETW 525
+</PRE>
+
+
+<PRE>
+><a name = 307129128></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=307129128&dopt=GenPept" >ref|YP_003881144.1|</a> maltoporin (maltose/maltodextrin high-affinity receptor, phage
+           lambda receptor protein) [Dickeya dadantii 3937]
+ <a name = 306526657></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=306526657&dopt=GenPept" >gb|ADM96587.1|</a> Maltoporin (maltose/maltodextrin high-affinity receptor, phage
+           lambda receptor protein) [Dickeya dadantii 3937]
+          Length = 538
+
+ Score =  109 bits (376), Expect = 1e-22
+ Identities = 123/370 (33%), Positives = 137/370 (37%), Gaps = 211/370 (57%)
+
+Query: 13  TYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL--------- 38
+           TY+E  LE            FKVM ADGQ             NVR AFVEL         
+Sbjct: 168 TYLELKLEHRTKLDNGATTRFKVMMADGQRSYNDWTASTSDLNVREAFVELGSLPTFTGA 227
+
+Query: 39  ------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN----- 61
+                 WAGKRF                 AGTGGGIY         SN+S+YGR      
+Sbjct: 228 FKDTTLWAGKRFDRDNFDIHWIDSDVVFLAGTGGGIYDVKPVDGWKSNLSIYGRSLGEIT 287
+
+Query: 62  ------QNYILTMNHFL---QMMVSGLR-------------------------TGVHALL 87
+                 QNYI+T N F+   Q M+SGLR                         +G HAL 
+Sbjct: 288 SLDKEIQNYIVTSNNFVGPFQFMLSGLRARNNDIKENTGSNNANNVTNTNAGDSGYHALA 347
+
+Query: 88  GLH----------NSKTALLYGH-------------------DTWRIASYGT-------S 111
+           + H            K ALLYGH                    TWR+A+YGT       S
+Sbjct: 348 AWHGDSFYGLRDGTAKVALLYGHGLGGEVKSIGSDGNLTQNANTWRLATYGTTALNKTWS 407
+
+Query: 112 VAPAMLAQ------------RWATFNLRLIQ------ALAYEGSYQY------------- 140
+            APA LAQ            RW TFN R+IQ      ALAYEGSYQY             
+Sbjct: 408 FAPAILAQSSKDRYVQGDDYRWVTFNARFIQEITENFALAYEGSYQYMNLDPQGYLSRNQ 467
+
+Query: 141 ----FYKLTFAPTF------------EIRFYTSWMD-----------------------E 161
+               FYKLTFAPTF            E+R + S MD                       E
+Sbjct: 468 VSGGFYKLTFAPTFKVGDISNLLSRPELRIFASYMDWDKRLDNYASDDAFGSTGFKAGGE 527
+
+Query: 162 WSFGVQMETW 171
+           W+FGVQMETW
+Sbjct: 528 WTFGVQMETW 537
+</PRE>
+
+
+<PRE>
+><a name = 251791314></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=251791314&dopt=GenPept" >ref|YP_003006035.1|</a> porin LamB type [Dickeya zeae Ech1591]
+ <a name = 247539935></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=247539935&dopt=GenPept" >gb|ACT08556.1|</a> porin LamB type [Dickeya zeae Ech1591]
+          Length = 538
+
+ Score =  109 bits (375), Expect = 2e-22
+ Identities = 125/370 (33%), Positives = 138/370 (37%), Gaps = 211/370 (57%)
+
+Query: 13  TYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL--------- 38
+           TY+E  LE            FKVM ADGQ             NVR AFVEL         
+Sbjct: 168 TYLELKLEHRTKLDNGATTRFKVMMADGQRSYNDWTASTSDLNVREAFVELGSLPTFTGA 227
+
+Query: 39  ------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN----- 61
+                 WAGKRF                 AGTGGGIY         +N+SLYGR      
+Sbjct: 228 FKDTTLWAGKRFDRDNFDIHWIDSDVVFLAGTGGGIYDVKPVDGWKTNLSLYGRSLGEIT 287
+
+Query: 62  ------QNYILTMNHFL---QMMVSGLR-------------------------TGVHALL 87
+                 QNYI+T N F+   Q M+SGLR                         TG HAL 
+Sbjct: 288 TLDNEIQNYIVTSNNFVGPFQFMLSGLRARNNDVKENIGRNNGSNVTNTNAGDTGYHALA 347
+
+Query: 88  GLH----------NSKTALLYGH-------------------DTWRIASYGT-------S 111
+           + H           SK ALLYGH                    TWR+A+YGT       S
+Sbjct: 348 AWHGDSFYGLRDGTSKVALLYGHGLGGEVKSIGSDGNLTQNANTWRLATYGTTALNKTWS 407
+
+Query: 112 VAPAMLAQ------------RWATFNLRLIQ------ALAYEGSYQY------------- 140
+            APA LAQ            RWATFN R+IQ      ALAYEGSYQY             
+Sbjct: 408 FAPAILAQTSKDRYVQGDDYRWATFNARFIQEITENFALAYEGSYQYMNLDPQGYLSRNQ 467
+
+Query: 141 ----FYKLTFAPTF------------EIRFYTSWMD-----------------------E 161
+               FYKLTFAPTF            E+R + S MD                        
+Sbjct: 468 VSGGFYKLTFAPTFKVGDISNLLSRPELRVFASYMDWDKRLDNYASDDAFGTTGFKAGGA 527
+
+Query: 162 WSFGVQMETW 171
+           W+FGVQMETW
+Sbjct: 528 WTFGVQMETW 537
+</PRE>
+
+
+<PRE>
+><a name = 50119322></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=50119322&dopt=GenPept" >ref|YP_048489.1|</a> putative sucrose porin [Pectobacterium atrosepticum SCRI1043]
+ <a name = 49609848></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=49609848&dopt=GenPept" >emb|CAG73282.1|</a> putative sucrose porin [Pectobacterium atrosepticum SCRI1043]
+          Length = 511
+
+ Score = 99.2 bits (339), Expect = 2e-19
+ Identities = 121/371 (32%), Positives = 134/371 (36%), Gaps = 212/371 (57%)
+
+Query: 13  TYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL--------- 38
+           TYVE  LE            FKVM ADGQ             N+R AFVEL         
+Sbjct: 140 TYVELKLEHKQKLDNGATTRFKVMMADGQRSYNDWTATTSDLNIREAFVELGSLPTFTDV 199
+
+Query: 39  ------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN----- 61
+                 WAGKRF                 AGTGGGIY         SNFSLYGR      
+Sbjct: 200 FKDTTLWAGKRFDRDNFDIHWLDSDVVFLAGTGGGIYDVKWADSAKSNFSLYGRSLGEIT 259
+
+Query: 62  ------QNYILTMNHFL---QMMVSGL---------RTGV-----------------HAL 86
+                  NYV+T N ++   Q M+SGL          TG                  HA 
+Sbjct: 260 SLDNDIKNYVFTANNYVGPFQFMLSGLTAKNNDVKENTGTSRDNITVTNTNAGGKGYHAM 319
+
+Query: 87  LGLH----------NSKTALLYGH-------------------DTWRIASYGT------- 110
+           ++ H           SKTA+LYGH                    TWR A+YGT       
+Sbjct: 320 VAYHGDSFYGLRDGTSKTAILYGHGLGGEVKSIGSDGNLTNDANTWRFATYGTTALNKTW 379
+
+Query: 111 SVAPAMLAQ----R--------WATFNLRLIQ------ALAYEGSYQY------------ 140
+           S AP  LAQ    R        W TFN RLIQ      ALAYEGSYQY            
+Sbjct: 380 SFAPSILAQTSKDRYVSGDSYEWVTFNARLIQEITENFALAYEGSYQYMGLDPRGYRSLN 439
+
+Query: 141 -----FYKLTFAPTF------------EIRFYTSWMD----------------------- 160
+                FYKLTFAPTF            E+R + S MD                       
+Sbjct: 440 QVSGGFYKLTFAPTFKVGDIGNFFSRPELRVFASYMDWDKRLDNYSNDDTFGSTGFKAGG 499
+
+Query: 161 EWSFGVQMETW 171
+           EW FG+QMETW
+Sbjct: 500 EWNFGIQMETW 510
+</PRE>
+
+
+<PRE>
+><a name = 253686755></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=253686755&dopt=GenPept" >ref|YP_003015945.1|</a> porin LamB type [Pectobacterium carotovorum subsp. carotovorum PC1]
+ <a name = 251753333></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=251753333&dopt=GenPept" >gb|ACT11409.1|</a> porin LamB type [Pectobacterium carotovorum subsp. carotovorum PC1]
+          Length = 511
+
+ Score = 98.4 bits (336), Expect = 3e-19
+ Identities = 121/371 (32%), Positives = 134/371 (36%), Gaps = 212/371 (57%)
+
+Query: 13  TYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL--------- 38
+           TYVE  LE            FKVM ADGQ             N+R AFVEL         
+Sbjct: 140 TYVEIKLEHKQKLDNGATTRFKVMMADGQRSYNDWTATTSDLNIREAFVELGSLPTFTGA 199
+
+Query: 39  ------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN----- 61
+                 WAGKRF                 AGTGGGIY         SNFSLYGR      
+Sbjct: 200 FKDTTLWAGKRFDRDNFDIHWLDSDVVFLAGTGGGIYDVKWADSAKSNFSLYGRSLGEIT 259
+
+Query: 62  ------QNYILTMNHFL---QMMVSGL---------RTGV-----------------HAL 86
+                  NYV+T N ++   Q M+SGL          TG                  HA 
+Sbjct: 260 SLDNDIKNYVFTANNYVGPFQFMLSGLTAKNNDVKQNTGTSRDNTFVTNTNAGDKGYHAM 319
+
+Query: 87  LGLH----------NSKTALLYGH-------------------DTWRIASYGT------- 110
+           ++ H           SKTA+LYGH                    TWR A+YGT       
+Sbjct: 320 VAYHGDSFYGLRDGTSKTAILYGHGLGGEVKNIGADGNLTNDANTWRFATYGTTALNKTW 379
+
+Query: 111 SVAPAMLAQ----R--------WATFNLRLIQ------ALAYEGSYQY------------ 140
+           S AP  LAQ    R        W TFN RLIQ      ALAYEGSYQY            
+Sbjct: 380 SFAPSILAQTSKDRYVNGDSYEWVTFNARLIQEITENFALAYEGSYQYMDLDPRGYRSLN 439
+
+Query: 141 -----FYKLTFAPTF------------EIRFYTSWMD----------------------- 160
+                FYKLTFAPTF            E+R + S MD                       
+Sbjct: 440 QVSGGFYKLTFAPTFKVGDIGNFFSRPELRVFASYMDWDKRLDNYSSEDTFGSTGFKAGG 499
+
+Query: 161 EWSFGVQMETW 171
+           EW FG+QMETW
+Sbjct: 500 EWNFGIQMETW 510
+</PRE>
+
+
+<PRE>
+><a name = 227326946></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227326946&dopt=GenPept" >ref|ZP_03830970.1|</a> putative sucrose porin [Pectobacterium carotovorum subsp.
+           carotovorum WPP14]
+          Length = 511
+
+ Score = 98.4 bits (336), Expect = 3e-19
+ Identities = 121/371 (32%), Positives = 134/371 (36%), Gaps = 212/371 (57%)
+
+Query: 13  TYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL--------- 38
+           TYVE  LE            FKVM ADGQ             N+R AFVEL         
+Sbjct: 140 TYVEIKLEHKQKLDNGATTRFKVMMADGQRSYNDWTAATSDLNIREAFVELGSLPTFTGA 199
+
+Query: 39  ------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN----- 61
+                 WAGKRF                 AGTGGGIY         SNFSLYGR      
+Sbjct: 200 FKDTTLWAGKRFDRDNFDIHWLDSDVIFLAGTGGGIYDVKWADSAKSNFSLYGRSLGEIT 259
+
+Query: 62  ------QNYILTMNHFL---QMMVSGL---------RTGV-----------------HAL 86
+                  NYV+T N ++   Q M+SGL          TG                  HA 
+Sbjct: 260 SLDNDIKNYVFTANNYVGPFQFMLSGLTAKNNDVKENTGTSRDNLTVTNTNAGDKGYHAM 319
+
+Query: 87  LGLH----------NSKTALLYGH-------------------DTWRIASYGT------- 110
+           ++ H           SKTA+LYGH                    TWR A+YGT       
+Sbjct: 320 VAYHGDSFYGLRDGTSKTAILYGHGLGGEVKNIGSDGNLTNDANTWRFATYGTTALNKTW 379
+
+Query: 111 SVAPAMLAQ----R--------WATFNLRLIQ------ALAYEGSYQY------------ 140
+           S AP  LAQ    R        W TFN RLIQ      ALAYEGSYQY            
+Sbjct: 380 SFAPSILAQTSKDRYVNGDSYEWVTFNARLIQEITENFALAYEGSYQYMDLDPRGYRSLN 439
+
+Query: 141 -----FYKLTFAPTF------------EIRFYTSWMD----------------------- 160
+                FYKLTFAPTF            E+R + S MD                       
+Sbjct: 440 QVSGGFYKLTFAPTFKVGDIGNFFSRPELRVFASYMDWDKRLDNYSSEDTFGSTGFKAGG 499
+
+Query: 161 EWSFGVQMETW 171
+           EW FG+QMETW
+Sbjct: 500 EWNFGIQMETW 510
+</PRE>
+
+
+<PRE>
+><a name = 227112812></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=227112812&dopt=GenPept" >ref|ZP_03826468.1|</a> putative sucrose porin [Pectobacterium carotovorum subsp.
+           brasiliensis PBR1692]
+          Length = 511
+
+ Score = 98.4 bits (336), Expect = 3e-19
+ Identities = 121/371 (32%), Positives = 134/371 (36%), Gaps = 212/371 (57%)
+
+Query: 13  TYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL--------- 38
+           TYVE  LE            FKVM ADGQ             N+R AFVEL         
+Sbjct: 140 TYVEIKLEHKQKLDNGATTRFKVMMADGQRSYNDWTAATSDLNIREAFVELGSLPTFTGA 199
+
+Query: 39  ------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN----- 61
+                 WAGKRF                 AGTGGGIY         SNFSLYGR      
+Sbjct: 200 FKDTTLWAGKRFDRDNFDIHWLDSDVVFLAGTGGGIYDVKWADSAKSNFSLYGRSLGEIT 259
+
+Query: 62  ------QNYILTMNHFL---QMMVSGL---------RTGV-----------------HAL 86
+                  NYV+T N ++   Q M+SGL          TG                  HA 
+Sbjct: 260 SLDNDIKNYVFTANNYVGPFQFMLSGLTAKNNDVKENTGTSRDNTVVTNTNAGDKGYHAM 319
+
+Query: 87  LGLH----------NSKTALLYGH-------------------DTWRIASYGT------- 110
+           ++ H           SKTA+LYGH                    TWR A+YGT       
+Sbjct: 320 VAYHGDSFYGLRDGTSKTAILYGHGLGGEVKNIGADGNLTNDANTWRFATYGTTALNKTW 379
+
+Query: 111 SVAPAMLAQ----R--------WATFNLRLIQ------ALAYEGSYQY------------ 140
+           S AP  LAQ    R        W TFN RLIQ      ALAYEGSYQY            
+Sbjct: 380 SFAPSILAQTSKDRYVSGDSYEWVTFNARLIQEITENFALAYEGSYQYMDLDPRGYRSLN 439
+
+Query: 141 -----FYKLTFAPTF------------EIRFYTSWMD----------------------- 160
+                FYKLTFAPTF            E+R + S MD                       
+Sbjct: 440 QVSGGFYKLTFAPTFKVGDIGNFFSRPELRVFASYMDWDKRLDNYSSEDTFGSTGFKAGG 499
+
+Query: 161 EWSFGVQMETW 171
+           EW FG+QMETW
+Sbjct: 500 EWNFGIQMETW 510
+</PRE>
+
+
+<PRE>
+><a name = 242240992></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242240992&dopt=GenPept" >ref|YP_002989173.1|</a> porin LamB type [Dickeya dadantii Ech703]
+ <a name = 242133049></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=242133049&dopt=GenPept" >gb|ACS87351.1|</a> porin LamB type [Dickeya dadantii Ech703]
+          Length = 539
+
+ Score = 97.0 bits (331), Expect = 8e-19
+ Identities = 123/370 (33%), Positives = 135/370 (36%), Gaps = 211/370 (57%)
+
+Query: 13  TYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL--------- 38
+           TY+EM LE            FKVM ADGQ             NVR AFVEL         
+Sbjct: 169 TYLEMKLEHRTKLANGATTRFKVMMADGQRSYNDWTATTSQLNVREAFVELGSLPTFTGA 228
+
+Query: 39  ------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN----- 61
+                 WAGKRF                 AGTGGGIY         +  S YGR      
+Sbjct: 229 FKDTTLWAGKRFDRDNFDIHWIDSDVIFLAGTGGGIYDVKPTDGWKTSVSMYGRSLGEIT 288
+
+Query: 62  ------QNYILTMNHFL---QMMVSGL--R-------TGV----------------HALL 87
+                 QNYI+T N F+   Q M+SGL  R       +GV                HA  
+Sbjct: 289 SLDNEIQNYIVTSNNFVGPFQFMLSGLNARNNDVKTNSGVNSANHVTNTNAGDNGYHAMA 348
+
+Query: 88  GLH----------NSKTALLYGH-------------------DTWRIASYGT-------S 111
+           + H            K A+LYGH                   DTWR+A+YGT       S
+Sbjct: 349 AWHGDSFYGLREGTAKVAVLYGHGLGAEVKSLGADGNLTKDADTWRLATYGTTALNRTWS 408
+
+Query: 112 VAPAMLAQ----R--------WATFNLRLIQ------ALAYEGSYQY------------- 140
+            APA LAQ    R        W TFN RLIQ      ALAYEGSYQY             
+Sbjct: 409 FAPAVLAQSSKDRYVQGDDYSWVTFNARLIQEITENFALAYEGSYQYMDLNPRGYNSRNQ 468
+
+Query: 141 ----FYKLTFAPTF------------EIRFYTSWM-----------DE------------ 161
+               FYKLTFAPTF            E+R Y S M           D             
+Sbjct: 469 VSGNFYKLTFAPTFKVGDISNLLSRPELRVYASYMNWDKRLDKYASDDAFGATGFKAGGA 528
+
+Query: 162 WSFGVQMETW 171
+           W+FGVQMETW
+Sbjct: 529 WTFGVQMETW 538
+</PRE>
+
+
+<PRE>
+><a name = 261819738></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261819738&dopt=GenPept" >ref|YP_003257844.1|</a> porin LamB type [Pectobacterium wasabiae WPP163]
+ <a name = 261603751></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=261603751&dopt=GenPept" >gb|ACX86237.1|</a> porin LamB type [Pectobacterium wasabiae WPP163]
+          Length = 519
+
+ Score = 95.6 bits (326), Expect = 2e-18
+ Identities = 120/379 (31%), Positives = 133/379 (35%), Gaps = 220/379 (58%)
+
+Query: 13  TYVEMNLE------------FKVMVADGQ-------------NVRQAFVEL--------- 38
+           TYVE  LE            FKVM ADGQ             N+R AFVEL         
+Sbjct: 140 TYVELKLEHKQKLDNGATTRFKVMMADGQRSYNDWTAATSDLNIREAFVELGSLPTFTGA 199
+
+Query: 39  ------WAGKRF-----------------AGTGGGIY---------SNFSLYGRN----- 61
+                 WAGKRF                 AGTGGGIY         SNFSLYGR      
+Sbjct: 200 FKDTTLWAGKRFDRDNFDIHWLDSDVVFLAGTGGGIYDVKWADSAKSNFSLYGRSLGEIT 259
+
+Query: 62  ------QNYILTMNHFL---QMMVSGL----------------RTGV------------- 83
+                  NYV+T N ++   Q M+SG                 R G              
+Sbjct: 260 ALDNDIKNYVFTANNYVGPFQFMLSGMKAKNNDIDSARASDIARAGTNRDYSTWVSNPNA 319
+
+Query: 84  -----HALLGLH----------NSKTALLYGH-------------------DTWRIASYG 109
+                HA ++ H           SKTA+LYGH                    TWR A+YG
+Sbjct: 320 GDKGYHAMVAYHGDSFYGLRDGTSKTAILYGHGLGGEVKVIGSDGNLTNDANTWRFATYG 379
+
+Query: 110 T-------SVAPAMLAQ----R--------WATFNLRLIQ------ALAYEGSYQY---- 140
+           T       S AP  LAQ    R        W TFN RLIQ      ALAYEGSYQY    
+Sbjct: 380 TTALNKTWSFAPSILAQTSKDRYVNGDSYEWVTFNARLIQEITENFALAYEGSYQYMDLD 439
+
+Query: 141 -------------FYKLTFAPTF------------EIRFYTSWMD--------------- 160
+                        FYKLTFAPTF            E+R + S MD               
+Sbjct: 440 PRGYRSLNQVSGGFYKLTFAPTFKVGDIGNFFSRPELRVFASYMDWDKRLDNYSSEDTFG 499
+
+Query: 161 --------EWSFGVQMETW 171
+                   EW FG+QMETW
+Sbjct: 500 STGFKAGGEWNFGIQMETW 518
+</PRE>
+
+
+<PRE>
+><a name = 320194907></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320194907&dopt=GenPept" >gb|EFW69536.1|</a> sucrose porin [Escherichia coli WV_060327]
+          Length = 312
+
+ Score = 74.7 bits (251), Expect = 4e-12
+ Identities = 65/186 (34%), Positives = 72/186 (38%), Gaps = 110/186 (59%)
+
+Query: 1   FHGYARSGVIMN------------------------------TYVEMNLE---------- 20
+           FHGYARSG++MN                              TYVE N+E          
+Sbjct: 97  FHGYARSGLLMNDAASSSKSGPYLTPAGETGGAVGRLGNEADTYVELNVEHKQTLDNGAT 156
+
+Query: 21  --FKVMVADGQ-------------NVRQAFVEL---------------WAGKRF------ 44
+             FK M+ADGQ             N+RQAF EL               WAGKRF      
+Sbjct: 157 TRFKAMLADGQRDYNDWTGSSSNLNIRQAFAELGALPSFTGAFKDSTVWAGKRFDRDNFD 216
+
+Query: 45  -----------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHF-- 71
+                      AGTGGGIY         SNFSLYGRN           QNYILTMNH+  
+Sbjct: 217 IHWLDSDVVFLAGTGGGIYDVKWNDTFRSNFSLYGRNFGDLDDIDNNVQNYILTMNHYAG 276
+
+Query: 72  -LQMMV 76
+            +Q MV
+Sbjct: 277 PFQLMV 282
+</PRE>
+
+
+<PRE>
+><a name = 145299902></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145299902&dopt=GenPept" >ref|YP_001142743.1|</a> sucrose porin [Aeromonas salmonicida subsp. salmonicida A449]
+ <a name = 142852674></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=142852674&dopt=GenPept" >gb|ABO90995.1|</a> sucrose porin [Aeromonas salmonicida subsp. salmonicida A449]
+          Length = 496
+
+ Score = 58.3 bits (192), Expect = 4e-07
+ Identities = 100/344 (29%), Positives = 116/344 (33%), Gaps = 193/344 (56%)
+
+Query: 21  FKVMVADGQ-------------NVRQAFVE---------------LWAGKRF-------- 44
+           +K+M+ADG              N RQ F E               LWAGKRF        
+Sbjct: 152 YKLMLADGVETSNDWTASDSSLNTRQVFAEIGNLASFDGAFKNAVLWAGKRFDRDNFDIH 211
+
+Query: 45  ---------AGTGGGIYS---------NFSLYGRN------------QNYILTMNHFL-- 72
+                    AGTGGGVY          NFSLYGR               YILTMN  +  
+Sbjct: 212 WLDSDVVFLAGTGGGVYDVQLADSWKVNFSLYGRDYGDISASGLSDIESYILTMNNRFGN 271
+
+Query: 73  -QMMVSGL-------RT------------GVHALLGLH-------N---SKTALLYGH-- 100
+            Q MV GL       R             G H L++ H       N   SK A+LYGH  
+Sbjct: 272 WQWMVNGLLANDNEQRINDGGKGSEAADKGAHTLVAYHADSFFGINPGFSKAAILYGHGL 331
+
+Query: 101 -----------------DTWRIASYGTS-------VAPAMLAQ----R--------WATF 124
+                            D  RVA +G +        APA LA     R        W T+
+Sbjct: 332 GAELKGLGSDSELLPDADAVRVAVFGATDLNPRWRFAPALLAEQSQDRYVKGDEYQWLTL 391
+
+Query: 125 NLRLIQAL------AYEGSYQY-----------------FYKLTFAPTF----------- 150
+           N R+ Q L       YE+  QY                 F KLTFAPTF           
+Sbjct: 392 NTRVAQVLSQNVELVYEAAWQYMDLDPKGYKGRQAVNGNFTKLTFAPTFKAQTAGFFERP 451
+
+Query: 151 EIRFYTSWMD-----------------------EWSFGVQMETW 171
+           E+R + SWMD                       EW FGVQMETW
+Sbjct: 452 ELRVFASWMDWSSELDSYASDDAMGQSNFTAGGEWNFGVQMETW 495
+</PRE>
+
+
+<PRE>
+><a name = 117618402></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=117618402&dopt=GenPept" >ref|YP_857485.1|</a> sucrose porin [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+ <a name = 117559809></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=117559809&dopt=GenPept" >gb|ABK36757.1|</a> sucrose porin [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+          Length = 496
+
+ Score = 57.7 bits (190), Expect = 5e-07
+ Identities = 97/344 (28%), Positives = 115/344 (33%), Gaps = 193/344 (56%)
+
+Query: 21  FKVMVADGQ-------------NVRQAFVE---------------LWAGKRF-------- 44
+           +K+M+ADG              N RQ F E               LWAGKRF        
+Sbjct: 152 YKLMLADGVETSNDWTASDSSLNTRQVFAEIGNLASFDGPFKNAVLWAGKRFDRDNFDIH 211
+
+Query: 45  ---------AGTGGGIY---------SNFSLYGRN------------QNYILTMNHFL-- 72
+                    AGTGGGVY          NFSLYGR                ILT N  +  
+Sbjct: 212 WLDSDVVFLAGTGGGVYDVQLADSWKANFSLYGRDYGDISASGLSDIESHILTINNRFGN 271
+
+Query: 73  -QMMVSGLRT-------------------GVHALLGLH-------N---SKTALLYGH-- 100
+            Q M+ GL                     G H LL+ H       N   SK A+LYGH  
+Sbjct: 272 WQWMLNGLSAKDNETRINDGGAGSEAANKGAHTLLAYHGDSFFGINPGFSKAAVLYGHGL 331
+
+Query: 101 -----------------DTWRIASYGTS-------VAPAMLAQ------------RWATF 124
+                            D  RVA +G +       +APA LA             RW T+
+Sbjct: 332 GAELKGLGSDSELLPDADAVRVAVFGATDLAPRWRIAPALLAEQSKDRYVKGDEYRWVTL 391
+
+Query: 125 NLRLIQAL------AYEGSYQY-----------------FYKLTFAPTF----------- 150
+           N RL Q L       YE++ QY                 F KLTFAPTF           
+Sbjct: 392 NGRLAQVLSQNVELVYEATWQYMDLDPKGYKGRQAVSGDFTKLTFAPTFKAQTAGFFERP 451
+
+Query: 151 EIRFYTSWMD-----------------------EWSFGVQMETW 171
+           E+R + +WMD                       EW FGVQMETW
+Sbjct: 452 ELRVFATWMDWSSELDHYASNDAMGQSNFTAGGEWNFGVQMETW 495
+</PRE>
+
+
+<PRE>
+><a name = 320194908></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=320194908&dopt=GenPept" >gb|EFW69537.1|</a> porin LamB type [Escherichia coli WV_060327]
+          Length = 109
+
+ Score = 52.2 bits (170), Expect = 3e-05
+ Identities = 40/107 (37%), Positives = 46/107 (42%), Gaps = 58/107 (54%)
+
+Query: 123 TFNLRLI----Q--ALAYEGSYQY-----------------FYKLTFAPTF--------- 150
+           TFN RLI    Q  ALA+EGSYQY                 FYKLTFAPT+         
+Sbjct: 2   TFNTRLIKEVTQNFALAFEGSYQYMDLKPKGYQNHNAVNGSFYKLTFAPTLKANDINNFF 61
+
+Query: 151 ---EIRFYTSWMD-----------------------EWSFGVQMETW 171
+              E+R++ +WMD                       EW FGVQMETW
+Sbjct: 62  SRPELRLFATWMDWSSKLDDFASNDAFGSSGFNTGGEWNFGVQMETW 108
+</PRE>
+
+
+<PRE>
+><a name = 315179767></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=315179767&dopt=GenPept" >gb|ADT86681.1|</a> sucrose porin [Vibrio furnissii NCTC 11218]
+          Length = 462
+
+ Score = 45.5 bits (146), Expect = 0.003
+ Identities = 94/323 (29%), Positives = 111/323 (34%), Gaps = 179/323 (55%)
+
+Query: 27  DGQ-NVRQAFVEL---------------WAGKRF-----------------AGTGGGIY- 52
+           D Q NVRQ + EL               WAGKRF                  GTG+GIY 
+Sbjct: 140 DSQLNVRQVYAELSNLSSFSGPFEHATLWAGKRFDRDNFDIHFFDSDIVFLSGTGAGIYD 199
+
+Query: 53  --------SNFSLYGRN-----------QNYILTM-NHF--LQMMVSGL-------R--- 80
+                    NFS+YGR             NYI TM N F  +Q MVSG        R   
+Sbjct: 200 VQFTQHWKANFSIYGRDFGEIDSSSTDVENYIATMNNRFGNFQVMVSGMASSDNQNRDTD 259
+
+Query: 81  ---------TGVHALLGLHN----------SKTALLYGH-------------D------T 102
+                    TGVHAL++ H           SK+++L G              D       
+Sbjct: 260 SASPTKRAETGVHALFAYHGESFYGLSDGFSKSGVLVGQGLGAELKGIGSNGDLNDDAKA 319
+
+Query: 103 WRIASYGTS-------VAPAMLAQ------------RWATFNLRLIQAL------AYEGS 137
+            RV SYG +       +APA  A              WA+ N+RL Q L       YEG+
+Sbjct: 320 MRVFSYGVTRFADHWRIAPAVMAEYSQDRIKTNDEFKWASVNVRLAQELTQNFEMVYEGT 379
+
+Query: 138 YQY-------------FYKLTFAPTF------------EIRFYTSWMDEWS--------- 163
+           YQY             FYK T APTF            EIRF  S  D WS         
+Sbjct: 380 YQYMDLDNSVDQAKGSFYKATIAPTFKLATSAGFFDRPEIRFAVSYVD-WSSALDDYAVS 438
+
+Query: 164 ---------------FGVQMETW 171
+                          F++QMETW
+Sbjct: 439 LDSDASTMGSGGETVFALQMETW 461
+</PRE>
+
+
+<PRE>
+><a name = 260768069></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260768069&dopt=GenPept" >ref|ZP_05877003.1|</a> maltoporin [Vibrio furnissii CIP 102972]
+ <a name = 260616099></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260616099&dopt=GenPept" >gb|EEX41284.1|</a> maltoporin [Vibrio furnissii CIP 102972]
+          Length = 462
+
+ Score = 45.5 bits (146), Expect = 0.003
+ Identities = 94/323 (29%), Positives = 111/323 (34%), Gaps = 179/323 (55%)
+
+Query: 27  DGQ-NVRQAFVEL---------------WAGKRF-----------------AGTGGGIY- 52
+           D Q NVRQ + EL               WAGKRF                  GTG+GIY 
+Sbjct: 140 DSQLNVRQVYAELSNLSSFSGPFEHATLWAGKRFDRDNFDIHFFDSDIVFLSGTGAGIYD 199
+
+Query: 53  --------SNFSLYGRN-----------QNYILTM-NHF--LQMMVSGL-------R--- 80
+                    NFS+YGR             NYI TM N F  +Q MVSG        R   
+Sbjct: 200 VQFTQHWKANFSIYGRDFGEIDSSSTDVENYIATMNNRFGNFQVMVSGMASSDNQNRDTD 259
+
+Query: 81  ---------TGVHALLGLHN----------SKTALLYGH-------------D------T 102
+                    TGVHAL++ H           SK+++L G              D       
+Sbjct: 260 SASPTKRAETGVHALFAYHGQSFYGLSDGFSKSGVLVGQGLGAELKGIGSNGDLNEDAKA 319
+
+Query: 103 WRIASYGTS-------VAPAMLAQ------------RWATFNLRLIQAL------AYEGS 137
+            RV SYG +       +APA  A              WA+ N+RL Q L       YEG+
+Sbjct: 320 MRVFSYGVTRFADNWRIAPAVMAEYSQDRIKTNDEFKWASVNVRLAQELTQNFEMVYEGT 379
+
+Query: 138 YQY-------------FYKLTFAPTF------------EIRFYTSWMDEWS--------- 163
+           YQY             FYK T APTF            EIRF  S  D WS         
+Sbjct: 380 YQYMDLYNSVDQAKGSFYKATIAPTFKLATSAGFFDRPEIRFAVSYVD-WSSALDDYAVS 438
+
+Query: 164 ---------------FGVQMETW 171
+                          F++QMETW
+Sbjct: 439 LDSDASTMGNGGETVFALQMETW 461
+</PRE>
+
+
+<PRE>
+><a name = 269967168></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269967168&dopt=GenPept" >ref|ZP_06181233.1|</a> conserved hypothetical protein [Vibrio alginolyticus 40B]
+ <a name = 269828158></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=269828158&dopt=GenPept" >gb|EEZ82427.1|</a> conserved hypothetical protein [Vibrio alginolyticus 40B]
+          Length = 459
+
+ Score = 42.4 bits (135), Expect = 0.022
+ Identities = 89/316 (28%), Positives = 110/316 (34%), Gaps = 176/316 (55%)
+
+Query: 30  NVRQAFVEL-----------------WAGKRF-----------------AGTGGGIY--- 52
+           NVRQ + EL                 WAGKRF                  GTG+GVY   
+Sbjct: 145 NVRQVYAELNKLSMFSESRAFADATFWAGKRFDRDNFDIHFFDSDIVFLSGTGAGVYDVQ 204
+
+Query: 53  ------SNFSLYGRN-----------QNYILTMNHFL---QMMVSGLRT----------- 81
+                  NFS+YGR             NYI TMN  +   Q M+SG  +           
+Sbjct: 205 MSDSWKANFSIYGRDFGEIDSSSTDVENYIATMNNRFGNWQLMLSGMTSADNNDRVEGAA 264
+
+Query: 82  --GVHALLGLH--N--------SKTALLYGHD--------------------TWRIASYG 109
+             G+HA ++ H  N        SKT++L G D                      R+ SYG
+Sbjct: 265 DKGLHAMFAYHGDNFFGMSEGFSKTGILMG-DGLGAELKGIGSNGDLLEDAKAVRLFSYG 323
+
+Query: 110 TS-------VAPAMLAQ----R--------WATFNLRLIQAL------AYEGSYQY---- 140
+            +       VAPA LA     R        WA+FN+RL Q +       YEGSYQY    
+Sbjct: 324 VTRIGDNWRVAPALLAEHSQDRFAENDEFTWASFNIRLAQEFTQNFEMVYEGSYQYMDLD 383
+
+Query: 141 ---------FYKLTFAPTF------------EIRFYTSWMDEWS---------------- 163
+                    FYK T APT+            E+RF  S  D WS                
+Sbjct: 384 NAIDKASGSFYKATIAPTLKMSTAAGFFDRPELRFAVSYVD-WSEDLNGYSISQDAGAAT 442
+
+Query: 164 --------FGVQMETW 171
+                   F++QMETW
+Sbjct: 443 MGDGGEVLFALQMETW 458
+</PRE>
+
+
+<PRE>
+><a name = 262395899></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262395899&dopt=GenPept" >ref|YP_003287752.1|</a> maltoporin [Vibrio sp. Ex25]
+ <a name = 262339493></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=262339493&dopt=GenPept" >gb|ACY53287.1|</a> maltoporin [Vibrio sp. Ex25]
+          Length = 479
+
+ Score = 42.4 bits (135), Expect = 0.022
+ Identities = 89/316 (28%), Positives = 110/316 (34%), Gaps = 176/316 (55%)
+
+Query: 30  NVRQAFVEL-----------------WAGKRF-----------------AGTGGGIY--- 52
+           NVRQ + EL                 WAGKRF                  GTG+GVY   
+Sbjct: 165 NVRQVYAELNKLSMFSESSAFADATFWAGKRFDRDNFDIHFFDSDIVFLSGTGAGVYDVQ 224
+
+Query: 53  ------SNFSLYGRN-----------QNYILTMNHFL---QMMVSGLRT----------- 81
+                  NFS+YGR             NYI TMN  +   Q M+SG  +           
+Sbjct: 225 MSDSWKANFSIYGRDFGEIDSSSTDIENYIATMNNRFGNWQLMLSGMTSADNNDRVEGAA 284
+
+Query: 82  --GVHALLGLH--N--------SKTALLYGHD--------------------TWRIASYG 109
+             G+HA ++ H  N        SKT++L G D                      R+ SYG
+Sbjct: 285 DKGLHAMFAYHGDNFFGMSEGFSKTGILMG-DGLGAELKGIGSNGDLLEDAKAVRLFSYG 343
+
+Query: 110 TS-------VAPAMLAQ----R--------WATFNLRLIQAL------AYEGSYQY---- 140
+            +       VAPA LA     R        WA+FN+RL Q +       YEGSYQY    
+Sbjct: 344 VTRIGDNWRVAPALLAEHSQDRFAKNDEFTWASFNIRLAQEFTQNFEMVYEGSYQYMDLD 403
+
+Query: 141 ---------FYKLTFAPTF------------EIRFYTSWMDEWS---------------- 163
+                    FYK T APT+            E+RF  S  D WS                
+Sbjct: 404 NAIDKASGSFYKATIAPTLKMSTAAGFFDRPELRFAVSYVD-WSEDLNGYSISQDAGAAT 462
+
+Query: 164 --------FGVQMETW 171
+                   F++QMETW
+Sbjct: 463 MGDGGEVLFALQMETW 478
+</PRE>
+
+
+<PRE>
+><a name = 152970444></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=152970444&dopt=GenPept" >ref|YP_001335553.1|</a> putative maltoporin precursor [Klebsiella pneumoniae subsp.
+           pneumoniae MGH 78578]
+ <a name = 150955293></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=150955293&dopt=GenPept" >gb|ABR77323.1|</a> putative maltoporin precursor [Klebsiella pneumoniae subsp.
+           pneumoniae MGH 78578]
+          Length = 538
+
+ Score = 42.4 bits (135), Expect = 0.022
+ Identities = 31/82 (37%), Positives = 35/82 (42%), Gaps = 43/82 (52%)
+
+Query: 121 WATFNLRLIQ------ALAYEGSYQY-------------------------FYKLTFAPT 149
+           WATFNLR+ Q      AL YE+S QY                         FYKLTFAPT
+Sbjct: 421 WATFNLRVSQGISAHFALLYEASWQYMDLNPNGRSYRYNDNVYQYQAVRGDFYKLTFAPT 480
+
+Query: 150 F------------EIRFYTSWM 159
+           F            EIRF+ +WM
+Sbjct: 481 FKVGDVLDIKARPEIRFFATWM 502
+</PRE>
+
+
+<PRE>
+><a name = 254228122></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=254228122&dopt=GenPept" >ref|ZP_04921552.1|</a> Maltoporin [Vibrio sp. Ex25]
+ <a name = 151939618></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=151939618&dopt=GenPept" >gb|EDN58446.1|</a> Maltoporin [Vibrio sp. Ex25]
+          Length = 459
+
+ Score = 42.4 bits (135), Expect = 0.022
+ Identities = 89/316 (28%), Positives = 110/316 (34%), Gaps = 176/316 (55%)
+
+Query: 30  NVRQAFVEL-----------------WAGKRF-----------------AGTGGGIY--- 52
+           NVRQ + EL                 WAGKRF                  GTG+GVY   
+Sbjct: 145 NVRQVYAELNKLSMFSESSAFADATFWAGKRFDRDNFDIHFFDSDIVFLSGTGAGVYDVQ 204
+
+Query: 53  ------SNFSLYGRN-----------QNYILTMNHFL---QMMVSGLRT----------- 81
+                  NFS+YGR             NYI TMN  +   Q M+SG  +           
+Sbjct: 205 MSDSWKANFSIYGRDFGEIDSSSTDIENYIATMNNRFGNWQLMLSGMTSADNNDRVEGAA 264
+
+Query: 82  --GVHALLGLH--N--------SKTALLYGHD--------------------TWRIASYG 109
+             G+HA ++ H  N        SKT++L G D                      R+ SYG
+Sbjct: 265 DKGLHAMFAYHGDNFFGMSEGFSKTGILMG-DGLGAELKGIGSNGDLLEDAKAVRLFSYG 323
+
+Query: 110 TS-------VAPAMLAQ----R--------WATFNLRLIQAL------AYEGSYQY---- 140
+            +       VAPA LA     R        WA+FN+RL Q +       YEGSYQY    
+Sbjct: 324 VTRIGDNWRVAPALLAEHSQDRFAKNDEFTWASFNIRLAQEFTQNFEMVYEGSYQYMDLD 383
+
+Query: 141 ---------FYKLTFAPTF------------EIRFYTSWMDEWS---------------- 163
+                    FYK T APT+            E+RF  S  D WS                
+Sbjct: 384 NAIDKASGSFYKATIAPTLKMSTAAGFFDRPELRFAVSYVD-WSEDLNGYSISQDAGAAT 442
+
+Query: 164 --------FGVQMETW 171
+                   F++QMETW
+Sbjct: 443 MGDGGEVLFALQMETW 458
+</PRE>
+
+
+<PRE>
+><a name = 91224068></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91224068&dopt=GenPept" >ref|ZP_01259331.1|</a> putative sucrose porin [Vibrio alginolyticus 12G01]
+ <a name = 91190979></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91190979&dopt=GenPept" >gb|EAS77245.1|</a> putative sucrose porin [Vibrio alginolyticus 12G01]
+          Length = 459
+
+ Score = 41.9 bits (133), Expect = 0.033
+ Identities = 89/316 (28%), Positives = 110/316 (34%), Gaps = 176/316 (55%)
+
+Query: 30  NVRQAFVEL-----------------WAGKRF-----------------AGTGGGIY--- 52
+           NVRQ + EL                 WAGKRF                  GTG+GVY   
+Sbjct: 145 NVRQIYAELNKLSMFSESSAFADATFWAGKRFDRDNFDIHFFDSDIVFLSGTGAGVYDVQ 204
+
+Query: 53  ------SNFSLYGRN-----------QNYILTMNHFL---QMMVSGLRT----------- 81
+                  NFS+YGR             NYI TMN  +   Q M+SG  +           
+Sbjct: 205 MSDSWKANFSIYGRDFGEIDSSSTDVENYIATMNNRFGSWQLMLSGMTSADNNDRVEGSA 264
+
+Query: 82  --GVHALLGLH--N--------SKTALLYGHD--------------------TWRIASYG 109
+             G+HA ++ H  N        SKT++L G D                      R+ SYG
+Sbjct: 265 DKGLHAMFAYHGDNFFGMSEGFSKTGILMG-DGLGAELKGIGSNGDLLEDAKAVRLFSYG 323
+
+Query: 110 TS-------VAPAMLAQ----R--------WATFNLRLIQAL------AYEGSYQY---- 140
+            +       VAPA LA     R        WA+FN+RL Q +       YEGSYQY    
+Sbjct: 324 VTRIGDNWRVAPALLAEHSQDRFAENDEFTWASFNIRLAQEFTQNFEMVYEGSYQYMDLD 383
+
+Query: 141 ---------FYKLTFAPTF------------EIRFYTSWMDEWS---------------- 163
+                    FYK T APT+            E+RF  S  D WS                
+Sbjct: 384 NAIDKASGSFYKATIAPTLKMSTAAGFFDRPELRFAVSYVD-WSEDLNGYSISQDAGAAT 442
+
+Query: 164 --------FGVQMETW 171
+                   F++QMETW
+Sbjct: 443 MGDGGEVLFALQMETW 458
+</PRE>
+
+
+<PRE>
+><a name = 290509335></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=290509335&dopt=GenPept" >ref|ZP_06548706.1|</a> LamB family porin [Klebsiella sp. 1_1_55]
+ <a name = 289778729></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=289778729&dopt=GenPept" >gb|EFD86726.1|</a> LamB family porin [Klebsiella sp. 1_1_55]
+          Length = 536
+
+ Score = 41.6 bits (132), Expect = 0.039
+ Identities = 31/82 (37%), Positives = 35/82 (42%), Gaps = 43/82 (52%)
+
+Query: 121 WATFNLRLIQ------ALAYEGSYQY-------------------------FYKLTFAPT 149
+           WATFNLR+ Q      AL YE+S QY                         FYKLTFAPT
+Sbjct: 419 WATFNLRVSQGISAHFALLYEASWQYMDLNPNGRSYRYNDNVYQYQAVRGDFYKLTFAPT 478
+
+Query: 150 F------------EIRFYTSWM 159
+           F            EIRF+ +WM
+Sbjct: 479 FKVGDVFDIKARPEIRFFVTWM 500
+</PRE>
+
+
+<PRE>
+><a name = 288935281></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288935281&dopt=GenPept" >ref|YP_003439340.1|</a> porin LamB type [Klebsiella variicola At-22]
+ <a name = 288889990></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288889990&dopt=GenPept" >gb|ADC58308.1|</a> porin LamB type [Klebsiella variicola At-22]
+          Length = 536
+
+ Score = 41.6 bits (132), Expect = 0.039
+ Identities = 31/82 (37%), Positives = 35/82 (42%), Gaps = 43/82 (52%)
+
+Query: 121 WATFNLRLIQ------ALAYEGSYQY-------------------------FYKLTFAPT 149
+           WATFNLR+ Q      AL YE+S QY                         FYKLTFAPT
+Sbjct: 419 WATFNLRVSQGISAHFALLYEASWQYMDLNPNGRSYRYNDNVYQYQAVRGDFYKLTFAPT 478
+
+Query: 150 F------------EIRFYTSWM 159
+           F            EIRF+ +WM
+Sbjct: 479 FKVGDVFDIKARPEIRFFVTWM 500
+</PRE>
+
+
+<PRE>
+><a name = 206578943></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206578943&dopt=GenPept" >ref|YP_002238295.1|</a> porin, LamB family [Klebsiella pneumoniae 342]
+ <a name = 206568001></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=206568001&dopt=GenPept" >gb|ACI09777.1|</a> porin, LamB family [Klebsiella pneumoniae 342]
+          Length = 536
+
+ Score = 41.6 bits (132), Expect = 0.039
+ Identities = 31/82 (37%), Positives = 35/82 (42%), Gaps = 43/82 (52%)
+
+Query: 121 WATFNLRLIQ------ALAYEGSYQY-------------------------FYKLTFAPT 149
+           WATFNLR+ Q      AL YE+S QY                         FYKLTFAPT
+Sbjct: 419 WATFNLRVSQGISAHFALLYEASWQYMDLNPNGRSYRYNDNVYQYQAVRGDFYKLTFAPT 478
+
+Query: 150 F------------EIRFYTSWM 159
+           F            EIRF+ +WM
+Sbjct: 479 FKVGDVFDIKARPEIRFFVTWM 500
+</PRE>
+
+
+<PRE>
+><a name = 260779001></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260779001&dopt=GenPept" >ref|ZP_05887893.1|</a> maltoporin [Vibrio coralliilyticus ATCC BAA-450]
+ <a name = 260605165></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260605165&dopt=GenPept" >gb|EEX31460.1|</a> maltoporin [Vibrio coralliilyticus ATCC BAA-450]
+          Length = 462
+
+ Score = 40.2 bits (127), Expect = 0.10
+ Identities = 91/341 (26%), Positives = 116/341 (34%), Gaps = 191/341 (56%)
+
+Query: 21  FKVMVADG------------Q-NVRQAFVE---------------LWAGKRF-------- 44
+           +K+M+AD             Q NVRQ + E               +WAGKRF        
+Sbjct: 122 YKIMLADSVETNNEWTASDSQLNVRQVYTEFSDLTWFSGAFEDAKIWAGKRFDRDNFDIH 181
+
+Query: 45  ---------AGTGGGIY---------SNFSLYGRN-----------QNYILTMNHFL--- 72
+                     GTG+G+Y          NFSLYGR             NYV TMN ++   
+Sbjct: 182 FFDSDIVFLSGTGAGLYDVKLGEDWKANFSLYGRDFGEIDSSSTDVENYVATMNNYFGSW 241
+
+Query: 73  QMMVSGLRT-------------------GVHALLGLH-N---------SKTALLYGH--- 100
+           Q M+ +  +                   G+HA ++ H N         SK+++L G    
+Sbjct: 242 QLMLNAMKSNDNADRSTSSSSPTERAEDGLHAMFAYHGNDFFGVSEGFSKSGVLIGQGLG 301
+
+Query: 101 --------------DT--WRIASYGTS-------VAPAMLAQ----R--------WATFN 125
+                         D    RI SYG +       +APA  A     R        WA+ N
+Sbjct: 302 ASLKGIGSDGDLNDDAQAVRIFSYGVTKFSDNWRIAPAFMAEMSKDRVKDNDEFLWASVN 361
+
+Query: 126 LRLIQAL------AYEGSYQY-------------FYKLTFAPTF------------EIRF 154
+           +RL Q L       YEGSYQY             FYKLT APT             EIRF
+Sbjct: 362 VRLAQELNSNFEMVYEGSYQYMDLDNSVEKADGSFYKLTVAPTVKLATSAGFFDRPEIRF 421
+
+Query: 155 YTSWMDEWS------------------------FGVQMETW 171
+             S  D WS                        F++QMETW
+Sbjct: 422 AVSYVD-WSEDLDNYSVSLDSGASTMGQGGETLFALQMETW 461
+</PRE>
+
+
+<PRE>
+><a name = 291086671></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291086671&dopt=GenPept" >ref|ZP_06356414.2|</a> maltoporin [Citrobacter youngae ATCC 29220]
+ <a name = 291067413></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=291067413&dopt=GenPept" >gb|EFE05522.1|</a> maltoporin [Citrobacter youngae ATCC 29220]
+          Length = 454
+
+ Score = 33.8 bits (104), Expect = 8.8
+ Identities = 11/13 (84%), Positives = 11/13 (84%)
+
+Query: 160 DEWSFGVQMETWW 172
+           DEWSFG QME WW
+Sbjct: 442 DEWSFGAQMEIWW 454
+</PRE>
+
+
+<PRE>
+><a name = 283787284></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=283787284&dopt=GenPept" >ref|YP_003367149.1|</a> maltoporin (maltose-inducible porin) [Citrobacter rodentium ICC168]
+ <a name = 282950738></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=282950738&dopt=GenPept" >emb|CBG90414.1|</a> maltoporin (maltose-inducible porin) [Citrobacter rodentium ICC168]
+          Length = 449
+
+ Score = 33.8 bits (104), Expect = 8.8
+ Identities = 11/13 (84%), Positives = 11/13 (84%)
+
+Query: 160 DEWSFGVQMETWW 172
+           DEWSFG QME WW
+Sbjct: 437 DEWSFGAQMEIWW 449
+</PRE>
+
+
+<PRE>
+><a name = 260599569></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260599569&dopt=GenPept" >ref|YP_003212140.1|</a> maltoporin [Cronobacter turicensis z3032]
+ <a name = 260218746></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=260218746&dopt=GenPept" >emb|CBA34094.1|</a> Maltoporin [Cronobacter turicensis z3032]
+          Length = 469
+
+ Score = 33.8 bits (104), Expect = 8.8
+ Identities = 11/13 (84%), Positives = 11/13 (84%)
+
+Query: 160 DEWSFGVQMETWW 172
+           DEWSFG QME WW
+Sbjct: 457 DEWSFGAQMEIWW 469
+</PRE>
+
+
+<PRE>
+><a name = 237728121></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=237728121&dopt=GenPept" >ref|ZP_04558602.1|</a> maltoporin [Citrobacter sp. 30_2]
+ <a name = 226910132></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=226910132&dopt=GenPept" >gb|EEH96050.1|</a> maltoporin [Citrobacter sp. 30_2]
+          Length = 453
+
+ Score = 33.8 bits (104), Expect = 8.8
+ Identities = 11/13 (84%), Positives = 11/13 (84%)
+
+Query: 160 DEWSFGVQMETWW 172
+           DEWSFG QME WW
+Sbjct: 441 DEWSFGAQMEIWW 453
+</PRE>
+
+
+<PRE>
+><a name = 288550137></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288550137&dopt=GenPept" >ref|ZP_05969405.2|</a> maltoporin [Enterobacter cancerogenus ATCC 35316]
+ <a name = 288316346></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=288316346&dopt=GenPept" >gb|EFC55284.1|</a> maltoporin [Enterobacter cancerogenus ATCC 35316]
+          Length = 453
+
+ Score = 33.8 bits (104), Expect = 8.8
+ Identities = 11/13 (84%), Positives = 11/13 (84%)
+
+Query: 160 DEWSFGVQMETWW 172
+           DEWSFG QME WW
+Sbjct: 441 DEWSFGAQMEIWW 453
+</PRE>
+
+
+<PRE>
+><a name = 172045628></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=172045628&dopt=GenPept" >sp|A8AN92|LAMB_CITK8</a> RecName: Full=Maltoporin; AltName: Full=Maltose-inducible porin;
+           Flags: Precursor
+          Length = 449
+
+ Score = 33.8 bits (104), Expect = 8.8
+ Identities = 11/13 (84%), Positives = 11/13 (84%)
+
+Query: 160 DEWSFGVQMETWW 172
+           DEWSFG QME WW
+Sbjct: 437 DEWSFGAQMEIWW 449
+</PRE>
+
+
+<PRE>
+><a name = 157148072></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157148072&dopt=GenPept" >ref|YP_001455391.1|</a> maltoporin [Citrobacter koseri ATCC BAA-895]
+ <a name = 157085277></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157085277&dopt=GenPept" >gb|ABV14955.1|</a> hypothetical protein CKO_03879 [Citrobacter koseri ATCC BAA-895]
+          Length = 456
+
+ Score = 33.8 bits (104), Expect = 8.8
+ Identities = 11/13 (84%), Positives = 11/13 (84%)
+
+Query: 160 DEWSFGVQMETWW 172
+           DEWSFG QME WW
+Sbjct: 444 DEWSFGAQMEIWW 456
+</PRE>
+
+
+<PRE>
+><a name = 146309907></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146309907&dopt=GenPept" >ref|YP_001174981.1|</a> maltoporin [Enterobacter sp. 638]
+ <a name = 166987743></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166987743&dopt=GenPept" >sp|A4W5F0|LAMB_ENT38</a> RecName: Full=Maltoporin; AltName: Full=Maltose-inducible porin;
+           Flags: Precursor
+ <a name = 145316783></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145316783&dopt=GenPept" >gb|ABP58930.1|</a> porin, LamB type [Enterobacter sp. 638]
+          Length = 444
+
+ Score = 33.8 bits (104), Expect = 8.8
+ Identities = 11/13 (84%), Positives = 11/13 (84%)
+
+Query: 160 DEWSFGVQMETWW 172
+           DEWSFG QME WW
+Sbjct: 432 DEWSFGAQMEIWW 444
+</PRE>
+
+
+<PRE>
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 861,928,619
+  Number of sequences in database:  2,557,525
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.01
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 910,730,992
+  Number of sequences in database:  2,615,592
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.02
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 965,803,591
+  Number of sequences in database:  2,808,441
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.03
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 983,507,158
+  Number of sequences in database:  2,947,407
+  
+  Database: /home/davidjm/ddbb/ncbi/nr.04
+    Posted date:  Feb 19, 2011  4:37 PM
+  Number of letters in database: 772,737,879
+  Number of sequences in database:  2,206,433
+  
+Lambda     K      H
+   0.303    0.281     1.97 
+
+Gapped
+Lambda     K      H
+   0.193   0.0350    0.120 
+
+
+Matrix: bbTMall
+Gap Penalties: Existence: 13, Extension: 2
+Number of Hits to DB: 5,196,391,656
+Number of Sequences: 13135398
+Number of extensions: 843409959
+Number of successful extensions: 156601
+Number of sequences better than 10.0: 77
+Number of HSP's better than 10.0 without gapping: 8
+Number of HSP's successfully gapped in prelim test: 69
+Number of HSP's that attempted gapping in prelim test: 155689
+Number of HSP's gapped (non-prelim): 315
+length of query: 172
+length of database: 4,494,708,239
+effective HSP length: 126
+effective length of query: 46
+effective length of database: 2,839,648,091
+effective search space: 130623812186
+effective search space used: 130623812186
+T: 11
+A: 40
+X1: 17 ( 7.4 bits)
+X2: 53 (14.8 bits)
+X3: 89 (24.8 bits)
+S1: 46 (21.9 bits)
+S2: 104 (33.8 bits)
+</PRE>
+<P><HR><BR>
+<PRE></PRE>
+</BODY>
+</HTML>
