@@ -81,8 +81,9 @@
       <tr>
         <td width="42%"><div align="center"><img src="images/logowhite.jpg" width="158" height="100" /></div></td>
         <!-- <td width="58%"><p class="style8">bbTM-ST<br /> -->
-        <td width="58%"><h1 class="h1title">bbTM-ST</h1>
-          <span class="style7">&beta;-Barrel TransMembrane Search Tool</span></p>          </td>
+        <td width="58%"><p class="h1title">bbTM-ST</p>
+          <span class="style7">&beta;-Barrel TransMembrane Search Tool</span>
+        </td>
       </tr>
     </table></td>
   </tr>
@@ -93,7 +94,8 @@
     <td >
       <div class="submenu">
         <span class="style22">
-          <a href="index.html">Main</a> &middot; 
+          <a href="index.html">Main</a> &middot; &middot; &middot; 
+          <a href="supmat.html">Supporting Material</a> &middot; &middot; &middot; 
           <a href="bbtmstool.php">BBTM-SearchTool</a>
         </span>
       </div>
@@ -187,7 +189,7 @@
       <div class="warning">
         <p>This option is currently unavailable due to hardware upgrade.</p>
         <p>Expected to be back on March 2015.</p>
-        <p>We apologize for the inconvenient</p>
+        <p>We apologize for the inconvenience.</p>
       </div>
       
     </td>

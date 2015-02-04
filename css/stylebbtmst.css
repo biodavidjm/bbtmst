@@ -27,11 +27,12 @@ body,td,th {
 .submenu {
 	font-size: 12px;
 	color: white;
-	background-color: grey;
+	background-color: #993300;
 	text-align: center;
-	min-height: 12px;
 	text-align: center;
 	vertical-align: center;
+
+	padding: 3px;
 }
 
 .descriptor {
@@ -42,13 +43,20 @@ body,td,th {
 .h1title {
 	color: #993300;
 	padding-bottom: 0px;
+	margin-top: 0px;
 	margin-bottom: 0px;
+	font-size: 50px;
 }
+
 .warning {
 	background-color: red;
-	color:yellow;
-	font-size: 12px;
-	padding:30px;
+	color:white;
+	font-size: 14px;
+	padding:10px;
+	border: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
 }
 
 a:link {
