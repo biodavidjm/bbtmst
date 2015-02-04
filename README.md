@@ -3,6 +3,18 @@ bbtmst
 
 ___bbTM Searth Tool___
 
+# Deployment on `tanto`
+
+### Clone for the first time
+`git clone https://github.com/biodavidjm/bbtmst`
+
+### Updates
+`git pull`
+
+
+# Testing locally on a Mac
+
+* MAMP for the Apache & PHP server
 
 # Blast issues
 
@@ -12,3 +24,5 @@ ___bbTM Searth Tool___
 ```
 wget ftp://ftp.ncbi.nlm.nih.gov/blast/db/nr.*.tar.gz
 ```
+
+
