@@ -1,0 +1,69 @@
+/*BBTM-ST CSS*/
+
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+.style3 {color: #FF3300}
+.style4 {font-size: 12px}
+.style5 {font-size: 12px; font-weight: bold; color: #990000; }
+.style6 {font-size: 10px}
+.style7 {
+	font-size: 14px;
+	color: #999999;
+}
+.style8 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #993300;
+}
+
+.style10 {font-size: 18px; font-weight: bold; color: #006699; }
+
+.submenu {
+	font-size: 12px;
+	color: white;
+	background-color: grey;
+	text-align: center;
+	min-height: 12px;
+	text-align: center;
+	vertical-align: center;
+}
+
+.descriptor {
+	font-size: 25px;
+	text-align: center;
+}
+
+.h1title {
+	color: #993300;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.warning {
+	background-color: red;
+	color:yellow;
+	font-size: 12px;
+	padding:30px;
+}
+
+a:link {
+	text-decoration: none;
+	color:inherit;
+}
+a:visited {
+	text-decoration: none;
+	color:inherit;
+}
+a:hover {
+	text-decoration: underline;
+	color:inherit;
+}
+a:active {
+	text-decoration: none;
+	color:inherit;
+}

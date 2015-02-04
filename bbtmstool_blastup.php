@@ -183,14 +183,45 @@
       </blockquote></td>
   </tr>
   <tr>
-    <td>
-      <div class="warning">
-        <p>This option is currently unavailable due to hardware upgrade.</p>
-        <p>Expected to be back on March 2015.</p>
-        <p>We apologize for the inconvenient</p>
-      </div>
-      
-    </td>
+  </tr>
+<?php if ($_GET["val"] == "fail") { ?> 
+  <tr>
+      <td><span class="error"><?echo $_GET["error"]; ?> - Invalid Fasta Sequence
+	</span><form action="scripts/fproc.php" method ="post">
+    	<textarea rows="8" cols="50" wrap="physical" name="fasta" /></textarea>
+    	<input type="submit" value="Submit again"></form>	</td>
+    	
+    </form> </td>
+  </tr>
+
+<?php } elseif ($_GET["val"] == "true") { ?>
+
+  <tr>
+      <td><span class="fasta">BLAST results are ready:</span>
+	<br><a href="<?echo $_GET['file']?>" target="_blank">Download Results</a>
+	<form name="ClearFile" action="bbtmstool.php">
+    	<input type="submit" value="Clear File and refresh page"></form>	</td>
+  </tr>
+
+<?php } else { ?>
+
+  <tr>
+      <td>
+	<div class="hideme" id="waiting"> 
+    <p class="styleWaiting"> Job submitted: please be patient while BLAST runs</p>
+    <p>(The <strong>NCBI non-redundant database</strong> is very large... and our computational power very limited)</p>
+  </div>
+
+	<form action="scripts/fproc.php" method ="post">
+    	<textarea rows="8" cols="50" wrap="physical" name="fasta" /></textarea>
+    	<input onclick="document.getElementById('waiting').className='showme';" type="submit" value="Submit">
+    </form> </td>
+  </tr>
+
+<?php } ?>
+
+  <tr>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
