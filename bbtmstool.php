@@ -198,7 +198,12 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td height="23"><div align="center"><strong>David Jimenez-Morales and Jie Liang </strong></div></td>
+    <td colspan="2"><div align="center">
+      <p>&nbsp;</p>
+      <p><strong>
+        <a href="http://gila.bioe.uic.edu/~davidjm/" target="_blank">David Jimenez-Morales</a> and Jie Liang
+      </strong></p>
+    </div></td>
   </tr>
   <tr>
     <td><p align="center" class="style4">Dept of Bioengineering/ Bioinformatics Program<br />
