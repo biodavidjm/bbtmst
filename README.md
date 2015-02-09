@@ -11,6 +11,9 @@ ___bbTM Searth Tool___
 ### Updates
 `git pull`
 
+# Monitoring
+
+[Uptimerobot](https://uptimerobot.com/)
 
 # Testing locally on a Mac
 
