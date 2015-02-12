@@ -69,7 +69,7 @@
       <tr>
         <td width="25%"><a href="http://www.uic.edu/uic/" target="_blank" class="style4">UIC</a></td>
         <td width="45%"><div align="center"><a href="http://gila.bioe.uic.edu/lab/" target="_blank" class="style4">Jie Liang Lab</a></div></td>
-        <td width="30%"><div align="right"><a href="http://gila.bioe.uic.edu/lab/" target="_blank"></a><a href="http://www.bioe.uic.edu/BIOE/WebHome" target="_blank" class="style4">Department of Bioengineering</a></div></td>
+        <td width="30%"><div align="right"><a href="http://www.bioe.uic.edu/BIOE/WebHome" target="_blank" class="style4">Department of Bioengineering</a></div></td>
       </tr>
     </table></td>
   </tr>
@@ -201,7 +201,7 @@
     <td colspan="2"><div align="center">
       <p>&nbsp;</p>
       <p><strong>
-        <a href="http://gila.bioe.uic.edu/~davidjm/" target="_blank">David Jimenez-Morales</a> and Jie Liang
+        <a href="http://biodavidjm.github.io/" target="_blank">David Jimenez-Morales</a> and Jie Liang
       </strong></p>
     </div></td>
   </tr>
