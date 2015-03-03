@@ -33,7 +33,7 @@ if (preg_match("/ERROR/", $output, $matches)) {
 	header ( 'Location: ../bbtmstool.php?val=' . $retval . '&error=' . $output);
 }
 
-elseif (preg_match("/Thank you/", $output, $matches)) {
+elseif (preg_match("/GOOD/", $output, $matches)) {
 	$retval = "true";
 	$cmd = "rm -f $ofile";
 	`$cmd`;

@@ -31,7 +31,7 @@ if ($size == 0)
 
 my $output = $query.".out";
 
-`blastall_old -p blastp -d /db/blast/nr -i $query -o $output -M BLOSUM50`;
+`blastall_old -p blastp -d /mnt/disk1/blastdb/nr -i $query -o $output -M BLOSUM50`;
 `sed -i 's/BLOSUM50/bbTMout/g' $output`;
 
 print "Done!\n";

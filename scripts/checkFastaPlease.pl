@@ -15,7 +15,7 @@ use strict;
 my $command = "checkFastabbtm.pl";
 if (@ARGV !=1) 
 {
-	print "ERROR:  NO INPUT FILE------ ";
+	print "ERROR:  NO INPUT FILE------\n";
 	exit;
 }
 
@@ -42,7 +42,7 @@ while ($record = get_next_record($file))
 #	print "Here we are \n".$record."\nToma ya\n";
 	if ($record !~ />/)
 	{
-		print "ERROR: Description Line missing";
+		print "ERROR: Description Line missing\n";
 		exit;
 	}
 	else
@@ -52,7 +52,7 @@ while ($record = get_next_record($file))
 	}
 }
 
-print "Thank you, Sir: The file seems to be all right!";
+print "GOOD: The file seems to be all right!\n";
 
 exit;
 
@@ -89,7 +89,7 @@ sub open_file
 	my $size = -s $fh;
 	if ($size == 0) 
 	{
-		print "ERROR: The file '$filename' is empty.";
+		print "ERROR: The file '$filename' is empty\n";
 		exit;
 	} 
 	return $fh;
@@ -119,7 +119,7 @@ sub getFastaInLine
 				my $seqname = $1;
 				if ($seqname !~ /^\S+/)
 				{
-					print "ERROR: this description line is empty!";
+					print "ERROR: this description line is empty!\n";
 					exit;
 				}
 				$key = $entry;
@@ -127,7 +127,7 @@ sub getFastaInLine
 			}
 			else
 			{
-				print "ERROR: Problem with the 'Description' line!!!!";
+				print "ERROR: Problem with the 'Description' line!!!!\n";
 				last;
 			}
 			next;
@@ -139,7 +139,7 @@ sub getFastaInLine
 		}
 		else
 		{
-			print "ERROR: I'm not getting in the first line, the > symbol";
+			print "ERROR: I'm not getting in the first line, the > symbol\n";
 			exit;
 		}
 	}
@@ -147,7 +147,7 @@ sub getFastaInLine
 	my $onlyonesequence = keys %hash;
 	if ($onlyonesequence != 1)
 	{
-		print "ERROR: we accept only one sequence per BLAST search!";
+		print "ERROR: we accept only one sequence per BLAST search!\n";
 		exit;
 	}
 	
@@ -164,7 +164,7 @@ sub getFastaInLine
 
     		if($size < 20)
     		{
-    			print "ERROR: We take only sequences larger than 20 amino acids. We apologize for this inconvenience. Have a good day";
+    			print "ERROR: We take only sequences larger than 20 amino acids. We apologize for this inconvenience\n";
     			exit;
     		}
     		
