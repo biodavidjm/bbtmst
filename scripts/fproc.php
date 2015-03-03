@@ -37,7 +37,7 @@ elseif (preg_match("/Thank you/", $output, $matches)) {
 	$retval = "true";
 	$cmd = "rm -f $ofile";
 	`$cmd`;
-	#header ('Location: ../waitingscreen.php?val=' . $retval . '&file=' . $ifile);
+	// header ('Location: ../waitingscreen.php?val=' . $retval . '&file=' . $ifile);
 	$cmd = "./runblastbbtm.pl $ifile";
 	$blastres = `$cmd`;
 	echo $output . "   Thank   " . $ifile;

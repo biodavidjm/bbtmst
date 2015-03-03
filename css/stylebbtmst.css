@@ -3,6 +3,10 @@
 body,td,th {
 	font-family: Arial, Helvetica, sans-serif;
 }
+
+div.showme {display:block}
+div.hideme {display:none}
+
 .style1 {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 24px;
