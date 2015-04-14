@@ -187,12 +187,16 @@
  
  <?php if ($_GET["val"] == "fail") { ?> 
   <tr>
-      <td><span class="error"><?echo $_GET["error"]; ?> - Invalid Fasta Sequence
-  </span><form action="scripts/fproc.php" method ="post">
-      <textarea rows="8" cols="50" wrap="physical" name="fasta" /></textarea>
-      <input type="submit" value="Submit again"></form> </td>
-      
-    </form> </td>
+      <td>
+        <span class="error"><?echo $_GET["error"]; ?> 
+          - Invalid Fasta Sequence
+        </span>
+        <form action="scripts/fproc.php" method ="post">
+          <textarea rows="8" cols="50" wrap="physical" name="fasta" /></textarea>
+          <input type="submit" value="Submit again">
+        </form> 
+      </td>
+        </form> </td>
   </tr>
 
 <?php } elseif ($_GET["val"] == "true") { ?>
@@ -201,7 +205,8 @@
       <td><span class="fasta">BLAST results are ready:</span>
   <br><a href="<?echo $_GET['file']?>" target="_blank">Download Results</a>
   <form name="ClearFile" action="bbtmstool.php">
-      <input type="submit" value="Clear File and refresh page"></form>  </td>
+      <input type="submit" value="Clear File and refresh page">
+    </form>  </td>
   </tr>
 
 <?php } else { ?>
