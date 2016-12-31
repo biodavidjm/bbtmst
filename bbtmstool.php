@@ -188,7 +188,7 @@
     <td>
       <div class="warning">
         <p>This option is currently unavailable due to hardware upgrade.</p>
-        <p>Expected to be back on March 2015.</p>
+        <p>Expected to be back on March 2017.</p>
         <p>We apologize for the inconvenience.</p>
       </div>
       
